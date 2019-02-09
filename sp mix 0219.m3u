@@ -89,36 +89,6 @@ http://platina-iptv.com:80/sermor5/sermor6/19985
 http://platina-iptv.com:80/sermor5/sermor6/19984
 #EXTINF:-1,|FR| RMC SPORT 3 HD
 http://platina-iptv.com:80/sermor5/sermor6/19983
-#EXTINF:-1,|FR| RMC SPORT 4 HD
-http://platina-iptv.com:80/sermor5/sermor6/19982
-#EXTINF:-1,ELEVEN SPORTS 1 FHD
-http://platina-iptv.com:80/sermor5/sermor6/18313
-#EXTINF:-1,ELEVEN SPORTS 2 HD
-http://platina-iptv.com:80/sermor5/sermor6/17575
-#EXTINF:-1,ELEVEN SPORTS 3 HD
-http://platina-iptv.com:80/sermor5/sermor6/17574
-#EXTINF:-1,ELEVEN SPORTS 4 HD
-http://platina-iptv.com:80/sermor5/sermor6/17573
-#EXTINF:-1,ELEVEN SPORTS 5 HD
-http://platina-iptv.com:80/sermor5/sermor6/17572
-#EXTINF:-1,ELEVEN SPORTS 6 HD
-http://platina-iptv.com:80/sermor5/sermor6/17571
-#EXTINF:-1,ELEVEN SPORTS 1 HD [720p]
-http://platina-iptv.com:80/sermor5/sermor6/25982
-#EXTINF:-1,ELEVEN SPORTS 2 HD [720p]
-http://platina-iptv.com:80/sermor5/sermor6/25980
-#EXTINF:-1,ELEVEN SPORTS 3 HD [720p]
-http://platina-iptv.com:80/sermor5/sermor6/25979
-#EXTINF:-1,ELEVEN SPORTS 4 HD [720p]
-http://platina-iptv.com:80/sermor5/sermor6/25978
-#EXTINF:-1,ELEVEN SPORTS 5 HD [720p]
-http://platina-iptv.com:80/sermor5/sermor6/25977
-#EXTINF:-1,ELEVEN SPORTS 6 HD [720p]
-http://platina-iptv.com:80/sermor5/sermor6/25976
-#EXTINF:-1,CH: Teleclub Sport 1 HD
-http://platina-iptv.com:80/sermor5/sermor6/26221
-#EXTINF:-1,CH: Teleclub Sport 2 HD
-http://platina-iptv.com:80/sermor5/sermor6/26214
 #EXTINF:-1,ES: Movistar Deportes 1 HD
 http://platina-iptv.com:80/sermor5/sermor6/17084
 #EXTINF:-1,ES: Movistar Deportes 2 HD
@@ -141,10 +111,6 @@ http://platina-iptv.com:80/sermor5/sermor6/26246
 http://platina-iptv.com:80/sermor5/sermor6/26225
 #EXTINF:-1,USA: NBC Sports HD (Premier League)
 http://platina-iptv.com:80/sermor5/sermor6/26224
-#EXTINF:-1,BR: Fox Sports HD
-http://platina-iptv.com:80/sermor5/sermor6/12062
-#EXTINF:-1,BR: Fox Sports 2 HD
-http://platina-iptv.com:80/sermor5/sermor6/12060
 #EXTINF:-1,PL| TVP Sport HD
 http://platina-iptv.com:80/sermor5/sermor6/19867
 #EXTINF:-1,PL| Polsat Sport HD
@@ -223,8 +189,6 @@ http://vip.fibertv.nl:8000/yunus/yunus/6979
 http://vip.fibertv.nl:8000/yunus/yunus/4111
 #EXTINF:-1,NL | Fox Sports 1 4K+
 http://vip.fibertv.nl:8000/yunus/yunus/312
-#EXTINF:-1,NL | Fox Sports 1 (backup)
-http://vip.fibertv.nl:8000/yunus/yunus/1098
 #EXTINF:-1,NL | Fox Sports 2
 http://vip.fibertv.nl:8000/yunus/yunus/311
 #EXTINF:-1,NL | Fox Sports 3
@@ -235,8 +199,6 @@ http://vip.fibertv.nl:8000/yunus/yunus/346
 http://vip.fibertv.nl:8000/yunus/yunus/308
 #EXTINF:-1,NL | FOX SPORTS 6
 http://vip.fibertv.nl:8000/yunus/yunus/4873
-#EXTINF:-1,NL | Sport 1 Golf
-http://vip.fibertv.nl:8000/yunus/yunus/2745
 #EXTINF:-1,NL | Sport 1 Racing
 http://vip.fibertv.nl:8000/yunus/yunus/3166
 #EXTINF:-1,NL | Sport 1 Voetbal
@@ -247,54 +209,6 @@ http://vip.fibertv.nl:8000/yunus/yunus/10552
 http://vip.fibertv.nl:8000/yunus/yunus/10553
 #EXTINF:-1,NL | Ziggo Sport Select 4K+
 http://vip.fibertv.nl:8000/yunus/yunus/519
-#EXTINF:-1,DK | TV2 Sport HD
-http://vip.fibertv.nl:8000/yunus/yunus/3025
-#EXTINF:-1,DK | TV3 Sport FHD
-http://vip.fibertv.nl:8000/yunus/yunus/7760
-#EXTINF:-1,DK | TV3 Sport HD
-http://vip.fibertv.nl:8000/yunus/yunus/3029
-#EXTINF:-1,DK | Eurosport 1
-http://vip.fibertv.nl:8000/yunus/yunus/5797
-#EXTINF:-1,DK | Eurosport 1 FHD
-http://vip.fibertv.nl:8000/yunus/yunus/7763
-#EXTINF:-1,DK | Eurosport 2 HD
-http://vip.fibertv.nl:8000/yunus/yunus/6978
-#EXTINF:-1,DK | Eurosport 2 FHD
-http://vip.fibertv.nl:8000/yunus/yunus/7765
-#EXTINF:-1,DK | C MORE SPORT HD
-http://vip.fibertv.nl:8000/yunus/yunus/9314
-#EXTINF:-1,NOR | TV2 Sport
-http://vip.fibertv.nl:8000/yunus/yunus/6206
-#EXTINF:-1,NOR | TV2 Sportskanalen HD
-http://vip.fibertv.nl:8000/yunus/yunus/6203
-#EXTINF:-1,NOR | TV2 Sport Premium
-http://vip.fibertv.nl:8000/yunus/yunus/9132
-#EXTINF:-1,NOR | Eurosport 1 HD
-http://vip.fibertv.nl:8000/yunus/yunus/7280
-#EXTINF:-1,NOR | C More Sport
-http://vip.fibertv.nl:8000/yunus/yunus/8035
-#EXTINF:-1,NOR | Eurosport Pluss 1 HD
-http://vip.fibertv.nl:8000/yunus/yunus/9633
-#EXTINF:-1,NOR | Eurosport Pluss 2 HD
-http://vip.fibertv.nl:8000/yunus/yunus/9634
-#EXTINF:-1,NOR | Eurosport Pluss 3 HD
-http://vip.fibertv.nl:8000/yunus/yunus/9635
-#EXTINF:-1,NOR | Eurosport Pluss 4 HD
-http://vip.fibertv.nl:8000/yunus/yunus/9636
-#EXTINF:-1,SWE | TV 3 Sport HD
-http://vip.fibertv.nl:8000/yunus/yunus/7334
-#EXTINF:-1,SWE | TV4 Sport HD
-http://vip.fibertv.nl:8000/yunus/yunus/3004
-#EXTINF:-1,SWE | Eurosport 1 HD
-http://vip.fibertv.nl:8000/yunus/yunus/7329
-#EXTINF:-1,SWE | Eurosport 2 HD
-http://vip.fibertv.nl:8000/yunus/yunus/7565
-#EXTINF:-1,SWE | Viasat Sport Premium
-http://vip.fibertv.nl:8000/yunus/yunus/7566
-#EXTINF:-1,FI | C More Sport 1 HD
-http://vip.fibertv.nl:8000/yunus/yunus/8010
-#EXTINF:-1,FI | C More Sport 2 HD
-http://vip.fibertv.nl:8000/yunus/yunus/8009
 #EXTINF:-1,USA | FOX SPORT 1 HD
 http://vip.fibertv.nl:8000/yunus/yunus/3730
 #EXTINF:-1,USA | FOX SPORT 2 HD
@@ -309,3 +223,194 @@ http://vip.fibertv.nl:8000/yunus/yunus/3734
 http://vip.fibertv.nl:8000/yunus/yunus/3735
 #EXTINF:-1,USA | TSN 5 HD
 http://vip.fibertv.nl:8000/yunus/yunus/3736
+
+#EXTINF:-1,**** SPORT 3 LUSTA
+http://vip.fibertv.nl:8000/yunus/yunus/99997
+
+EXTINF:-1,Uk- Sky Sports Main Event HD
+http://smart-hdip.com:6204/faiez/123/8517
+#EXTINF:-1,Uk- Sky Sports Action HD
+http://smart-hdip.com:6204/faiez/123/8515
+#EXTINF:-1,Uk- Sky Sports Golf HD
+http://smart-hdip.com:6204/faiez/123/8514
+#EXTINF:-1,Uk- Sky Sports Premier League HD
+http://smart-hdip.com:6204/faiez/123/8513
+#EXTINF:-1,UK- Sky Sports Arena HD
+http://smart-hdip.com:6204/faiez/123/9059
+#EXTINF:-1,Uk- Sky Sport Football
+http://smart-hdip.com:6204/faiez/123/8523
+#EXTINF:-1,Uk- Sky Sports MixHD
+http://smart-hdip.com:6204/faiez/123/8511
+#EXTINF:-1,Uk- Sky Sports F1 HD
+http://smart-hdip.com:6204/faiez/123/8512
+#EXTINF:-1,Uk- Sky BT Sport 1 HD
+http://smart-hdip.com:6204/faiez/123/8582
+#EXTINF:-1,Uk- Sky BT Sport 2 HD
+http://smart-hdip.com:6204/faiez/123/8580
+#EXTINF:-1,Uk- Sky BT Sport 3 HD
+http://smart-hdip.com:6204/faiez/123/10166
+#EXTINF:-1,Uk- Uk- Sky BT Sport ESPN HD
+http://smart-hdip.com:6204/faiez/123/8577
+#EXTINF:-1,Uk- Sky Eurosport 1 HD
+http://smart-hdip.com:6204/faiez/123/8560
+#EXTINF:-1,Uk- Sky Eurosport 2 HD
+http://smart-hdip.com:6204/faiez/123/8559
+#EXTINF:-1,De- DAZN  1 FHD
+http://smart-hdip.com:6204/faiez/123/12339
+#EXTINF:-1,De- DAZN  2 FHD
+http://smart-hdip.com:6204/faiez/123/12338
+#EXTINF:-1,De- Sky Sport 1 FHD
+http://smart-hdip.com:6204/faiez/123/12337
+#EXTINF:-1,De- Sky Sport 2 FHD
+http://smart-hdip.com:6204/faiez/123/12334
+#EXTINF:-1,De- Sky Sport Bundesliga 1 FHD
+http://smart-hdip.com:6204/faiez/123/12308
+#EXTINF:-1,De- Sky Sport News FHD
+http://smart-hdip.com:6204/faiez/123/12352
+#EXTINF:-1,De- Sport 1 HD.
+http://smart-hdip.com:6204/faiez/123/12360
+#EXTINF:-1,De- Sport1 US FHD
+http://smart-hdip.com:6204/faiez/123/12358
+#EXTINF:-1,De- Sportdigital HD
+http://smart-hdip.com:6204/faiez/123/12357
+#EXTINF:-1,De- EuroSport 1 FHD
+http://smart-hdip.com:6204/faiez/123/12350
+#EXTINF:-1,De- EuroSport 2 FHD
+http://smart-hdip.com:6204/faiez/123/12348
+#EXTINF:-1,Bein Sport HD11 EN 1080i
+http://smart-hdip.com:6204/faiez/123/188
+#EXTINF:-1,Bein Sport HD12 EN 1080i
+http://smart-hdip.com:6204/faiez/123/189
+#EXTINF:-1,Bein Sport HD13 EN 1080i
+http://smart-hdip.com:6204/faiez/123/1694
+#EXTINF:-1,Bein Sport HD14 Fr 1080i
+http://smart-hdip.com:6204/faiez/123/2555
+#EXTINF:-1,Bein Sport HD15 Fr 1080i
+http://smart-hdip.com:6204/faiez/123/4763
+#EXTINF:-1,Bein Sport HD16 Fr 1080i
+http://smart-hdip.com:6204/faiez/123/4762
+#EXTINF:-1,Fr: Canal    Sport HD
+http://smart-hdip.com:6204/faiez/123/8072
+#EXTINF:-1,Fr- SFR SPORT 1 FHD
+http://smart-hdip.com:6204/faiez/123/14046
+#EXTINF:-1,Fr- SFR SPORT 2 FHD
+http://smart-hdip.com:6204/faiez/123/14045
+#EXTINF:-1,Fr- SFR SPORT 3 FHD
+http://smart-hdip.com:6204/faiez/123/14044
+#EXTINF:-1,Fr- SFR SPORT 4 FHD
+http://smart-hdip.com:6204/faiez/123/14043
+#EXTINF:-1,Fr- SFR SPORT 5 FHD
+http://smart-hdip.com:6204/faiez/123/14042
+#EXTINF:-1,Fr- BEIN SPORT 1 HD
+http://smart-hdip.com:6204/faiez/123/14041
+#EXTINF:-1,Fr- BEIN SPORT 2 HD
+http://smart-hdip.com:6204/faiez/123/14040
+#EXTINF:-1,Fr- BEIN SPORT 3 HD
+http://smart-hdip.com:6204/faiez/123/14039
+#EXTINF:-1,It- Sky Sport F1 HD
+http://smart-hdip.com:6204/faiez/123/9421
+#EXTINF:-1,It- Sky Sport 1 HD
+http://smart-hdip.com:6204/faiez/123/9425
+#EXTINF:-1,It- Sky Sport 2 HD
+http://smart-hdip.com:6204/faiez/123/9424
+#EXTINF:-1,It- Sky Sport 3 HD
+http://smart-hdip.com:6204/faiez/123/9422
+#EXTINF:-1,It- Sky Sport 24 HD
+http://smart-hdip.com:6204/faiez/123/9423
+#EXTINF:-1,It- Premium Fox Sport HD
+http://smart-hdip.com:6204/faiez/123/9452
+#EXTINF:-1,It- Premium Sport 2
+http://smart-hdip.com:6204/faiez/123/9451
+#EXTINF:-1,It- Sport Italia
+http://smart-hdip.com:6204/faiez/123/9416
+#EXTINF:-1,NL- EDGE Sport HD NL
+http://smart-hdip.com:6204/faiez/123/11062
+#EXTINF:-1,NL- Ziggo Sport Voetbal
+http://smart-hdip.com:6204/faiez/123/9517
+#EXTINF:-1,NL- Ziggo Sport Select HD
+http://smart-hdip.com:6204/faiez/123/9518
+#EXTINF:-1,NL- Ziggo Sport Golf
+http://smart-hdip.com:6204/faiez/123/9520
+#EXTINF:-1,NL- Ziggo Sport Racing
+http://smart-hdip.com:6204/faiez/123/9519
+#EXTINF:-1,NL- Ziggo Sport Extra 1
+http://smart-hdip.com:6204/faiez/123/9522
+#EXTINF:-1,NL- Ziggo Sport Extra 2
+http://smart-hdip.com:6204/faiez/123/9521
+#EXTINF:-1,NL- Ziggo Sport Voetbal Backup
+http://smart-hdip.com:6204/faiez/123/11192
+#EXTINF:-1,NL- Ziggo Sport Select HD Backup
+http://smart-hdip.com:6204/faiez/123/11193
+#EXTINF:-1,NL- Fox Sport 1 HD
+http://smart-hdip.com:6204/faiez/123/9561
+#EXTINF:-1,NL- Fox Sport 2 HD
+http://smart-hdip.com:6204/faiez/123/9560
+#EXTINF:-1,NL- Fox Sport 3 HD
+http://smart-hdip.com:6204/faiez/123/9559
+#EXTINF:-1,NL- Fox Sport 4 HD
+http://smart-hdip.com:6204/faiez/123/9558
+#EXTINF:-1,NL- Fox Sport 5 HD
+http://smart-hdip.com:6204/faiez/123/9557
+#EXTINF:-1,NL- Fox Sport 6 HD
+http://smart-hdip.com:6204/faiez/123/9556
+#EXTINF:-1,Us- Bein Sports
+http://smart-hdip.com:6204/faiez/123/10646
+#EXTINF:-1,Bein Sport HD1 1080i
+http://smart-hdip.com:6204/faiez/123/127
+#EXTINF:-1,Bein Sport HD2 1080i
+http://smart-hdip.com:6204/faiez/123/128
+#EXTINF:-1,Bein Sport HD3 1080i
+http://smart-hdip.com:6204/faiez/123/129
+#EXTINF:-1,Bein Sport HD4 1080i
+http://smart-hdip.com:6204/faiez/123/130
+#EXTINF:-1,Bein Sport HD5 1080i
+http://smart-hdip.com:6204/faiez/123/132
+#EXTINF:-1,Bein Sport HD6 1080i
+http://smart-hdip.com:6204/faiez/123/133
+#EXTINF:-1,Bein Sport HD7 1080i
+http://smart-hdip.com:6204/faiez/123/134
+#EXTINF:-1,Bein Sport HD8 1080i
+http://smart-hdip.com:6204/faiez/123/135
+#EXTINF:-1,Bein Sport HD9 1080i
+http://smart-hdip.com:6204/faiez/123/186
+#EXTINF:-1,Bein Sport HD10 1080i
+http://smart-hdip.com:6204/faiez/123/187
+#EXTINF:-1,Pl- ELEVEN Sport HD
+http://smart-hdip.com:6204/faiez/123/10558
+#EXTINF:-1,Pl- CANAL SPORT
+http://smart-hdip.com:6204/faiez/123/10571
+#EXTINF:-1,Pl- CANAL SPORT 2
+http://smart-hdip.com:6204/faiez/123/10570
+#EXTINF:-1,Pl- Eurosport 1
+http://smart-hdip.com:6204/faiez/123/10555
+#EXTINF:-1,Pl- Eurosport 1 HD
+http://smart-hdip.com:6204/faiez/123/10554
+#EXTINF:-1,Pl- Eurosport 2 HD
+http://smart-hdip.com:6204/faiez/123/10553
+#EXTINF:-1,Pl- Polsat Sport
+http://smart-hdip.com:6204/faiez/123/10510
+#EXTINF:-1,Pl- Polsat Sport HD
+http://smart-hdip.com:6204/faiez/123/10508
+#EXTINF:-1,Pl- Polsat Sport Extra HD
+http://smart-hdip.com:6204/faiez/123/10509
+#EXTINF:-1,Pl- Polsat Sport News HD
+http://smart-hdip.com:6204/faiez/123/10507
+#EXTINF:-1,Pl- Extreme Sports HD
+http://smart-hdip.com:6204/faiez/123/10552
+#EXTINF:-1,Us- TSN 1 HD
+http://smart-hdip.com:6204/faiez/123/10636
+#EXTINF:-1,Us- TSN 2 HD
+http://smart-hdip.com:6204/faiez/123/10635
+#EXTINF:-1,Us- TSN 3 HD
+http://smart-hdip.com:6204/faiez/123/10634
+#EXTINF:-1,Us- TSN 4 HD
+http://smart-hdip.com:6204/faiez/123/10633
+#EXTINF:-1,Us- TSN 5 HD
+http://smart-hdip.com:6204/faiez/123/10632
+#EXTINF:-1,Us- CBS Sport HD
+http://smart-hdip.com:6204/faiez/123/10433
+#EXTINF:-1,Us- Fox sport 1 HD
+http://smart-hdip.com:6204/faiez/123/10416
+#EXTINF:-1,Us- Fox sport 2 HD
+http://smart-hdip.com:6204/faiez/123/10415
+
