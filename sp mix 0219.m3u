@@ -39,26 +39,6 @@ http://deadpool.live:8080/Dave/1PTMuLVu6w/6282
 http://deadpool.live:8080/Dave/1PTMuLVu6w/6279
 #EXTINF:-1,(VM) Sky Sports Action
 http://deadpool.live:8080/Dave/1PTMuLVu6w/6283
-#EXTINF:-1,Sky Sports News HD#
-http://deadpool.live:8080/Dave/1PTMuLVu6w/5902
-#EXTINF:-1,SKY SPORTS FOOTBALL HD#
-http://deadpool.live:8080/Dave/1PTMuLVu6w/5900
-#EXTINF:-1,Sky Sports PREMIER LEAGUE HD#
-http://deadpool.live:8080/Dave/1PTMuLVu6w/5901
-#EXTINF:-1,SKY SPORTS MAIN EVENT HD #
-http://deadpool.live:8080/Dave/1PTMuLVu6w/5908
-#EXTINF:-1,SKY SPORTS ARENA HD#
-http://deadpool.live:8080/Dave/1PTMuLVu6w/5899
-#EXTINF:-1,Sky Sports CRICKET HD#
-http://deadpool.live:8080/Dave/1PTMuLVu6w/5906
-#EXTINF:-1,SKY SPORTS ACTION HD#
-http://deadpool.live:8080/Dave/1PTMuLVu6w/5907
-#EXTINF:-1,Sky Sports Mix HD#
-http://deadpool.live:8080/Dave/1PTMuLVu6w/5903
-#EXTINF:-1,SKY SPORTS GOLF HD#
-http://deadpool.live:8080/Dave/1PTMuLVu6w/5904
-#EXTINF:-1,SKY SPORTS F1 HD#
-http://deadpool.live:8080/Dave/1PTMuLVu6w/5905
 #EXTINF:-1,BT Sport 1
 http://deadpool.live:8080/Dave/1PTMuLVu6w/6890
 #EXTINF:-1,BT Sport 2
@@ -83,8 +63,6 @@ http://deadpool.live:8080/Dave/1PTMuLVu6w/6009
 http://deadpool.live:8080/Dave/1PTMuLVu6w/5507
 #EXTINF:-1,USA:. FOX Sport 2
 http://deadpool.live:8080/Dave/1PTMuLVu6w/5506
-#EXTINF:-1,Sportsnet 360 HD
-http://deadpool.live:8080/Dave/1PTMuLVu6w/6673
 #EXTINF:-1,AR: BeIN Sports 11 HD
 http://deadpool.live:8080/Dave/1PTMuLVu6w/6198
 #EXTINF:-1,AR: BeIN Sports 12 HD
@@ -165,129 +143,155 @@ http://premium-play.org:8000/saidclt201/XmQat4ju/5563
 http://premium-play.org:8000/saidclt201/XmQat4ju/5564
 #EXTINF:-1,|FR| RMC SPORT 3
 http://premium-play.org:8000/saidclt201/XmQat4ju/17720
+
 #EXTINF:-1,**** SPORT 2 LISTA
 http://vip.fibertv.nl:8000/yunus/yunus/999981
-
-#EXTINF:-1,DAZN 1 FHD
-http://platina-iptv.com:80/sermor5/sermor6/24940
-#EXTINF:-1,DAZN 2 FHD
-http://platina-iptv.com:80/sermor5/sermor6/24941
-#EXTINF:-1,DE | Sky Bundesliga 1 HD
-http://platina-iptv.com:80/sermor5/sermor6/21273
-#EXTINF:-1,DE | Sport1 HD
-http://platina-iptv.com:80/sermor5/sermor6/21284
-#EXTINF:-1,DE|SPORT 1+ HD
-http://platina-iptv.com:80/sermor5/sermor6/21289
-#EXTINF:-1,DE | Sky Sport News HD
-http://platina-iptv.com:80/sermor5/sermor6/21281
-#EXTINF:-1,DE | Sky Sport1 US HD
-http://platina-iptv.com:80/sermor5/sermor6/21285
-#EXTINF:-1,DE | Sport Digital HD
-http://platina-iptv.com:80/sermor5/sermor6/21283
-#EXTINF:-1,DE | Sky Sport 1 HD
-http://platina-iptv.com:80/sermor5/sermor6/21280
-#EXTINF:-1,DE | Sky Sport 2 HD
-http://platina-iptv.com:80/sermor5/sermor6/21279
-#EXTINF:-1,DE | Eurosport 1 HD
-http://platina-iptv.com:80/sermor5/sermor6/21286
-#EXTINF:-1,DE | Eurosport 2Xtra HD
-http://platina-iptv.com:80/sermor5/sermor6/21287
-#EXTINF:-1,UK: BT Sport 1 HD
-http://platina-iptv.com:80/sermor5/sermor6/26128
-#EXTINF:-1,UK: BT Sport 2 HD
-http://platina-iptv.com:80/sermor5/sermor6/26127
-#EXTINF:-1,UK: BT Sport 3 HD
-http://platina-iptv.com:80/sermor5/sermor6/26126
-#EXTINF:-1,UK: BT Sport ESPN HD
-http://platina-iptv.com:80/sermor5/sermor6/26125
-#EXTINF:-1,UK: Premier Sports
-http://platina-iptv.com:80/sermor5/sermor6/26124
-#EXTINF:-1,UK: Sky Sport 1
-http://platina-iptv.com:80/sermor5/sermor6/26114
-#EXTINF:-1,UK: SKY Sport 2
-http://platina-iptv.com:80/sermor5/sermor6/26113
-#EXTINF:-1,UK: Sky Sport 3
-http://platina-iptv.com:80/sermor5/sermor6/26112
-#EXTINF:-1,UK: Sky Sport 4
-http://platina-iptv.com:80/sermor5/sermor6/26111
-#EXTINF:-1,UK: SKY SPORTS ACTION
-http://platina-iptv.com:80/sermor5/sermor6/26130
-#EXTINF:-1,UK: SKY SPORTS F1 HD
-http://platina-iptv.com:80/sermor5/sermor6/26129
-#EXTINF:-1,UK: SKY SPORTS FOOTBALL
-http://platina-iptv.com:80/sermor5/sermor6/26133
-#EXTINF:-1,UK: SKY SPORTS MAIN EVENT
-http://platina-iptv.com:80/sermor5/sermor6/26134
-#EXTINF:-1,UK: SKY SPORTS MIX
-http://platina-iptv.com:80/sermor5/sermor6/26135
-#EXTINF:-1,UK: SKY SPORTS PREMIER LEAGUE
-http://platina-iptv.com:80/sermor5/sermor6/26132
-#EXTINF:-1,|FR| BEIN SPORTS 1 HD
-http://platina-iptv.com:80/sermor5/sermor6/19981
-#EXTINF:-1,|FR| BEIN SPORTS 2 HD
-http://platina-iptv.com:80/sermor5/sermor6/19980
-#EXTINF:-1,|FR| BEIN SPORTS 3 HD
-http://platina-iptv.com:80/sermor5/sermor6/19979
-#EXTINF:-1,|FR| CANAL+ SPORT HD
-http://platina-iptv.com:80/sermor5/sermor6/20069
-#EXTINF:-1,|FR| BEIN SPORTS MAX 10 HD
-http://platina-iptv.com:80/sermor5/sermor6/19959
-#EXTINF:-1,|FR| BEIN SPORTS MAX 4 HD
-http://platina-iptv.com:80/sermor5/sermor6/19965
-#EXTINF:-1,|FR| BEIN SPORTS MAX 5 HD
-http://platina-iptv.com:80/sermor5/sermor6/19964
-#EXTINF:-1,|FR| BEIN SPORTS MAX 6 HD
-http://platina-iptv.com:80/sermor5/sermor6/19963
-#EXTINF:-1,|FR| BEIN SPORTS MAX 7 HD
-http://platina-iptv.com:80/sermor5/sermor6/19962
-#EXTINF:-1,|FR| BEIN SPORTS MAX 8 HD
-http://platina-iptv.com:80/sermor5/sermor6/19961
-#EXTINF:-1,|FR| BEIN SPORTS MAX 9 HD
-http://platina-iptv.com:80/sermor5/sermor6/19960
-#EXTINF:-1,|FR| EUROSPORT 1 HD
-http://platina-iptv.com:80/sermor5/sermor6/19977
-#EXTINF:-1,|FR| EUROSPORT 2 HD
-http://platina-iptv.com:80/sermor5/sermor6/19976
-#EXTINF:-1,|FR| RMC SPORT 1 HD
-http://platina-iptv.com:80/sermor5/sermor6/19985
-#EXTINF:-1,|FR| RMC SPORT 2 HD
-http://platina-iptv.com:80/sermor5/sermor6/19984
+#EXTINF:-1,|AR| BEINSPORTS HD11
+http://siptv-online.com:8789/18291/stevenjuz@564/24977
+#EXTINF:-1,|AR| BEINSPORTS HD12
+http://siptv-online.com:8789/18291/stevenjuz@564/24978
+#EXTINF:-1,|AR| BEINSPORTS HD13
+http://siptv-online.com:8789/18291/stevenjuz@564/21202
+#EXTINF:-1,|FR| RMC SPORT 1 FHD
+http://siptv-online.com:8789/18291/stevenjuz@564/13702
+#EXTINF:-1,|FR| RMC SPORT 2 FHD
+http://siptv-online.com:8789/18291/stevenjuz@564/13701
+#EXTINF:-1,|FR| RMC SPORT 3 FHD
+http://siptv-online.com:8789/18291/stevenjuz@564/13700
 #EXTINF:-1,|FR| RMC SPORT 3 HD
-http://platina-iptv.com:80/sermor5/sermor6/19983
-#EXTINF:-1,ES: Movistar Deportes 1 HD
-http://platina-iptv.com:80/sermor5/sermor6/17084
-#EXTINF:-1,ES: Movistar Deportes 2 HD
-http://platina-iptv.com:80/sermor5/sermor6/17083
-#EXTINF:-1,ES: Eurosport 1
-http://platina-iptv.com:80/sermor5/sermor6/17087
-#EXTINF:-1,ES: Eurosport 2
-http://platina-iptv.com:80/sermor5/sermor6/17086
-#EXTINF:-1,ES: BeIN Sports HD
-http://platina-iptv.com:80/sermor5/sermor6/17092
-#EXTINF:-1,ES: Teledeporte HD
-http://platina-iptv.com:80/sermor5/sermor6/17085
-#EXTINF:-1,USA: AFN Sports HD
-http://platina-iptv.com:80/sermor5/sermor6/26248
-#EXTINF:-1,USA: Tsn-Sport 1 HD
-http://platina-iptv.com:80/sermor5/sermor6/26247
-#EXTINF:-1,USA: Tsn-Sport 2 HD
-http://platina-iptv.com:80/sermor5/sermor6/26246
-#EXTINF:-1,USA: beIN SPORTS HD
-http://platina-iptv.com:80/sermor5/sermor6/26225
-#EXTINF:-1,USA: NBC Sports HD (Premier League)
-http://platina-iptv.com:80/sermor5/sermor6/26224
-#EXTINF:-1,PL| TVP Sport HD
-http://platina-iptv.com:80/sermor5/sermor6/19867
-#EXTINF:-1,PL| Polsat Sport HD
-http://platina-iptv.com:80/sermor5/sermor6/19870
-#EXTINF:-1,PL| Polsat Sport Extra HD
-http://platina-iptv.com:80/sermor5/sermor6/19871
+http://siptv-online.com:8789/18291/stevenjuz@564/13985
+#EXTINF:-1,|FR| RMC SPORT 4 FHD
+http://siptv-online.com:8789/18291/stevenjuz@564/13699
+#EXTINF:-1,|FR| RMC SPORT 4 HD
+http://siptv-online.com:8789/18291/stevenjuz@564/13984
+#EXTINF:-1,|FR| RMC SPORT LIVE 16 FHD
+http://siptv-online.com:8789/18291/stevenjuz@564/35340
+#EXTINF:-1,|FR| BEINSPORTS 1 FHD
+http://siptv-online.com:8789/18291/stevenjuz@564/14154
+#EXTINF:-1,|FR| BEINSPORTS 2 FHD
+http://siptv-online.com:8789/18291/stevenjuz@564/14153
+#EXTINF:-1,|FR| BEINSPORTS 3 FHD
+http://siptv-online.com:8789/18291/stevenjuz@564/14152
+#EXTINF:-1,|FR| CANAL + SPORT FHD
+http://siptv-online.com:8789/18291/stevenjuz@564/14155
+#EXTINF:-1,|ES| M DEPORTES 1 HD
+http://siptv-online.com:8789/18291/stevenjuz@564/14065
+#EXTINF:-1,|ES| M DEPORTES 2 HD
+http://siptv-online.com:8789/18291/stevenjuz@564/14062
+#EXTINF:-1,|ES| M FÚTBOL FHD
+http://siptv-online.com:8789/18291/stevenjuz@564/14081
+#EXTINF:-1,|ES| M TELEDEPORTE
+http://siptv-online.com:8789/18291/stevenjuz@564/14061
+#EXTINF:-1,|ES| M beINSPORT HD
+http://siptv-online.com:8789/18291/stevenjuz@564/14076
+#EXTINF:-1,|ES| M beIN LALIGA FHD
+http://siptv-online.com:8789/18291/stevenjuz@564/14073
+#EXTINF:-1,|PT| ELEVEN SPORTS 1 FHD
+http://siptv-online.com:8789/18291/stevenjuz@564/29988
+#EXTINF:-1,|PT| ELEVEN SPORTS 2 FHD
+http://siptv-online.com:8789/18291/stevenjuz@564/29987
+#EXTINF:-1,|PT| ELEVEN SPORTS 3 FHD
+http://siptv-online.com:8789/18291/stevenjuz@564/29986
+#EXTINF:-1,|UK| SKY SPORT NEWS HD
+http://siptv-online.com:8789/18291/stevenjuz@564/23458
+#EXTINF:-1,|UK| SKY SPORT PREMIERE LEAGUE
+http://siptv-online.com:8789/18291/stevenjuz@564/23457
+#EXTINF:-1,|UK| SKY SPORT ACTION
+http://siptv-online.com:8789/18291/stevenjuz@564/23455
+#EXTINF:-1,|UK| SKY SPORT GOLF HD
+http://siptv-online.com:8789/18291/stevenjuz@564/23454
+#EXTINF:-1,|UK| SKY SPORT FOOTBALL HD
+http://siptv-online.com:8789/18291/stevenjuz@564/23453
+#EXTINF:-1,|UK| BT SPORT HD
+http://siptv-online.com:8789/18291/stevenjuz@564/23452
+#EXTINF:-1,|UK| BT SPORT2HD
+http://siptv-online.com:8789/18291/stevenjuz@564/23451
+#EXTINF:-1,|UK| BT SPORT3FHD
+http://siptv-online.com:8789/18291/stevenjuz@564/23450
+#EXTINF:-1,|UK| BTSPORT ESPN HD
+http://siptv-online.com:8789/18291/stevenjuz@564/23449
+#EXTINF:-1,|UK| EUROSPORT UK
+http://siptv-online.com:8789/18291/stevenjuz@564/23444
+#EXTINF:-1,|UK| EUROSPORT2
+http://siptv-online.com:8789/18291/stevenjuz@564/23443
+#EXTINF:-1,|UK| PREMIER SPORTS
+http://siptv-online.com:8789/18291/stevenjuz@564/23442
+#EXTINF:-1,|IT| SKY SPORT UNO HD
+http://siptv-online.com:8789/18291/stevenjuz@564/23587
+#EXTINF:-1,|IT| SKY SPORT 2 HD
+http://siptv-online.com:8789/18291/stevenjuz@564/23586
+#EXTINF:-1,|IT| SKY SPORT FOOTBALL  HD
+http://siptv-online.com:8789/18291/stevenjuz@564/23585
+#EXTINF:-1,|IT| SKY SPORT ARENA FHD
+http://siptv-online.com:8789/18291/stevenjuz@564/23584
+#EXTINF:-1,|IT| SKY SPORT MIX HD
+http://siptv-online.com:8789/18291/stevenjuz@564/23583
+#EXTINF:-1,|IT| SKY SUPERCALCIO
+http://siptv-online.com:8789/18291/stevenjuz@564/23582
+#EXTINF:-1,|IT| SUPER TENNIS HD
+http://siptv-online.com:8789/18291/stevenjuz@564/23574
+#EXTINF:-1,|NL| FOX SPORT1 EREDIVISIE HD
+http://siptv-online.com:8789/18291/stevenjuz@564/23841
+#EXTINF:-1,|NL| FOX SPORT 2HD
+http://siptv-online.com:8789/18291/stevenjuz@564/23840
+#EXTINF:-1,|NL| FOX SPORT 3 EREDIVISIE HD
+http://siptv-online.com:8789/18291/stevenjuz@564/23839
+#EXTINF:-1,|NL| FOX  SPORT 4HD
+http://siptv-online.com:8789/18291/stevenjuz@564/23838
+#EXTINF:-1,|NL| FOX SPORT 5 EREDIVISIE HD
+http://siptv-online.com:8789/18291/stevenjuz@564/23837
+#EXTINF:-1,|NL| FOX SPORTS 6HD
+http://siptv-online.com:8789/18291/stevenjuz@564/23836
+#EXTINF:-1,|NL| ELEVEN SPORT 1 HD
+http://siptv-online.com:8789/18291/stevenjuz@564/33593
+#EXTINF:-1,|NL| ELEVEN SPORT 2 HD
+http://siptv-online.com:8789/18291/stevenjuz@564/33592
+#EXTINF:-1,|NL| ELEVEN SPORT 3 HD
+http://siptv-online.com:8789/18291/stevenjuz@564/33591
+#EXTINF:-1,|NL| Ziggo Sport Voetbal
+http://siptv-online.com:8789/18291/stevenjuz@564/23835
+#EXTINF:-1,|NL| Ziggo Sport Extra1
+http://siptv-online.com:8789/18291/stevenjuz@564/23834
+#EXTINF:-1,|NL| Ziggo Sport Select
+http://siptv-online.com:8789/18291/stevenjuz@564/23831
+#EXTINF:-1,|NL| Sport 1 SelectHD
+http://siptv-online.com:8789/18291/stevenjuz@564/23829
+#EXTINF:-1,|USA| beINSPORT US
+http://siptv-online.com:8789/18291/stevenjuz@564/24109
+#EXTINF:-1,|USA| FOX SPORT 1HD
+http://siptv-online.com:8789/18291/stevenjuz@564/24107
+#EXTINF:-1,|USA| FOX SPORT 2HD
+http://siptv-online.com:8789/18291/stevenjuz@564/24106
+#EXTINF:-1,|USA| ESPN
+http://siptv-online.com:8789/18291/stevenjuz@564/24105
+#EXTINF:-1,|USA| ESPN 2HD
+http://siptv-online.com:8789/18291/stevenjuz@564/24104
+#EXTINF:-1,|USA| ESPN Deportes
+http://siptv-online.com:8789/18291/stevenjuz@564/24102
+#EXTINF:-1,|USA| ESPNEWS
+http://siptv-online.com:8789/18291/stevenjuz@564/24100
+#EXTINF:-1,|USA| ESPN U HD
+http://siptv-online.com:8789/18291/stevenjuz@564/24101
+#EXTINF:-1,|USA| BTN
+http://siptv-online.com:8789/18291/stevenjuz@564/24099
+#EXTINF:-1,|USA| CBS SPORTS NET
+http://siptv-online.com:8789/18291/stevenjuz@564/24098
+#EXTINF:-1,|USA| NBC SPORTS Net HD
+http://siptv-online.com:8789/18291/stevenjuz@564/24097
+#EXTINF:-1,|USA| NBC GOLF
+http://siptv-online.com:8789/18291/stevenjuz@564/24096
+#EXTINF:-1,|USA| Tennis Channel HD
+http://siptv-online.com:8789/18291/stevenjuz@564/24095
+#EXTINF:-1,|USA| FOX DEPORTES
+http://siptv-online.com:8789/18291/stevenjuz@564/24094
+#EXTINF:-1,|USA| NBA
+http://siptv-online.com:8789/18291/stevenjuz@564/24091
 
 
 #EXTINF:-1,**** SPORT 3 LUSTA
 http://vip.fibertv.nl:8000/yunus/yunus/99997
 
-EXTINF:-1,Uk- Sky Sports Main Event HD
+#EXTINF:-1,Uk- Sky Sports Main Event HD
 http://smart-hdip.com:6204/faiez/123/8517
 #EXTINF:-1,Uk- Sky Sports Action HD
 http://smart-hdip.com:6204/faiez/123/8515
