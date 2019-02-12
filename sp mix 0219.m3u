@@ -1,5 +1,25 @@
 #EXTM3U
 
+#EXTINF:-1,**** SPORT 1 OK
+
+http://vip.fibertv.nl:8000/yunus/yunus/99998
+#EXTINF:0,BT Sports 2 HD
+http://portal.tvturks.com:80/turabi/turabi123456/173
+#EXTINF:0,BT Sports 3 HD
+http://portal.tvturks.com:80/turabi/turabi123456/173
+#EXTINF:-1,DE: |Sky Sport 1 HD [24/7]
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1578.ts
+#EXTINF:-1,DE: |Sky Sport 2 HD [24/7]
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1579.ts
+#EXTINF:-1,DE: |Sky Sport 3 HD
+http://atlasiptv.org:8000/live/Fq35WsZj6/I79Nw0i1vo/1580.ts
+#EXTINF:-1,FR: SFR Sport 1
+http://portal.tvturks.com:80/turabi/turabi123456/558
+#EXTINF:-1,FR: SFR Sport 2
+http://portal.tvturks.com:80/turabi/turabi123456/1790
+#EXTINF:-1,DEPORTES:  Bein LaLiga
+http://nexusonline.club:25461/vladimir/123456/15272
+
 #EXTINF:-1,**** SPORT 1 LISTA
 http://vip.fibertv.nl:8000/yunus/yunus/99998
 #EXTINF:0,BT Sports 1 HD =
