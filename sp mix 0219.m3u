@@ -2,6 +2,22 @@
 
 #EXTINF:-1,**** SPORT 1 LISTA
 http://vip.fibertv.nl:8000/yunus/yunus/99998
+#EXTINF:0,BT Sports 1 HD =
+http://deadpool.live:8080/Dave/1PTMuLVu6w/6899
+#EXTINF:0,BT Sports 2 HD =
+http://deadpool.live:8080/Dave/1PTMuLVu6w/6900
+#EXTINF:0,BT Sports 3 HD =
+http://deadpool.live:8080/Dave/1PTMuLVu6w/6901
+#EXTINF:0,BT Sports ESPN =
+http://deadpool.live:8080/Dave/1PTMuLVu6w/6902
+#EXTINF:0,BT Sports 1 HD
+http://deadpool.live:8080/Dave/1PTMuLVu6w/6894
+#EXTINF:0,BT Sports 2 HD
+http://deadpool.live:8080/Dave/1PTMuLVu6w/6895
+#EXTINF:0,BT Sports 3 FHD
+http://deadpool.live:8080/Dave/1PTMuLVu6w/6896
+#EXTINF:0,BT Sport ESPN
+http://deadpool.live:8080/Dave/1PTMuLVu6w/6893
 
 #EXTINF:-1,Sky Sport Football HD
 http://deadpool.live:8080/Dave/1PTMuLVu6w/7192
@@ -39,12 +55,7 @@ http://deadpool.live:8080/Dave/1PTMuLVu6w/6282
 http://deadpool.live:8080/Dave/1PTMuLVu6w/6279
 #EXTINF:-1,(VM) Sky Sports Action
 http://deadpool.live:8080/Dave/1PTMuLVu6w/6283
-#EXTINF:-1,BT Sport 1
-http://deadpool.live:8080/Dave/1PTMuLVu6w/6890
-#EXTINF:-1,BT Sport 2
-http://deadpool.live:8080/Dave/1PTMuLVu6w/6891
-#EXTINF:-1,BT Sport 3
-http://deadpool.live:8080/Dave/1PTMuLVu6w/6892
+
 #EXTINF:-1,UK:. EUROSPORT 1 HD
 http://deadpool.live:8080/Dave/1PTMuLVu6w/4980
 #EXTINF:-1,UK:. EUROSPORT 2 HD
@@ -146,335 +157,205 @@ http://premium-play.org:8000/saidclt201/XmQat4ju/17720
 
 #EXTINF:-1,**** SPORT 2 LISTA
 http://vip.fibertv.nl:8000/yunus/yunus/999981
-#EXTINF:-1,|AR| BEINSPORTS HD11
-http://siptv-online.com:8789/18291/stevenjuz@564/24977
-#EXTINF:-1,|AR| BEINSPORTS HD12
-http://siptv-online.com:8789/18291/stevenjuz@564/24978
-#EXTINF:-1,|AR| BEINSPORTS HD13
-http://siptv-online.com:8789/18291/stevenjuz@564/21202
-#EXTINF:-1,|FR| RMC SPORT 1 FHD
-http://siptv-online.com:8789/18291/stevenjuz@564/13702
-#EXTINF:-1,|FR| RMC SPORT 2 FHD
-http://siptv-online.com:8789/18291/stevenjuz@564/13701
-#EXTINF:-1,|FR| RMC SPORT 3 FHD
-http://siptv-online.com:8789/18291/stevenjuz@564/13700
-#EXTINF:-1,|FR| RMC SPORT 3 HD
-http://siptv-online.com:8789/18291/stevenjuz@564/13985
-#EXTINF:-1,|FR| RMC SPORT 4 FHD
-http://siptv-online.com:8789/18291/stevenjuz@564/13699
-#EXTINF:-1,|FR| RMC SPORT 4 HD
-http://siptv-online.com:8789/18291/stevenjuz@564/13984
-#EXTINF:-1,|FR| RMC SPORT LIVE 16 FHD
-http://siptv-online.com:8789/18291/stevenjuz@564/35340
-#EXTINF:-1,|FR| BEINSPORTS 1 FHD
-http://siptv-online.com:8789/18291/stevenjuz@564/14154
-#EXTINF:-1,|FR| BEINSPORTS 2 FHD
-http://siptv-online.com:8789/18291/stevenjuz@564/14153
-#EXTINF:-1,|FR| BEINSPORTS 3 FHD
-http://siptv-online.com:8789/18291/stevenjuz@564/14152
-#EXTINF:-1,|FR| CANAL + SPORT FHD
-http://siptv-online.com:8789/18291/stevenjuz@564/14155
-#EXTINF:-1,|ES| M DEPORTES 1 HD
-http://siptv-online.com:8789/18291/stevenjuz@564/14065
-#EXTINF:-1,|ES| M DEPORTES 2 HD
-http://siptv-online.com:8789/18291/stevenjuz@564/14062
-#EXTINF:-1,|ES| M FÚTBOL FHD
-http://siptv-online.com:8789/18291/stevenjuz@564/14081
-#EXTINF:-1,|ES| M TELEDEPORTE
-http://siptv-online.com:8789/18291/stevenjuz@564/14061
-#EXTINF:-1,|ES| M beINSPORT HD
-http://siptv-online.com:8789/18291/stevenjuz@564/14076
-#EXTINF:-1,|ES| M beIN LALIGA FHD
-http://siptv-online.com:8789/18291/stevenjuz@564/14073
-#EXTINF:-1,|PT| ELEVEN SPORTS 1 FHD
-http://siptv-online.com:8789/18291/stevenjuz@564/29988
-#EXTINF:-1,|PT| ELEVEN SPORTS 2 FHD
-http://siptv-online.com:8789/18291/stevenjuz@564/29987
-#EXTINF:-1,|PT| ELEVEN SPORTS 3 FHD
-http://siptv-online.com:8789/18291/stevenjuz@564/29986
-#EXTINF:-1,|UK| SKY SPORT NEWS HD
-http://siptv-online.com:8789/18291/stevenjuz@564/23458
-#EXTINF:-1,|UK| SKY SPORT PREMIERE LEAGUE
-http://siptv-online.com:8789/18291/stevenjuz@564/23457
-#EXTINF:-1,|UK| SKY SPORT ACTION
-http://siptv-online.com:8789/18291/stevenjuz@564/23455
-#EXTINF:-1,|UK| SKY SPORT GOLF HD
-http://siptv-online.com:8789/18291/stevenjuz@564/23454
-#EXTINF:-1,|UK| SKY SPORT FOOTBALL HD
-http://siptv-online.com:8789/18291/stevenjuz@564/23453
-#EXTINF:-1,|UK| BT SPORT HD
-http://siptv-online.com:8789/18291/stevenjuz@564/23452
-#EXTINF:-1,|UK| BT SPORT2HD
-http://siptv-online.com:8789/18291/stevenjuz@564/23451
-#EXTINF:-1,|UK| BT SPORT3FHD
-http://siptv-online.com:8789/18291/stevenjuz@564/23450
-#EXTINF:-1,|UK| BTSPORT ESPN HD
-http://siptv-online.com:8789/18291/stevenjuz@564/23449
-#EXTINF:-1,|UK| EUROSPORT UK
-http://siptv-online.com:8789/18291/stevenjuz@564/23444
-#EXTINF:-1,|UK| EUROSPORT2
-http://siptv-online.com:8789/18291/stevenjuz@564/23443
-#EXTINF:-1,|UK| PREMIER SPORTS
-http://siptv-online.com:8789/18291/stevenjuz@564/23442
-#EXTINF:-1,|IT| SKY SPORT UNO HD
-http://siptv-online.com:8789/18291/stevenjuz@564/23587
-#EXTINF:-1,|IT| SKY SPORT 2 HD
-http://siptv-online.com:8789/18291/stevenjuz@564/23586
-#EXTINF:-1,|IT| SKY SPORT FOOTBALL  HD
-http://siptv-online.com:8789/18291/stevenjuz@564/23585
-#EXTINF:-1,|IT| SKY SPORT ARENA FHD
-http://siptv-online.com:8789/18291/stevenjuz@564/23584
-#EXTINF:-1,|IT| SKY SPORT MIX HD
-http://siptv-online.com:8789/18291/stevenjuz@564/23583
-#EXTINF:-1,|IT| SKY SUPERCALCIO
-http://siptv-online.com:8789/18291/stevenjuz@564/23582
-#EXTINF:-1,|IT| SUPER TENNIS HD
-http://siptv-online.com:8789/18291/stevenjuz@564/23574
-#EXTINF:-1,|NL| FOX SPORT1 EREDIVISIE HD
-http://siptv-online.com:8789/18291/stevenjuz@564/23841
-#EXTINF:-1,|NL| FOX SPORT 2HD
-http://siptv-online.com:8789/18291/stevenjuz@564/23840
-#EXTINF:-1,|NL| FOX SPORT 3 EREDIVISIE HD
-http://siptv-online.com:8789/18291/stevenjuz@564/23839
-#EXTINF:-1,|NL| FOX  SPORT 4HD
-http://siptv-online.com:8789/18291/stevenjuz@564/23838
-#EXTINF:-1,|NL| FOX SPORT 5 EREDIVISIE HD
-http://siptv-online.com:8789/18291/stevenjuz@564/23837
-#EXTINF:-1,|NL| FOX SPORTS 6HD
-http://siptv-online.com:8789/18291/stevenjuz@564/23836
-#EXTINF:-1,|NL| ELEVEN SPORT 1 HD
-http://siptv-online.com:8789/18291/stevenjuz@564/33593
-#EXTINF:-1,|NL| ELEVEN SPORT 2 HD
-http://siptv-online.com:8789/18291/stevenjuz@564/33592
-#EXTINF:-1,|NL| ELEVEN SPORT 3 HD
-http://siptv-online.com:8789/18291/stevenjuz@564/33591
-#EXTINF:-1,|NL| Ziggo Sport Voetbal
-http://siptv-online.com:8789/18291/stevenjuz@564/23835
-#EXTINF:-1,|NL| Ziggo Sport Extra1
-http://siptv-online.com:8789/18291/stevenjuz@564/23834
-#EXTINF:-1,|NL| Ziggo Sport Select
-http://siptv-online.com:8789/18291/stevenjuz@564/23831
-#EXTINF:-1,|NL| Sport 1 SelectHD
-http://siptv-online.com:8789/18291/stevenjuz@564/23829
-#EXTINF:-1,|USA| beINSPORT US
-http://siptv-online.com:8789/18291/stevenjuz@564/24109
-#EXTINF:-1,|USA| FOX SPORT 1HD
-http://siptv-online.com:8789/18291/stevenjuz@564/24107
-#EXTINF:-1,|USA| FOX SPORT 2HD
-http://siptv-online.com:8789/18291/stevenjuz@564/24106
-#EXTINF:-1,|USA| ESPN
-http://siptv-online.com:8789/18291/stevenjuz@564/24105
-#EXTINF:-1,|USA| ESPN 2HD
-http://siptv-online.com:8789/18291/stevenjuz@564/24104
-#EXTINF:-1,|USA| ESPN Deportes
-http://siptv-online.com:8789/18291/stevenjuz@564/24102
-#EXTINF:-1,|USA| ESPNEWS
-http://siptv-online.com:8789/18291/stevenjuz@564/24100
-#EXTINF:-1,|USA| ESPN U HD
-http://siptv-online.com:8789/18291/stevenjuz@564/24101
-#EXTINF:-1,|USA| BTN
-http://siptv-online.com:8789/18291/stevenjuz@564/24099
-#EXTINF:-1,|USA| CBS SPORTS NET
-http://siptv-online.com:8789/18291/stevenjuz@564/24098
-#EXTINF:-1,|USA| NBC SPORTS Net HD
-http://siptv-online.com:8789/18291/stevenjuz@564/24097
-#EXTINF:-1,|USA| NBC GOLF
-http://siptv-online.com:8789/18291/stevenjuz@564/24096
-#EXTINF:-1,|USA| Tennis Channel HD
-http://siptv-online.com:8789/18291/stevenjuz@564/24095
-#EXTINF:-1,|USA| FOX DEPORTES
-http://siptv-online.com:8789/18291/stevenjuz@564/24094
-#EXTINF:-1,|USA| NBA
-http://siptv-online.com:8789/18291/stevenjuz@564/24091
-
+#EXTINF:-1,mousssa_|AR| BEIN SPORTS 11 UK
+http://premium-play.org:8000/saidclt201/XmQat4ju/9817
+#EXTINF:-1,mousssa_|AR| BEIN SPORTS 12 UK
+http://premium-play.org:8000/saidclt201/XmQat4ju/9818
+#EXTINF:-1,mousssa_|AR| BEIN SPORTS 13 UK
+http://premium-play.org:8000/saidclt201/XmQat4ju/9819
+#EXTINF:-1,mousssa_|FR| RMC SPORT 1 HD
+http://premium-play.org:8000/saidclt201/XmQat4ju/7971
+#EXTINF:-1,mousssa_|FR| RMC SPORT 2 HD
+http://premium-play.org:8000/saidclt201/XmQat4ju/5563
+#EXTINF:-1,mousssa_|FR| RMC SPORT 3 HD
+http://premium-play.org:8000/saidclt201/XmQat4ju/5564
+#EXTINF:-1,mousssa_|FR| RMC SPORT 3
+http://premium-play.org:8000/saidclt201/XmQat4ju/17720
+#EXTINF:-1,mousssa_|FR| RMC SPORT 4 HD
+http://premium-play.org:8000/saidclt201/XmQat4ju/9724
+#EXTINF:-1,mousssa_|FR| RMC SPORT 4
+http://premium-play.org:8000/saidclt201/XmQat4ju/9825
+#EXTINF:-1,mousssa_|FR| BEIN SPORTS 1 HD
+http://premium-play.org:8000/saidclt201/XmQat4ju/8952
+#EXTINF:-1,mousssa_|FR| BEIN SPORTS 2 HD
+http://premium-play.org:8000/saidclt201/XmQat4ju/8951
+#EXTINF:-1,mousssa_|FR| BEIN SPORTS 3 HD
+http://premium-play.org:8000/saidclt201/XmQat4ju/8950
+#EXTINF:-1,mousssa_|FR| INFOSPORT+ HD
+http://premium-play.org:8000/saidclt201/XmQat4ju/8942
+#EXTINF:-1,mousssa_|AR| BEIN SPORTS 1
+http://premium-play.org:8000/saidclt201/XmQat4ju/2826
+#EXTINF:-1,mousssa_|AR| BEIN SPORTS 2
+http://premium-play.org:8000/saidclt201/XmQat4ju/2827
+#EXTINF:-1,mousssa_|AR| BEIN SPORTS 3
+http://premium-play.org:8000/saidclt201/XmQat4ju/2828
+#EXTINF:-1,mousssa_|AR| BEIN SPORTS 4
+http://premium-play.org:8000/saidclt201/XmQat4ju/2829
+#EXTINF:-1,mousssa_|AR| BEIN SPORTS 5
+http://premium-play.org:8000/saidclt201/XmQat4ju/2830
+#EXTINF:-1,mousssa_|AR| BEIN SPORTS 6
+http://premium-play.org:8000/saidclt201/XmQat4ju/2831
+#EXTINF:-1,mousssa_|AR| BEIN SPORTS 7
+http://premium-play.org:8000/saidclt201/XmQat4ju/2832
+#EXTINF:-1,mousssa_|AR| BEIN SPORTS 8
+http://premium-play.org:8000/saidclt201/XmQat4ju/2833
+#EXTINF:-1,mousssa_|AR| BEIN SPORTS 9
+http://premium-play.org:8000/saidclt201/XmQat4ju/2834
+#EXTINF:-1,mousssa_|AR| BEIN SPORTS 10
+http://premium-play.org:8000/saidclt201/XmQat4ju/2835
 
 #EXTINF:-1,**** SPORT 3 LUSTA
 http://vip.fibertv.nl:8000/yunus/yunus/99997
 
-#EXTINF:-1,Uk- Sky Sports Main Event HD
-http://smart-hdip.com:6204/faiez/123/8517
-#EXTINF:-1,Uk- Sky Sports Action HD
-http://smart-hdip.com:6204/faiez/123/8515
-#EXTINF:-1,Uk- Sky Sports Golf HD
-http://smart-hdip.com:6204/faiez/123/8514
-#EXTINF:-1,Uk- Sky Sports Premier League HD
-http://smart-hdip.com:6204/faiez/123/8513
-#EXTINF:-1,UK- Sky Sports Arena HD
-http://smart-hdip.com:6204/faiez/123/9059
-#EXTINF:-1,Uk- Sky Sport Football
-http://smart-hdip.com:6204/faiez/123/8523
-#EXTINF:-1,Uk- Sky Sports MixHD
-http://smart-hdip.com:6204/faiez/123/8511
-#EXTINF:-1,Uk- Sky Sports F1 HD
-http://smart-hdip.com:6204/faiez/123/8512
-#EXTINF:-1,Uk- Sky BT Sport 1 HD
-http://smart-hdip.com:6204/faiez/123/8582
-#EXTINF:-1,Uk- Sky BT Sport 2 HD
-http://smart-hdip.com:6204/faiez/123/8580
-#EXTINF:-1,Uk- Sky BT Sport 3 HD
-http://smart-hdip.com:6204/faiez/123/10166
-#EXTINF:-1,Uk- Uk- Sky BT Sport ESPN HD
-http://smart-hdip.com:6204/faiez/123/8577
-#EXTINF:-1,Uk- Sky Eurosport 1 HD
-http://smart-hdip.com:6204/faiez/123/8560
-#EXTINF:-1,Uk- Sky Eurosport 2 HD
-http://smart-hdip.com:6204/faiez/123/8559
-#EXTINF:-1,De- DAZN  1 FHD
-http://smart-hdip.com:6204/faiez/123/12339
-#EXTINF:-1,De- DAZN  2 FHD
-http://smart-hdip.com:6204/faiez/123/12338
-#EXTINF:-1,De- Sky Sport 1 FHD
-http://smart-hdip.com:6204/faiez/123/12337
-#EXTINF:-1,De- Sky Sport 2 FHD
-http://smart-hdip.com:6204/faiez/123/12334
-#EXTINF:-1,De- Sky Sport Bundesliga 1 FHD
-http://smart-hdip.com:6204/faiez/123/12308
-#EXTINF:-1,De- Sky Sport News FHD
-http://smart-hdip.com:6204/faiez/123/12352
-#EXTINF:-1,De- Sport 1 HD.
-http://smart-hdip.com:6204/faiez/123/12360
-#EXTINF:-1,De- Sport1 US FHD
-http://smart-hdip.com:6204/faiez/123/12358
-#EXTINF:-1,De- Sportdigital HD
-http://smart-hdip.com:6204/faiez/123/12357
-#EXTINF:-1,De- EuroSport 1 FHD
-http://smart-hdip.com:6204/faiez/123/12350
-#EXTINF:-1,De- EuroSport 2 FHD
-http://smart-hdip.com:6204/faiez/123/12348
-#EXTINF:-1,Bein Sport HD11 EN 1080i
-http://smart-hdip.com:6204/faiez/123/188
-#EXTINF:-1,Bein Sport HD12 EN 1080i
-http://smart-hdip.com:6204/faiez/123/189
-#EXTINF:-1,Bein Sport HD13 EN 1080i
-http://smart-hdip.com:6204/faiez/123/1694
-#EXTINF:-1,Bein Sport HD14 Fr 1080i
-http://smart-hdip.com:6204/faiez/123/2555
-#EXTINF:-1,Bein Sport HD15 Fr 1080i
-http://smart-hdip.com:6204/faiez/123/4763
-#EXTINF:-1,Bein Sport HD16 Fr 1080i
-http://smart-hdip.com:6204/faiez/123/4762
-#EXTINF:-1,Fr: Canal    Sport HD
-http://smart-hdip.com:6204/faiez/123/8072
-#EXTINF:-1,Fr- SFR SPORT 1 FHD
-http://smart-hdip.com:6204/faiez/123/14046
-#EXTINF:-1,Fr- SFR SPORT 2 FHD
-http://smart-hdip.com:6204/faiez/123/14045
-#EXTINF:-1,Fr- SFR SPORT 3 FHD
-http://smart-hdip.com:6204/faiez/123/14044
-#EXTINF:-1,Fr- SFR SPORT 4 FHD
-http://smart-hdip.com:6204/faiez/123/14043
-#EXTINF:-1,Fr- SFR SPORT 5 FHD
-http://smart-hdip.com:6204/faiez/123/14042
-#EXTINF:-1,Fr- BEIN SPORT 1 HD
-http://smart-hdip.com:6204/faiez/123/14041
-#EXTINF:-1,Fr- BEIN SPORT 2 HD
-http://smart-hdip.com:6204/faiez/123/14040
-#EXTINF:-1,Fr- BEIN SPORT 3 HD
-http://smart-hdip.com:6204/faiez/123/14039
-#EXTINF:-1,It- Sky Sport F1 HD
-http://smart-hdip.com:6204/faiez/123/9421
-#EXTINF:-1,It- Sky Sport 1 HD
-http://smart-hdip.com:6204/faiez/123/9425
-#EXTINF:-1,It- Sky Sport 2 HD
-http://smart-hdip.com:6204/faiez/123/9424
-#EXTINF:-1,It- Sky Sport 3 HD
-http://smart-hdip.com:6204/faiez/123/9422
-#EXTINF:-1,It- Sky Sport 24 HD
-http://smart-hdip.com:6204/faiez/123/9423
-#EXTINF:-1,It- Premium Fox Sport HD
-http://smart-hdip.com:6204/faiez/123/9452
-#EXTINF:-1,It- Premium Sport 2
-http://smart-hdip.com:6204/faiez/123/9451
-#EXTINF:-1,It- Sport Italia
-http://smart-hdip.com:6204/faiez/123/9416
-#EXTINF:-1,NL- EDGE Sport HD NL
-http://smart-hdip.com:6204/faiez/123/11062
-#EXTINF:-1,NL- Ziggo Sport Voetbal
-http://smart-hdip.com:6204/faiez/123/9517
-#EXTINF:-1,NL- Ziggo Sport Select HD
-http://smart-hdip.com:6204/faiez/123/9518
-#EXTINF:-1,NL- Ziggo Sport Golf
-http://smart-hdip.com:6204/faiez/123/9520
-#EXTINF:-1,NL- Ziggo Sport Racing
-http://smart-hdip.com:6204/faiez/123/9519
-#EXTINF:-1,NL- Ziggo Sport Extra 1
-http://smart-hdip.com:6204/faiez/123/9522
-#EXTINF:-1,NL- Ziggo Sport Extra 2
-http://smart-hdip.com:6204/faiez/123/9521
-#EXTINF:-1,NL- Ziggo Sport Voetbal Backup
-http://smart-hdip.com:6204/faiez/123/11192
-#EXTINF:-1,NL- Ziggo Sport Select HD Backup
-http://smart-hdip.com:6204/faiez/123/11193
-#EXTINF:-1,NL- Fox Sport 1 HD
-http://smart-hdip.com:6204/faiez/123/9561
-#EXTINF:-1,NL- Fox Sport 2 HD
-http://smart-hdip.com:6204/faiez/123/9560
-#EXTINF:-1,NL- Fox Sport 3 HD
-http://smart-hdip.com:6204/faiez/123/9559
-#EXTINF:-1,NL- Fox Sport 4 HD
-http://smart-hdip.com:6204/faiez/123/9558
-#EXTINF:-1,NL- Fox Sport 5 HD
-http://smart-hdip.com:6204/faiez/123/9557
-#EXTINF:-1,NL- Fox Sport 6 HD
-http://smart-hdip.com:6204/faiez/123/9556
-#EXTINF:-1,Us- Bein Sports
-http://smart-hdip.com:6204/faiez/123/10646
-#EXTINF:-1,Bein Sport HD1 1080i
-http://smart-hdip.com:6204/faiez/123/127
-#EXTINF:-1,Bein Sport HD2 1080i
-http://smart-hdip.com:6204/faiez/123/128
-#EXTINF:-1,Bein Sport HD3 1080i
-http://smart-hdip.com:6204/faiez/123/129
-#EXTINF:-1,Bein Sport HD4 1080i
-http://smart-hdip.com:6204/faiez/123/130
-#EXTINF:-1,Bein Sport HD5 1080i
-http://smart-hdip.com:6204/faiez/123/132
-#EXTINF:-1,Bein Sport HD6 1080i
-http://smart-hdip.com:6204/faiez/123/133
-#EXTINF:-1,Bein Sport HD7 1080i
-http://smart-hdip.com:6204/faiez/123/134
-#EXTINF:-1,Bein Sport HD8 1080i
-http://smart-hdip.com:6204/faiez/123/135
-#EXTINF:-1,Bein Sport HD9 1080i
-http://smart-hdip.com:6204/faiez/123/186
-#EXTINF:-1,Bein Sport HD10 1080i
-http://smart-hdip.com:6204/faiez/123/187
-#EXTINF:-1,Pl- ELEVEN Sport HD
-http://smart-hdip.com:6204/faiez/123/10558
-#EXTINF:-1,Pl- CANAL SPORT
-http://smart-hdip.com:6204/faiez/123/10571
-#EXTINF:-1,Pl- CANAL SPORT 2
-http://smart-hdip.com:6204/faiez/123/10570
-#EXTINF:-1,Pl- Eurosport 1
-http://smart-hdip.com:6204/faiez/123/10555
-#EXTINF:-1,Pl- Eurosport 1 HD
-http://smart-hdip.com:6204/faiez/123/10554
-#EXTINF:-1,Pl- Eurosport 2 HD
-http://smart-hdip.com:6204/faiez/123/10553
-#EXTINF:-1,Pl- Polsat Sport
-http://smart-hdip.com:6204/faiez/123/10510
-#EXTINF:-1,Pl- Polsat Sport HD
-http://smart-hdip.com:6204/faiez/123/10508
-#EXTINF:-1,Pl- Polsat Sport Extra HD
-http://smart-hdip.com:6204/faiez/123/10509
-#EXTINF:-1,Pl- Polsat Sport News HD
-http://smart-hdip.com:6204/faiez/123/10507
-#EXTINF:-1,Pl- Extreme Sports HD
-http://smart-hdip.com:6204/faiez/123/10552
-#EXTINF:-1,Us- TSN 1 HD
-http://smart-hdip.com:6204/faiez/123/10636
-#EXTINF:-1,Us- TSN 2 HD
-http://smart-hdip.com:6204/faiez/123/10635
-#EXTINF:-1,Us- TSN 3 HD
-http://smart-hdip.com:6204/faiez/123/10634
-#EXTINF:-1,Us- TSN 4 HD
-http://smart-hdip.com:6204/faiez/123/10633
-#EXTINF:-1,Us- TSN 5 HD
-http://smart-hdip.com:6204/faiez/123/10632
-#EXTINF:-1,Us- CBS Sport HD
-http://smart-hdip.com:6204/faiez/123/10433
-#EXTINF:-1,Us- Fox sport 1 HD
-http://smart-hdip.com:6204/faiez/123/10416
-#EXTINF:-1,Us- Fox sport 2 HD
-http://smart-hdip.com:6204/faiez/123/10415
 
+#EXTINF:0,UK: BT Sport 1 HD
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/8
+#EXTINF:0,VIP UK: BT Sport 2 HD 1080p
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/6630
+#EXTINF:0,VIP UK: BT Sport 3 HD 1080p
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/6631
+#EXTINF:0,UK: BT Sport 2 HD
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/6
+#EXTINF:0,UK: BT Sports 2 SD
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/2464
+#EXTINF:0,UK: BT Sport 3 SD
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/4954
+#EXTINF:0,UK: BT Sport 3 HD
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/5547
+#EXTINF:0,UK | BT Sport Europe HD
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/3
+#EXTINF:0,UK: BT Sport ESPN
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/4
+#EXTINF:0,UK: SKY SPORTS PREMIER LEAGUE
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/2459
+#EXTINF:0,UK: SKY SPORTS ACTION
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/2461
+#EXTINF:0,UK: SKY SPORTS MAIN EVENT
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/2463
+#EXTINF:0,UK: PREMIERE SPORT HD
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/1028
+#EXTINF:0,UK: Eurosport 2
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/4473
+#EXTINF:0,UK: Eurosport 1
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/4472
+#EXTINF:0,UK: Sky Sports Mix
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/5496
+#EXTINF:0,UK: Premier Sports HD
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/1427
+#EXTINF:0,VIP UK: Sky Sports 1 HD 1080p
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/6623
+#EXTINF:0,VIP UK: Sky Sports 2 HD 1080p
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/6624
+#EXTINF:0,VIP UK: Sky Sports 4 HD 1080p
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/6626
+#EXTINF:0,VIP UK: Sky Sports 5 HD 1080p
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/6627
+#EXTINF:0,VIP UK: Sky Sports F1 HD 1080p
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/6628
+#EXTINF:0,VIP UK: Sky Sports News HD 1080p
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/6629
+#EXTINF:0,VIP UK: Premier Sports FHD 1080
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/6971
+#EXTINF:0,UK: Sky Sport F1 HD
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/443
+#EXTINF:0,UK: Sky Sport 1 SD
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/1922
+#EXTINF:0,UK: SKY SPORTS MAIN EVENT HD
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/26
+#EXTINF:0,UK: Sky Sport News
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/16
+#EXTINF:0,UK: SKY SPORTS PREMIER LEAGUE HD
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/18
+
+#EXTINF:0,DE: Sky Sport 2 HD
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/410
+#EXTINF:0,DE: Sky Sport 1 HD
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/409
+#EXTINF:0,VIP DE: Sky Sport 1 HD (1080P)
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/6746
+#EXTINF:0,VIP DE: Sky Sport 2 HD (1080P)
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/6747
+#EXTINF:0,DE: Sky Sport Bundesliga 1 HD (1080P)
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/6794
+#EXTINF:0,DE: Sport 1 US
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/6982
+#EXTINF:0,DE: Sport 1+ HD
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/6980
+#EXTINF:0,DE: Sport Digital HD
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/6981
+#EXTINF:0,DE: SPORT1 HD ( 1080P )
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/7223
+#EXTINF:0,DE: Sport 1  HD
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/511
+#EXTINF:0,DE : Eurosport 1 HD
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/521
+#EXTINF:0,NL: Ziggo Sport Select FHD 1080
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/5452
+#EXTINF:0,NL: Sport 1 Voetbal
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/150
+#EXTINF:0,NL: Fox Sports 6
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/152
+#EXTINF:0,NL: Fox Sports 5
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/153
+#EXTINF:0,NL: Fox Sports 4
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/154
+#EXTINF:0,NL: Fox Sports 3
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/155
+#EXTINF:0,NL: Fox Sports 2
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/156
+#EXTINF:0,NL: Fox Sports 1
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/157
+#EXTINF:0,NL: FOX Sports 1 FHD 1080
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/5644
+#EXTINF:0,NL: FOX Sports 2 HD
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/5645
+#EXTINF:0,NL: Fox Sports 4 HD ( 1080P )
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/7475
+#EXTINF:0,NL: Fox Sports 5 HD ( 1080P )
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/7476
+#EXTINF:0,NL: FOX Sports 3 HD ( 1080P )
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/7474
+#EXTINF:0,NL : Ziggo Sport.Voetbal
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/3891
+#EXTINF:0,NL: Ziggo Sport Select HD
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/3892
+#EXTINF:0,NL: Ziggo Sport Racing
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/3890
+#EXTINF:0,NL : Ziggo Sport Extra2
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/3894
+#EXTINF:0,NL: Ziggo Sport Extra1
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/3895
+#EXTINF:0,SLO: SPORT TV 1 HD
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/6842
+#EXTINF:0,SLO: SPORT TV 2 HD
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/6843
+#EXTINF:0,SLO: SPORT TV 3 HD
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/6844
+#EXTINF:0,SLO: SPORTKLUB 1 HD
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/6845
+#EXTINF:0,SLO: SPORTKLUB 2 HD
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/6846
+#EXTINF:0,SLO: SPORTKLUB 3 HD
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/6847
+#EXTINF:0,SLO: SPORTKLUB 4
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/6848
+#EXTINF:0,IT: FOX Sport HD
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/2321
+#EXTINF:0,IT: Sky Sport3 HD
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/235
+#EXTINF:0,IT: Sky Sport2 HD
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/236
+#EXTINF:0,IT: Sky Sport1 HD
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/237
+#EXTINF:0,US: Bein Sports USA HD
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/1104
+#EXTINF:0,US: FIGHT SPORT
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/2277
+#EXTINF:0,US: Sportsnet 360 HD
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/97
+#EXTINF:0,US: Fox SPORTS 506 HD
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/4009
+#EXTINF:0,US: Fox Sports 2 HD
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/13
+#EXTINF:0,US: Fox Sports 1 HD
+http://premium-iptv.link:6969/master.280/4zyxoHhAVw/14
