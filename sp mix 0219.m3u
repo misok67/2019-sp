@@ -1,5 +1,74 @@
 #EXTM3U
 
+
+
+#EXTINF:0,SPORT KLUB 1 HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/26107
+#EXTINF:0,SPORT KLUB 1 SLO
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/26106
+#EXTINF:0,SPORT KLUB 1 SR
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/26105
+#EXTINF:0,SPORT KLUB 2 HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/26104
+#EXTINF:0,SPORT KLUB 2 SR
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/26103
+#EXTINF:0,SPORT KLUB 3 HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/26102
+#EXTINF:0,SPORT KLUB 3 SR
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/26101
+#EXTINF:0,SPORT KLUB 4
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/26100
+#EXTINF:0,SPORT KLUB 5
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/26099
+#EXTINF:0,SPORT KLUB 6
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/26098
+#EXTINF:0,SPORT KLUB HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/26097
+#EXTINF:0,SPORT KLUB  3 HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/26289
+#EXTINF:0,SPORT KLUB 1 HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/26291
+#EXTINF:0,SPORT KLUB 2 HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/26290
+#EXTINF:0,ARENA SPORT 1 HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/26125
+#EXTINF:0,ARENA SPORT 1 SR HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/26123
+#EXTINF:0,ARENA SPORT 1 SR
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/26124
+#EXTINF:0,ARENA SPORT 2 HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/26122
+#EXTINF:0,ARENA SPORT 2 SR HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/26120
+#EXTINF:0,ARENA SPORT 2 SR
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/26121
+#EXTINF:0,ARENA SPORT 3 HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/26119
+#EXTINF:0,ARENA SPORT 3 SR HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/26117
+#EXTINF:0,ARENA SPORT 3 SR
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/26118
+#EXTINF:0,ARENA SPORT 4 HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/26116
+#EXTINF:0,ARENA SPORT 4 SR HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/26114
+#EXTINF:0,ARENA SPORT 4 SR
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/26115
+#EXTINF:0,ARENA SPORT 5 HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/26113
+#EXTINF:0,ARENA 1 HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/26296
+#EXTINF:0,ARENA 2 HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/26295
+#EXTINF:0,ARENA 3 HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/26294
+#EXTINF:0,ARENA 4 HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/26293
+#EXTINF:0,ARENA 5 HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/26292
+#EXTINF:0,HNTV SD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/26301
+
 #EXTINF:-1,**** SPORT 1 OK
 http://vip.fibertv.nl:8000/yunus/yunus/99998
 
@@ -189,364 +258,984 @@ http://live1.livetvindia.co.in:8000/live/ios2/freeapp2/90.ts
 #EXTINF:0,Canal + Sport
 #EXTVLCOPT:http-user-agent=sportstv
 http://live1.livetvindia.co.in:8000/live/ios2/freeapp2/91.ts
-#EXTINF:0,ESPN 2 USA
-#EXTVLCOPT:http-user-agent=sportstv
-http://live1.livetvindia.co.in:8000/live/ios2/freeapp2/49.ts
-#EXTINF:0,ESPN USA
-#EXTVLCOPT:http-user-agent=sportstv
-http://live1.livetvindia.co.in:8000/live/ios2/freeapp2/48.ts
-#EXTINF:0,Fox Sports 1 USA
-#EXTVLCOPT:http-user-agent=sportstv
-http://live1.livetvindia.co.in:8000/live/ios2/freeapp2/85.ts
-#EXTINF:0,Fox Sports 1 USA Backup
-#EXTVLCOPT:http-user-agent=sportstv
-http://live1.livetvindia.co.in:8000/live/ios2/freeapp2/1515.ts
-#EXTINF:0,Fox Sports 2 USA
-#EXTVLCOPT:http-user-agent=sportstv
-http://live1.livetvindia.co.in:8000/live/ios2/freeapp2/86.ts
-#EXTINF:0,Fox Sports 2 USA Backup
-#EXTVLCOPT:http-user-agent=sportstv
-http://live1.livetvindia.co.in:8000/live/ios2/freeapp2/1516.ts
-#EXTINF:0,TSN 1
-#EXTVLCOPT:http-user-agent=sportstv
-http://live1.livetvindia.co.in:8000/live/ios2/freeapp2/451.ts
-#EXTINF:0,TSN 2
-#EXTVLCOPT:http-user-agent=sportstv
-http://live1.livetvindia.co.in:8000/live/ios2/freeapp2/452.ts
-#EXTINF:0,Sony Ten 3
-#EXTVLCOPT:http-user-agent=sportstv
-http://live1.livetvindia.co.in:8000/live/ios2/freeapp2/815.ts
-#EXTINF:0,Sony Ten 3 Backup
-#EXTVLCOPT:http-user-agent=sportstv
-http://live1.livetvindia.co.in:8000/live/ios2/freeapp2/314.ts
-#EXTINF:0,Sky Sports F1
-#EXTVLCOPT:http-user-agent=sportstv
-http://live1.livetvindia.co.in:8000/live/ios2/freeapp2/80.ts
-#EXTINF:0,Sky Sports F1 HQ
-#EXTVLCOPT:http-user-agent=sportstv
-http://live1.livetvindia.co.in:8000/live/ios2/freeapp2/119.ts
-#EXTINF:0,Sky Sports Mix
-#EXTVLCOPT:http-user-agent=sportstv
-http://live1.livetvindia.co.in:8000/live/ios2/freeapp2/860.ts
-#EXTINF:0,Sky Sports News
-#EXTVLCOPT:http-user-agent=sportstv
-http://live1.livetvindia.co.in:8000/live/ios2/freeapp2/81.ts
-#EXTINF:0,Sky Sports News HQ
-#EXTVLCOPT:http-user-agent=sportstv
-http://live1.livetvindia.co.in:8000/live/ios2/freeapp2/118.ts
-#EXTINF:0,Sky Sports F1 HD Backup
-#EXTVLCOPT:http-user-agent=sportstv
-http://live1.livetvindia.co.in:8000/live/ios2/freeapp2/2464.ts
-#EXTINF:0,Sky Sport 1 HD Deutch Germany
-#EXTVLCOPT:http-user-agent=sportstv
-http://live1.livetvindia.co.in:8000/live/ios2/freeapp2/58.ts
-#EXTINF:0,Sky Sport 1 HD Italy
-#EXTVLCOPT:http-user-agent=sportstv
-http://live1.livetvindia.co.in:8000/live/ios2/freeapp2/92.ts
-#EXTINF:0,Sky Sport 2 HD Deutch Germany
-#EXTVLCOPT:http-user-agent=sportstv
-http://live1.livetvindia.co.in:8000/live/ios2/freeapp2/59.ts
-#EXTINF:0,Sky Sport 2 HD Italy
-#EXTVLCOPT:http-user-agent=sportstv
-http://live1.livetvindia.co.in:8000/live/ios2/freeapp2/93.ts
-#EXTINF:0,Sky Sport 24 HD Italy
-#EXTVLCOPT:http-user-agent=sportstv
-http://live1.livetvindia.co.in:8000/live/ios2/freeapp2/11.ts
-#EXTINF:0,Sky Sport 3 HD Italy
-#EXTVLCOPT:http-user-agent=sportstv
-http://live1.livetvindia.co.in:8000/live/ios2/freeapp2/10.ts
-#EXTINF:0,Premier Sports
-#EXTVLCOPT:http-user-agent=sportstv
-http://live1.livetvindia.co.in:8000/live/ios2/freeapp2/56.ts
 
 
 #EXTINF:-1,**** SPORT 1 LISTA
 http://vip.fibertv.nl:8000/yunus/yunus/99993
-#EXTINF:0,Ex-Yu: Sport Klub 1 HD
-http://163.172.43.106:8888/live/juventus/DeadMan/178.ts
-#EXTINF:0,Ex-Yu: Sport Klub 2 HD
-http://163.172.43.106:8888/live/juventus/DeadMan/179.ts
-#EXTINF:0,Ex-Yu: Sport Klub 3 HD
-http://163.172.43.106:8888/live/juventus/DeadMan/180.ts
-#EXTINF:0,Ex-Yu: Sport Klub 4 HD
-http://163.172.43.106:8888/live/juventus/DeadMan/181.ts
-#EXTINF:0,Ex-YU: Arena Sport 1 SR
-http://163.172.43.106:8888/live/juventus/DeadMan/183.ts
-#EXTINF:0,Ex-YU: Arena Sport 1 HR
-http://163.172.43.106:8888/live/juventus/DeadMan/182.ts
-#EXTINF:0,Ex-Yu: Arena Sport 2 SR
-http://163.172.43.106:8888/live/juventus/DeadMan/185.ts
-#EXTINF:0,Ex-Yu: Arena Sport 2 HR
-http://163.172.43.106:8888/live/juventus/DeadMan/184.ts
-#EXTINF:0,Ex-YU: Arena Sport 3 SR
-http://163.172.43.106:8888/live/juventus/DeadMan/187.ts
-#EXTINF:0,Ex-Yu: Arena Sport 3 HR
-http://163.172.43.106:8888/live/juventus/DeadMan/186.ts
-#EXTINF:0,Ex-Yu: Arena Sport 4 SR
-http://163.172.43.106:8888/live/juventus/DeadMan/189.ts
-#EXTINF:0,Ex-Yu: Arena Sport 4 HR
-http://163.172.43.106:8888/live/juventus/DeadMan/188.ts
-#EXTINF:0,Live Match 1 HD
-http://163.172.43.106:8888/live/juventus/DeadMan/67.ts
-#EXTINF:0,Live Match 2 HD
-http://163.172.43.106:8888/live/juventus/DeadMan/68.ts
-#EXTINF:0,Live Match 3 SD
-http://163.172.43.106:8888/live/juventus/DeadMan/70.ts
-#EXTINF:0,Live Match 4 SD
-http://163.172.43.106:8888/live/juventus/DeadMan/71.ts
-#EXTINF:0,Live Match 5 HD
-http://163.172.43.106:8888/live/juventus/DeadMan/77.ts
-#EXTINF:0,http://163.172.43.106:8888/live/juventus/DeadMan/63.ts
-#EXTINF:0,Spo: BT SPORT 1 HD
-http://163.172.43.106:8888/live/juventus/DeadMan/78.ts
-#EXTINF:0,Spo: BT SPORT 2 HD
-http://163.172.43.106:8888/live/juventus/DeadMan/31.ts
-#EXTINF:0,Spo: BT SPORT 3 HD
-http://163.172.43.106:8888/live/juventus/DeadMan/32.ts
-#EXTINF:0,AR: beIN SPORTS 1HD
-http://163.172.43.106:8888/live/juventus/DeadMan/40.ts
-#EXTINF:0,AR: beIN SPORTS 2HD
-http://163.172.43.106:8888/live/juventus/DeadMan/41.ts
-#EXTINF:0,AR: beIN SPORTS 3HD
-http://163.172.43.106:8888/live/juventus/DeadMan/42.ts
-#EXTINF:0,AR: beIN SPORTS 4HD
-http://163.172.43.106:8888/live/juventus/DeadMan/43.ts
-#EXTINF:0,AR: beIN SPORTS 5HD
-http://163.172.43.106:8888/live/juventus/DeadMan/44.ts
-#EXTINF:0,AR: beIN SPORTS 6HD
-http://163.172.43.106:8888/live/juventus/DeadMan/45.ts
-#EXTINF:0,AR: beIN SPORTS 7HD
-http://163.172.43.106:8888/live/juventus/DeadMan/46.ts
-#EXTINF:0,AR: beIN SPORTS 8HD
-http://163.172.43.106:8888/live/juventus/DeadMan/47.ts
-#EXTINF:0,AR: beIN SPORTS 9HD
-http://163.172.43.106:8888/live/juventus/DeadMan/48.ts
-#EXTINF:0,AR: beIN SPORTS 10HD
-http://163.172.43.106:8888/live/juventus/DeadMan/49.ts
 
 
 
 #EXTINF:-1,**** SPORT 3 LUSTA
 http://vip.fibertv.nl:8000/yunus/yunus/99997
-#EXTINF:0,UK: Box Nation UK
-http://iptv-volkan.net:8000/media/media/408
-#EXTINF:0,UK: Sky Sport Action
-http://iptv-volkan.net:8000/media/media/326
-#EXTINF:0,UK: Sky Sport Action HD
-http://iptv-volkan.net:8000/media/media/2466
-#EXTINF:0,UK: Sky Sport Arena HD
-http://iptv-volkan.net:8000/media/media/2482
-#EXTINF:0,UK: Sky Sport Football HD
-http://iptv-volkan.net:8000/media/media/3674
-#EXTINF:0,UK: Sky Sport Main Event
-http://iptv-volkan.net:8000/media/media/328
-#EXTINF:0,UK: Sky Sport Main Event HD
-http://iptv-volkan.net:8000/media/media/2467
-#EXTINF:0,UK: Sky Sport MIX
-http://iptv-volkan.net:8000/media/media/3472
-#EXTINF:0,UK: Sky Sport News HD
-http://iptv-volkan.net:8000/media/media/354
-#EXTINF:0,UK: Sky Sport Premiere League
-http://iptv-volkan.net:8000/media/media/352
-#EXTINF:0,UK: Sky Sport Premiere League HD
-http://iptv-volkan.net:8000/media/media/2469
-#EXTINF:0,UK: Sky Sport Golf HD
-http://iptv-volkan.net:8000/media/media/2470
-#EXTINF:0,UK: Sky Sports F1 UK HD
-http://iptv-volkan.net:8000/media/media/550
-#EXTINF:0,UK: BT Sport 1
-http://iptv-volkan.net:8000/media/media/347
-#EXTINF:0,UK: BT Sport 2
-http://iptv-volkan.net:8000/media/media/346
-#EXTINF:0,UK: BT Sport Extra 2
-http://iptv-volkan.net:8000/media/media/3997
-#EXTINF:0,UK: BT Sport  3 HD
-http://iptv-volkan.net:8000/media/media/3998
-#EXTINF:0,UK: BT Sport Extra 4
-http://iptv-volkan.net:8000/media/media/3999
-#EXTINF:0,UK: BT SPORT 1 HD
-http://iptv-volkan.net:8000/media/media/2500
-#EXTINF:0,UK: BT SPORT 2 HD
-http://iptv-volkan.net:8000/media/media/2501
-#EXTINF:0,UK: BT SPORT EUROPE TEST
-http://iptv-volkan.net:8000/media/media/1032
-#EXTINF:0,UK: BT SPORT EXTRA
-http://iptv-volkan.net:8000/media/media/1031
-#EXTINF:0,UK: BT Sport Espn HD
-http://iptv-volkan.net:8000/media/media/3996
-#EXTINF:0,UK: Eleven Sport
-http://iptv-volkan.net:8000/media/media/4644
-#EXTINF:0,UK: Eurosport 1 UK
-http://iptv-volkan.net:8000/media/media/410
-#EXTINF:0,UK: Eurosport 2 UK
-http://iptv-volkan.net:8000/media/media/411
-#EXTINF:0,DE-Sky-Sport-1HD
-http://iptv-volkan.net:8000/media/media/365
-#EXTINF:0,DE- Sky Sport 2HD
-http://iptv-volkan.net:8000/media/media/2174
-#EXTINF:0,DE: Sky Sport 3HD
-http://iptv-volkan.net:8000/media/media/4788
-#EXTINF:0,DE: Sky Sport New HD
-http://iptv-volkan.net:8000/media/media/253
-#EXTINF:0,DE: DAZN 1HD
-http://iptv-volkan.net:8000/media/media/4786
-#EXTINF:0,DE: DAZN 2HD
-http://iptv-volkan.net:8000/media/media/4787
-#EXTINF:0,DE: Eurosport HD
-http://iptv-volkan.net:8000/media/media/2954
-#EXTINF:0,DE: Eurosport 2 HD
-http://iptv-volkan.net:8000/media/media/3780
-#EXTINF:0,DE: Eurosport 2 XTRA
-http://iptv-volkan.net:8000/media/media/3831
-#EXTINF:0,DE: Sport 1 US HD
-http://iptv-volkan.net:8000/media/media/3473
-#EXTINF:0,DE: Sport+1 HD
-http://iptv-volkan.net:8000/media/media/247
-#EXTINF:0,DE: Sky Bundesliga  HD 1
-http://iptv-volkan.net:8000/media/media/484
-#EXTINF:0,NL: Fox Sport 1 HD
-http://iptv-volkan.net:8000/media/media/1156
-#EXTINF:0,NL: Fox Sport 2 HD
-http://iptv-volkan.net:8000/media/media/1157
-#EXTINF:0,NL: Fox Sport 3 HD
-http://iptv-volkan.net:8000/media/media/1158
-#EXTINF:0,NL: Fox Sport 4HD
-http://iptv-volkan.net:8000/media/media/1642
-#EXTINF:0,NL: Fox Sport 5 HD
-http://iptv-volkan.net:8000/media/media/1643
-#EXTINF:0,NL: Fox Sport 6 HD
-http://iptv-volkan.net:8000/media/media/2572
-#EXTINF:0,NL: ZIGGO SPORT EXTRA  1
-http://iptv-volkan.net:8000/media/media/2567
-#EXTINF:0,NL: ZIGGO SPORT EXTRA  2
-http://iptv-volkan.net:8000/media/media/2566
-#EXTINF:0,NL: ZIGGO SPORT RACING
-http://iptv-volkan.net:8000/media/media/3474
-#EXTINF:0,NL: Ziggo Sport Select
-http://iptv-volkan.net:8000/media/media/1159
-#EXTINF:0,NL: Ziggo Sport Voetbal
-http://iptv-volkan.net:8000/media/media/1160
-
-
-
-#EXTINF:0,BE-BEINSPORT-1HD
-http://iptv-volkan.net:8000/media/media/387
-#EXTINF:0,BE-BEINSPORT-2HD
-http://iptv-volkan.net:8000/media/media/388
-#EXTINF:0,BE-BEINSPORT-3HD
-http://iptv-volkan.net:8000/media/media/389
-#EXTINF:0,BE-BEINSPORT-4HD
-http://iptv-volkan.net:8000/media/media/390
-#EXTINF:0,BE-BEINSPORT-5HD
-http://iptv-volkan.net:8000/media/media/391
-#EXTINF:0,BE-BEINSPORT-6HD
-http://iptv-volkan.net:8000/media/media/392
-#EXTINF:0,BE-BEINSPORT-7HD
-http://iptv-volkan.net:8000/media/media/393
-#EXTINF:0,BE-BeinSport-8HD
-http://iptv-volkan.net:8000/media/media/394
-#EXTINF:0,BE-BeinSport-9HD
-http://iptv-volkan.net:8000/media/media/395
-#EXTINF:0,BE-BeinSport-10HD
-http://iptv-volkan.net:8000/media/media/396
-#EXTINF:0,BE-BeinSport-11HD
-http://iptv-volkan.net:8000/media/media/397
-#EXTINF:0,BE-BEINSPORT-12HD
-http://iptv-volkan.net:8000/media/media/1019
-
-#EXTINF:0,FR: RMC SPORT 2
-http://iptv-volkan.net:8000/media/media/2887
-#EXTINF:0,FR: RMC SPORT 1
-http://iptv-volkan.net:8000/media/media/2938
-#EXTINF:0,FR: Bein Sport 3 HD
-http://iptv-volkan.net:8000/media/media/264
-#EXTINF:0,FR: Bein Sport 2 HD
-http://iptv-volkan.net:8000/media/media/265
-#EXTINF:0,FR: Bein Sport 1 HD
-http://iptv-volkan.net:8000/media/media/266
-#EXTINF:0,FR: Canal+Sport HD
-http://iptv-volkan.net:8000/media/media/277
-#EXTINF:0,USA: BEIN SPORT USA
-http://iptv-volkan.net:8000/media/media/1062
-#EXTINF:0,USA: Espn
-http://iptv-volkan.net:8000/media/media/1068
-#EXTINF:0,USA: Espn2
-http://iptv-volkan.net:8000/media/media/1069
-#EXTINF:0,USA: FOX SPORT 1 HD
-http://iptv-volkan.net:8000/media/media/1072
-#EXTINF:0,USA: FOX SPORT 2 HD
-http://iptv-volkan.net:8000/media/media/1071
-#EXTINF:0,USA: TSN 1
-http://iptv-volkan.net:8000/media/media/1067
-#EXTINF:0,USA: TSN 2
-http://iptv-volkan.net:8000/media/media/1066
-#EXTINF:0,USA: TSN 3
-http://iptv-volkan.net:8000/media/media/1065
-#EXTINF:0,USA: TSN 4
-http://iptv-volkan.net:8000/media/media/1064
-#EXTINF:0,USA: TSN 5
-http://iptv-volkan.net:8000/media/media/2492
-#EXTINF:0,ES: La  Liga
-http://iptv-volkan.net:8000/media/media/900
-#EXTINF:0,ES: Sevilla FC
-http://iptv-volkan.net:8000/media/media/4064
-#EXTINF:0,ES: Tele deporte
-http://iptv-volkan.net:8000/media/media/4058
-#EXTINF:0,ES:Barca TV
-http://iptv-volkan.net:8000/media/media/895
-#EXTINF:0,ES: REAL MADRID TV
-http://iptv-volkan.net:8000/media/media/1120
-#EXTINF:0,ES: Bein liga
-http://iptv-volkan.net:8000/media/media/3147
-#EXTINF:0,ES:BEIN SPORT N
-http://iptv-volkan.net:8000/media/media/946
-#EXTINF:0,ES: Eurosport 1
-http://iptv-volkan.net:8000/media/media/3148
-#EXTINF:0,ES: Eurosport 2
-http://iptv-volkan.net:8000/media/media/3466
-#EXTINF:0,ES: Teledeporte
-http://iptv-volkan.net:8000/media/media/3471
-#EXTINF:0,ES: Movistar Futbol
-http://iptv-volkan.net:8000/media/media/890
-#EXTINF:0,ES: Movistar Deporte
-http://iptv-volkan.net:8000/media/media/903
-#EXTINF:0,ES: Movistar deporte 2
-http://iptv-volkan.net:8000/media/media/3146
-#EXTINF:0,ES: Bein La Liga TV1
-http://iptv-volkan.net:8000/media/media/4332
-#EXTINF:0,ES: MOVISTAR liga Campeones
-http://iptv-volkan.net:8000/media/media/4333
-#EXTINF:0,ES: MOVISTAR liga Campeones HD
-http://iptv-volkan.net:8000/media/media/4334
-#EXTINF:0,POL: Canal+ Sport HD
-http://iptv-volkan.net:8000/media/media/2582
-#EXTINF:0,POL: Canal+ Sport2
-http://iptv-volkan.net:8000/media/media/2401
-#EXTINF:0,POL: Eleven
-http://iptv-volkan.net:8000/media/media/2549
-#EXTINF:0,POL: Eleven Sport
-http://iptv-volkan.net:8000/media/media/2550
-#EXTINF:0,POL: N Sport+ (test)
-http://iptv-volkan.net:8000/media/media/2921
-#EXTINF:0,POL: POLSAT SPORT
-http://iptv-volkan.net:8000/media/media/1918
-#EXTINF:0,POL: Polsat Sport Extra HD
-http://iptv-volkan.net:8000/media/media/2557
-#EXTINF:0,POL: Polsat Sport News
-http://iptv-volkan.net:8000/media/media/2556
-#EXTINF:0,POL: TVP SPORT
-http://iptv-volkan.net:8000/media/media/1919
-#EXTINF:0,IT:SKY SPORT 1
-http://iptv-volkan.net:8000/media/media/998
-#EXTINF:0,IT: Sky Sport Arena HD
-http://iptv-volkan.net:8000/media/media/999
-#EXTINF:0,IT: Sky Sport NBA HD
-http://iptv-volkan.net:8000/media/media/4580
-#EXTINF:0,IT:Sky Sport 3 HD
-http://iptv-volkan.net:8000/media/media/2010
+#EXTINF:0,beiN Sports 1  FULL HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/28750
+#EXTINF:0,beiN Sports 1
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/5223
+#EXTINF:0,beiN Sports 2
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/5225
+#EXTINF:0,beiN Sports 3  HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/28742
+#EXTINF:0,beiN Sports 3 FULL HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/28743
+#EXTINF:0,beiN Sports 3 FHD H265
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/28744
+#EXTINF:0,beiN Sports 3
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/5227
+#EXTINF:0,beiN Sports 4
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/5229
+#EXTINF:0,beiN Sports 5
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/5231
+#EXTINF:0,beiN Sports 6
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/5233
+#EXTINF:0,beiN Sports 7
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/5235
+#EXTINF:0,beiN Sports 8
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/5237
+#EXTINF:0,beiN Sports 9
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/5239
+#EXTINF:0,beiN Sports 10
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/5240
+#EXTINF:0,beiN Sports 11
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/5241
+#EXTINF:0,beiN Sports 12
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/5242
+#EXTINF:0,beiN Sports 13
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/5243
+#EXTINF:0,beiN Sports 14
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/5244
+#EXTINF:0,beiN Sports 15
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/5245
+#EXTINF:0,beiN Sports 16
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/5246
+#EXTINF:0,beiN Sports 17
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/5247
+#EXTINF:0,beiN Sports News
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/5221
+#EXTINF:0,beiN Sports HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/6727
+#EXTINF:0,beiN Classico 1
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/28745
+#EXTINF:0,beiN Classico 2
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/28746
+#EXTINF:0,beiN Classico 3
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/28747
+#EXTINF:0,beiN Classico 4
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/28748
+#EXTINF:0,beiN Classico 5
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/28749
+#EXTINF:0,beiN SPORTs NBA HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/11440
+#EXTINF:0,beiN Sports 1 SD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/5222
+#EXTINF:0,beiN Sports 2 SD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/5224
+#EXTINF:0,beiN Sports 3 SD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/5226
+#EXTINF:0,beiN Sports 4 SD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/5228
+#EXTINF:0,beiN Sports 5 SD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/5230
+#EXTINF:0,beiN Sports 6 SD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/5232
+#EXTINF:0,beiN Sports 7 SD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/5234
+#EXTINF:0,beiN Sports 8 SD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/6665
+#EXTINF:0,beiN Sports 9 SD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/5238
+#EXTINF:0,beiN Sports 10 SD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/6666
+#EXTINF:0,FR: beIN SPORTS 1 H265/HEVC
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/15045
+#EXTINF:0,FR: beIN SPORTS 2 H265/HEVC
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/15043
+#EXTINF:0,FR: beIN SPORTS 3 H265/HEVC
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/15041
+#EXTINF:0,FR: beIN SPORTS MAX 4 H265/HEVC
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/15052
+#EXTINF:0,FR: beIN SPORTS MAX 5 H265/HEVC
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/15050
+#EXTINF:0,beIN Sport 1 4K
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/11311
+#EXTINF:0,beIN Sport 2 4K
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/11310
+#EXTINF:0,beIN Sport 3 4K
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/11309
+#EXTINF:0,beIN Sport 4 4K
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/11308
+#EXTINF:0,beIN Sport 5 4K
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/11307
+#EXTINF:0,beIN Sport 6 4K
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/11306
+#EXTINF:0,beIN Sport 7 4K
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/11305
+#EXTINF:0,beIN Sport 8 4K
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/11304
+#EXTINF:0,beIN Sports 1 FHD/HEVC
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/11295
+#EXTINF:0,beIN Sports 2 FHD/HEVC
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/11294
+#EXTINF:0,beIN Sports 3 FHD/HEVC
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/11293
+#EXTINF:0,beIN Sports 4 FHD/HEVC
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/11292
+#EXTINF:0,beIN Sports 5 FHD/HEVC
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/11291
+#EXTINF:0,beIN Sports 6 FHD/HEVC
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/11290
+#EXTINF:0,beIN Sports 7 FHD/HEVC
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/11289
+#EXTINF:0,beIN Sports 8 FHD/HEVC
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/11288
+#EXTINF:0,FR-FHD: Canal  Sports FULL HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/25434
+#EXTINF:0,CANAL+ SPORT
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/4228
+#EXTINF:0,FR-FHD: RMC Sport 01 FULL HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/25343
+#EXTINF:0,FR-FHD: RMC Sport 02 FULL HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/25342
+#EXTINF:0,FR-FHD: RMC SPORT 03 FULL HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/25341
+#EXTINF:0,FR-FHD: RMC SPORT 04 FULL HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/25340
+#EXTINF:0,FR-FHD: RMC SPORT NEWS FULL HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/25344
+#EXTINF:0,FR-FHD: BeIN SPORTS 1 FULL HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/25339
+#EXTINF:0,FR-FHD: BeIN SPORTS 2 FULL HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/25338
+#EXTINF:0,FR-FHD: BeIN SPORTS 3 FULL HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/25337
+#EXTINF:0,FR: RMC SPORT NEWS
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/16636
+#EXTINF:0,FR: RMC SPORT 1 HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/16635
+#EXTINF:0,FR: RMC SPORT 2 HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/16634
+#EXTINF:0,FR: RMC SPORT 3 HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/16633
+#EXTINF:0,FR: RMC SPORT 4 HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/16632
+#EXTINF:0,RMC ACCESS SPORT 1 HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/5292
+#EXTINF:0,RMC ACCESS SPORT 2 HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/5293
+#EXTINF:0,RMC ACCESS SPORT 3 HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/5294
+#EXTINF:0,RMC ACCESS SPORT 4 HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/4235
+#EXTINF:0,FR: beIN SPORTS 1 HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/5286
+#EXTINF:0,FR: beIN SPORTS 1 FHD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/15044
+#EXTINF:0,FR: beIN SPORTS 2 HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/5288
+#EXTINF:0,FR: beIN SPORTS 2 FHD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/15042
+#EXTINF:0,FR: beIN SPORTS 3 HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/5290
+#EXTINF:0,FR: beIN SPORTS 3 FHD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/15040
+#EXTINF:0,FR: beIN SPORTS MAX 4 HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/6791
+#EXTINF:0,FR: beIN SPORTS MAX 4 FHD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/15051
+#EXTINF:0,FR: beIN SPORTS MAX 5 HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/6790
+#EXTINF:0,FR: beIN SPORTS MAX 5 FHD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/15049
+#EXTINF:0,FR: beIN SPORTS MAX 6 HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/6789
+#EXTINF:0,FR: beIN SPORTS MAX 7 HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/6788
+#EXTINF:0,FR: beIN SPORTS MAX 8 HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/6787
+#EXTINF:0,FR: BFM SPORT HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/16647
+#EXTINF:0,FR-FHD: BFM SPORT FULL HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/25361
+#EXTINF:0,FR-FHD: GOLF  FULL HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/25369
+#EXTINF:0,FR-FHD: Golf Channel FULL HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/25368
+#EXTINF:0,FR-FHD: Gulli FULL HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/25393
+#EXTINF:0,FR-FHD: I24 FULL HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/25373
+#EXTINF:0,FR-FHD: INFOSPORT FULL HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/25360
+#EXTINF:0,FR-FHD: MOTORSPORT TV FULL HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/25358
+#EXTINF:0,INFOSPORT
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/4196
+#EXTINF:0,Equipe 21
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/4197
+#EXTINF:0,Golf Channel
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/6716
+#EXTINF:0,Extreme Sports
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/6717
+#EXTINF:0,Foot +
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/5295
+#EXTINF:0,FOOT 24
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/4198
+#EXTINF:0,EUROSPORT 1
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/5296
+#EXTINF:0,EUROSPORT_2
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/5297
+#EXTINF:0,Equidia
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/5298
+#EXTINF:0,Equidia_Live
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/5299
+#EXTINF:0,NL : Fox Sport 1
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/5185
+#EXTINF:0,NL : Fox Sport 2
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/5186
+#EXTINF:0,NL : Fox Sport 3
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/5187
+#EXTINF:0,NL : Fox Sport 4
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/5188
+#EXTINF:0,NL : Fox Sport 5
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/5189
+#EXTINF:0,NL : Fox Sport 6
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/5190
+#EXTINF:0,NL : Ziggo Sport HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/9305
+#EXTINF:0,NL : Ziggo Sport Voetbal
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/5173
+#EXTINF:0,NL : Ziggo Sport Select
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/5174
+#EXTINF:0,NL : Ziggo Sport Golf
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/5175
+#EXTINF:0,NL : Ziggo Sport Racing
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/5176
+#EXTINF:0,NL : Ziggo Sport Extra 1 HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/5191
+#EXTINF:0,NL : Ziggo Sport Extra 2 HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/5192
+#EXTINF:0,NL : Extreme Sport
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/9308
+#EXTINF:0,NL : Eurosport 1 HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/5184
+#EXTINF:0,NL : Eurosport 2 HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/9306
+#EXTINF:0,NL : Motor Sport
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/9307
+#EXTINF:0,BE: VOOSPORT 1 HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/24576
+#EXTINF:0,BE: VOOSPORT 2 HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/24575
+#EXTINF:0,BE: VOOSPORT 3 HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/24574
+#EXTINF:0,BE: PLAY SPORTS 1 HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/24573
+#EXTINF:0,BE: PLAY SPORTS 2 HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/24572
+#EXTINF:0,BE: PLAY SPORTS 3 HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/24571
+#EXTINF:0,BE: PLAY SPORTS 4 HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/24570
+#EXTINF:0,BE: PLAY SPORTS 5 HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/24569
+#EXTINF:0,BE: Eleven Sport 1 HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/19542
+#EXTINF:0,BE: Eleven Sport 2 HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/19541
+#EXTINF:0,BE: Eleven Sport 3 HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/19540
+#EXTINF:0,BE: Eleven Sport 4 HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/19539
+#EXTINF:0,BE: VOO Sport World 1 FHD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/19538
+#EXTINF:0,BE: VOO Sport World 2 FHD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/19537
+#EXTINF:0,BE: VOO Sport World 3 FHD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/19536
+#EXTINF:0,VOO SPORT 1
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/15048
+#EXTINF:0,VOO SPORT 2
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/15047
+#EXTINF:0,VOO SPORT 3
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/15046
+#EXTINF:0,==== Digital Spain ====
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/7710
+#EXTINF:0,SP: BAR TV
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/14983
+#EXTINF:0,SP: LA LIGA 123 TV HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/24470
+#EXTINF:0,SP: LA LIGA HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/14991
+#EXTINF:0,SP: LA LIGA TV HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/14992
+#EXTINF:0,SP: BEIN SPORTS HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/14993
+#EXTINF:0,SP: M. FTBOL HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/14990
+#EXTINF:0,SP: M.CAMPEONES HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/24469
+#EXTINF:0,SP: M. PARTIDAZO HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/14980
+#EXTINF:0,SP: FORMULA 1 HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/14985
+#EXTINF:0,SP: M. DEP2 HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/14966
+#EXTINF:0,SP: M. DEPORTE 1 HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/14967
+#EXTINF:0,SP: M. FORMULA 1
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/14984
+#EXTINF:0,SP: M. GOLF HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/14981
+#EXTINF:0,SP: MOTOGP HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/14979
+#EXTINF:0,SP: R. MADRID TV
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/14982
+#EXTINF:0,SP: GOL
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/14989
+#EXTINF:0,SP: EUROSPORT 1
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/14987
+#EXTINF:0,SP: EUROSPORT 1 HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/14988
+#EXTINF:0,SP: EUROSPORT 2
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/14986
+#EXTINF:0,SP: IBERALIA
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/15027
+#EXTINF:0,SP: TOROS HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/14978
+#EXTINF:0,===== DE: SPORT =====
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/22427
+#EXTINF:0,DE: SKY SPORT NEWS HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/22426
+#EXTINF:0,DE: SPORT 1  HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/22425
+#EXTINF:0,DE: EUROSPORT 1 HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/22424
+#EXTINF:0,DE: EUROSPORT 2 HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/22423
+#EXTINF:0,DE: EUROSPORT 2  XTRA HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/22422
+#EXTINF:0,DE: MOTORVISION
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/22421
+#EXTINF:0,DE: DAZN 1 BAR FHD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/22420
+#EXTINF:0,DE: DAZN 2 BAR FHD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/22419
+#EXTINF:0,DE: SKY SPORT 1 HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/22418
+#EXTINF:0,DE: SKY SPORT 2 HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/22417
+#EXTINF:0,DE: SKY SPORT 1
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/22416
+#EXTINF:0,DE: SKY SPORT 2
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/22415
+#EXTINF:0,DE: SKY BUNDESLIGA 1 HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/22414
+#EXTINF:0,DE: SKY BUNDESLIGA 2 HD (ON MATCH TIME)
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/22413
+#EXTINF:0,DE: SKY BUNDESLIGA 3 HD (ON MATCH TIME)
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/22412
+#EXTINF:0,DE: SKY BUNDESLIGA 4 HD (ON MATCH TIME)
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/22411
+#EXTINF:0,DE: SKY BUNDESLIGA 5 HD (ON MATCH TIME)
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/22410
+#EXTINF:0,DE: SKY BUNDESLIGA 6 HD (ON MATCH TIME)
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/22409
+#EXTINF:0,DE: SKY BUNDESLIGA 7 HD (ON MATCH TIME)
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/22408
+#EXTINF:0,DE: SKY BUNDESLIGA 8 HD (ON MATCH TIME)
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/22407
+#EXTINF:0,DE: SKY BUNDESLIGA 9 HD (ON MATCH TIME)
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/22406
+#EXTINF:0,DE: SKY BUNDESLIGA 10 HD (ON MATCH TIME)
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/22405
+#EXTINF:0,======PALESTINE======
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/7069
+#EXTINF:0,----- OSN -----
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/25844
+#EXTINF:0,OSN: OSN Al KASS 1 HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/25798
+#EXTINF:0,OSN: OSN Al KASS 2 HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/25797
+#EXTINF:0,OSN: OSN Al KASS 4 HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/25796
+#EXTINF:0,OSN: OSN Al KASS 5 HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/25795
+#EXTINF:0,OSN: OSN Al KASS ONLINE HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/25799
+#EXTINF:0,OSN: OSN Sports 3 HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/25787
+#EXTINF:0,OSN: OSN Sports Action 1 HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/25788
+#EXTINF:0,OSN: OSN Sports Action 2 HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/25801
+#EXTINF:0,AR: MBC PRO SPORTS 1 HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/7591
+#EXTINF:0,AR: MBC PRO SPORTS 2 HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/7590
+#EXTINF:0,AR: MBC PRO SPORTS 3 HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/7589
+#EXTINF:0,AR: Bahrain sports 1 HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/7588
+#EXTINF:0,AR: Bahrain sports 2 HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/7587
+#EXTINF:0,AR: KTV SPORT HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/7584
+#EXTINF:0,AR: Mbc Pro Sports 1
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/7305
+#EXTINF:0,AR: Mbc Pro Sports 2
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/7304
+#EXTINF:0,AR: Mbc Pro Sports 3
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/7303
+#EXTINF:0,AR: Mbc Pro Sports 4
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/7302
+#EXTINF:0,AR: DAWRI PLUS 1 HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/16650
+#EXTINF:0,AR: DAWRI PLUS 2 HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/16649
+#EXTINF:0,AR: DAWRI PLUS 3 HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/16648
+#EXTINF:0,AR: KSA SPORTS 1 HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/16654
+#EXTINF:0,AR: KSA SPORTS 2 HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/16653
+#EXTINF:0,AR: KSA SPORTS PLUS 1 HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/16652
+#EXTINF:0,AR: KSA SPORTS PLUS 2 HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/16651
+#EXTINF:0,AL KASS ONE HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/6807
+#EXTINF:0,AL KASS TWO HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/6806
+#EXTINF:0,AL KASS TREE HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/6805
+#EXTINF:0,AL KASS FOUR HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/6804
+#EXTINF:0,AR: Neelain Sport
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/7047
+#EXTINF:0,OSN Ad Sport 1
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/7629
+#EXTINF:0,OSN Ad Sport 1 HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/7628
+#EXTINF:0,OSN Ad Sport 2
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/7626
+#EXTINF:0,OSN Ad Sport 2 HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/7627
+#EXTINF:0,OSN Ad Sport 3
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/7824
+#EXTINF:0,OSN Ad Sport 3  HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/6656
+#EXTINF:0,OSN Ad Sport 4
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/7823
+#EXTINF:0,OSN Ad Sport 4 HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/6655
+#EXTINF:0,OSN Ad Sport 5
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/10887
+#EXTINF:0,MYHD: WOW SPORT HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/25481
+#EXTINF:0,IT: Rai Sport   4K
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/16330
+#EXTINF:0,IT: Rai Sport 1 HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/16329
+#EXTINF:0,IT: Eurosport 1 HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/16396
+#EXTINF:0,IT: Eurosport 2 HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/16395
+#EXTINF:0,IT: Juventus Channel HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/16386
+#EXTINF:0,IT: Roma TV HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/16324
+#EXTINF:0,IT: Sky Sport 1 HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/16304
+#EXTINF:0,IT: Sky Sport 2 HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/16303
 #EXTINF:0,IT: Sky Sport 24 HD
-http://iptv-volkan.net:8000/media/media/224
-#EXTINF:0,IT: Dazn 1
-http://iptv-volkan.net:8000/media/media/4532
-#EXTINF:0,IT: Dazn 2
-http://iptv-volkan.net:8000/media/media/4533
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/16302
+#EXTINF:0,IT: Sky Sport 3 HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/16301
+#EXTINF:0,IT: Sky Sport F1 HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/16300
+#EXTINF:0,IT: Sky Sport Mix HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/16299
+#EXTINF:0,IT: Sky Sport MotoGP HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/16298
+#EXTINF:0,IT: Sky Calcio 1 HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/16321
+#EXTINF:0,IT: Sky Calcio 2 HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/16320
+#EXTINF:0,IT: Sky Calcio 3 HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/16319
+#EXTINF:0,IT: Sky Calcio 4 HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/16318
+#EXTINF:0,IT: Sky Calcio 5 HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/16317
+#EXTINF:0,IT: Sky Calcio 6 HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/16316
+#EXTINF:0,IT: Sky Calcio HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/16315
+#EXTINF:0,IT: Sky TG24 HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/16297
+#EXTINF:0,IT: Sky Uno HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/16296
+#EXTINF:0,IT: Sport Italia HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/16295
+#EXTINF:0,IT: Super Tennis HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/16294
+#EXTINF:0,IT: Dazn 1 HD IT
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/23271
+#EXTINF:0,IT: Dazn 10 HD IT
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/23270
+#EXTINF:0,IT: Dazn 11 HD IT
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/23269
+#EXTINF:0,IT: Dazn 12 HD IT
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/23268
+#EXTINF:0,IT: Dazn 13 HD IT
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/23267
+#EXTINF:0,IT: Dazn 14 HD IT
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/23266
+#EXTINF:0,IT: Dazn 2 HD IT
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/23265
+#EXTINF:0,IT: Dazn 3 HD IT
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/23264
+#EXTINF:0,IT: Dazn 4 HD IT
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/23263
+#EXTINF:0,IT: Dazn 5 HD IT
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/23262
+#EXTINF:0,IT: Dazn 6 HD IT
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/23261
+#EXTINF:0,IT: Dazn 7 HD IT
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/23260
+#EXTINF:0,IT: Dazn 8 HD IT
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/23259
+#EXTINF:0,IT: Dazn 9 HD IT
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/23258
+#EXTINF:0,IT: Dazn Sport 1 HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/23208
+#EXTINF:0,IT: Dazn Sport 2 HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/23207
+#EXTINF:0,IT: Dazn Sport 3 HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/23206
+#EXTINF:0,IT: Dazn Sport 4 HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/23205
+#EXTINF:0,IT: Dazn Sport 5 HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/23204
+#EXTINF:0,IT: Dazn Sport 7 HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/23203
+#EXTINF:0,IT: Dazn Sport 8 HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/23202
+#EXTINF:0,IT: Dazn Sport 9 HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/23201
+#EXTINF:0,IT: Rai Sport  HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/23027
+#EXTINF:0,IT: Rai Sport 2 HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/23030
+#EXTINF:0,IT: Rai Sport HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/23029
+#EXTINF:0,IT: Rai Sport Plus HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/23028
+#EXTINF:0,IT: Rete Sport
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/23019
+#EXTINF:0,IT: Rtv San Marino Sport
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/23005
+#EXTINF:0,IT: Sky Calcio 1 HD  (VIP)
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/23291
+#EXTINF:0,IT: Sky Calcio 2 HD  (VIP)
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/23290
+#EXTINF:0,IT: Sky Calcio 7 HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/22994
+#EXTINF:0,IT: SKY Calcio 8 HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/22993
+#EXTINF:0,IT: Sky Calcio 9 HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/22992
+#EXTINF:0,IT: Sky Calcio HD  (VIP)
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/23289
+#EXTINF:0,IT: Sky Fox Sports HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/22968
+#EXTINF:0,IT: Sky Italia Calcio 2 HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/22966
+#EXTINF:0,IT: Sky Moto Gp HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/22965
+#EXTINF:0,IT: Sky Sport 1 FHD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/22962
+#EXTINF:0,IT: Sky Sport 1 HD  (VIP)
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/23278
+#EXTINF:0,IT: Sky Sport 10 HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/22958
+#EXTINF:0,IT: Sky Sport 2 HD  (VIP)
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/23277
+#EXTINF:0,IT: Sky Sport 24 FHD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/22957
+#EXTINF:0,IT: Sky Sport 24 HD  (VIP)
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/23276
+#EXTINF:0,IT: Sky Sport 24 IT
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/22956
+#EXTINF:0,IT: Sky Sport 3 HD  (VIP)
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/23275
+#EXTINF:0,IT: Sky Sport 6 HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/22961
+#EXTINF:0,IT: Sky Sport 7 HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/22960
+#EXTINF:0,IT: Sky Sport 9 HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/22959
+#EXTINF:0,IT: Sky Sport Arena HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/22955
+#EXTINF:0,IT: SKY SPORT DUE HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/22954
+#EXTINF:0,IT: Sky Sport F1 FHD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/22953
+#EXTINF:0,IT: Sky Sport F1 HD  (VIP)
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/23274
+#EXTINF:0,IT: Sky Sport Football HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/22952
+#EXTINF:0,IT: Sky Sport Formula 1 HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/22951
+#EXTINF:0,IT: Sky Sport Golf HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/22950
+#EXTINF:0,IT: Sky Sport International Champions Cup HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/22949
+#EXTINF:0,IT: Sky Sport Moto GP FHD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/22948
+#EXTINF:0,IT: Sky Sport MotoGP HD  (VIP
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/23273
+#EXTINF:0,IT: Sky Sport NBA HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/22947
+#EXTINF:0,IT: Sky Sport Serie A
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/23256
+#EXTINF:0,IT: Sky Sport Serie A FHD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/22946
+#EXTINF:0,IT: Sky Sport UNO HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/22945
+#EXTINF:0,IT: Sky Super Calcio HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/22944
+#EXTINF:0,IT: Wrestling WWE
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/22860
+#EXTINF:0,======UK HD======
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/8237
+#EXTINF:0,UK HD: BT Sports 1 HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/8222
+#EXTINF:0,UK HD: BT Sports 2 HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/8221
+#EXTINF:0,UK HD: BT Sports 3 HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/8220
+#EXTINF:0,UK HD: BT Sports ESPN HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/8219
+#EXTINF:0,UK HD: MUTV HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/8218
+#EXTINF:0,UK HD: BT Sports Extra 1
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/8217
+#EXTINF:0,UK HD: BT Sports Extra 2
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/8216
+#EXTINF:0,UK: BT Sports Extra 3
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/8215
+#EXTINF:0,UK: BT Sports Extra 4
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/8214
+#EXTINF:0,UK: BT Sports Extra 5
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/8213
+#EXTINF:0,UK HD: BT Sports FHD 1
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/8212
+#EXTINF:0,UK HD: BT Sports FHD 2
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/8211
+#EXTINF:0,UK HD: BT Sports FHD 3
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/8210
+#EXTINF:0,UK HD: Sky Sports Main Event HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/8163
+#EXTINF:0,UK HD: Sky Sports Cricket HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/8162
+#EXTINF:0,UK HD: Sky Sports Action HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/8161
+#EXTINF:0,UK-HD: Sky Sports Arena HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/22842
+#EXTINF:0,UK HD: Sky Sports Golf HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/8160
+#EXTINF:0,UK HD: Sky Sports Premier League HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/8159
+#EXTINF:0,UK HD: Sky Sports F1 HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/8158
+#EXTINF:0,UK HD: Sky Sports Main Event FHD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/8157
+#EXTINF:0,UK HD: Sky Sports Cricket FHD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/8156
+#EXTINF:0,UK HD: Sky Sports Action FHD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/8155
+#EXTINF:0,UK HD: Sky Sports Golf FHD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/8154
+#EXTINF:0,UK HD: Sky Sports Premier League FHD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/8153
+#EXTINF:0,UK HD: Sky Sports FHD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/8152
+#EXTINF:0,UK HD: Sky Sports MIX HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/8151
+#EXTINF:0,UK HD: Sky Sports News HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/8150
+#EXTINF:0,UK HD: Sports Active 1
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/8149
+#EXTINF:0,UK HD: Sports Active 10
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/8148
+#EXTINF:0,UK HD: Sports Active 2
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/8147
+#EXTINF:0,UK HD: Sports Active 3
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/8146
+#EXTINF:0,UK HD: Sports Active 4
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/8145
+#EXTINF:0,UK HD: Sports Active 5
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/8144
+#EXTINF:0,UK HD: Sports Active 6
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/8143
+#EXTINF:0,UK HD: Sports Active 7
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/8142
+#EXTINF:0,UK HD: Sports Active 8
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/8141
+#EXTINF:0,UK HD: Sports Active 9
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/8140
+#EXTINF:0,UK: At The Races
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/20025
+#EXTINF:0,UK HD: EIR Sports HD 2
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/8132
+#EXTINF:0,UK HD: Eurosports HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/8131
+#EXTINF:0,UK HD: Eurosports HD 2
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/8130
+#EXTINF:0,UK HD: Premier Sports HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/8129
+#EXTINF:0,UK HD: Racing UK HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/8128
+#EXTINF:0,UK HD: Setanta/Premier Sports HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/8127
+#EXTINF:0,UK-HD: LFC TV
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/18989
+#EXTINF:0,UK-HD: Chelsea TV HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/18990
+#EXTINF:0,UK-HD: Manchester United FC FHD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/18991
+#EXTINF:0,===== TR - TURKIYE =====
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/26081
+#EXTINF:0,===== TR - SPOR =====
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/25870
+#EXTINF:0,TR: BEIN SPORT 1 UHD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/25869
+#EXTINF:0,TR: BEIN SPORT 2 UHD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/25868
+#EXTINF:0,TR: BEIN SPORT 3 UHD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/25867
+#EXTINF:0,TR: BEIN SPORT 4 UHD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/25866
+#EXTINF:0,TR: BEIN SPORTS 1 HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/25865
+#EXTINF:0,TR: BEIN SPORTS 2 HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/25864
+#EXTINF:0,TR: BEIN SPORTS 3 HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/25863
+#EXTINF:0,TR: BEIN SPORTS 4 HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/25862
+#EXTINF:0,TR: BEIN MAX 1 HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/25861
+#EXTINF:0,TR: BEIN MAX 2 HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/25860
+#EXTINF:0,TR: SMART SPOR HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/25859
+#EXTINF:0,TR: SPORTS TV
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/25858
+#EXTINF:0,TR: SARAN SPORT HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/25857
+#EXTINF:0,TR: TIVIBU SPOR 1 HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/25855
+#EXTINF:0,TR: TIVIBU SPOR 2 HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/25854
+#EXTINF:0,TR: TIVIBU SPOR 3 HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/25853
+#EXTINF:0,TR: TIVIBU SPOR 4 HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/25852
+#EXTINF:0,TR: BEIN SPORTS HABER HD PLUS
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/25851
+#EXTINF:0,TR: TRT SPOR HD PLUS
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/25850
+#EXTINF:0,TR: TAY TV HD PLUS
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/25849
+#EXTINF:0,TR: A SPOR HD PLUS
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/25848
+#EXTINF:0,TR: FB TV HD PLUS
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/25847
+#EXTINF:0,TR: BJK TV
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/25846
+#EXTINF:0,TR: GS TV
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/25845
+#EXTINF:0,==== SCANDINAVIA ====
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/8926
+#EXTINF:0,SW: C MORE FOTBOLL HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/16750
+#EXTINF:0,SW: C MORE GOLF HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/16749
+#EXTINF:0,SW: C MORE HOCKEY HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/16747
+#EXTINF:0,SW: ESPORTSTV HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/16727
+#EXTINF:0,SW: EUROSPORT 1 HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/16726
+#EXTINF:0,SW: EUROSPORT 2 HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/16725
+#EXTINF:0,SW: SPORT EXPRESSEN TV
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/16702
+#EXTINF:0,SW: SPORTKANALEN HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/16701
+#EXTINF:0,SW: VIASAT FOTBOLL HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/16678
+#EXTINF:0,SW: VIASAT HOCKEY HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/16676
+#EXTINF:0,SW: VIASAT MOTOR HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/16675
+#EXTINF:0,SW: VIASAT SPORT HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/16672
+#EXTINF:0,SW: VIASAT SPORT PREMIUM HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/16671
+#EXTINF:0,NO: EUROSPORT 1 HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/18429
+#EXTINF:0,NO: EUROSPORT 2 FHD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/18428
+#EXTINF:0,NO: EUROSPORT N FHD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/18427
+#EXTINF:0,NO: EUROSPORT PLUSS 1 HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/18426
+#EXTINF:0,NO: EUROSPORT PLUSS 2 HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/18425
+#EXTINF:0,NO: EUROSPORT PLUSS 3 HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/18424
+#EXTINF:0,NO: EUROSPORT PLUSS 4 HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/18423
+#EXTINF:0,NO: VIASAT GOLF HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/18385
+#EXTINF:0,NO: VIASAT HOCKEY HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/18383
+#EXTINF:0,DK: TV3 SPORT2 HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/20079
+#EXTINF:0,DK: VIASAT GOLF HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/20076
+#EXTINF:0,FI: C MORE GOLF HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/16865
+#EXTINF:0,FI: C MORE SPORT 1 HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/16859
+#EXTINF:0,FI: C MORE SPORT 2 HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/16858
+#EXTINF:0,FI: SPORT 1 ELISA VIIHDE HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/16839
+#EXTINF:0,FI: SPORT 2 ELISA VIIHDE HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/16838
+#EXTINF:0,FI: SPORT 3 ELISA VIIHDE HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/16837
+#EXTINF:0,FI: SPORT 4 ELISA VIIHDE HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/16836
+#EXTINF:0,FI: SPORT 5 ELISA VIIHDE HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/16835
+#EXTINF:0,FI: SPORT 6 ELISA VIIHDE HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/16834
+#EXTINF:0,FI: SPORT 7 ELISA VIIHDE HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/16833
+#EXTINF:0,FI: SPORT 8 ELISA VIIHDE HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/16832
+#EXTINF:0,PT: Eurosport 1 HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/26433
+#EXTINF:0,PT: Eurosport 2
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/26432
+#EXTINF:0,PT: Motors TV
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/26406
+#EXTINF:0,PT: Motorvision
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/26405
+#EXTINF:0,PT: NBA HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/26398
+#EXTINF:0,PT: Sport TV
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/26369
+#EXTINF:0,PT: Sport TV 4 FHD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/26368
+#EXTINF:0,PT: Sport TV 4K
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/26367
+#EXTINF:0,PT: Sport TV 5 FHD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/26366
+#EXTINF:0,PT: Sporting TV
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/26365
+#EXTINF:0,PT: Sporting TV HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/26364
+#EXTINF:0,PT: SportTV 3 HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/26363
+#EXTINF:0,PT: SporTV  HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/26362
+#EXTINF:0,PT: SporTV 1
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/26361
+#EXTINF:0,PT: SporTV 1 FHD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/26360
+#EXTINF:0,PT: SporTV 1 HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/26359
+#EXTINF:0,PT: SporTV 2
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/26358
+#EXTINF:0,PT: SporTV 2 FHD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/26357
+#EXTINF:0,PT: SporTV 2 HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/26356
+#EXTINF:0,PT: SporTV 3
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/26355
+#EXTINF:0,PT: SporTV 3 FHD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/26354
+#EXTINF:0,PT: SporTV 4
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/26353
+#EXTINF:0,PT: SporTV 4 HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/26352
+#EXTINF:0,PT: SporTV 5
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/26351
+#EXTINF:0,PT: SporTV 5 HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/26350
+#EXTINF:0,PT: ELEVEN SPORTS 1 HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/26319
+#EXTINF:0,PT: ELEVEN SPORTS 2 HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/26318
+#EXTINF:0,PT: ELEVEN SPORTS 3 HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/26317
+#EXTINF:0,PT: ELEVEN SPORTS 4 HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/26316
+#EXTINF:0,PT: ELEVEN SPORTS 5 HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/26315
+#EXTINF:0,PT: ELEVEN SPORTS 6 HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/26314
+#EXTINF:0,==== Polonia ====
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/8819
+#EXTINF:0,PL: EUROSPORT 2 HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/16026
+#EXTINF:0,PL: EXTREME SPORTS HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/16025
+#EXTINF:0,PL: POLSAT SPORT EXTRA
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/15991
+#EXTINF:0,PL: POLSAT SPORT EXTRA HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/15990
+#EXTINF:0,PL: POLSAT SPORT FIGHT HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/15989
+#EXTINF:0,PL: POLSAT SPORT HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/15988
+#EXTINF:0,PL: POLSAT SPORT NEWS HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/15987
+#EXTINF:0,PL: TVP SPORT HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/15960
+#EXTINF:0,US: NBC HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/23655
+#EXTINF:0,US: TENNIS HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/23648
+#EXTINF:0,US: ELEVEN SPORTS HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/23647
+#EXTINF:0,US: BTN HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/23645
+#EXTINF:0,US: AFN Sports 1
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/18469
+#EXTINF:0,US: TSN SPORT 1 HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/18474
+#EXTINF:0,US: TSN SPORT 2 HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/18473
+#EXTINF:0,US: TSN SPORT 3 HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/18472
+#EXTINF:0,US: TSN SPORT 4 HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/18471
+#EXTINF:0,US: TSN SPORT 5 HD
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/18470
+#EXTINF:0,CA: TSN 1
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/20869
+#EXTINF:0,CA: TSN 2
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/20868
+#EXTINF:0,CA: TSN 3
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/20867
+#EXTINF:0,CA: TSN 4
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/20866
+#EXTINF:0,CA: TSN 5
+http://rocksat.ddns.net:25461/2s4qpn2r/vd6NoCe41X/20865
