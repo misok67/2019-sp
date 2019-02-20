@@ -1,5 +1,28 @@
 #EXTM3U
-
+#EXTINF:-1,UK: Sky BT Sport 2
+http://ipsatpro.com:8080/Y/1234/542
+#EXTINF:-1,DE: Sky Sport 1 HD
+http://ipsatpro.com:8080/Y/1234/829
+#EXTINF:-1,DE: Sky Sport 2 HD
+http://ipsatpro.com:8080/Y/1234/826
+#EXTINF:-1,DE: Sky Sport 1
+http://ipsatpro.com:8080/Y/1234/827
+#EXTINF:-1,DE: Sky Sport 2
+http://ipsatpro.com:8080/Y/1234/828
+#EXTINF:-1,DE: Sky Eurosport
+http://ipsatpro.com:8080/Y/1234/809
+#EXTINF:-1,DE: Dazn Sport 1 HD
+http://ipsatpro.com:8080/Y/1234/830
+#EXTINF:-1,DE: Dazn Sport 2 HD
+http://ipsatpro.com:8080/Y/1234/845
+#EXTINF:-1,NL: Sport 1 Voetbal HD
+http://ipsatpro.com:8080/Y/1234/709
+#EXTINF:-1,NL: Sport 1 Select HD
+http://ipsatpro.com:8080/Y/1234/708
+#EXTINF:-1,AR: Bein Sport 11 HD
+http://ipsatpro.com:8080/Y/1234/159
+#EXTINF:-1,AR: Bein Sport 12 HD
+http://ipsatpro.com:8080/Y/1234/170
 #EXTINF:-1,[DE] SKY SPORT 1 Full HD
 http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/348.ts
 #EXTINF:-1,[DE] SKY SPORT 2 Full HD
@@ -249,193 +272,145 @@ http://vip.fibertv.nl:8000/yunus/yunus/99993
 #EXTINF:-1,**** SPORT 3 LUSTA
 http://vip.fibertv.nl:8000/yunus/yunus/99997
 
-#EXTINF:0,UK | SKY SPORT 1 HD
-http://tre.tithis.com:2015/taner5/5taner/17384
-#EXTINF:0,UK | SKY SPORT 2 HD
-http://tre.tithis.com:2015/taner5/5taner/17385
-#EXTINF:0,UK | SKY SPORT3 HD
-http://tre.tithis.com:2015/taner5/5taner/17386
-#EXTINF:0,UK | SKY SPORT 4 HD
-http://tre.tithis.com:2015/taner5/5taner/17387
-#EXTINF:0,UK | SKY SPORT 5 HD
-http://tre.tithis.com:2015/taner5/5taner/17388
-#EXTINF:0,UK | BT SPORT 1
-http://tre.tithis.com:2015/taner5/5taner/26367
-#EXTINF:0,UK | BT SPORT 2
-http://tre.tithis.com:2015/taner5/5taner/26366
-#EXTINF:0,UK | BT SPORT 3
-http://tre.tithis.com:2015/taner5/5taner/26365
-#EXTINF:0,UK | EUROSPORT 1 HD
-http://tre.tithis.com:2015/taner5/5taner/29776
-#EXTINF:0,UK | EUROSPORT 2 HD
-http://tre.tithis.com:2015/taner5/5taner/29775
-#EXTINF:0,UK | BT SPORT 1.
-http://tre.tithis.com:2015/taner5/5taner/32188
-#EXTINF:0,UK | BT SPORT 1 HD
-http://tre.tithis.com:2015/taner5/5taner/32187
-#EXTINF:0,UK | BT SPORT 2.
-http://tre.tithis.com:2015/taner5/5taner/32186
-#EXTINF:0,UK | BT SPORT 2 HD
-http://tre.tithis.com:2015/taner5/5taner/32185
-#EXTINF:0,UK | BT SPORT 3.
-http://tre.tithis.com:2015/taner5/5taner/32184
-#EXTINF:0,UK | BT SPORT ESPN.
-http://tre.tithis.com:2015/taner5/5taner/32183
-#EXTINF:0,UK | BT SPORT EUROPE HD
-http://tre.tithis.com:2015/taner5/5taner/32182
-#EXTINF:0,UK | SKY SPORT ACTION
-http://tre.tithis.com:2015/taner5/5taner/32198
-#EXTINF:0,UK | SKY SPORT MAIN EVENT
-http://tre.tithis.com:2015/taner5/5taner/32195
-#EXTINF:0,UK | SKY SPORT MAIN EVENT.
-http://tre.tithis.com:2015/taner5/5taner/32194
-#EXTINF:0,UK | SKY SPORT PREMIER LEAGUE
-http://tre.tithis.com:2015/taner5/5taner/32192
-#EXTINF:0,UK | SKY SPORTS F1 HD
-http://tre.tithis.com:2015/taner5/5taner/32190
-#EXTINF:0,UK | SKY SPORTS NEWS HD
-http://tre.tithis.com:2015/taner5/5taner/32189
-
-
-#EXTINF:0,DE: DAZN 1 BAR HD
-http://tre.tithis.com:2015/taner5/5taner/39320
-#EXTINF:0,DE: DAZN 2 BAR HD
-http://tre.tithis.com:2015/taner5/5taner/39319
-#EXTINF:0,DE: SKY SPORT 1 HD
-http://tre.tithis.com:2015/taner5/5taner/39274
-#EXTINF:0,DE: SKY SPORT 2 HD
-http://tre.tithis.com:2015/taner5/5taner/39271
-#EXTINF:0,DE: SKY SPORT 3 HD
-http://tre.tithis.com:2015/taner5/5taner/39270
-#EXTINF:0,DE: SKY SPORT 1
-http://tre.tithis.com:2015/taner5/5taner/24071
-#EXTINF:0,DE: SKY SPORT 2
-http://tre.tithis.com:2015/taner5/5taner/24068
-#EXTINF:0,DE: SKY SPORT BUNDESLIGA 1 HD
-http://tre.tithis.com:2015/taner5/5taner/39264
-#EXTINF:0,DE: EUROSPORT 1 HD
-http://tre.tithis.com:2015/taner5/5taner/39310
-#EXTINF:0,DE: EUROSPORT 2 HD
-http://tre.tithis.com:2015/taner5/5taner/39309
-#EXTINF:0,NL|FOX SPORTS 1
-http://tre.tithis.com:2015/taner5/5taner/34453
-#EXTINF:0,NL|FOX SPORTS 2
-http://tre.tithis.com:2015/taner5/5taner/34452
-#EXTINF:0,NL|FOX SPORTS 3
-http://tre.tithis.com:2015/taner5/5taner/34451
-#EXTINF:0,NL|FOX SPORTS 4 HD
-http://tre.tithis.com:2015/taner5/5taner/34519
-#EXTINF:0,NL|FOX SPORTS 5 HD
-http://tre.tithis.com:2015/taner5/5taner/34518
-#EXTINF:0,NL|FOX SPORTS 6 HD
-http://tre.tithis.com:2015/taner5/5taner/34517
-#EXTINF:0,NL|FOX SPORTS EDL 1 HD
-http://tre.tithis.com:2015/taner5/5taner/34522
-#EXTINF:0,NL|FOX SPORTS EDL 2 HD
-http://tre.tithis.com:2015/taner5/5taner/34521
-#EXTINF:0,NL|FOX SPORTS EDL 3 HD
-http://tre.tithis.com:2015/taner5/5taner/34520
-#EXTINF:0,NL|ZIGGO SPORT SELECT HD
-http://tre.tithis.com:2015/taner5/5taner/34515
-#EXTINF:0,NL|ZIGGO SPORT SELECT HD BACKUP
-http://tre.tithis.com:2015/taner5/5taner/34514
-#EXTINF:0,NL|ZIGGO SPORT VOETBAL HD
-http://tre.tithis.com:2015/taner5/5taner/34516
-#EXTINF:0,SP:VIASAT SPORT HD
-http://tre.tithis.com:2015/taner5/5taner/14868
-http://tre.tithis.com:2015/taner5/5taner/14876
-#EXTINF:0,SP:ZIGGO SPORT HD
-http://tre.tithis.com:2015/taner5/5taner/14878
-#EXTINF:0,SP:ZIGGO SPORT VOETBAL
-http://tre.tithis.com:2015/taner5/5taner/14877
-
-#EXTINF:0,Bein sport 1 HD
-http://tre.tithis.com:2015/taner5/5taner/36957
-#EXTINF:0,Bein sport 2 HD
-http://tre.tithis.com:2015/taner5/5taner/36956
-#EXTINF:0,Bein sport 3 HD
-http://tre.tithis.com:2015/taner5/5taner/36955
-#EXTINF:0,Bein sport 4 HD
-http://tre.tithis.com:2015/taner5/5taner/36954
-#EXTINF:0,Bein sport 5 HD
-http://tre.tithis.com:2015/taner5/5taner/36953
-#EXTINF:0,Bein sport 6 HD
-http://tre.tithis.com:2015/taner5/5taner/36952
-#EXTINF:0,Bein sport 7 HD
-http://tre.tithis.com:2015/taner5/5taner/36951
-#EXTINF:0,Bein sport 8 HD
-http://tre.tithis.com:2015/taner5/5taner/36950
-#EXTINF:0,Bein sport 9 HD
-http://tre.tithis.com:2015/taner5/5taner/36949
-#EXTINF:0,Bein sport 10 HD
-http://tre.tithis.com:2015/taner5/5taner/36948
-#EXTINF:0,Bein sport 11 HD
-http://tre.tithis.com:2015/taner5/5taner/36947
-#EXTINF:0,Bein sport 12 HD
-http://tre.tithis.com:2015/taner5/5taner/36946
-#EXTINF:0,VIP BeinSport HD1
-http://tre.tithis.com:2015/taner5/5taner/36945
-#EXTINF:0,VIP BeinSport HD2
-http://tre.tithis.com:2015/taner5/5taner/36944
-#EXTINF:0,VIP BeinSport HD3
-http://tre.tithis.com:2015/taner5/5taner/36943
-#EXTINF:0,VIP BeinSport HD4
-http://tre.tithis.com:2015/taner5/5taner/36942
-#EXTINF:0,VIP BeinSport HD5
-http://tre.tithis.com:2015/taner5/5taner/36941
-#EXTINF:0,VIP BeinSport HD6
-http://tre.tithis.com:2015/taner5/5taner/36940
-#EXTINF:0,VIP BeinSport HD7
-http://tre.tithis.com:2015/taner5/5taner/36939
-#EXTINF:0,VIP BeinSport HD8
-http://tre.tithis.com:2015/taner5/5taner/36938
-#EXTINF:0,VIP BeinSport HD9
-http://tre.tithis.com:2015/taner5/5taner/36937
-#EXTINF:0,VIP BeinSport HD10
-http://tre.tithis.com:2015/taner5/5taner/36936
-#EXTINF:0,VIP BeinSport HD11
-http://tre.tithis.com:2015/taner5/5taner/36935
-#EXTINF:0,VIP BeinSport HD12
-http://tre.tithis.com:2015/taner5/5taner/36934
-#EXTINF:0,AR | BEIN SPORT 10 HD
-http://tre.tithis.com:2015/taner5/5taner/17252
-#EXTINF:0,AR | BEIN SPORT 11 HD
-http://tre.tithis.com:2015/taner5/5taner/17251
-#EXTINF:0,AR | BEIN SPORT 12 HD
-http://tre.tithis.com:2015/taner5/5taner/17250
-#EXTINF:0,FR: Canal  Sport
-http://tre.tithis.com:2015/taner5/5taner/12025
-#EXTINF:0,FR: CANAL SPORT
-http://tre.tithis.com:2015/taner5/5taner/28681
-#EXTINF:0,SFR SPORT 1HD
-http://tre.tithis.com:2015/taner5/5taner/36911
-#EXTINF:0,SFR SPORT 2HD
-http://tre.tithis.com:2015/taner5/5taner/36910
-#EXTINF:0,SFR SPORT 3HD
-http://tre.tithis.com:2015/taner5/5taner/36909
-#EXTINF:0,Bein Sport 1HD FR
-http://tre.tithis.com:2015/taner5/5taner/36908
-#EXTINF:0,Bein Sport 2HD FR
-http://tre.tithis.com:2015/taner5/5taner/36907
-#EXTINF:0,Bein Sport 3HD FR
-http://tre.tithis.com:2015/taner5/5taner/36906
-#EXTINF:0,AR | BEIN SPORT 1HD FR
-http://tre.tithis.com:2015/taner5/5taner/17234
-#EXTINF:0,AR | BEIN SPORT 2HD FR
-http://tre.tithis.com:2015/taner5/5taner/17233
-#EXTINF:0,AR | BEIN SPORT 3HD FR
-http://tre.tithis.com:2015/taner5/5taner/17232
-#EXTINF:0,SP|BEIN LA LIGA 1
-http://tre.tithis.com:2015/taner5/5taner/34435
-#EXTINF:0,SP|BEIN LA LIGA HD
-http://tre.tithis.com:2015/taner5/5taner/34433
-#EXTINF:0,SP|BEIN LALIGA
-http://tre.tithis.com:2015/taner5/5taner/34432
-#EXTINF:0,SP:BEIN LALIGA HD
-http://tre.tithis.com:2015/taner5/5taner/14941
-#EXTINF:0,SP:BEIN SPORT 4 HD
-http://tre.tithis.com:2015/taner5/5taner/14944
-#EXTINF:0,SP|MULTIDEPORTE 1
-http://tre.tithis.com:2015/taner5/5taner/34346
-#EXTINF:0,SP|MULTIDEPORTE 2
-http://tre.tithis.com:2015/taner5/5taner/34345
+#EXTINF:-1,UK: Sky Sports News
+http://ipsatpro.com:8080/Y/1234/549
+#EXTINF:-1,UK: Sky BT Sport 1
+http://ipsatpro.com:8080/Y/1234/543
+#EXTINF:-1,UK: Sky BT Sport 2
+http://ipsatpro.com:8080/Y/1234/542
+#EXTINF:-1,UK: Sky BT Sport 1 HD
+http://ipsatpro.com:8080/Y/1234/528
+#EXTINF:-1,UK: Sky BT Sport 2 HD
+http://ipsatpro.com:8080/Y/1234/527
+#EXTINF:-1,UK: Sky BT Sport ESPN
+http://ipsatpro.com:8080/Y/1234/479
+#EXTINF:-1,UK: Sky BT Sport 3 (Ex Europe)
+http://ipsatpro.com:8080/Y/1234/453
+#EXTINF:-1,UK: Sky Eurosport 1 HD
+http://ipsatpro.com:8080/Y/1234/541
+#EXTINF:-1,UK: Sky Eurosport 2 HD
+http://ipsatpro.com:8080/Y/1234/540
+#EXTINF:-1,UK: Sky Sports F1
+http://ipsatpro.com:8080/Y/1234/539
+#EXTINF:-1,UK: Sky Sport AU 1
+http://ipsatpro.com:8080/Y/1234/438
+#EXTINF:-1,UK: Sky Sports Action
+http://ipsatpro.com:8080/Y/1234/1560
+#EXTINF:-1,UK: Sky Sports Action HD
+http://ipsatpro.com:8080/Y/1234/545
+#EXTINF:-1,UK: Sky Sports Premier
+http://ipsatpro.com:8080/Y/1234/1565
+#EXTINF:-1,UK: Sky Sports Premier League
+http://ipsatpro.com:8080/Y/1234/1562
+#EXTINF:-1,UK: Sky Sports Premier League HD
+http://ipsatpro.com:8080/Y/1234/544
+#EXTINF:-1,UK: Sky Sports Main Event
+http://ipsatpro.com:8080/Y/1234/1561
+#EXTINF:-1,UK: Sky Sports Main Event HD
+http://ipsatpro.com:8080/Y/1234/546
+#EXTINF:-1,UK: Sky Sports Golf HD
+http://ipsatpro.com:8080/Y/1234/1563
+#EXTINF:-1,UK: Sky Sport Arena
+http://ipsatpro.com:8080/Y/1234/1558
+#EXTINF:-1,UK: Sky Sport Football
+http://ipsatpro.com:8080/Y/1234/1559
+#EXTINF:-1,UK: Sky Sports Mix HD
+http://ipsatpro.com:8080/Y/1234/513
+#EXTINF:-1,DE: Sky Sport News
+http://ipsatpro.com:8080/Y/1234/759
+#EXTINF:-1,DE: Sky Sport 1 HD
+http://ipsatpro.com:8080/Y/1234/829
+#EXTINF:-1,DE: Sky Sport 2 HD
+http://ipsatpro.com:8080/Y/1234/826
+#EXTINF:-1,DE: Sky Sport 1
+http://ipsatpro.com:8080/Y/1234/827
+#EXTINF:-1,DE: Sky Sport 2
+http://ipsatpro.com:8080/Y/1234/828
+#EXTINF:-1,DE: Sky Eurosport
+http://ipsatpro.com:8080/Y/1234/809
+#EXTINF:-1,DE: Dazn Sport 1 HD
+http://ipsatpro.com:8080/Y/1234/830
+#EXTINF:-1,DE: Dazn Sport 2 HD
+http://ipsatpro.com:8080/Y/1234/845
+#EXTINF:-1,DE: Sky UPC Sport
+http://ipsatpro.com:8080/Y/1234/1663
+#EXTINF:-1,DE: Sky Sport 3 HD (Only at Games)
+http://ipsatpro.com:8080/Y/1234/839
+#EXTINF:-1,NL: Fox Sports 1
+http://ipsatpro.com:8080/Y/1234/710
+#EXTINF:-1,NL: Fox Sports 2
+http://ipsatpro.com:8080/Y/1234/711
+#EXTINF:-1,NL: Fox Sports 3
+http://ipsatpro.com:8080/Y/1234/712
+#EXTINF:-1,NL: Fox Sports 4
+http://ipsatpro.com:8080/Y/1234/713
+#EXTINF:-1,NL: Fox Sports 5
+http://ipsatpro.com:8080/Y/1234/714
+#EXTINF:-1,NL: Fox Sports 6
+http://ipsatpro.com:8080/Y/1234/743
+#EXTINF:-1,NL: Sport 1 Voetbal HD
+http://ipsatpro.com:8080/Y/1234/709
+#EXTINF:-1,NL: Sport 1 Select HD
+http://ipsatpro.com:8080/Y/1234/708
+#EXTINF:-1,FR: Beinsport 1
+http://ipsatpro.com:8080/Y/1234/366
+#EXTINF:-1,FR: Beinsport 2
+http://ipsatpro.com:8080/Y/1234/365
+#EXTINF:-1,FR: Beinsport 3
+http://ipsatpro.com:8080/Y/1234/364
+#EXTINF:-1,FR: RMC Sport 1
+http://ipsatpro.com:8080/Y/1234/381
+#EXTINF:-1,FR: RMC Sport 2
+http://ipsatpro.com:8080/Y/1234/382
+#EXTINF:-1,FR: Canal+ Sport
+http://ipsatpro.com:8080/Y/1234/350
+#EXTINF:-1,ES: Movistar Deportes HD
+http://ipsatpro.com:8080/Y/1234/1012
+#EXTINF:-1,ES: Movistar Deportes 2 HD
+http://ipsatpro.com:8080/Y/1234/2590
+#EXTINF:-1,ES: Bein Sport ES HD
+http://ipsatpro.com:8080/Y/1234/1003
+#EXTINF:-1,ES: Direct Sports LT
+http://ipsatpro.com:8080/Y/1234/2683
+#EXTINF:-1,ES: Direct Sports 2 LT
+http://ipsatpro.com:8080/Y/1234/2684
+#EXTINF:-1,AR: Bein Sport 10 HD
+http://ipsatpro.com:8080/Y/1234/160
+#EXTINF:-1,AR: Bein Sport 11 HD
+http://ipsatpro.com:8080/Y/1234/159
+#EXTINF:-1,AR: Bein Sport 12 HD
+http://ipsatpro.com:8080/Y/1234/170
+#EXTINF:-1,IT: Sky Sport Serie A HD
+http://ipsatpro.com:8080/Y/1234/643
+#EXTINF:-1,IT: Sky Sport Football HD
+http://ipsatpro.com:8080/Y/1234/642
+#EXTINF:-1,IT: Sky Sport Arena HD
+http://ipsatpro.com:8080/Y/1234/641
+#EXTINF:-1,IT: Sky Sport NBA HD
+http://ipsatpro.com:8080/Y/1234/650
+#EXTINF:-1,IT: Sky Sport Uno HD
+http://ipsatpro.com:8080/Y/1234/655
+#EXTINF:-1,IT: Sky Sport 24 HD
+http://ipsatpro.com:8080/Y/1234/652
+#EXTINF:-1,IT: Super Tennis HD
+http://ipsatpro.com:8080/Y/1234/645
+#EXTINF:-1,US: Sport TSN 1
+http://ipsatpro.com:8080/Y/1234/1451
+#EXTINF:-1,US: Sport TSN 2
+http://ipsatpro.com:8080/Y/1234/1452
+#EXTINF:-1,US: Sport TSN 3
+http://ipsatpro.com:8080/Y/1234/1453
+#EXTINF:-1,US: Sport TSN 4
+http://ipsatpro.com:8080/Y/1234/1454
+#EXTINF:-1,US: Sport TSN 5
+http://ipsatpro.com:8080/Y/1234/1455
+#EXTINF:-1,US: BeIN Sports US
+http://ipsatpro.com:8080/Y/1234/1486
+#EXTINF:-1,US: Espn Sport
+http://ipsatpro.com:8080/Y/1234/1483
+#EXTINF:-1,US: FOX Sports 1
+http://ipsatpro.com:8080/Y/1234/1516
+#EXTINF:-1,US: FOX Sports 2
+http://ipsatpro.com:8080/Y/1234/1502
+#EXTINF:-1,US: Flow Sports 1 HD
+http://ipsatpro.com:8080/Y/1234/1519
