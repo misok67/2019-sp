@@ -1,153 +1,135 @@
 #EXTM3U
-#EXTINF:-1,SPORT 0K
+#EXTINF:-1,*****  SPORT 0K    *****
 http://www.
-#EXTINF:-1,|UK| BT SPORTS 1 FHD
-http://line.myott.net:80/live/1234/4321/18033.ts
-#EXTINF:-1,|UK| BT SPORTS 1 HD
-http://line.myott.net:80/live/1234/4321/35991.ts
-#EXTINF:-1,|UK| BT SPORTS 1
-http://line.myott.net:80/live/1234/4321/46422.ts
-#EXTINF:-1,|UK| BT SPORTS 2 FHD
-http://line.myott.net:80/live/1234/4321/18032.ts
-#EXTINF:-1,|UK| BT SPORTS 2 HD
-http://line.myott.net:80/live/1234/4321/35992.ts
-#EXTINF:-1,|UK| BT SPORTS 2
-http://line.myott.net:80/live/1234/4321/46421.ts
-#EXTINF:-1,|UK| BT SPORTS 3 FHD
-http://line.myott.net:80/live/1234/4321/18031.ts
-#EXTINF:-1,|UK| BT SPORTS 3 HD
-http://line.myott.net:80/live/1234/4321/35993.ts
-#EXTINF:-1,|UK| BT SPORTS 3
-http://line.myott.net:80/live/1234/4321/46420.ts
-#EXTINF:-1,|UK| BT SPORTS ESPN HD
-http://line.myott.net:80/live/1234/4321/18034.ts
-#EXTINF:-1,|UK| EUROSPORTS 1 FHD
-http://line.myott.net:80/live/1234/4321/18029.ts
-#EXTINF:-1,|UK| EUROSPORTS 1
-http://line.myott.net:80/live/1234/4321/46412.ts
-#EXTINF:-1,|UK| EUROSPORTS 2 FHD
-http://line.myott.net:80/live/1234/4321/18028.ts
-#EXTINF:-1,|UK| EUROSPORTS 2
-http://line.myott.net:80/live/1234/4321/46411.ts
-#EXTINF:-1,|UK| SKY SPORTS ACTION FHD
-http://line.myott.net:80/live/1234/4321/18045.ts
-#EXTINF:-1,|UK| SKY SPORTS ACTION
-http://line.myott.net:80/live/1234/4321/46408.ts
-#EXTINF:-1,|UK| SKY SPORTS ARENA FHD
-http://line.myott.net:80/live/1234/4321/18044.ts
-#EXTINF:-1,|UK| SKY SPORTS ARENA
-http://line.myott.net:80/live/1234/4321/46407.ts
-#EXTINF:-1,|UK| SKY SPORTS F1 FHD
-http://line.myott.net:80/live/1234/4321/18042.ts
-#EXTINF:-1,|UK| SKY SPORTS GOLF FHD
-http://line.myott.net:80/live/1234/4321/18040.ts
-#EXTINF:-1,|UK| SKY SPORTS MAIN EVENT FHD
-http://line.myott.net:80/live/1234/4321/18039.ts
-#EXTINF:-1,|UK| SKY SPORTS MAIN EVENT
-http://line.myott.net:80/live/1234/4321/46402.ts
-#EXTINF:-1,|UK| SKY SPORTS MIX HD
-http://line.myott.net:80/live/1234/4321/18037.ts
-#EXTINF:-1,|UK| SKY SPORTS MIX
-http://line.myott.net:80/live/1234/4321/46474.ts
-#EXTINF:-1,|UK| SKY SPORTS PREMIER LEAGUE FHD
-http://line.myott.net:80/live/1234/4321/18038.ts
-#EXTINF:-1,|UK| SKY SPORTS PREMIER LEAGUE
-http://line.myott.net:80/live/1234/4321/46401.ts
+#EXTINF:-1,SPORT KLUB 1 HD
+http://gatoriptv.pro:25461/029556285616/AiDezBpOgyS0Smx/26291
+#EXTINF:-1,SPORT KLUB 2 HD
+http://gatoriptv.pro:25461/029556285616/AiDezBpOgyS0Smx/26290
+#EXTINF:-1,SPORT KLUB  3 HD
+http://gatoriptv.pro:25461/029556285616/AiDezBpOgyS0Smx/26289
+#EXTINF:-1,SPORT KLUB 1 HD
+http://gatoriptv.pro:25461/029556285616/AiDezBpOgyS0Smx/26107
+#EXTINF:-1,SPORT KLUB 1 SLO
+http://gatoriptv.pro:25461/029556285616/AiDezBpOgyS0Smx/26106
+#EXTINF:-1,SPORT KLUB 1 SR
+http://gatoriptv.pro:25461/029556285616/AiDezBpOgyS0Smx/26105
+#EXTINF:-1,SPORT KLUB 2 HD
+http://gatoriptv.pro:25461/029556285616/AiDezBpOgyS0Smx/26104
+#EXTINF:-1,SPORT KLUB 2 SR
+http://gatoriptv.pro:25461/029556285616/AiDezBpOgyS0Smx/26103
+#EXTINF:-1,SPORT KLUB 3 HD
+http://gatoriptv.pro:25461/029556285616/AiDezBpOgyS0Smx/26102
+#EXTINF:-1,SPORT KLUB 3 SR
+http://gatoriptv.pro:25461/029556285616/AiDezBpOgyS0Smx/26101
+#EXTINF:-1,SPORT KLUB 4
+http://gatoriptv.pro:25461/029556285616/AiDezBpOgyS0Smx/26100
+#EXTINF:-1,SPORT KLUB 5
+http://gatoriptv.pro:25461/029556285616/AiDezBpOgyS0Smx/26099
+#EXTINF:-1,SPORT KLUB 6
+http://gatoriptv.pro:25461/029556285616/AiDezBpOgyS0Smx/26098
+#EXTINF:-1,ARENA SPORT 1 HD
+http://gatoriptv.pro:25461/029556285616/AiDezBpOgyS0Smx/26125
+#EXTINF:-1,ARENA SPORT 1 SR HD
+http://gatoriptv.pro:25461/029556285616/AiDezBpOgyS0Smx/26123
+#EXTINF:-1,ARENA SPORT 1 SR
+http://gatoriptv.pro:25461/029556285616/AiDezBpOgyS0Smx/26124
+#EXTINF:-1,ARENA SPORT 2 HD
+http://gatoriptv.pro:25461/029556285616/AiDezBpOgyS0Smx/26122
+#EXTINF:-1,ARENA SPORT 2 SR HD
+http://gatoriptv.pro:25461/029556285616/AiDezBpOgyS0Smx/26120
+#EXTINF:-1,ARENA SPORT 2 SR
+http://gatoriptv.pro:25461/029556285616/AiDezBpOgyS0Smx/26121
+#EXTINF:-1,ARENA SPORT 3 HD
+http://gatoriptv.pro:25461/029556285616/AiDezBpOgyS0Smx/26119
+#EXTINF:-1,ARENA SPORT 3 SR HD
+http://gatoriptv.pro:25461/029556285616/AiDezBpOgyS0Smx/26117
+#EXTINF:-1,ARENA SPORT 3 SR
+http://gatoriptv.pro:25461/029556285616/AiDezBpOgyS0Smx/26118
+#EXTINF:-1,ARENA SPORT 4 HD
+http://gatoriptv.pro:25461/029556285616/AiDezBpOgyS0Smx/26116
+#EXTINF:-1,ARENA SPORT 4 SR HD
+http://gatoriptv.pro:25461/029556285616/AiDezBpOgyS0Smx/26114
+#EXTINF:-1,ARENA SPORT 4 SR
+http://gatoriptv.pro:25461/029556285616/AiDezBpOgyS0Smx/26115
+#EXTINF:-1,ARENA SPORT 5 HD
+http://gatoriptv.pro:25461/029556285616/AiDezBpOgyS0Smx/26113
 
-#EXTINF:-1,BEIN SPORTS 10 HD Ultra+
-http://line.myott.net:80/live/1234/4321/51269.ts
-#EXTINF:-1,|AR| 4K - BEIN SPORTS 10 HD
-http://line.myott.net:80/live/1234/4321/28563.ts
-#EXTINF:-1,|AR| 4K - BEIN SPORTS 11 HD EN
-http://line.myott.net:80/live/1234/4321/28561.ts
-#EXTINF:-1,|AR| 4K - BEIN SPORTS 12 HD EN
-http://line.myott.net:80/live/1234/4321/28560.ts
-#EXTINF:-1,|DE| DAZN 1 BAR HD
-http://line.myott.net:80/live/1234/4321/47004.ts
-#EXTINF:-1,|DE| DAZN 2 BAR HD
-http://line.myott.net:80/live/1234/4321/47005.ts
-#EXTINF:-1,|DE| EUROSPORT 1 HD
-http://line.myott.net:80/live/1234/4321/3713.ts
-#EXTINF:-1,|DE| EUROSPORT 2  XTRA HD
-http://line.myott.net:80/live/1234/4321/48423.ts
-#EXTINF:-1,|DE| EUROSPORT 2 HD
-http://line.myott.net:80/live/1234/4321/3714.ts
-#EXTINF:-1,|DE| SKY BUNDESLIGA 1 HD
-http://line.myott.net:80/live/1234/4321/2563.ts
-#EXTINF:-1,|DE| SKY SPORT 1 HD
-http://line.myott.net:80/live/1234/4321/582.ts
-#EXTINF:-1,|DE| SKY SPORT 1
-http://line.myott.net:80/live/1234/4321/8511.ts
-#EXTINF:-1,|DE| SKY SPORT 2 HD
-http://line.myott.net:80/live/1234/4321/8509.ts
-#EXTINF:-1,|DE| SKY SPORT 2
-http://line.myott.net:80/live/1234/4321/3052.ts
-#EXTINF:-1,|FR| BEIN SPORT 1 HD
-http://line.myott.net:80/live/1234/4321/1419.ts
-#EXTINF:-1,|FR| BEIN SPORT 2 HD
-http://line.myott.net:80/live/1234/4321/1420.ts
-#EXTINF:-1,|FR| BEIN SPORT 3 HD
-http://line.myott.net:80/live/1234/4321/1421.ts
-#EXTINF:-1,|FR| FHD  CANAL SPORT FHD
-http://line.myott.net:80/live/1234/4321/4247.ts
-#EXTINF:-1,|IT| SKY SPORT 1 FHD
-http://line.myott.net:80/live/1234/4321/19207.ts
-#EXTINF:-1,|IT| SKY SPORT 2 FHD
-http://line.myott.net:80/live/1234/4321/19204.ts
-#EXTINF:-1,|IT| SKY SPORT 251 FHD
-http://line.myott.net:80/live/1234/4321/19166.ts
-#EXTINF:-1,|IT| SKY SPORT 252 FHD
-http://line.myott.net:80/live/1234/4321/19163.ts
-#EXTINF:-1,|IT| SKY SPORT 253 FHD
-http://line.myott.net:80/live/1234/4321/19160.ts
-#EXTINF:-1,|IT| SKY SPORT 3 FHD
-http://line.myott.net:80/live/1234/4321/19201.ts
-#EXTINF:-1,|NL-4K| FOX SPORTS 1 HD
-http://line.myott.net:80/live/1234/4321/10439.ts
-#EXTINF:-1,|NL-4K| FOX SPORTS 2 HD
-http://line.myott.net:80/live/1234/4321/10440.ts
-#EXTINF:-1,|NL-4K| FOX SPORTS 3 HD
-http://line.myott.net:80/live/1234/4321/10441.ts
-#EXTINF:-1,|NL-4K| FOX SPORTS 4 HD
-http://line.myott.net:80/live/1234/4321/10442.ts
-#EXTINF:-1,|NL-4K| FOX SPORTS 5 HD
-http://line.myott.net:80/live/1234/4321/10443.ts
-#EXTINF:-1,|NL-4K| FOX SPORTS 6 HD
-http://line.myott.net:80/live/1234/4321/10444.ts
-#EXTINF:-1,|NL-4K| ZIGGO SPORT SELECT HD
-http://line.myott.net:80/live/1234/4321/10593.ts
-#EXTINF:-1,|NL-4K| ZIGGO SPORT VOETBAL HD
-http://line.myott.net:80/live/1234/4321/10592.ts
-#EXTINF:-1,|PL| POLSAT SPORT EXTRA HD
-http://line.myott.net:80/live/1234/4321/27630.ts
-#EXTINF:-1,|PL| POLSAT SPORT HD
-http://line.myott.net:80/live/1234/4321/27614.ts
-#EXTINF:-1,|PL| POLSAT SPORT NEWS HD
-http://line.myott.net:80/live/1234/4321/27622.ts
-#EXTINF:-1,|SP| M. DEPORTE 1 HD
-http://line.myott.net:80/live/1234/4321/36528.ts
-#EXTINF:-1,|SP| TELE DEPORTE
-http://line.myott.net:80/live/1234/4321/36486.ts
-#EXTINF:-1,|USA| BEIN SPORTS HD
-http://line.myott.net:80/live/1234/4321/65147.ts
-#EXTINF:-1,|USA| ESPNDEPORTES HD
-http://line.myott.net:80/live/1234/4321/65157.ts
-#EXTINF:-1,|USA| FOX SPORTS 1 HD
-http://line.myott.net:80/live/1234/4321/65209.ts
-#EXTINF:-1,|USA| FOX SPORTS 2 HD
-http://line.myott.net:80/live/1234/4321/65208.ts
-#EXTINF:-1,|CA| TSN 1
-http://line.myott.net:80/live/1234/4321/51701.ts
-#EXTINF:-1,|CA| TSN 2
-http://line.myott.net:80/live/1234/4321/51700.ts
-#EXTINF:-1,|CA| TSN 3
-http://line.myott.net:80/live/1234/4321/51699.ts
-#EXTINF:-1,|CA| TSN 4
-http://line.myott.net:80/live/1234/4321/51698.ts
-#EXTINF:-1,|CA| TSN 5
-http://line.myott.net:80/live/1234/4321/51697.ts
+#EXTINF:-1,DE: DAZN 1 BAR FHD
+http://gatoriptv.pro:25461/029556285616/AiDezBpOgyS0Smx/22420
+#EXTINF:-1,DE: DAZN 2 BAR FHD
+http://gatoriptv.pro:25461/029556285616/AiDezBpOgyS0Smx/22419
+#EXTINF:-1,DE: EUROSPORT 1 HD
+http://gatoriptv.pro:25461/029556285616/AiDezBpOgyS0Smx/22424
+#EXTINF:-1,DE: EUROSPORT 2  XTRA HD
+http://gatoriptv.pro:25461/029556285616/AiDezBpOgyS0Smx/22422
+#EXTINF:-1,DE: EUROSPORT 2 HD
+http://gatoriptv.pro:25461/029556285616/AiDezBpOgyS0Smx/22423
+#EXTINF:-1,DE: SKY BUNDESLIGA 1 HD
+http://gatoriptv.pro:25461/029556285616/AiDezBpOgyS0Smx/22414
+#EXTINF:-1,DE: SKY SPORT 1 HD
+http://gatoriptv.pro:25461/029556285616/AiDezBpOgyS0Smx/22418
+#EXTINF:-1,DE: SKY SPORT 1
+http://gatoriptv.pro:25461/029556285616/AiDezBpOgyS0Smx/22416
+#EXTINF:-1,DE: SKY SPORT 2 HD
+http://gatoriptv.pro:25461/029556285616/AiDezBpOgyS0Smx/22417
+#EXTINF:-1,DE: SKY SPORT 2
+http://gatoriptv.pro:25461/029556285616/AiDezBpOgyS0Smx/22415
+#EXTINF:-1,NL : Fox Sport 1
+http://gatoriptv.pro:25461/029556285616/AiDezBpOgyS0Smx/5185
+#EXTINF:-1,NL : Fox Sport 2
+http://gatoriptv.pro:25461/029556285616/AiDezBpOgyS0Smx/5186
+#EXTINF:-1,NL : Fox Sport 3
+http://gatoriptv.pro:25461/029556285616/AiDezBpOgyS0Smx/5187
+#EXTINF:-1,NL : Fox Sport 4
+http://gatoriptv.pro:25461/029556285616/AiDezBpOgyS0Smx/5188
+#EXTINF:-1,NL : Fox Sport 5
+http://gatoriptv.pro:25461/029556285616/AiDezBpOgyS0Smx/5189
+#EXTINF:-1,NL : Fox Sport 6
+http://gatoriptv.pro:25461/029556285616/AiDezBpOgyS0Smx/5190
+#EXTINF:-1,NL : Ziggo Sport Select
+http://gatoriptv.pro:25461/029556285616/AiDezBpOgyS0Smx/5174
+#EXTINF:-1,NL : Ziggo Sport Voetbal
+http://gatoriptv.pro:25461/029556285616/AiDezBpOgyS0Smx/5173
+#EXTINF:-1,FR: beIN SPORTS 1 FHD
+http://gatoriptv.pro:25461/029556285616/AiDezBpOgyS0Smx/15044
+#EXTINF:-1,FR: beIN SPORTS 2 FHD
+http://gatoriptv.pro:25461/029556285616/AiDezBpOgyS0Smx/15042
+#EXTINF:-1,FR: beIN SPORTS 3 FHD
+http://gatoriptv.pro:25461/029556285616/AiDezBpOgyS0Smx/15040
+#EXTINF:-1,IT: Dazn 1 HD IT
+http://gatoriptv.pro:25461/029556285616/AiDezBpOgyS0Smx/23271
+#EXTINF:-1,IT: Dazn 2 HD IT
+http://gatoriptv.pro:25461/029556285616/AiDezBpOgyS0Smx/23265
+#EXTINF:-1,IT: Fox Sport HD
+http://gatoriptv.pro:25461/029556285616/AiDezBpOgyS0Smx/23171
+#EXTINF:-1,IT: Sky Sport 1 FHD
+http://gatoriptv.pro:25461/029556285616/AiDezBpOgyS0Smx/22962
+#EXTINF:-1,IT: Sky Sport 2 HD  (VIP)
+http://gatoriptv.pro:25461/029556285616/AiDezBpOgyS0Smx/23277
+#EXTINF:-1,IT: Sky Sport 3 HD
+http://gatoriptv.pro:25461/029556285616/AiDezBpOgyS0Smx/16301
+#EXTINF:-1,IT: Sky Sport Football HD
+http://gatoriptv.pro:25461/029556285616/AiDezBpOgyS0Smx/22952
+#EXTINF:-1,PL: POLSAT SPORT EXTRA HD
+http://gatoriptv.pro:25461/029556285616/AiDezBpOgyS0Smx/15990
+#EXTINF:-1,PL: POLSAT SPORT HD
+http://gatoriptv.pro:25461/029556285616/AiDezBpOgyS0Smx/15988
+#EXTINF:-1,SP: BEIN SPORTS HD
+http://gatoriptv.pro:25461/029556285616/AiDezBpOgyS0Smx/14993
+#EXTINF:-1,SP: M. DEPORTE 1 HD
+http://gatoriptv.pro:25461/029556285616/AiDezBpOgyS0Smx/14967
+#EXTINF:-1,SP: TELE DEPORTE
+http://gatoriptv.pro:25461/029556285616/AiDezBpOgyS0Smx/14965
+#EXTINF:-1,beiN Sports 1  FULL HD
+http://gatoriptv.pro:25461/029556285616/AiDezBpOgyS0Smx/28750
+#EXTINF:-1,beiN Sports 11
+http://gatoriptv.pro:25461/029556285616/AiDezBpOgyS0Smx/5241
+#EXTINF:-1,beiN Sports 12
+http://gatoriptv.pro:25461/029556285616/AiDezBpOgyS0Smx/5242
 
-#EXTINF:-1,**** SPORT 1 OK
+
+
+#EXTINF:-1,**** SPORT 1 OK   *****
 http://www.1
 
 #EXTINF:0,Sport Klub 1 HD
@@ -338,267 +320,246 @@ http://live1.livetvindia.co.in:8000/live/ios2/freeapp2/90.ts
 http://live1.livetvindia.co.in:8000/live/ios2/freeapp2/91.ts
 
 
-#EXTINF:-1,**** SPORT 1 LISTA
+#EXTINF:-1,**** SPORT 1 LISTA   *****
 http://vip.2
-#EXTINF:-1,IR | Sky Sports Arena HD
-http://wildsides.xyz:2086/pizza123/pizza123/10271
-#EXTINF:-1,IR | Sky Sports F1 HD
-http://wildsides.xyz:2086/pizza123/pizza123/10269
-#EXTINF:-1,IR | Sky Sports Golf HD
-http://wildsides.xyz:2086/pizza123/pizza123/10267
-#EXTINF:-1,IR | Sky Sports Mix
-http://wildsides.xyz:2086/pizza123/pizza123/10265
-#EXTINF:-1,IR | Sky Sports Premier League HD
-http://wildsides.xyz:2086/pizza123/pizza123/10263
-#EXTINF:-1,UK | BRITISH EUROSPORT 1 ʜᴅ
-http://wildsides.xyz:2086/pizza123/pizza123/107
-#EXTINF:-1,UK | BRITISH EUROSPORT 2 ʜᴅ
-http://wildsides.xyz:2086/pizza123/pizza123/108
-#EXTINF:-1,UK | BT SPORT 1 ʜᴅ
-http://wildsides.xyz:2086/pizza123/pizza123/27637
-#EXTINF:-1,UK | BT SPORT 2 ʜᴅ
-http://wildsides.xyz:2086/pizza123/pizza123/27636
-#EXTINF:-1,UK | BT SPORT 3 ʜᴅ
-http://wildsides.xyz:2086/pizza123/pizza123/27635
-#EXTINF:-1,UK | BT SPORT ESPN ʜᴅ
-http://wildsides.xyz:2086/pizza123/pizza123/27634
-#EXTINF:-1,UK | EUROSPORT 1 ʜᴅ
-http://wildsides.xyz:2086/pizza123/pizza123/27632
-#EXTINF:-1,UK | EUROSPORT 2 ʜᴅ
-http://wildsides.xyz:2086/pizza123/pizza123/27631
-#EXTINF:-1,UK | SKY SPORTS ACTION ʜᴅ
-http://wildsides.xyz:2086/pizza123/pizza123/27626
-#EXTINF:-1,UK | SKY SPORTS ARENA ʜᴅ
-http://wildsides.xyz:2086/pizza123/pizza123/27625
-#EXTINF:-1,UK | SKY SPORTS F1 ʜᴅ
-http://wildsides.xyz:2086/pizza123/pizza123/27623
-#EXTINF:-1,UK | SKY SPORTS GOLF ʜᴅ
-http://wildsides.xyz:2086/pizza123/pizza123/27621
-#EXTINF:-1,UK | SKY SPORTS MAIN EVENT ʜᴅ
-http://wildsides.xyz:2086/pizza123/pizza123/27620
-#EXTINF:-1,UK | SKY SPORTS MIX ʜᴅ
-http://wildsides.xyz:2086/pizza123/pizza123/27619
-#EXTINF:-1,UK | SKY SPORTS PREMIER LEAGUE ʜᴅ
-http://wildsides.xyz:2086/pizza123/pizza123/27617
-#EXTINF:-1,UK: BeIN SPORTS 1
-http://wildsides.xyz:2086/pizza123/pizza123/45394
-#EXTINF:-1,UK: beIN SPORTS 10
-http://wildsides.xyz:2086/pizza123/pizza123/45385
-#EXTINF:-1,UK: beIN SPORTS 11
-http://wildsides.xyz:2086/pizza123/pizza123/45384
-#EXTINF:-1,UK: beIN SPORTS 12
-http://wildsides.xyz:2086/pizza123/pizza123/45383
-#EXTINF:-1,ES | BEIN SPORTS ʜᴅ
-http://wildsides.xyz:2086/pizza123/pizza123/28735
-#EXTINF:-1,ES | FOX DEPORTES ʜᴅ
-http://wildsides.xyz:2086/pizza123/pizza123/28697
-#EXTINF:-1,ES | UNIVISION DEPORTES ʜᴅ
-http://wildsides.xyz:2086/pizza123/pizza123/28637
-#EXTINF:-1,USA (SD) | BEIN SPORTS
-http://wildsides.xyz:2086/pizza123/pizza123/29703
-#EXTINF:-1,USA (SD) | FOX SPORTS 1
-http://wildsides.xyz:2086/pizza123/pizza123/29592
-#EXTINF:-1,USA (SD) | FOX SPORTS 2
-http://wildsides.xyz:2086/pizza123/pizza123/29591
-#EXTINF:-1,USA | FOX SPORTS 1 ʜᴅ
-http://wildsides.xyz:2086/pizza123/pizza123/142
-#EXTINF:-1,USA | FOX SPORTS 2 ʜᴅ
-http://wildsides.xyz:2086/pizza123/pizza123/143
-#EXTINF:-1,USA2 | ESPN Deportes
-http://wildsides.xyz:2086/pizza123/pizza123/45400
-#EXTINF:-1,USA2 | FOX Deportes
-http://wildsides.xyz:2086/pizza123/pizza123/41154
-#EXTINF:-1,USA2 | Fox Sports 1
-http://wildsides.xyz:2086/pizza123/pizza123/41370
-#EXTINF:-1,USA2 | Fox Sports 2
-http://wildsides.xyz:2086/pizza123/pizza123/41369
-
+#EXTINF:-1,BT Sport 1 HD
+http://130.185.250.190:25461/enigma1/enigma1/1019
+#EXTINF:-1,BT Sport 1
+http://130.185.250.190:25461/enigma1/enigma1/1018
+#EXTINF:-1,BT Sport 2 HD
+http://130.185.250.190:25461/enigma1/enigma1/1017
+#EXTINF:-1,BT Sport 2
+http://130.185.250.190:25461/enigma1/enigma1/1016
+#EXTINF:-1,BT Sport 3 HD
+http://130.185.250.190:25461/enigma1/enigma1/1015
+#EXTINF:-1,BT Sport 3
+http://130.185.250.190:25461/enigma1/enigma1/1014
+#EXTINF:-1,BT Sport ESPN HD
+http://130.185.250.190:25461/enigma1/enigma1/1013
+#EXTINF:-1,BT Sport ESPN
+http://130.185.250.190:25461/enigma1/enigma1/1012
+#EXTINF:-1,Sky Sports Action HD
+http://130.185.250.190:25461/enigma1/enigma1/949
+#EXTINF:-1,Sky Sports Action
+http://130.185.250.190:25461/enigma1/enigma1/948
+#EXTINF:-1,Sky Sports Arena HD
+http://130.185.250.190:25461/enigma1/enigma1/942
+#EXTINF:-1,Sky Sports Arena
+http://130.185.250.190:25461/enigma1/enigma1/941
+#EXTINF:-1,Sky Sports F1 HD
+http://130.185.250.190:25461/enigma1/enigma1/938
+#EXTINF:-1,Sky Sports Main Event HD
+http://130.185.250.190:25461/enigma1/enigma1/953
+#EXTINF:-1,Sky Sports Main Event
+http://130.185.250.190:25461/enigma1/enigma1/952
+#EXTINF:-1,Sky Sports Mix HD
+http://130.185.250.190:25461/enigma1/enigma1/936
+#EXTINF:-1,Sky Sports Mix
+http://130.185.250.190:25461/enigma1/enigma1/935
+#EXTINF:-1,Sky Sports Premier League HD
+http://130.185.250.190:25461/enigma1/enigma1/945
+#EXTINF:-1,Sky Sports Premier League Ireland
+http://130.185.250.190:25461/enigma1/enigma1/943
+#EXTINF:-1,Sky Sports Premier League
+http://130.185.250.190:25461/enigma1/enigma1/944
+#EXTINF:-1,USA: ESPN Deportes
+http://130.185.250.190:25461/enigma1/enigma1/124
+#EXTINF:-1,USA: Fox Deportes
+http://130.185.250.190:25461/enigma1/enigma1/126
+#EXTINF:-1,WS: Bein Sports HD USA
+http://130.185.250.190:25461/enigma1/enigma1/46
+#EXTINF:-1,WS: Fox Sport 1 HD NL
+http://130.185.250.190:25461/enigma1/enigma1/1125
+#EXTINF:-1,WS: Fox Sports 1 HD
+http://130.185.250.190:25461/enigma1/enigma1/104
+#EXTINF:-1,WS: Fox Sports 2 HD
+http://130.185.250.190:25461/enigma1/enigma1/103
+#EXTINF:-1,WS: Fox Sports 2 NL
+http://130.185.250.190:25461/enigma1/enigma1/1208
+#EXTINF:-1,WS: Fox Sports 3 NL
+http://130.185.250.190:25461/enigma1/enigma1/1207
+#EXTINF:-1,WS: Fox Sports 4 NL
+http://130.185.250.190:25461/enigma1/enigma1/1206
+#EXTINF:-1,WS: Fox Sports 5 NL
+http://130.185.250.190:25461/enigma1/enigma1/1205
+#EXTINF:-1,WS: Fox Sports 6 NL
+http://130.185.250.190:25461/enigma1/enigma1/1204
+#EXTINF:-1,WS: SportsNet 360 CA
+http://130.185.250.190:25461/enigma1/enigma1/1341
+#EXTINF:-1,WS: SportsNet Ontario CA
+http://130.185.250.190:25461/enigma1/enigma1/1342
+#EXTINF:-1,WS: SportsNet World CA
+http://130.185.250.190:25461/enigma1/enigma1/1343
+#EXTINF:-1,WS: Sportsnet One CA
+http://130.185.250.190:25461/enigma1/enigma1/1340
+#EXTINF:-1,WS: TSN 1 HD CA
+http://130.185.250.190:25461/enigma1/enigma1/85
+#EXTINF:-1,WS: TSN 2 HD CA
+http://130.185.250.190:25461/enigma1/enigma1/84
+#EXTINF:-1,WS: TSN 3 HD CA
+http://130.185.250.190:25461/enigma1/enigma1/83
+#EXTINF:-1,WS: TSN 4 HD CA
+http://130.185.250.190:25461/enigma1/enigma1/82
+#EXTINF:-1,WS: TSN 5 HD CA
+http://130.185.250.190:25461/enigma1/enigma1/81
+#EXTINF:-1,WS: beIN Sports 1 HD AR
+http://130.185.250.190:25461/enigma1/enigma1/206
+#EXTINF:-1,WS: beIN Sports 10 HD AR
+http://130.185.250.190:25461/enigma1/enigma1/197
+#EXTINF:-1,WS: beIN Sports 11 HD AR-Eng
+http://130.185.250.190:25461/enigma1/enigma1/1353
+#EXTINF:-1,WS: beIN Sports 12 HD AR-Eng
+http://130.185.250.190:25461/enigma1/enigma1/1354
+#EXTINF:-1,WS: beIN Sports 2 HD AR
+http://130.185.250.190:25461/enigma1/enigma1/205
+#EXTINF:-1,WS: beIN Sports 3 HD AR
+http://130.185.250.190:25461/enigma1/enigma1/204
+#EXTINF:-1,WS: beIN Sports 4 HD AR
+http://130.185.250.190:25461/enigma1/enigma1/203
+#EXTINF:-1,WS: beIN Sports 5 HD AR
+http://130.185.250.190:25461/enigma1/enigma1/202
+#EXTINF:-1,WS: beIN Sports 6 HD AR
+http://130.185.250.190:25461/enigma1/enigma1/201
+#EXTINF:-1,WS: beIN Sports 7 HD AR
+http://130.185.250.190:25461/enigma1/enigma1/200
+#EXTINF:-1,WS: beIN Sports 8 HD AR
+http://130.185.250.190:25461/enigma1/enigma1/199
+#EXTINF:-1,WS: beIN Sports 9 HD AR
+http://130.185.250.190:25461/enigma1/enigma1/198
+#EXTINF:-1,WS: beIN Sports News
+http://130.185.250.190:25461/enigma1/enigma1/207
 
 ***
 
-#EXTINF:-1,**** SPORT 1 OK
+#EXTINF:-1,**** SPORT 1 OK  *****
 http://www.3
 
 
-#EXTINF:-1,Uk | Btsport1
-http://formen1.com:8080/emrah/sari/1079
-#EXTINF:-1,Uk | Btsport2
-http://formen1.com:8080/emrah/sari/1078
-#EXTINF:-1,Uk | Btsportespn
-http://formen1.com:8080/emrah/sari/1077
-#EXTINF:-1,Uk | Btsporteurope
-http://formen1.com:8080/emrah/sari/1085
 
-#EXTINF:-1,Uk | Eurosport 2
-http://formen1.com:8080/emrah/sari/1094
-#EXTINF:-1,Uk | Eurosport1
-http://formen1.com:8080/emrah/sari/1095
-#EXTINF:-1,Uk | Sky Sports Action
-http://formen1.com:8080/emrah/sari/1093
-#EXTINF:-1,Uk | Sky Sports Main Event
-http://formen1.com:8080/emrah/sari/1091
-#EXTINF:-1,Uk | Sky Sport Premier League
-http://formen1.com:8080/emrah/sari/1089
-#EXTINF:-1,Uk | Sky Sports F1
-http://formen1.com:8080/emrah/sari/1088
-#EXTINF:-1,Uk | Skysportnews
-http://formen1.com:8080/emrah/sari/1086
-#EXTINF:-1,Ar | Bein Sport 11 HD
-http://formen1.com:8080/emrah/sari/16190
-#EXTINF:-1,Ar | Bein Sport 12 HD
-http://formen1.com:8080/emrah/sari/16189
-#EXTINF:-1,Ar | Bein Sport 13 HD
-http://formen1.com:8080/emrah/sari/16188
-#EXTINF:-1,De | Dazn 1 Hd
-http://formen1.com:8080/emrah/sari/15950
-#EXTINF:-1,De | Dazn 2 Hd
-http://formen1.com:8080/emrah/sari/15951
-#EXTINF:-1,De | Eurosport 2 Xtra
-http://formen1.com:8080/emrah/sari/8617
-#EXTINF:-1,De | Eurosport2
-http://formen1.com:8080/emrah/sari/1413
-#EXTINF:-1,De | Eurosport
-http://formen1.com:8080/emrah/sari/1412
-#EXTINF:-1,De | Sky Sport 2 Hd
-http://formen1.com:8080/emrah/sari/1415
-#EXTINF:-1,De | Sky Sport Bundesliga 1
-http://formen1.com:8080/emrah/sari/3045
-#EXTINF:-1,Fr | Bein Sport 1
-http://formen1.com:8080/emrah/sari/954
-#EXTINF:-1,Fr | Bein Sport 2
-http://formen1.com:8080/emrah/sari/953
-#EXTINF:-1,Fr | Bein Sport 3
-http://formen1.com:8080/emrah/sari/952
-#EXTINF:-1,Fr | Canal Sport Hd
-http://formen1.com:8080/emrah/sari/2539
-#EXTINF:-1,It | Sky Sport 1 Hd
-http://formen1.com:8080/emrah/sari/1336
-#EXTINF:-1,It | Sky Sport 2 Hd
-http://formen1.com:8080/emrah/sari/1335
-#EXTINF:-1,It | Sky Sport 3 Hd
-http://formen1.com:8080/emrah/sari/1334
-#EXTINF:-1,Nl | Fox Sport 1 Hd Eredivisie
-http://formen1.com:8080/emrah/sari/771
-#EXTINF:-1,Nl | Fox Sport 6 Hd
-http://formen1.com:8080/emrah/sari/9014
-#EXTINF:-1,Nl | Fox Sports 2 International
-http://formen1.com:8080/emrah/sari/770
-#EXTINF:-1,Nl | Fox Sports 3 Eredivisie
-http://formen1.com:8080/emrah/sari/769
-#EXTINF:-1,Nl | Fox Sports 4 International
-http://formen1.com:8080/emrah/sari/768
-#EXTINF:-1,Nl | Fox Sports 5 Eredivisie Hd
-http://formen1.com:8080/emrah/sari/767
-#EXTINF:-1,Nl | Ziggo Sport Select Hd
-http://formen1.com:8080/emrah/sari/737
-#EXTINF:-1,Nl | Ziggo Sport Voetbal
-http://formen1.com:8080/emrah/sari/2814
-#EXTINF:-1,Pl | Canal Sport 2 Hd
-http://formen1.com:8080/emrah/sari/8856
-#EXTINF:-1,Pl | Canal Sport
-http://formen1.com:8080/emrah/sari/8855
-#EXTINF:-1,Pl | Eurosport 1
-http://formen1.com:8080/emrah/sari/8866
-#EXTINF:-1,Pl | Eurosport 2
-http://formen1.com:8080/emrah/sari/8867
-#EXTINF:-1,Pl | Polsat Sport Extra Hd
-http://formen1.com:8080/emrah/sari/8887
-#EXTINF:-1,Pl | Polsat Sport
-http://formen1.com:8080/emrah/sari/8886
-#EXTINF:-1,Pl | Polsat Sports News
-http://formen1.com:8080/emrah/sari/8888
-#EXTINF:-1,Sp | Canal Deportes
-http://formen1.com:8080/emrah/sari/11261
-#EXTINF:-1,Sp | Canal+ Deportes
-http://formen1.com:8080/emrah/sari/2661
-
-
-#EXTINF:-1,**** SPORT 3 LUSTA
+#EXTINF:-1,**** SPORT 3 LUSTA   ****
 http://www.4
-#EXTINF:-1,UK  | BEIN SPORTS UK
-http://p5.giffy.be:8080/cecilia/cecilia/85734
-#EXTINF:-1,UK |  SKY SPORTS MAIN EVENT
-http://p5.giffy.be:8080/cecilia/cecilia/85638
-#EXTINF:-1,UK | EUROSPORT 1
-http://p5.giffy.be:8080/cecilia/cecilia/85693
-#EXTINF:-1,UK | EUROSPORT 2
-http://p5.giffy.be:8080/cecilia/cecilia/85692
-#EXTINF:-1,UK | SKY SPORTS ACTION
-http://p5.giffy.be:8080/cecilia/cecilia/85645
-#EXTINF:-1,UK | SKY SPORTS ARENA
-http://p5.giffy.be:8080/cecilia/cecilia/85644
-#EXTINF:-1,UK | SKY SPORTS MIX
-http://p5.giffy.be:8080/cecilia/cecilia/85637
-#EXTINF:-1,UK | SKY SPORTS PREMIER LEAGUE
-http://p5.giffy.be:8080/cecilia/cecilia/85635
-#EXTINF:-1,AR | BEIN SPORTS 10 HQ
-http://p5.giffy.be:8080/cecilia/cecilia/96436
-#EXTINF:-1,AR | BEIN SPORTS 10 L
-http://p5.giffy.be:8080/cecilia/cecilia/96424
-#EXTINF:-1,AR | BEIN SPORTS 11 HQ
-http://p5.giffy.be:8080/cecilia/cecilia/96435
-#EXTINF:-1,AR | BEIN SPORTS 12 HQ
-http://p5.giffy.be:8080/cecilia/cecilia/96434
-#EXTINF:-1,FR | BeIN Sport 1 Fr HD
-http://p5.giffy.be:8080/cecilia/cecilia/96619
-#EXTINF:-1,FR | BeIN Sport 2 Fr HD
-http://p5.giffy.be:8080/cecilia/cecilia/96618
-#EXTINF:-1,FR | BeIN Sport 3 Fr HD
-http://p5.giffy.be:8080/cecilia/cecilia/96617
-#EXTINF:-1,FR | Canal Sport HD
-http://p5.giffy.be:8080/cecilia/cecilia/96621
-#EXTINF:-1,POL |  CANAL SPORT 2 HD
-http://p5.giffy.be:8080/cecilia/cecilia/95342
-#EXTINF:-1,POL |  CANAL SPORT HD
-http://p5.giffy.be:8080/cecilia/cecilia/95341
-#EXTINF:-1,SKY BUNDESLIGA 1 HD
-http://p5.giffy.be:8080/cecilia/cecilia/30055
-#EXTINF:-1,SKY SPORT 1 HD
-http://p5.giffy.be:8080/cecilia/cecilia/30065
-#EXTINF:-1,SKYBUNDESLIGA 1 HD
-http://p5.giffy.be:8080/cecilia/cecilia/30035
-#EXTINF:-1,SP | BEIN SPORTS (CAN)
-http://p5.giffy.be:8080/cecilia/cecilia/13890
-#EXTINF:-1,SP | BT SPORTS 2
-http://p5.giffy.be:8080/cecilia/cecilia/82265
-#EXTINF:-1,SP | BT SPORTS 3 (OPT 2)
-http://p5.giffy.be:8080/cecilia/cecilia/61739
-#EXTINF:-1,SP | BT SPORTS ESPN
-http://p5.giffy.be:8080/cecilia/cecilia/61740
-#EXTINF:-1,SP | EUROSPORT 2
-http://p5.giffy.be:8080/cecilia/cecilia/27826
-#EXTINF:-1,SP | FOX SPORTS 1 HD
-http://p5.giffy.be:8080/cecilia/cecilia/13878
-#EXTINF:-1,SP | FOX SPORTS 2 HD
-http://p5.giffy.be:8080/cecilia/cecilia/13879
-#EXTINF:-1,SP | TSN 1 HD
-http://p5.giffy.be:8080/cecilia/cecilia/94238
-#EXTINF:-1,SP | TSN 1
-http://p5.giffy.be:8080/cecilia/cecilia/31526
-#EXTINF:-1,SP | TSN 2 HD
-http://p5.giffy.be:8080/cecilia/cecilia/94237
-#EXTINF:-1,SP | TSN 2
-http://p5.giffy.be:8080/cecilia/cecilia/22576
-#EXTINF:-1,SP | TSN 3 HD
-http://p5.giffy.be:8080/cecilia/cecilia/94236
-#EXTINF:-1,SP | TSN 3
-http://p5.giffy.be:8080/cecilia/cecilia/35127
-#EXTINF:-1,SP | TSN 4 HD*
-http://p5.giffy.be:8080/cecilia/cecilia/94235
-#EXTINF:-1,SP | TSN 4 HD
-http://p5.giffy.be:8080/cecilia/cecilia/13888
-#EXTINF:-1,SP | TSN 5 HD*
-http://p5.giffy.be:8080/cecilia/cecilia/94234
-#EXTINF:-1,SP | TSN 5 HD
-http://p5.giffy.be:8080/cecilia/cecilia/13889
+#EXTINF:-1,SPORT KLUB 1 HD
+http://gatoriptv.pro:25461/029556285616/AiDezBpOgyS0Smx/26291
+#EXTINF:-1,SPORT KLUB 2 HD
+http://gatoriptv.pro:25461/029556285616/AiDezBpOgyS0Smx/26290
+#EXTINF:-1,SPORT KLUB  3 HD
+http://gatoriptv.pro:25461/029556285616/AiDezBpOgyS0Smx/26289
+#EXTINF:-1,SPORT KLUB 1 HD
+http://gatoriptv.pro:25461/029556285616/AiDezBpOgyS0Smx/26107
+#EXTINF:-1,SPORT KLUB 1 SLO
+http://gatoriptv.pro:25461/029556285616/AiDezBpOgyS0Smx/26106
+#EXTINF:-1,SPORT KLUB 1 SR
+http://gatoriptv.pro:25461/029556285616/AiDezBpOgyS0Smx/26105
+#EXTINF:-1,SPORT KLUB 2 HD
+http://gatoriptv.pro:25461/029556285616/AiDezBpOgyS0Smx/26104
+#EXTINF:-1,SPORT KLUB 2 SR
+http://gatoriptv.pro:25461/029556285616/AiDezBpOgyS0Smx/26103
+#EXTINF:-1,SPORT KLUB 3 HD
+http://gatoriptv.pro:25461/029556285616/AiDezBpOgyS0Smx/26102
+#EXTINF:-1,SPORT KLUB 3 SR
+http://gatoriptv.pro:25461/029556285616/AiDezBpOgyS0Smx/26101
+#EXTINF:-1,SPORT KLUB 4
+http://gatoriptv.pro:25461/029556285616/AiDezBpOgyS0Smx/26100
+#EXTINF:-1,SPORT KLUB 5
+http://gatoriptv.pro:25461/029556285616/AiDezBpOgyS0Smx/26099
+#EXTINF:-1,SPORT KLUB 6
+http://gatoriptv.pro:25461/029556285616/AiDezBpOgyS0Smx/26098
+#EXTINF:-1,ARENA SPORT 1 HD
+http://gatoriptv.pro:25461/029556285616/AiDezBpOgyS0Smx/26125
+#EXTINF:-1,ARENA SPORT 1 SR HD
+http://gatoriptv.pro:25461/029556285616/AiDezBpOgyS0Smx/26123
+#EXTINF:-1,ARENA SPORT 1 SR
+http://gatoriptv.pro:25461/029556285616/AiDezBpOgyS0Smx/26124
+#EXTINF:-1,ARENA SPORT 2 HD
+http://gatoriptv.pro:25461/029556285616/AiDezBpOgyS0Smx/26122
+#EXTINF:-1,ARENA SPORT 2 SR HD
+http://gatoriptv.pro:25461/029556285616/AiDezBpOgyS0Smx/26120
+#EXTINF:-1,ARENA SPORT 2 SR
+http://gatoriptv.pro:25461/029556285616/AiDezBpOgyS0Smx/26121
+#EXTINF:-1,ARENA SPORT 3 HD
+http://gatoriptv.pro:25461/029556285616/AiDezBpOgyS0Smx/26119
+#EXTINF:-1,ARENA SPORT 3 SR HD
+http://gatoriptv.pro:25461/029556285616/AiDezBpOgyS0Smx/26117
+#EXTINF:-1,ARENA SPORT 3 SR
+http://gatoriptv.pro:25461/029556285616/AiDezBpOgyS0Smx/26118
+#EXTINF:-1,ARENA SPORT 4 HD
+http://gatoriptv.pro:25461/029556285616/AiDezBpOgyS0Smx/26116
+#EXTINF:-1,ARENA SPORT 4 SR HD
+http://gatoriptv.pro:25461/029556285616/AiDezBpOgyS0Smx/26114
+#EXTINF:-1,ARENA SPORT 4 SR
+http://gatoriptv.pro:25461/029556285616/AiDezBpOgyS0Smx/26115
+#EXTINF:-1,ARENA SPORT 5 HD
+http://gatoriptv.pro:25461/029556285616/AiDezBpOgyS0Smx/26113
 
-#EXTINF:-1,UK-S | BT SPORTS 1 HD
-http://p5.giffy.be:8080/cecilia/cecilia/91591
-#EXTINF:-1,UK-S | BT SPORTS 2 HD
-http://p5.giffy.be:8080/cecilia/cecilia/91592
-#EXTINF:-1,UK-S | BT SPORTS 3 HD
-http://p5.giffy.be:8080/cecilia/cecilia/91593
-#EXTINF:-1,USA-S | FOX SPORTS 1
-http://p5.giffy.be:8080/cecilia/cecilia/85613
-#EXTINF:-1,USA-S | FOX SPORTS 2
-http://p5.giffy.be:8080/cecilia/cecilia/85612
+#EXTINF:-1,DE: DAZN 1 BAR FHD
+http://gatoriptv.pro:25461/029556285616/AiDezBpOgyS0Smx/22420
+#EXTINF:-1,DE: DAZN 2 BAR FHD
+http://gatoriptv.pro:25461/029556285616/AiDezBpOgyS0Smx/22419
+#EXTINF:-1,DE: EUROSPORT 1 HD
+http://gatoriptv.pro:25461/029556285616/AiDezBpOgyS0Smx/22424
+#EXTINF:-1,DE: EUROSPORT 2  XTRA HD
+http://gatoriptv.pro:25461/029556285616/AiDezBpOgyS0Smx/22422
+#EXTINF:-1,DE: EUROSPORT 2 HD
+http://gatoriptv.pro:25461/029556285616/AiDezBpOgyS0Smx/22423
+#EXTINF:-1,DE: SKY BUNDESLIGA 1 HD
+http://gatoriptv.pro:25461/029556285616/AiDezBpOgyS0Smx/22414
+#EXTINF:-1,DE: SKY SPORT 1 HD
+http://gatoriptv.pro:25461/029556285616/AiDezBpOgyS0Smx/22418
+#EXTINF:-1,DE: SKY SPORT 1
+http://gatoriptv.pro:25461/029556285616/AiDezBpOgyS0Smx/22416
+#EXTINF:-1,DE: SKY SPORT 2 HD
+http://gatoriptv.pro:25461/029556285616/AiDezBpOgyS0Smx/22417
+#EXTINF:-1,DE: SKY SPORT 2
+http://gatoriptv.pro:25461/029556285616/AiDezBpOgyS0Smx/22415
+#EXTINF:-1,NL : Fox Sport 1
+http://gatoriptv.pro:25461/029556285616/AiDezBpOgyS0Smx/5185
+#EXTINF:-1,NL : Fox Sport 2
+http://gatoriptv.pro:25461/029556285616/AiDezBpOgyS0Smx/5186
+#EXTINF:-1,NL : Fox Sport 3
+http://gatoriptv.pro:25461/029556285616/AiDezBpOgyS0Smx/5187
+#EXTINF:-1,NL : Fox Sport 4
+http://gatoriptv.pro:25461/029556285616/AiDezBpOgyS0Smx/5188
+#EXTINF:-1,NL : Fox Sport 5
+http://gatoriptv.pro:25461/029556285616/AiDezBpOgyS0Smx/5189
+#EXTINF:-1,NL : Fox Sport 6
+http://gatoriptv.pro:25461/029556285616/AiDezBpOgyS0Smx/5190
+#EXTINF:-1,NL : Ziggo Sport Select
+http://gatoriptv.pro:25461/029556285616/AiDezBpOgyS0Smx/5174
+#EXTINF:-1,NL : Ziggo Sport Voetbal
+http://gatoriptv.pro:25461/029556285616/AiDezBpOgyS0Smx/5173
+#EXTINF:-1,FR: beIN SPORTS 1 FHD
+http://gatoriptv.pro:25461/029556285616/AiDezBpOgyS0Smx/15044
+#EXTINF:-1,FR: beIN SPORTS 2 FHD
+http://gatoriptv.pro:25461/029556285616/AiDezBpOgyS0Smx/15042
+#EXTINF:-1,FR: beIN SPORTS 3 FHD
+http://gatoriptv.pro:25461/029556285616/AiDezBpOgyS0Smx/15040
+#EXTINF:-1,IT: Dazn 1 HD IT
+http://gatoriptv.pro:25461/029556285616/AiDezBpOgyS0Smx/23271
+#EXTINF:-1,IT: Dazn 2 HD IT
+http://gatoriptv.pro:25461/029556285616/AiDezBpOgyS0Smx/23265
+#EXTINF:-1,IT: Fox Sport HD
+http://gatoriptv.pro:25461/029556285616/AiDezBpOgyS0Smx/23171
+#EXTINF:-1,IT: Sky Sport 1 FHD
+http://gatoriptv.pro:25461/029556285616/AiDezBpOgyS0Smx/22962
+#EXTINF:-1,IT: Sky Sport 2 HD  (VIP)
+http://gatoriptv.pro:25461/029556285616/AiDezBpOgyS0Smx/23277
+#EXTINF:-1,IT: Sky Sport 3 HD
+http://gatoriptv.pro:25461/029556285616/AiDezBpOgyS0Smx/16301
+#EXTINF:-1,IT: Sky Sport Football HD
+http://gatoriptv.pro:25461/029556285616/AiDezBpOgyS0Smx/22952
+#EXTINF:-1,PL: POLSAT SPORT EXTRA HD
+http://gatoriptv.pro:25461/029556285616/AiDezBpOgyS0Smx/15990
+#EXTINF:-1,PL: POLSAT SPORT HD
+http://gatoriptv.pro:25461/029556285616/AiDezBpOgyS0Smx/15988
+#EXTINF:-1,SP: BEIN SPORTS HD
+http://gatoriptv.pro:25461/029556285616/AiDezBpOgyS0Smx/14993
+#EXTINF:-1,SP: M. DEPORTE 1 HD
+http://gatoriptv.pro:25461/029556285616/AiDezBpOgyS0Smx/14967
+#EXTINF:-1,SP: TELE DEPORTE
+http://gatoriptv.pro:25461/029556285616/AiDezBpOgyS0Smx/14965
+#EXTINF:-1,beiN Sports 1  FULL HD
+http://gatoriptv.pro:25461/029556285616/AiDezBpOgyS0Smx/28750
+#EXTINF:-1,beiN Sports 11
+http://gatoriptv.pro:25461/029556285616/AiDezBpOgyS0Smx/5241
+#EXTINF:-1,beiN Sports 12
+http://gatoriptv.pro:25461/029556285616/AiDezBpOgyS0Smx/5242
