@@ -1,91 +1,305 @@
 #EXTM3U
 #EXTINF:-1,*****  SPORT 0K    *****
 http://www.
-#EXTINF:-1,LIGATV SD
-http://applive.online:25461/mejoradaa/cambio/7204
-#EXTINF:-1,LIGA TV HD
-http://applive.online:25461/mejoradaa/cambio/8738
-#EXTINF:-1,LIGATV H264 FHD
-http://applive.online:25461/mejoradaa/cambio/13566
-#EXTINF:-1,LIGATV FHD
-http://applive.online:25461/mejoradaa/cambio/1003
-#EXTINF:-1,LA LIGATV BAR 1
-http://applive.online:25461/mejoradaa/cambio/1306
-#EXTINF:-1,LIGA123 PARA MOVILES
-http://applive.online:25461/mejoradaa/cambio/9045
-#EXTINF:-1,LIGA 123TV
-http://applive.online:25461/mejoradaa/cambio/9043
-#EXTINF:-1,ES:LIGA 123 HD
-http://applive.online:25461/mejoradaa/cambio/9044
-#EXTINF:-1,ES:LIGA 123 FHD
-http://applive.online:25461/mejoradaa/cambio/990
-#EXTINF:-1,ES:LIGA 123 MULTI 1
-http://applive.online:25461/mejoradaa/cambio/9086
-#EXTINF:-1,ES:LIGA 123 MULTI 2
-http://applive.online:25461/mejoradaa/cambio/9087
-#EXTINF:-1,LIGA 123 MULTI 3
-http://applive.online:25461/mejoradaa/cambio/9088
-#EXTINF:-1,ES:BEIN LALIGA PARA MOVILES
-http://applive.online:25461/mejoradaa/cambio/9056
-#EXTINF:-1,BEIN LALIGA
-http://applive.online:25461/mejoradaa/cambio/50
-#EXTINF:-1,BEIN LALIGA H264 FHD
-http://applive.online:25461/mejoradaa/cambio/13568
-#EXTINF:-1,BEIN LALIGA HD
-http://applive.online:25461/mejoradaa/cambio/14719
-#EXTINF:-1,BEIN LALIGA FULLHD
-http://applive.online:25461/mejoradaa/cambio/15916
-#EXTINF:-1,ES:BEIN LALIGA 1
-http://applive.online:25461/mejoradaa/cambio/245
-#EXTINF:-1,BEIN LALIGA 1 FULLHD
-http://applive.online:25461/mejoradaa/cambio/5500
-#EXTINF:-1,ES:BEIN  LALIGA 2
-http://applive.online:25461/mejoradaa/cambio/246
+#EXTINF:-1,EX-YU: SPORT KLUB 1 HR
+http://qqtv.nl:80/gxMh2AhXdw/PH6zlqIY8k/16985
+#EXTINF:-1,EX-YU: SPORT KLUB 2 .HR
+http://qqtv.nl:80/gxMh2AhXdw/PH6zlqIY8k/16986
+#EXTINF:-1,EX-YU: SPORT KLUB 3 HR
+http://qqtv.nl:80/gxMh2AhXdw/PH6zlqIY8k/16987
+#EXTINF:-1,EX-YU: SPORTKLUB 4 SR
+http://qqtv.nl:80/gxMh2AhXdw/PH6zlqIY8k/16989
+#EXTINF:-1,EX-YU: SPORTKLUB 5 SR
+http://qqtv.nl:80/gxMh2AhXdw/PH6zlqIY8k/16990
+#EXTINF:-1,...ARENA SPORT 1 HR
+http://qqtv.nl:80/gxMh2AhXdw/PH6zlqIY8k/12319
+#EXTINF:-1,...ARENA SPORT 1 SRB
+http://qqtv.nl:80/gxMh2AhXdw/PH6zlqIY8k/12318
+#EXTINF:-1,...ARENA SPORT 2 HR
+http://qqtv.nl:80/gxMh2AhXdw/PH6zlqIY8k/12317
+#EXTINF:-1,...ARENA SPORT 2 SRB
+http://qqtv.nl:80/gxMh2AhXdw/PH6zlqIY8k/12316
+#EXTINF:-1,...ARENA SPORT 3 HR
+http://qqtv.nl:80/gxMh2AhXdw/PH6zlqIY8k/12315
+#EXTINF:-1,...ARENA SPORT 4 SRB
+http://qqtv.nl:80/gxMh2AhXdw/PH6zlqIY8k/12312
+#EXTINF:-1,...ARENA SPORT 5 HR
+http://qqtv.nl:80/gxMh2AhXdw/PH6zlqIY8k/12311
+#EXTINF:-1,...ARENA SPORT 5 SRB
+http://qqtv.nl:80/gxMh2AhXdw/PH6zlqIY8k/12310
+#EXTINF:-1,... ARENA SPORT 4 HR
+http://qqtv.nl:80/gxMh2AhXdw/PH6zlqIY8k/12313
+#EXTINF:-1,... SKY_SPORTS_F1_HD
+http://qqtv.nl:80/gxMh2AhXdw/PH6zlqIY8k/15367
+#EXTINF:-1,... SKY_SPORTS_FOOTBALL_HD
+http://qqtv.nl:80/gxMh2AhXdw/PH6zlqIY8k/15366
+#EXTINF:-1,... SKY_SPORTS_MAIN_EVENT_HD
+http://qqtv.nl:80/gxMh2AhXdw/PH6zlqIY8k/15365
+#EXTINF:-1,... SKY_SPORTS_NEWS_HD
+http://qqtv.nl:80/gxMh2AhXdw/PH6zlqIY8k/15363
+#EXTINF:-1,... SKY_SPORTS_PREMIER_LEAGUE_HD
+http://qqtv.nl:80/gxMh2AhXdw/PH6zlqIY8k/15364
+#EXTINF:-1,...BEIN SPORTS 11_HD
+http://qqtv.nl:80/gxMh2AhXdw/PH6zlqIY8k/31022
+#EXTINF:-1,...BEIN SPORTS 12_HD
+http://qqtv.nl:80/gxMh2AhXdw/PH6zlqIY8k/31021
+#EXTINF:-1,...BEIN SPORTS Espana FHD
+http://qqtv.nl:80/gxMh2AhXdw/PH6zlqIY8k/31020
+#EXTINF:-1,...BEIN SPORTS HD
+http://qqtv.nl:80/gxMh2AhXdw/PH6zlqIY8k/7866
+#EXTINF:-1,...BEIN SPORTS LIGA FHD
+http://qqtv.nl:80/gxMh2AhXdw/PH6zlqIY8k/31019
+#EXTINF:-1,...BEIN SPORTS N
+http://qqtv.nl:80/gxMh2AhXdw/PH6zlqIY8k/88419
+#EXTINF:-1,...BT SPORTS 1 HD
+http://qqtv.nl:80/gxMh2AhXdw/PH6zlqIY8k/7975
+#EXTINF:-1,...BT SPORTS 2 HD
+http://qqtv.nl:80/gxMh2AhXdw/PH6zlqIY8k/7974
+#EXTINF:-1,...BT SPORTS 3 HD
+http://qqtv.nl:80/gxMh2AhXdw/PH6zlqIY8k/7973
+#EXTINF:-1,...BT SPORTS ESPN HD-GB
+http://qqtv.nl:80/gxMh2AhXdw/PH6zlqIY8k/7965
+#EXTINF:-1,...CBS SPORTS NETWORK
+http://qqtv.nl:80/gxMh2AhXdw/PH6zlqIY8k/7992
+#EXTINF:-1,...ESPN DEPORTE
+http://qqtv.nl:80/gxMh2AhXdw/PH6zlqIY8k/7913
+#EXTINF:-1,...FOX SPORTS 1 HD
+http://qqtv.nl:80/gxMh2AhXdw/PH6zlqIY8k/7894
+#EXTINF:-1,...FOX SPORTS 2 HD.
+http://qqtv.nl:80/gxMh2AhXdw/PH6zlqIY8k/7893
+#EXTINF:-1,...NBC Sports Network HD
+http://qqtv.nl:80/gxMh2AhXdw/PH6zlqIY8k/7990
+#EXTINF:-1,...SKY SPORT PREMIER LEAGUE
+http://qqtv.nl:80/gxMh2AhXdw/PH6zlqIY8k/7968
+#EXTINF:-1,...SKY SPORTS ACTION HD
+http://qqtv.nl:80/gxMh2AhXdw/PH6zlqIY8k/7970
+#EXTINF:-1,...SKY SPORTS ARENA HD-GB
+http://qqtv.nl:80/gxMh2AhXdw/PH6zlqIY8k/7966
+#EXTINF:-1,...SKY SPORTS F1 HD-GB
+http://qqtv.nl:80/gxMh2AhXdw/PH6zlqIY8k/7967
+#EXTINF:-1,...SKY SPORTS GOLF HD-GB
+http://qqtv.nl:80/gxMh2AhXdw/PH6zlqIY8k/7969
+#EXTINF:-1,...SKY SPORTS NEWS HD
+http://qqtv.nl:80/gxMh2AhXdw/PH6zlqIY8k/7972
+#EXTINF:-1,...TENNIS CHANNEL HD
+http://qqtv.nl:80/gxMh2AhXdw/PH6zlqIY8k/7988
+#EXTINF:-1,...TSN 1 HD
+http://qqtv.nl:80/gxMh2AhXdw/PH6zlqIY8k/8007
+#EXTINF:-1,...TSN 2 HD
+http://qqtv.nl:80/gxMh2AhXdw/PH6zlqIY8k/8006
+#EXTINF:-1,...TSN 3 HD
+http://qqtv.nl:80/gxMh2AhXdw/PH6zlqIY8k/8005
+#EXTINF:-1,...TSN 4 HD
+http://qqtv.nl:80/gxMh2AhXdw/PH6zlqIY8k/8004
+#EXTINF:-1,...TSN 5 HD
+http://qqtv.nl:80/gxMh2AhXdw/PH6zlqIY8k/8003
+#EXTINF:-1,AR: BEIN SPORT 11 HD
+http://qqtv.nl:80/gxMh2AhXdw/PH6zlqIY8k/30238
+#EXTINF:-1,ESP: MOVISTAR DEPORTES
+http://qqtv.nl:80/gxMh2AhXdw/PH6zlqIY8k/20215
 
-
-#EXTINF:-1,ES:TELEDEPORTE FHD
-http://applive.online:25461/mejoradaa/cambio/7878
-#EXTINF:-1,ES:TELEDEPORTE PARA MOVILES
-http://applive.online:25461/mejoradaa/cambio/9097
-#EXTINF:-1,ES:TELEDEPORTE
-http://applive.online:25461/mejoradaa/cambio/451
-#EXTINF:-1,EUROSPORT  ES
-http://applive.online:25461/mejoradaa/cambio/83
-#EXTINF:-1,EUROSPORT 2 PARA MOVILES
-http://applive.online:25461/mejoradaa/cambio/9071
-#EXTINF:-1,EUROSPORT FULL HD
-http://applive.online:25461/mejoradaa/cambio/936
-#EXTINF:-1,EUROSPORT HD
-http://applive.online:25461/mejoradaa/cambio/9198
-#EXTINF:-1,Eurosport  2
-http://applive.online:25461/mejoradaa/cambio/47
-#EXTINF:-1,FR: BEIN SPORT 3 HD
-http://applive.online:25461/mejoradaa/cambio/15586
-#EXTINF:-1,FR: BeIN SPORTS 1 HD
-http://applive.online:25461/mejoradaa/cambio/15221
-#EXTINF:-1,FR: BeIN SPORTS 2 HD
-http://applive.online:25461/mejoradaa/cambio/15220
-#EXTINF:-1,MOVISTAR  DEPORTE
-http://applive.online:25461/mejoradaa/cambio/77
-#EXTINF:-1,MOVISTAR DEPORTE 1 FULLHD
-http://applive.online:25461/mejoradaa/cambio/14721
-#EXTINF:-1,MOVISTAR DEPORTE 1
-http://applive.online:25461/mejoradaa/cambio/262
-#EXTINF:-1,MOVISTAR DEPORTE 2
-http://applive.online:25461/mejoradaa/cambio/263
-#EXTINF:-1,MOVISTAR DEPORTE 3
-http://applive.online:25461/mejoradaa/cambio/264
-#EXTINF:-1,MOVISTAR DEPORTE FULLHD
-http://applive.online:25461/mejoradaa/cambio/1177
-#EXTINF:-1,MOVISTAR DEPORTE HD
-http://applive.online:25461/mejoradaa/cambio/487
-#EXTINF:-1,MOVISTAR DEPORTE PARA MOVILES
-http://applive.online:25461/mejoradaa/cambio/9052
+#EXTINF:-1,EX-YU: SPORTSKA TV .
+http://qqtv.nl:80/gxMh2AhXdw/PH6zlqIY8k/16935
+#EXTINF:-1,FR: BEIN SPORTS 1 HD.
+http://qqtv.nl:80/gxMh2AhXdw/PH6zlqIY8k/31261
+#EXTINF:-1,FR: BEIN SPORTS 1 HD
+http://qqtv.nl:80/gxMh2AhXdw/PH6zlqIY8k/31194
+#EXTINF:-1,FR: BEIN SPORTS 2 HD.
+http://qqtv.nl:80/gxMh2AhXdw/PH6zlqIY8k/31260
+#EXTINF:-1,FR: BEIN SPORTS 2 HD
+http://qqtv.nl:80/gxMh2AhXdw/PH6zlqIY8k/31193
+#EXTINF:-1,FR: BEIN SPORTS 3 HD .
+http://qqtv.nl:80/gxMh2AhXdw/PH6zlqIY8k/31259
+#EXTINF:-1,FR: BEIN SPORTS 3 HD
+http://qqtv.nl:80/gxMh2AhXdw/PH6zlqIY8k/31192
+#EXTINF:-1,FR: CANAL SPORT HD
+http://qqtv.nl:80/gxMh2AhXdw/PH6zlqIY8k/11692
+#EXTINF:-1,FR: RMC SPORTS 2
+http://qqtv.nl:80/gxMh2AhXdw/PH6zlqIY8k/31263
+#EXTINF:-1,FR: RMC SPORTS 3
+http://qqtv.nl:80/gxMh2AhXdw/PH6zlqIY8k/31262
+#EXTINF:-1,FR: SFR SPORT 1 HD
+http://qqtv.nl:80/gxMh2AhXdw/PH6zlqIY8k/31264
+#EXTINF:-1,IT: SKY SPORT 1 HD
+http://qqtv.nl:80/gxMh2AhXdw/PH6zlqIY8k/12700
+#EXTINF:-1,IT: SKY SPORT 2 HD
+http://qqtv.nl:80/gxMh2AhXdw/PH6zlqIY8k/12699
+#EXTINF:-1,IT: SKY SPORT ARENA
+http://qqtv.nl:80/gxMh2AhXdw/PH6zlqIY8k/12866
+#EXTINF:-1,IT: SKY SPORT FOOTBALL HD
+http://qqtv.nl:80/gxMh2AhXdw/PH6zlqIY8k/12887
+#EXTINF:-1,IT: SKY SPORT GOLF HD
+http://qqtv.nl:80/gxMh2AhXdw/PH6zlqIY8k/12701
+#EXTINF:-1,IT: SKY SPORT MOTOGP HD
+http://qqtv.nl:80/gxMh2AhXdw/PH6zlqIY8k/12870
+#EXTINF:-1,IT: SKY SPORT NBA HD
+http://qqtv.nl:80/gxMh2AhXdw/PH6zlqIY8k/12933
+#EXTINF:-1,IT: SKY SPORT24 HD
+http://qqtv.nl:80/gxMh2AhXdw/PH6zlqIY8k/12696
+#EXTINF:-1,IT: SPORT ITALIA
+http://qqtv.nl:80/gxMh2AhXdw/PH6zlqIY8k/12702
+#EXTINF:-1,IT: SUPER TENNIS
+http://qqtv.nl:80/gxMh2AhXdw/PH6zlqIY8k/12689
+#EXTINF:-1,NL | FOX SPORTS 1
+http://qqtv.nl:80/gxMh2AhXdw/PH6zlqIY8k/11312
+#EXTINF:-1,NL | FOX SPORTS 2
+http://qqtv.nl:80/gxMh2AhXdw/PH6zlqIY8k/11311
+#EXTINF:-1,NL | FOX SPORTS 3
+http://qqtv.nl:80/gxMh2AhXdw/PH6zlqIY8k/11310
+#EXTINF:-1,NL | FOX SPORTS 4
+http://qqtv.nl:80/gxMh2AhXdw/PH6zlqIY8k/11309
+#EXTINF:-1,NL | FOX SPORTS 5
+http://qqtv.nl:80/gxMh2AhXdw/PH6zlqIY8k/11308
+#EXTINF:-1,NL | FOX SPORTS 6
+http://qqtv.nl:80/gxMh2AhXdw/PH6zlqIY8k/11307
+#EXTINF:-1,NL | ZIGGO SPORT EXTRA 1
+http://qqtv.nl:80/gxMh2AhXdw/PH6zlqIY8k/11315
+#EXTINF:-1,NL | ZIGGO SPORTS SELECT
+http://qqtv.nl:80/gxMh2AhXdw/PH6zlqIY8k/11288
+#EXTINF:-1,NL | ZIGGO SPORTS VOETBAL
+http://qqtv.nl:80/gxMh2AhXdw/PH6zlqIY8k/11287
+#EXTINF:-1,PL:  NSPORT.
+http://qqtv.nl:80/gxMh2AhXdw/PH6zlqIY8k/15228
+#EXTINF:-1,PL: CANAL  SPORT 2  HD
+http://qqtv.nl:80/gxMh2AhXdw/PH6zlqIY8k/15216
+#EXTINF:-1,PL: CANAL  SPORT
+http://qqtv.nl:80/gxMh2AhXdw/PH6zlqIY8k/15217
+#EXTINF:-1,PL: CANAL SPORT
+http://qqtv.nl:80/gxMh2AhXdw/PH6zlqIY8k/15207
+#EXTINF:-1,PL: CANAL+ SPORT HD
+http://qqtv.nl:80/gxMh2AhXdw/PH6zlqIY8k/15218
+#EXTINF:-1,PL: ELEVEN SPORTS 1 HD
+http://qqtv.nl:80/gxMh2AhXdw/PH6zlqIY8k/15198
+#EXTINF:-1,PL: ELEVEN SPORTS 2 HD
+http://qqtv.nl:80/gxMh2AhXdw/PH6zlqIY8k/15200
+#EXTINF:-1,PL: ELEVEN SPORTS 3 HD
+http://qqtv.nl:80/gxMh2AhXdw/PH6zlqIY8k/15199
+#EXTINF:-1,PL: ELEVEN SPORTS HD
+http://qqtv.nl:80/gxMh2AhXdw/PH6zlqIY8k/60949
+#EXTINF:-1,PL: EUROSPORT 1
+http://qqtv.nl:80/gxMh2AhXdw/PH6zlqIY8k/15197
+#EXTINF:-1,PL: EUROSPORT 2
+http://qqtv.nl:80/gxMh2AhXdw/PH6zlqIY8k/15196
+#EXTINF:-1,PL: POLSAT SPORT EXTRA HD
+http://qqtv.nl:80/gxMh2AhXdw/PH6zlqIY8k/15169
+#EXTINF:-1,PL: POLSAT SPORT HD
+http://qqtv.nl:80/gxMh2AhXdw/PH6zlqIY8k/15170
+#EXTINF:-1,PL: POLSAT SPORTS NEWS
+http://qqtv.nl:80/gxMh2AhXdw/PH6zlqIY8k/15167
+#EXTINF:-1,PL: TVN SPORT
+http://qqtv.nl:80/gxMh2AhXdw/PH6zlqIY8k/66447
+#EXTINF:-1,PL: TVP SPORT HD
+http://qqtv.nl:80/gxMh2AhXdw/PH6zlqIY8k/15158
+#EXTINF:-1,SK: ARENA SPORT 1 HD
+http://qqtv.nl:80/gxMh2AhXdw/PH6zlqIY8k/21286
+#EXTINF:-1,SK: ARENA SPORT 2
+http://qqtv.nl:80/gxMh2AhXdw/PH6zlqIY8k/21285
+#EXTINF:-1,SK: CT SPORT HD
+http://qqtv.nl:80/gxMh2AhXdw/PH6zlqIY8k/21269
+#EXTINF:-1,UK: EUROSPORT_1_HD
+http://qqtv.nl:80/gxMh2AhXdw/PH6zlqIY8k/15483
+#EXTINF:-1,UK: EUROSPORT_2_HD
+http://qqtv.nl:80/gxMh2AhXdw/PH6zlqIY8k/15482
+#EXTINF:-1,UK: SKY_SPORTS_ACTION _HD
+http://qqtv.nl:80/gxMh2AhXdw/PH6zlqIY8k/15370
+#EXTINF:-1,UK: SKY_SPORTS_MIX_HD
+http://qqtv.nl:80/gxMh2AhXdw/PH6zlqIY8k/15397
+#EXTINF:-1,UK: SKY_SPORTS_NEWS_HD
+http://qqtv.nl:80/gxMh2AhXdw/PH6zlqIY8k/15395
+#EXTINF:-1,UK: SKY_SPORT_1_HD
+http://qqtv.nl:80/gxMh2AhXdw/PH6zlqIY8k/15403
+#EXTINF:-1,UK: SKY_SPORT_2_HD
+http://qqtv.nl:80/gxMh2AhXdw/PH6zlqIY8k/15402
+#EXTINF:-1,UK: SKY_SPORT_3_HD
+http://qqtv.nl:80/gxMh2AhXdw/PH6zlqIY8k/15401
+#EXTINF:-1,UK: SKY_SPORT_4_HD
+http://qqtv.nl:80/gxMh2AhXdw/PH6zlqIY8k/15400
+#EXTINF:-1,UK: SKY_SPORT_5_HD
+http://qqtv.nl:80/gxMh2AhXdw/PH6zlqIY8k/15399
+#EXTINF:-1,UK: SKY_SPORT_F1_HD
+http://qqtv.nl:80/gxMh2AhXdw/PH6zlqIY8k/15398
 
 #EXTINF:-1,**** SPORT 1 OK   *****
 http://www.1
+#EXTINF:-1,Sport Klub 1
+http://bestiptv.info:8080/rialtosnack/KzW8jg79xq/156640
+#EXTINF:-1,Sport Klub 2
+http://bestiptv.info:8080/rialtosnack/KzW8jg79xq/156641
+#EXTINF:-1,Sport Klub 3
+http://bestiptv.info:8080/rialtosnack/KzW8jg79xq/156642
+#EXTINF:-1,SPORT KLUB 1 HD
+http://bestiptv.info:8080/rialtosnack/KzW8jg79xq/133867
+#EXTINF:-1,SPORT KLUB 2 HD
+http://bestiptv.info:8080/rialtosnack/KzW8jg79xq/133868
+#EXTINF:-1,SPORT KLUB 3 HD
+http://bestiptv.info:8080/rialtosnack/KzW8jg79xq/133869
+#EXTINF:-1,SPORT KLUB 4 HD
+http://bestiptv.info:8080/rialtosnack/KzW8jg79xq/133870
+#EXTINF:-1,SPORT KLUB 5 HD
+http://bestiptv.info:8080/rialtosnack/KzW8jg79xq/133871
+#EXTINF:-1,SPORT KLUB 6 HD
+http://bestiptv.info:8080/rialtosnack/KzW8jg79xq/133872
+#EXTINF:-1,SLO: SPORT KLUB 1 HD
+http://bestiptv.info:8080/rialtosnack/KzW8jg79xq/91315
+#EXTINF:-1,SLO: SPORT KLUB 2 HD
+http://bestiptv.info:8080/rialtosnack/KzW8jg79xq/91313
+#EXTINF:-1,SLO: SPORT KLUB 3 HD
+http://bestiptv.info:8080/rialtosnack/KzW8jg79xq/91311
+#EXTINF:-1,SLO: SPORT KLUB 4 HD
+http://bestiptv.info:8080/rialtosnack/KzW8jg79xq/117149
+#EXTINF:-1,SLO: SPORT KLUB GOLF
+http://bestiptv.info:8080/rialtosnack/KzW8jg79xq/146035
+#EXTINF:-1,SPORT KLUB 1 HD
+http://bestiptv.info:8080/rialtosnack/KzW8jg79xq/65342
+#EXTINF:-1,SPORT KLUB 2 HD
+http://bestiptv.info:8080/rialtosnack/KzW8jg79xq/65341
+#EXTINF:-1,SPORT KLUB 3 HD
+http://bestiptv.info:8080/rialtosnack/KzW8jg79xq/65340
+#EXTINF:-1,SPORT KLUB 4
+http://bestiptv.info:8080/rialtosnack/KzW8jg79xq/158290
+#EXTINF:-1,SPORT KLUB 5 HD
+http://bestiptv.info:8080/rialtosnack/KzW8jg79xq/65351
+#EXTINF:-1,SPORT KLUB 6
+http://bestiptv.info:8080/rialtosnack/KzW8jg79xq/65350
+#EXTINF:-1,Sport Klub 1 (CRO)
+http://bestiptv.info:8080/rialtosnack/KzW8jg79xq/89494
+#EXTINF:-1,Sport Klub 3 (CRO)
+http://bestiptv.info:8080/rialtosnack/KzW8jg79xq/89496
+#EXTINF:-1,Arena Sport 1 HD
+http://bestiptv.info:8080/rialtosnack/KzW8jg79xq/93783
+#EXTINF:-1,Arena Sport 2 HD
+http://bestiptv.info:8080/rialtosnack/KzW8jg79xq/65360
+#EXTINF:-1,Arena Sport 3 HD
+http://bestiptv.info:8080/rialtosnack/KzW8jg79xq/65365
+#EXTINF:-1,Arena Sport 4 HD
+http://bestiptv.info:8080/rialtosnack/KzW8jg79xq/93786
+#EXTINF:-1,Arena Sport 5 HD
+http://bestiptv.info:8080/rialtosnack/KzW8jg79xq/65363
+#EXTINF:-1,Arena Sport 6 HD
+http://bestiptv.info:8080/rialtosnack/KzW8jg79xq/134396
+#EXTINF:-1,Arena Sport 1 HD
+http://bestiptv.info:8080/rialtosnack/KzW8jg79xq/156635
+#EXTINF:-1,Arena Sport 2 HD
+http://bestiptv.info:8080/rialtosnack/KzW8jg79xq/156636
+#EXTINF:-1,Arena Sport 3
+http://bestiptv.info:8080/rialtosnack/KzW8jg79xq/156637
+#EXTINF:-1,Arena Sport 4 HD
+http://bestiptv.info:8080/rialtosnack/KzW8jg79xq/65364
+#EXTINF:-1,Arena Sport 6 HD
+http://bestiptv.info:8080/rialtosnack/KzW8jg79xq/65362
+#EXTINF:-1,Arena Sport 1 HD
+http://bestiptv.info:8080/rialtosnack/KzW8jg79xq/117279
+#EXTINF:-1,Arena Sport 2 HD
+http://bestiptv.info:8080/rialtosnack/KzW8jg79xq/198482
+#EXTINF:-1,Arena Sport 3
+http://bestiptv.info:8080/rialtosnack/KzW8jg79xq/65359
+#EXTINF:-1,Arena Sport 4
+http://bestiptv.info:8080/rialtosnack/KzW8jg79xq/65358
+#EXTINF:-1,Arena Sport 5 HD
+http://bestiptv.info:8080/rialtosnack/KzW8jg79xq/65357
 
-
+#EXTINF:-1,**** SPORT 1 OK  *****
+http://www.2
 #EXTINF:-1,FR:BeIN Sport 1 HD
 http://herootv.com:8082/live/showpetra4_nkrcxg/KGWPAgNu/2472.ts
 #EXTINF:-1,FR:BeIN Sport 2 HD
@@ -142,7 +356,7 @@ http://herootv.com:8082/live/showpetra4_nkrcxg/KGWPAgNu/2276.ts
 http://herootv.com:8082/live/showpetra4_nkrcxg/KGWPAgNu/2275.ts
 
 #EXTINF:-1,**** SPORT 1 LISTA   *****
-http://vip.2
+http://vip.3
 #EXTINF:0,AR VIP: Bein Sport 11 HD (Backup)
 http://proiptvfr.wissdz.com:8081/076383/818654/12225
 #EXTINF:0,AR VIP: Bein Sport 12 HD (Backup)
@@ -289,119 +503,8 @@ http://proiptvfr.wissdz.com:8081/076383/818654/16957
 http://proiptvfr.wissdz.com:8081/076383/818654/16965
 
 
-#EXTINF:-1,**** SPORT 1 OK  *****
-http://www.3
-
-
-
 #EXTINF:-1,**** SPORT 3 LUSTA   ****
 http://www.4
-#EXTINF:-1,beIN SPORTS HD11
-http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/3157
-#EXTINF:-1,beIN SPORTS HD12
-http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/3156
-#EXTINF:-1,DAZN 1
-http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/11405
-#EXTINF:-1,DAZN 2
-http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/11406
-#EXTINF:-1,Sky Sport.1
-http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/3415
-#EXTINF:-1,Sky Sport.2
-http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/3414
-#EXTINF:-1,Sky Sport Bundesliga1 HD
-http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/8687
-#EXTINF:-1,Fox Sports 1 HD
-http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/4185
-#EXTINF:-1,Fox Sports 2 HD
-http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/4165
-#EXTINF:-1,Fox Sports 3 HD
-http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/4183
-#EXTINF:-1,Fox Sports 4 HD
-http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/4184
-#EXTINF:-1,Fox Sports 5 Hd
-http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/4206
-#EXTINF:-1,Fox Sports 6 HD
-http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/4182
-#EXTINF:-1,Ziggo Sport Select HD
-http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/4202
-#EXTINF:-1,Ziggo Sport Voetbal HD
-http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/4204
-#EXTINF:-1,Eleven Sport 1 HD
-http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/12545
-#EXTINF:-1,Eleven Sport 2 HD
-http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/12546
-#EXTINF:-1,Eleven Sport 3 HD
-http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/12547
-#EXTINF:-1,Eleven Sport 4 HD
-http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/12548
-#EXTINF:-1,BT Sports 1
-http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/4777
-#EXTINF:-1,BT Sports 2
-http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/4776
-#EXTINF:-1,BT Sports 3
-http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/4775
-#EXTINF:-1,BT Sport ESPN
-http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/4742
-#EXTINF:-1,Bein Sport HD 1
-http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/12070
-#EXTINF:-1,Bein Sport HD 2
-http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/12074
-#EXTINF:-1,Bein Sport HD 3
-http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/12065
-#EXTINF:-1,Premier Sports
-http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/4761
-#EXTINF:-1,Sky Sports Action
-http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/4783
-#EXTINF:-1,Sky Sports F1
-http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/4778
-#EXTINF:-1,Sky Sports Golf
-http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/4780
-#EXTINF:-1,Sky Sports MIX
-http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/4782
-#EXTINF:-1,Sky Sports Main Event
-http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/4784
-#EXTINF:-1,Sky Sports News UK
-http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/4785
-#EXTINF:-1,RMC Sport 1
-http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/12069
-#EXTINF:-1,RMC Sport 2
-http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/5472
-#EXTINF:-1,RMC Sport 3
-http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/5471
-#EXTINF:-1,M. Deportes FHD
-http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/14158
-#EXTINF:-1,TeleDeporte FHD
-http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/14162
-#EXTINF:-1,beIN LaLiga FHD
-http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/14161
-#EXTINF:-1,M. Deportes
-http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/5568
-#EXTINF:-1,PL:Polsat Sport
-http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/11032
-#EXTINF:-1,PL:Polsat Sport EXTRA HD
-http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/11031
-#EXTINF:-1,Sky Sport Arena HD
-http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/14501
-#EXTINF:-1,Sky Sport Football
-http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/14504
-#EXTINF:-1,Sky Sport NBA HD
-http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/14502
-#EXTINF:-1,Sky Sport Serie A HD
-http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/14503
-#EXTINF:-1,TSN Sport 1 HD.
-http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/13886
-#EXTINF:-1,TSN Sport 2 HD.
-http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/13885
-#EXTINF:-1,TSN Sport 3 HD.
-http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/13884
-#EXTINF:-1,TSN Sport 4 HD.
-http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/13883
-#EXTINF:-1,TSN Sport 5 HD.
-http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/13882
-#EXTINF:-1,EUROSPORT 1 FHD
-http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/14343
-#EXTINF:-1,EUROSPORT 2 FHD
-http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/14342
 #EXTINF:0,Ex-Yu: Sport Klub 1 HD
 http://163.172.43.106:3000/match7/DeadMan/43
 #EXTINF:0,Ex-Yu: Sport Klub 2 HD
@@ -555,3 +658,30 @@ http://163.172.43.106:3000/match7/DeadMan/137
 http://163.172.43.106:3000/match7/DeadMan/138
 #EXTINF:0,( NL )  Ziggo Sport Golf
 http://163.172.43.106:3000/match7/DeadMan/139
+
+#EXTINF:-1,**** SPORT 1 OK  *****
+http://www.5
+#EXTINF:-1,SPORT KLUB 1 SLO
+http://195.154.207.143:89/POr1/mBYFJfzoSy/7072
+#EXTINF:-1,SPORT KLUB 2 SLO
+http://195.154.207.143:89/POr1/mBYFJfzoSy/7073
+#EXTINF:-1,SPORT KLUB 3 SLO
+http://195.154.207.143:89/POr1/mBYFJfzoSy/7074
+#EXTINF:-1,Sport Klub 1 SD
+http://195.154.207.143:89/POr1/mBYFJfzoSy/608
+#EXTINF:-1,Sport Klub 1
+http://195.154.207.143:89/POr1/mBYFJfzoSy/501
+#EXTINF:-1,Sport Klub 2
+http://195.154.207.143:89/POr1/mBYFJfzoSy/502
+#EXTINF:-1,Sport Klub 3 SD
+http://195.154.207.143:89/POr1/mBYFJfzoSy/610
+#EXTINF:-1,Sport Klub 3
+http://195.154.207.143:89/POr1/mBYFJfzoSy/503
+#EXTINF:-1,Sport Klub 4
+http://195.154.207.143:89/POr1/mBYFJfzoSy/801
+#EXTINF:-1,Sport Klub 5
+http://195.154.207.143:89/POr1/mBYFJfzoSy/802
+#EXTINF:-1,Sport Klub 6
+http://195.154.207.143:89/POr1/mBYFJfzoSy/803
+#EXTINF:-1,Arena Sport 5
+http://195.154.207.143:89/POr1/mBYFJfzoSy/531
