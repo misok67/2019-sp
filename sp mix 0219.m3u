@@ -1,117 +1,124 @@
 #EXTM3U
 
-#EXTINF:-1,Sky Sports News UK
-http://5.254.66.150:25461/sami22/123456/4785
-#EXTINF:-1,Sky Sports Action
-http://5.254.66.150:25461/sami22/123456/4783
-#EXTINF:-1,Sky Sports F1
-http://5.254.66.150:25461/sami22/123456/4778
-#EXTINF:-1,Sky Sports 5 HD
-http://5.254.66.150:25461/sami22/123456/4779
-#EXTINF:-1,Sky Sports Main Event
-http://5.254.66.150:25461/sami22/123456/4784
-#EXTINF:-1,Sky Sports MIX
-http://5.254.66.150:25461/sami22/123456/4782
-#EXTINF:-1,BT Sports 1
-http://5.254.66.150:25461/sami22/123456/4777
-#EXTINF:-1,BT Sports 2
-http://5.254.66.150:25461/sami22/123456/4776
-#EXTINF:-1,BT Sports 3
-http://5.254.66.150:25461/sami22/123456/4775
 
-#EXTINF:-1,BT Sport ESPN
-http://5.254.66.150:25461/sami22/123456/4742
-#EXTINF:-1,BT Sports 1
-http://5.254.66.150:25461/sami22/123456/4777
-#EXTINF:-1,BT Sports 2
-http://5.254.66.150:25461/sami22/123456/4776
-#EXTINF:-1,BT Sports 3
-http://5.254.66.150:25461/sami22/123456/4775
-#EXTINF:-1,Bein Sport 1 HD
-http://5.254.66.150:25461/sami22/123456/5272
-#EXTINF:-1,Bein Sport 2 HD
-http://5.254.66.150:25461/sami22/123456/5271
-#EXTINF:-1,Bein Sport 3 HD
-http://5.254.66.150:25461/sami22/123456/5270
-#EXTINF:-1,Bt Sport Extra1
-http://5.254.66.150:25461/sami22/123456/4746
-#EXTINF:-1,DAZN SPORT 1 HD
-http://5.254.66.150:25461/sami22/123456/3551
-#EXTINF:-1,DAZN SPORT 2 HD
-http://5.254.66.150:25461/sami22/123456/3550
-#EXTINF:-1,Eurosport 1 HD
-http://5.254.66.150:25461/sami22/123456/9129
-#EXTINF:-1,Eurosport 2 HD
-http://5.254.66.150:25461/sami22/123456/4520
-#EXTINF:-1,Fox Sports 1 HD
-http://5.254.66.150:25461/sami22/123456/4185
-#EXTINF:-1,Fox Sports 2 HD
-http://5.254.66.150:25461/sami22/123456/4165
-#EXTINF:-1,Fox Sports 3 HD
-http://5.254.66.150:25461/sami22/123456/4183
-#EXTINF:-1,Fox Sports 4 HD
-http://5.254.66.150:25461/sami22/123456/4184
-#EXTINF:-1,Fox Sports 5 Hd
-http://5.254.66.150:25461/sami22/123456/4206
-#EXTINF:-1,Fox Sports 6 HD
-http://5.254.66.150:25461/sami22/123456/4182
-#EXTINF:-1,Ziggo Sport Select HD
-http://5.254.66.150:25461/sami22/123456/4202
-#EXTINF:-1,Ziggo Sport Voetbal HD
-http://5.254.66.150:25461/sami22/123456/4204
-#EXTINF:-1,M. Deportes
-http://5.254.66.150:25461/sami22/123456/5568
-#EXTINF:-1,PL:Polsat Sport
-http://5.254.66.150:25461/sami22/123456/11032
-#EXTINF:-1,PL:Polsat Sport EXTRA HD
-http://5.254.66.150:25461/sami22/123456/11031
 
-#EXTINF:-1,Teledeporte
-http://5.254.66.150:25461/sami22/123456/5588
-#EXTINF:-1,beIN SPORTS HD11
-http://5.254.66.150:25461/sami22/123456/3157
-#EXTINF:-1,beIN SPORTS HD12
-http://5.254.66.150:25461/sami22/123456/3156
-#EXTINF:-1,Sky Sport.1
-http://5.254.66.150:25461/sami22/123456/3415
-#EXTINF:-1,Sky Sport.2
-http://5.254.66.150:25461/sami22/123456/3414
-#EXTINF:-1,Sky Sport Bundesliga1 HD
-http://5.254.66.150:25461/sami22/123456/8687
-#EXTINF:-1,Eurosport 1.
-http://5.254.66.150:25461/sami22/123456/4771
-#EXTINF:-1,Eurosport 2.
-http://5.254.66.150:25461/sami22/123456/4770
-#EXTINF:-1,AR: BEIN SPORT 11 HD
-http://besttv.pro:8000/live/restream/0m2zQEINlG/172.ts
-#EXTINF:-1,AR: BEIN SPORT 12 HD
-http://besttv.pro:8000/live/restream/0m2zQEINlG/171.ts
-#EXTINF:-1,DE: SKY BUNDESLIGA 1 HD
-http://besttv.pro:8000/live/restream/0m2zQEINlG/798.ts
-#EXTINF:-1,DE: SKY SPORT 1 HD
-http://besttv.pro:8000/live/restream/0m2zQEINlG/799.ts
-#EXTINF:-1,DE: SKY SPORT 2 HD
-http://besttv.pro:8000/live/restream/0m2zQEINlG/800.ts
-#EXTINF:-1,FR_BEIN SPORT 1 HD2
-http://besttv.pro:8000/live/restream/0m2zQEINlG/151.ts
-#EXTINF:-1,PL: Canal Sport 2 HD 4K
-http://besttv.pro:8000/live/restream/0m2zQEINlG/344.ts
-#EXTINF:-1,PL: Canal Sport 4K
-http://besttv.pro:8000/live/restream/0m2zQEINlG/345.ts
-#EXTINF:-1,PL: POLSAT SPORTS HD
-http://besttv.pro:8000/live/restream/0m2zQEINlG/355.ts
-#EXTINF:-1,PL: Polsat Sport Extra HD
-http://besttv.pro:8000/live/restream/0m2zQEINlG/354.ts
-#EXTINF:-1,PT.: BEIN Sports
-http://besttv.pro:8000/live/restream/0m2zQEINlG/248.ts
-#EXTINF:-1,USA:BEIN Sports
-http://besttv.pro:8000/live/restream/0m2zQEINlG/13.ts
-#EXTINF:-1,FR: BeIN SPORTS 1 HD (1080P)
-http://proiptvfr.wissdz.com:8081/123456789/123456789/4528
-#EXTINF:-1,FR: BeIN SPORTS 2 HD (1080P)
-http://proiptvfr.wissdz.com:8081/123456789/123456789/9606
-#EXTINF:-1,FR: BeIN SPORTS 3 HD (1080P)
-http://proiptvfr.wissdz.com:8081/123456789/123456789/9605
+#EXTINF:-1,SPORT:UK |  Sky Sports Action HD
+http://hyper.de1-eu.com:8000/UNIBOX/ScRFw3nhAnU2/99148
+#EXTINF:-1,SPORT:UK |  Sky Sports Arena HD
+http://hyper.de1-eu.com:8000/UNIBOX/ScRFw3nhAnU2/99145
+#EXTINF:-1,SPORT:UK |  Sky Sports Arena
+http://hyper.de1-eu.com:8000/UNIBOX/ScRFw3nhAnU2/99147
+#EXTINF:-1,SPORT:UK |  Sky Sports F1 HD
+http://hyper.de1-eu.com:8000/UNIBOX/ScRFw3nhAnU2/99132
+#EXTINF:-1,SPORT:UK |  Sky Sports F1
+http://hyper.de1-eu.com:8000/UNIBOX/ScRFw3nhAnU2/99133
+#EXTINF:-1,SPORT:UK |  Sky Sports Football HD
+http://hyper.de1-eu.com:8000/UNIBOX/ScRFw3nhAnU2/99142
+#EXTINF:-1,SPORT:UK |  Sky Sports Football
+http://hyper.de1-eu.com:8000/UNIBOX/ScRFw3nhAnU2/99144
+#EXTINF:-1,SPORT:UK |  Sky Sports Golf FHD
+http://hyper.de1-eu.com:8000/UNIBOX/ScRFw3nhAnU2/99130
+#EXTINF:-1,SPORT:UK |  Sky Sports Main Event HD
+http://hyper.de1-eu.com:8000/UNIBOX/ScRFw3nhAnU2/99140
+#EXTINF:-1,SPORT:UK |  Sky Sports Main Event
+http://hyper.de1-eu.com:8000/UNIBOX/ScRFw3nhAnU2/99141
+#EXTINF:-1,SPORT:UK |  Sky Sports Mix HD
+http://hyper.de1-eu.com:8000/UNIBOX/ScRFw3nhAnU2/99138
+#EXTINF:-1,SPORT:UK |  Sky Sports Mix
+http://hyper.de1-eu.com:8000/UNIBOX/ScRFw3nhAnU2/99139
+#EXTINF:-1,SPORT:UK |  Sky Sports News HD
+http://hyper.de1-eu.com:8000/UNIBOX/ScRFw3nhAnU2/99134
+#EXTINF:-1,SPORT:UK |  Sky Sports Premier League HD
+http://hyper.de1-eu.com:8000/UNIBOX/ScRFw3nhAnU2/99135
+#EXTINF:-1,SPORT:UK |  Sky Sports Premier League
+http://hyper.de1-eu.com:8000/UNIBOX/ScRFw3nhAnU2/99137
+#EXTINF:-1,SPORT:UK | BT SPORTS ESPN HD
+http://hyper.de1-eu.com:8000/UNIBOX/ScRFw3nhAnU2/95377
+#EXTINF:-1,SPORT:UK | BT Sport 1 UHD
+http://hyper.de1-eu.com:8000/UNIBOX/ScRFw3nhAnU2/99154
+#EXTINF:-1,SPORT:UK | BT Sport 2 UHD
+http://hyper.de1-eu.com:8000/UNIBOX/ScRFw3nhAnU2/99152
+#EXTINF:-1,SPORT:UK | BT Sport 3 UHD
+http://hyper.de1-eu.com:8000/UNIBOX/ScRFw3nhAnU2/99150
+#EXTINF:-1,SPORT:UK | Eurosport 1 HD
+http://hyper.de1-eu.com:8000/UNIBOX/ScRFw3nhAnU2/99121
+#EXTINF:-1,SPORT:UK | Eurosport 2 HD
+http://hyper.de1-eu.com:8000/UNIBOX/ScRFw3nhAnU2/99120
+#EXTINF:-1,BEIN SPORTS 11 HD
+http://hyper.de1-eu.com:8000/UNIBOX/ScRFw3nhAnU2/99116
+#EXTINF:-1,BEIN SPORTS 12 UHD
+http://hyper.de1-eu.com:8000/UNIBOX/ScRFw3nhAnU2/95390
+
+#EXTINF:-1,****
+http://hyper.de1-eu.com:8000/UNIBOX/ScRFw3nhAnU2/9999999
+#EXTINF:-1,UK : BT SPORT 2 HQ ZLKF
+http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/88
+#EXTINF:-1,UK : BT SPORT Extra GX
+http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/82
+#EXTINF:-1,UK : BT Sport 1 G
+http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/168
+#EXTINF:-1,UK : BT Sport 1 HD Z
+http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/169
+#EXTINF:-1,UK : BT Sport 1 HD
+http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/93
+#EXTINF:-1,UK : BT Sport 2 G
+http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/86
+#EXTINF:-1,UK : BT Sport 3 G
+http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/84
+#EXTINF:-1,UK : BT Sport 3 HD G
+http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/85
+#EXTINF:-1,UK : BT Sport Extra 1 G
+http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/1561
+#EXTINF:-1,UK : BT Sports ESPN HD G
+http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/81
+#EXTINF:-1,UK : EUROSPORT 1 J
+http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/3517
+#EXTINF:-1,UK : SKY SPORT NEWS GX
+http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/32
+#EXTINF:-1,UK : SKY SPORT NEWS Z
+http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/125
+#EXTINF:-1,UK : SKY SPORTS 5 H
+http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/124
+#EXTINF:-1,UK : SKY SPORTS ACTION G
+http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/26
+#EXTINF:-1,UK : SKY SPORTS ACTION ZLK
+http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/123
+#EXTINF:-1,UK : SKY SPORTS ARENA GX
+http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/25
+#EXTINF:-1,UK : SKY SPORTS CRICKET G
+http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/24
+#EXTINF:-1,UK : SKY SPORTS CRICKET Z
+http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/23
+#EXTINF:-1,UK : SKY SPORTS F1 G
+http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/22
+#EXTINF:-1,UK : SKY SPORTS F1 H
+http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/122
+#EXTINF:-1,UK : SKY SPORTS F1 SD
+http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/121
+#EXTINF:-1,UK : SKY SPORTS FOOTBALL G
+http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/21
+#EXTINF:-1,UK : SKY SPORTS GOLF G
+http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/20
+#EXTINF:-1,UK : SKY SPORTS GOLF ZLK
+http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/120
+#EXTINF:-1,UK : SKY SPORTS MAIN EVENT G
+http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/19
+#EXTINF:-1,UK : SKY SPORTS MIX G
+http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/18
+#EXTINF:-1,UK : SKY SPORTS PREMIER LEAGUE G
+http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/17
+#EXTINF:-1,UK : SKY SPORTS PREMIER LEAGUE Z
+http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/16
+#EXTINF:-1,UK : Sky Sports 1
+http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/31
+#EXTINF:-1,UK : Sky Sports 2
+http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/30
+#EXTINF:-1,UK : Sky Sports 3
+http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/29
+#EXTINF:-1,UK : Sky Sports 4
+http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/28
+#EXTINF:-1,UK : Sky Sports 5
+http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/27
 
 
 #EXTINF:-1,*****  SPORT 0K    *****
@@ -176,167 +183,6 @@ http://51.15.161.236:25461/live/nicsky/fuckface/1954.ts
 http://51.15.161.236:25461/live/nicsky/fuckface/1935.ts
 #EXTINF:-1,Sly Sports PL HD
 http://51.15.161.236:25461/live/nicsky/fuckface/1936.ts
-
-#EXTINF:-1,|AR| BEINSPORTS HD11
-http://iptvpro.premium-tv.media:8789/patrick/patrick/24977
-#EXTINF:-1,|AR| BEINSPORTS HD12
-http://iptvpro.premium-tv.media:8789/patrick/patrick/24978
-#EXTINF:-1,|AR| BEINSPORTS 11  SD
-http://iptvpro.premium-tv.media:8789/patrick/patrick/13643
-#EXTINF:-1,|FR| BEINSPORTS 1 HD
-http://iptvpro.premium-tv.media:8789/patrick/patrick/28941
-#EXTINF:-1,|FR| BEINSPORT 1 SD
-http://iptvpro.premium-tv.media:8789/patrick/patrick/92
-#EXTINF:-1,|FR| BEINSPORTS 2 F.HD
-http://iptvpro.premium-tv.media:8789/patrick/patrick/14159
-#EXTINF:-1,|FR| BEINSPORTS 2 HD
-http://iptvpro.premium-tv.media:8789/patrick/patrick/28943
-#EXTINF:-1,|FR| BEINSPORT 2 SD
-http://iptvpro.premium-tv.media:8789/patrick/patrick/93
-#EXTINF:-1,|FR| BEINSPORTS 3 F.HD
-http://iptvpro.premium-tv.media:8789/patrick/patrick/14158
-#EXTINF:-1,|FR| CANAL+ SPORT F.HD
-http://iptvpro.premium-tv.media:8789/patrick/patrick/14156
-#EXTINF:-1,|FR| CANAL+ SPORT HD
-http://iptvpro.premium-tv.media:8789/patrick/patrick/14161
-#EXTINF:-1,|ES| M DEPORTES 1 HD
-http://iptvpro.premium-tv.media:8789/patrick/patrick/14065
-#EXTINF:-1,|ES| M DEPORTES 1
-http://iptvpro.premium-tv.media:8789/patrick/patrick/14066
-#EXTINF:-1,|ES| M DEPORTES 2
-http://iptvpro.premium-tv.media:8789/patrick/patrick/14064
-#EXTINF:-1,|ES| M DEPORTES 2 HD
-http://iptvpro.premium-tv.media:8789/patrick/patrick/14062
-#EXTINF:-1,|ES| M FÚTBOL FHD
-http://iptvpro.premium-tv.media:8789/patrick/patrick/14081
-#EXTINF:-1,|ES| M FÚTBOL
-http://iptvpro.premium-tv.media:8789/patrick/patrick/14080
-#EXTINF:-1,|ES| M TELEDEPORTE
-http://iptvpro.premium-tv.media:8789/patrick/patrick/14061
-#EXTINF:-1,|ES| M beINSPORT HD
-http://iptvpro.premium-tv.media:8789/patrick/patrick/14076
-#EXTINF:-1,|ES| M beINSPORTS
-http://iptvpro.premium-tv.media:8789/patrick/patrick/14077
-#EXTINF:-1,|ES| M beIN LALIGA
-http://iptvpro.premium-tv.media:8789/patrick/patrick/14075
-#EXTINF:-1,|ES| M beIN LALIGA FHD
-http://iptvpro.premium-tv.media:8789/patrick/patrick/14073
-#EXTINF:-1,|ES| M FORMULA 1 FHD
-http://iptvpro.premium-tv.media:8789/patrick/patrick/14053
-#EXTINF:-1,|ES| M FORMULA 1 HD
-http://iptvpro.premium-tv.media:8789/patrick/patrick/14052
-#EXTINF:-1,|PT| ELEVEN SPORTS 1 FHD
-http://iptvpro.premium-tv.media:8789/patrick/patrick/29988
-#EXTINF:-1,|PT| ELEVEN SPORTS 1 BKP
-http://iptvpro.premium-tv.media:8789/patrick/patrick/35371
-#EXTINF:-1,|PT| ELEVEN SPORTS 2 FHD
-http://iptvpro.premium-tv.media:8789/patrick/patrick/29987
-#EXTINF:-1,|PT| ELEVEN SPORTS 2 BKP
-http://iptvpro.premium-tv.media:8789/patrick/patrick/35372
-#EXTINF:-1,|PT| ELEVEN SPORTS 3 FHD
-http://iptvpro.premium-tv.media:8789/patrick/patrick/29986
-#EXTINF:-1,|PT| ELEVEN SPORTS 3 BKP
-http://iptvpro.premium-tv.media:8789/patrick/patrick/35373
-#EXTINF:-1,|UK| SKY SPORT NEWS HD
-http://iptvpro.premium-tv.media:8789/patrick/patrick/23458
-#EXTINF:-1,|UK| SKY SPORT PREMIERE LEAGUE
-http://iptvpro.premium-tv.media:8789/patrick/patrick/23457
-#EXTINF:-1,|UK| SKY SPORT CRICKET
-http://iptvpro.premium-tv.media:8789/patrick/patrick/23456
-#EXTINF:-1,|UK| SKY SPORT ACTION
-http://iptvpro.premium-tv.media:8789/patrick/patrick/23455
-#EXTINF:-1,|UK| SKY SPORT GOLF HD
-http://iptvpro.premium-tv.media:8789/patrick/patrick/23454
-#EXTINF:-1,|UK| SKY SPORT FOOTBALL HD
-http://iptvpro.premium-tv.media:8789/patrick/patrick/23453
-#EXTINF:-1,|UK| BT SPORT HD
-http://iptvpro.premium-tv.media:8789/patrick/patrick/23452
-#EXTINF:-1,|UK| BT SPORT2HD
-http://iptvpro.premium-tv.media:8789/patrick/patrick/23451
-#EXTINF:-1,|UK| BT SPORT3FHD
-http://iptvpro.premium-tv.media:8789/patrick/patrick/23450
-#EXTINF:-1,|UK| BTSPORT ESPN HD
-http://iptvpro.premium-tv.media:8789/patrick/patrick/23449
-#EXTINF:-1,|IT| SKY SPORT 24 HD
-http://iptvpro.premium-tv.media:8789/patrick/patrick/23588
-#EXTINF:-1,|IT| SKY SPORT UNO HD
-http://iptvpro.premium-tv.media:8789/patrick/patrick/23587
-#EXTINF:-1,|IT| SKY SPORT 2 HD
-http://iptvpro.premium-tv.media:8789/patrick/patrick/23586
-#EXTINF:-1,|IT| SKY SPORT FOOTBALL  HD
-http://iptvpro.premium-tv.media:8789/patrick/patrick/23585
-#EXTINF:-1,|IT| SKY SPORT ARENA FHD
-http://iptvpro.premium-tv.media:8789/patrick/patrick/23584
-#EXTINF:-1,|IT| SKY SPORT MIX HD
-http://iptvpro.premium-tv.media:8789/patrick/patrick/23583
-#EXTINF:-1,|IT| SKY SUPERCALCIO
-http://iptvpro.premium-tv.media:8789/patrick/patrick/23582
-#EXTINF:-1,|IT| SKY SPORT F1
-http://iptvpro.premium-tv.media:8789/patrick/patrick/23580
-#EXTINF:-1,|IT| SUPER TENNIS HD
-http://iptvpro.premium-tv.media:8789/patrick/patrick/23574
-#EXTINF:-1,|DE| SKY SPORT NEWS HD
-http://iptvpro.premium-tv.media:8789/patrick/patrick/23706
-#EXTINF:-1,|DE| SKY SPORT 1HD
-http://iptvpro.premium-tv.media:8789/patrick/patrick/23705
-#EXTINF:-1,|DE|SKY SPORT 2
-http://iptvpro.premium-tv.media:8789/patrick/patrick/23702
-#EXTINF:-1,|DE| EUROSPORT 1 HD
-http://iptvpro.premium-tv.media:8789/patrick/patrick/23689
-#EXTINF:-1,|DE| EUROSPORT 2 HD
-http://iptvpro.premium-tv.media:8789/patrick/patrick/23688
-#EXTINF:-1,|DE| SPORT 1
-http://iptvpro.premium-tv.media:8789/patrick/patrick/23687
-#EXTINF:-1,|DE| SPORT 1   HD
-http://iptvpro.premium-tv.media:8789/patrick/patrick/23686
-#EXTINF:-1,|NL| FOX SPORT1 EREDIVISIE HD
-http://iptvpro.premium-tv.media:8789/patrick/patrick/23841
-#EXTINF:-1,|NL| FOX SPORT 2HD
-http://iptvpro.premium-tv.media:8789/patrick/patrick/23840
-#EXTINF:-1,|NL| FOX SPORT 3 EREDIVISIE HD
-http://iptvpro.premium-tv.media:8789/patrick/patrick/23839
-#EXTINF:-1,|NL| FOX  SPORT 4HD
-http://iptvpro.premium-tv.media:8789/patrick/patrick/23838
-#EXTINF:-1,|NL| FOX SPORT 5 EREDIVISIE HD
-http://iptvpro.premium-tv.media:8789/patrick/patrick/23837
-#EXTINF:-1,|NL| FOX SPORTS 6HD
-http://iptvpro.premium-tv.media:8789/patrick/patrick/23836
-#EXTINF:-1,|NL| ELEVEN SPORT 1 HD
-http://iptvpro.premium-tv.media:8789/patrick/patrick/33593
-#EXTINF:-1,|NL| ELEVEN SPORT 2 HD
-http://iptvpro.premium-tv.media:8789/patrick/patrick/33592
-#EXTINF:-1,|NL| ELEVEN SPORT 3 HD
-http://iptvpro.premium-tv.media:8789/patrick/patrick/33591
-#EXTINF:-1,|NL| Ziggo Sport Voetbal
-http://iptvpro.premium-tv.media:8789/patrick/patrick/23835
-#EXTINF:-1,|NL| Ziggo Sport Racing
-http://iptvpro.premium-tv.media:8789/patrick/patrick/23832
-#EXTINF:-1,|NL| Ziggo Sport Select
-http://iptvpro.premium-tv.media:8789/patrick/patrick/23831
-#EXTINF:-1,|PL| CANAL SPORT HD
-http://iptvpro.premium-tv.media:8789/patrick/patrick/28825
-#EXTINF:-1,|PL| CANAL 2 SPORT HD
-http://iptvpro.premium-tv.media:8789/patrick/patrick/28824
-#EXTINF:-1,|PL|  TVP SPORT
-http://iptvpro.premium-tv.media:8789/patrick/patrick/28823
-#EXTINF:-1,|PL| ELEVEN
-http://iptvpro.premium-tv.media:8789/patrick/patrick/28822
-#EXTINF:-1,|PL| ELEVEN EXTRA HD
-http://iptvpro.premium-tv.media:8789/patrick/patrick/28821
-#EXTINF:-1,|PL| ELEVEN SPORTS
-http://iptvpro.premium-tv.media:8789/patrick/patrick/28820
-#EXTINF:-1,|PL| POLSAT SPORT NEWS
-http://iptvpro.premium-tv.media:8789/patrick/patrick/28819
-#EXTINF:-1,|PL| POLSAT SPORT
-http://iptvpro.premium-tv.media:8789/patrick/patrick/28818
-#EXTINF:-1,|PL| POLSAT SPORT EXTREA
-http://iptvpro.premium-tv.media:8789/patrick/patrick/28817
-#EXTINF:-1,|FR| BEIN SPORTS 1 HD (gpu)
-http://iptvpro.premium-tv.media:8789/patrick/patrick/30416
-#EXTINF:-1,|FR| BEIN SPORTS 2 HD (gpu)
-http://iptvpro.premium-tv.media:8789/patrick/patrick/30415
-#EXTINF:-1,|FR| BEIN SPORTS 3 HD (gpu)
-http://iptvpro.premium-tv.media:8789/patrick/patrick/30414
 
 
 
