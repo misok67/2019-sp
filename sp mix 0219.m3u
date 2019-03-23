@@ -1,160 +1,86 @@
 #EXTM3U
 
-#EXTINF:-1,UK: BT SPORT 1 HD
-http://novaera.spotv.me:8080/12/21/5627
-#EXTINF:-1,UK: BT SPORT 2 HD
-http://novaera.spotv.me:8080/12/21/5626
-#EXTINF:-1,UK: BT SPORT 3 HD
-http://novaera.spotv.me:8080/12/21/5625
-#EXTINF:-1,UK: BT SPORT ESPN HD
-http://novaera.spotv.me:8080/12/21/5624
-#EXTINF:-1,UK: SKY SPORTS ARENA HD
-http://novaera.spotv.me:8080/12/21/5606
-#EXTINF:-1,UK: SKY SPORTS GOLF HD
-http://novaera.spotv.me:8080/12/21/5609
-#EXTINF:-1,UK: SKY SPORTS MAIN EVENT HD
-http://novaera.spotv.me:8080/12/21/5604
-#EXTINF:-1,BT SPORT 1 HD [UK]
-http://novaera.spotv.me:8080/12/21/8719
-#EXTINF:-1,BT SPORT 2 HD [UK]
-http://novaera.spotv.me:8080/12/21/8718
-#EXTINF:-1,BT SPORT 3 HD [UK]
-http://novaera.spotv.me:8080/12/21/8717
-#EXTINF:-1,BT SPORT ESPN HD [UK]
-http://novaera.spotv.me:8080/12/21/8716
-#EXTINF:-1,FOX SPORTS 1 HD [USA]
-http://novaera.spotv.me:8080/12/21/8772
-#EXTINF:-1,FOX SPORTS 2 HD [BR]
-http://novaera.spotv.me:8080/12/21/8730
-#EXTINF:-1,FOX SPORTS HD [BR]
-http://novaera.spotv.me:8080/12/21/8729
-#EXTINF:-1,SKY SPORTS ARENA HD [UK]
-http://novaera.spotv.me:8080/12/21/8710
-#EXTINF:-1,SKY SPORTS F1 [UK]
-http://novaera.spotv.me:8080/12/21/8708
-#EXTINF:-1,SKY SPORTS GOLF HD [UK]
-http://novaera.spotv.me:8080/12/21/8706
-#EXTINF:-1,SKY SPORTS MAIN EVENT HD [UK]
-http://novaera.spotv.me:8080/12/21/8705
-#EXTINF:-1,TELEDEPORTE [ES]
-http://novaera.spotv.me:8080/12/21/8697
-#EXTINF:-1,TSN 1 HD [CA]
-http://novaera.spotv.me:8080/12/21/8782
-#EXTINF:-1,TSN 2 HD [CA]
-http://novaera.spotv.me:8080/12/21/8781
-#EXTINF:-1,TSN 3 HD [CA]
-http://novaera.spotv.me:8080/12/21/8780
-#EXTINF:-1,TSN 4 HD [CA]
-http://novaera.spotv.me:8080/12/21/8779
-#EXTINF:-1,TSN 5 HD [CA]
-http://novaera.spotv.me:8080/12/21/8778
-#EXTINF:-1,USA: BEIN SPORTS EN ESPAÑOL
-http://novaera.spotv.me:8080/12/21/8661
-#EXTINF:-1,USA: BEIN SPORTS
-http://novaera.spotv.me:8080/12/21/8660
-#EXTINF:-1,USA: FOX DEPORTES HD
-http://novaera.spotv.me:8080/12/21/5571
-#EXTINF:-1,USA: FOX SPORTS 1 HD
-http://novaera.spotv.me:8080/12/21/214
-#EXTINF:-1,USA: UNIVISION DEPORTES NETWORK
-http://novaera.spotv.me:8080/12/21/8375
-#EXTINF:-1,BEIN SPORTS CANADA [CA]
-http://novaera.spotv.me:8080/12/21/8794
-#EXTINF:-1,BEIN SPORTS EN ESPAÑOL [USA]
-http://novaera.spotv.me:8080/12/21/8776
-#EXTINF:-1,BEIN SPORTS [USA]
-http://novaera.spotv.me:8080/12/21/8777
-#EXTINF:-1,BR: FOX SPORTS 2 HD
-http://novaera.spotv.me:8080/12/21/5438
-#EXTINF:-1,BR: FOX SPORTS HD
-http://novaera.spotv.me:8080/12/21/5437
-#EXTINF:-1,CA: BEIN SPORTS CANADA
-http://novaera.spotv.me:8080/12/21/8662
-#EXTINF:-1,CA: TSN 1 HD
-http://novaera.spotv.me:8080/12/21/4546
-#EXTINF:-1,CA: TSN 2 HD
-http://novaera.spotv.me:8080/12/21/4547
-#EXTINF:-1,CA: TSN 3 HD
-http://novaera.spotv.me:8080/12/21/4548
-#EXTINF:-1,CA: TSN 4 HD
-http://novaera.spotv.me:8080/12/21/4549
-#EXTINF:-1,CA: TSN 5 HD
-http://novaera.spotv.me:8080/12/21/4550
-#EXTINF:-1,ES: TELEDEPORTE
-http://novaera.spotv.me:8080/12/21/40
-#EXTINF:-1,EUROSPORT 1 HD [PT]
-http://novaera.spotv.me:8080/12/21/8736
-#EXTINF:-1,EUROSPORT 1 HD
-http://novaera.spotv.me:8080/12/21/151
-#EXTINF:-1,EUROSPORT 2 [PT]
-http://novaera.spotv.me:8080/12/21/8735
-#EXTINF:-1,EUROSPORT 2
-http://novaera.spotv.me:8080/12/21/242
 
-
+#EXTINF:-1,BT Sport ESPN
+http://123orca.com:25461/Michael1/Michael1/4742
+#EXTINF:-1,BT Sports 1
+http://123orca.com:25461/Michael1/Michael1/4777
+#EXTINF:-1,BT Sports 2
+http://123orca.com:25461/Michael1/Michael1/4776
+#EXTINF:-1,BT Sports 3
+http://123orca.com:25461/Michael1/Michael1/4775
+#EXTINF:-1,DAZN 1
+http://123orca.com:25461/Michael1/Michael1/11405
+#EXTINF:-1,DAZN 2
+http://123orca.com:25461/Michael1/Michael1/11406
+#EXTINF:-1,DAZN SPORT 1 HD
+http://123orca.com:25461/Michael1/Michael1/3551
+#EXTINF:-1,EUROSPORT 1 FHD
+http://123orca.com:25461/Michael1/Michael1/14343
+#EXTINF:-1,EUROSPORT 2 FHD
+http://123orca.com:25461/Michael1/Michael1/14342
+#EXTINF:-1,Fox Sports 1 HD
+http://123orca.com:25461/Michael1/Michael1/4185
+#EXTINF:-1,Fox Sports 1
+http://123orca.com:25461/Michael1/Michael1/14024
+#EXTINF:-1,Fox Sports 2 HD
+http://123orca.com:25461/Michael1/Michael1/4165
+#EXTINF:-1,Fox Sports 2
+http://123orca.com:25461/Michael1/Michael1/14023
+#EXTINF:-1,Fox Sports 3 HD
+http://123orca.com:25461/Michael1/Michael1/4183
+#EXTINF:-1,Fox Sports 4 HD
+http://123orca.com:25461/Michael1/Michael1/4184
+#EXTINF:-1,Fox Sports 5 Hd
+http://123orca.com:25461/Michael1/Michael1/4206
+#EXTINF:-1,Fox Sports 6 HD
+http://123orca.com:25461/Michael1/Michael1/4182
+#EXTINF:-1,M. Deportes FHD
+http://123orca.com:25461/Michael1/Michael1/14158
+#EXTINF:-1,M. Deportes
+http://123orca.com:25461/Michael1/Michael1/5568
+#EXTINF:-1,PL:Polsat Sport
+http://123orca.com:25461/Michael1/Michael1/11032
+#EXTINF:-1,PL:Polsat Sport EXTRA HD
+http://123orca.com:25461/Michael1/Michael1/11031
+#EXTINF:-1,Sky Sport Football
+http://123orca.com:25461/Michael1/Michael1/14504
+#EXTINF:-1,Sky Sports Action
+http://123orca.com:25461/Michael1/Michael1/4783
+#EXTINF:-1,Sky Sports MIX
+http://123orca.com:25461/Michael1/Michael1/4782
+#EXTINF:-1,Sky Sports Main Event
+http://123orca.com:25461/Michael1/Michael1/4784
+#EXTINF:-1,SportDigital FHD
+http://123orca.com:25461/Michael1/Michael1/14232
+#EXTINF:-1,TSN Sport 1 HD.
+http://123orca.com:25461/Michael1/Michael1/13886
+#EXTINF:-1,TSN Sport 2 HD.
+http://123orca.com:25461/Michael1/Michael1/13885
+#EXTINF:-1,TSN Sport 3 HD.
+http://123orca.com:25461/Michael1/Michael1/13884
+#EXTINF:-1,TSN Sport 4 HD.
+http://123orca.com:25461/Michael1/Michael1/13883
+#EXTINF:-1,TSN Sport 5 HD.
+http://123orca.com:25461/Michael1/Michael1/13882
+#EXTINF:-1,TeleDeporte FHD
+http://123orca.com:25461/Michael1/Michael1/14162
+#EXTINF:-1,Teledeporte
+http://123orca.com:25461/Michael1/Michael1/5588
+#EXTINF:-1,Ziggo Sport Select HD
+http://123orca.com:25461/Michael1/Michael1/4202
+#EXTINF:-1,Ziggo Sport Voetbal HD
+http://123orca.com:25461/Michael1/Michael1/4204
+#EXTINF:-1,beIN SPORTS HD11
+http://123orca.com:25461/Michael1/Michael1/3157
+#EXTINF:-1,beIN SPORTS HD12
+http://123orca.com:25461/Michael1/Michael1/3156
+#EXTINF:-1,sky bundesliga 10
+http://123orca.com:25461/Michael1/Michael1/9450
 
 #EXTINF:-1,*****  SPORT 0K    *****
 http://www.
-#EXTINF:-1,beINSport 11 HD
-http://51.15.161.236:25461/live/nicsky/fuckface/171.ts
-#EXTINF:-1,beINSport 12 HD
-http://51.15.161.236:25461/live/nicsky/fuckface/172.ts
-#EXTINF:-1,Ziggo Sport Voetbal
-http://51.15.161.236:25461/live/nicsky/fuckface/370.ts
-#EXTINF:-1,USA FOX SPORTS 1
-http://51.15.161.236:25461/live/nicsky/fuckface/1205.ts
-#EXTINF:-1,USA FOX SPORTS 2
-http://51.15.161.236:25461/live/nicsky/fuckface/1206.ts
-#EXTINF:-1,Eurosport 1
-http://51.15.161.236:25461/live/nicsky/fuckface/1915.ts
-#EXTINF:-1,Eurosport 2
-http://51.15.161.236:25461/live/nicsky/fuckface/1914.ts
-#EXTINF:-1,BT Sport 1
-http://51.15.161.236:25461/live/nicsky/fuckface/1932.ts
-#EXTINF:-1,BT Sport 1 HD
-http://51.15.161.236:25461/live/nicsky/fuckface/1933.ts
-#EXTINF:-1,BT Sport 2
-http://51.15.161.236:25461/live/nicsky/fuckface/1930.ts
-#EXTINF:-1,BT Sport 2 HD
-http://51.15.161.236:25461/live/nicsky/fuckface/1931.ts
-#EXTINF:-1,BT Sport 3
-http://51.15.161.236:25461/live/nicsky/fuckface/1928.ts
-#EXTINF:-1,BT Sport 3 HD
-http://51.15.161.236:25461/live/nicsky/fuckface/1929.ts
-#EXTINF:-1,BT Sport ESPN
-http://51.15.161.236:25461/live/nicsky/fuckface/1926.ts
-#EXTINF:-1,BT Sport ESPN HD
-http://51.15.161.236:25461/live/nicsky/fuckface/1927.ts
-#EXTINF:-1,Sly Sports Action
-http://51.15.161.236:25461/live/nicsky/fuckface/1951.ts
-#EXTINF:-1,Sly Sports Action HD
-http://51.15.161.236:25461/live/nicsky/fuckface/1952.ts
-#EXTINF:-1,Sly Sports Arena
-http://51.15.161.236:25461/live/nicsky/fuckface/1949.ts
-#EXTINF:-1,Sly Sports Arena HD
-http://51.15.161.236:25461/live/nicsky/fuckface/1950.ts
-#EXTINF:-1,Sly Sports F1
-http://51.15.161.236:25461/live/nicsky/fuckface/1945.ts
-#EXTINF:-1,Sly Sports Football
-http://51.15.161.236:25461/live/nicsky/fuckface/1943.ts
-#EXTINF:-1,Sly Sports Football HD
-http://51.15.161.236:25461/live/nicsky/fuckface/1944.ts
-#EXTINF:-1,Sly Sports Main
-http://51.15.161.236:25461/live/nicsky/fuckface/1939.ts
-#EXTINF:-1,Sly Sports Main HD
-http://51.15.161.236:25461/live/nicsky/fuckface/1940.ts
-#EXTINF:-1,Sly Sports Mix
-http://51.15.161.236:25461/live/nicsky/fuckface/1937.ts
-#EXTINF:-1,Sly Sports Mix HD
-http://51.15.161.236:25461/live/nicsky/fuckface/1938.ts
-#EXTINF:-1,Sly Sports News
-http://51.15.161.236:25461/live/nicsky/fuckface/1953.ts
-#EXTINF:-1,Sly Sports News HD
-http://51.15.161.236:25461/live/nicsky/fuckface/1954.ts
-#EXTINF:-1,Sly Sports PL
-http://51.15.161.236:25461/live/nicsky/fuckface/1935.ts
-#EXTINF:-1,Sly Sports PL HD
-http://51.15.161.236:25461/live/nicsky/fuckface/1936.ts
+
 
 
 
