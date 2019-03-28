@@ -1,82 +1,134 @@
 #EXTM3U
 
+#EXTINF:0,EX-YU: SPORT CLUB 1 HD
+#EXTVLCOPT:network-caching=1000
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/134429
+#EXTINF:0,EX-YU: SPORT CLUB 2 HD
+#EXTVLCOPT:network-caching=1000
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/134430
+#EXTINF:0,EX-YU: SPORT CLUB 3
+#EXTVLCOPT:network-caching=1000
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/208011
+#EXTINF:0,EX-YU: SPORT CLUB 4 HD
+#EXTVLCOPT:network-caching=1000
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/134435
+#EXTINF:0,EX-YU: SPORT CLUB 5 HD
+#EXTVLCOPT:network-caching=1000
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/134436
+#EXTINF:0,EX-YU: SPORT CLUB 6
+#EXTVLCOPT:network-caching=1000
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/207921
+#EXTINF:0,EX-YU: SPORT CLUB 7
+#EXTVLCOPT:network-caching=1000
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/208012
+#EXTINF:0,EX-YU: Sport Klub 1 (CRO)
+#EXTVLCOPT:network-caching=1000
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/89494
+#EXTINF:0,EX-YU: SPORT KLUB 1 HD
+#EXTVLCOPT:network-caching=1000
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/65342
+#EXTINF:0,EX-YU: SPORT KLUB 2 HD
+#EXTVLCOPT:network-caching=1000
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/65341
+#EXTINF:0,EX-YU: Sport Klub 3 (CRO)
+#EXTVLCOPT:network-caching=1000
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/89496
+#EXTINF:0,EX-YU: SPORT KLUB 3 HD
+#EXTVLCOPT:network-caching=1000
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/65340
+#EXTINF:0,EX-YU: SPORT KLUB 4
+#EXTVLCOPT:network-caching=1000
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/158290
+#EXTINF:0,EX-YU: SPORT KLUB 5 HD
+#EXTVLCOPT:network-caching=1000
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/65351
+#EXTINF:0,EX-YU: SPORT KLUB 6
+#EXTVLCOPT:network-caching=1000
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/65350
+#EXTINF:0,EX-YU: SPORTKLUB 2 HD SLO
+#EXTVLCOPT:network-caching=1000
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/126328
+#EXTINF:0,HR: Sport Klub
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/156656
+#EXTINF:0,HR: Sport Klub 1
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/156640
+#EXTINF:0,HR: Sport Klub 2
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/156641
+#EXTINF:0,HR: Sport Klub 3
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/156642
+#EXTINF:0,SRB: SPORT KLUB 1 HD
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/133867
+#EXTINF:0,SRB: SPORT KLUB 2 HD
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/133868
+#EXTINF:0,SRB: SPORT KLUB 3 HD
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/133869
+#EXTINF:0,SRB: SPORT KLUB 4 HD
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/133870
+#EXTINF:0,SRB: SPORT KLUB 5 HD
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/133871
+#EXTINF:0,SRB: SPORT KLUB 6 HD
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/133872
+#EXTINF:0,HR: Arena Sport 1 HD
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/156635
+#EXTINF:0,HR: Arena Sport 2 HD
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/156636
+#EXTINF:0,HR: Arena Sport 3
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/156637
+#EXTINF:0,HR: Arena Sport 4 HD
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/65364
+#EXTINF:0,HR: Arena Sport 5 HD
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/208025
+#EXTINF:0,HR: Arena Sport 6 HD
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/65362
+#EXTINF:0,EX-YU: Arena Sport 1 HD
+#EXTVLCOPT:network-caching=1000
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/93783
+#EXTINF:0,EX-YU: Arena Sport 1 SRB
+#EXTVLCOPT:network-caching=1000
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/206470
+#EXTINF:0,EX-YU: Arena Sport 2 HD
+#EXTVLCOPT:network-caching=1000
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/65360
+#EXTINF:0,EX-YU: Arena Sport 2 Srb
+#EXTVLCOPT:network-caching=1000
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/206473
+#EXTINF:0,EX-YU: Arena Sport 3 HD
+#EXTVLCOPT:network-caching=1000
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/65365
+#EXTINF:0,EX-YU: Arena Sport 4 HD
+#EXTVLCOPT:network-caching=1000
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/93786
+#EXTINF:0,EX-YU: Arena Sport 5 HD
+#EXTVLCOPT:network-caching=1000
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/65363
+#EXTINF:0,EX-YU: Arena Sport 6 HD
+#EXTVLCOPT:network-caching=1000
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/134396
+#EXTINF:0,SRB: ARENA 1
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/134444
+#EXTINF:0,SRB: ARENA 3
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/134445
+#EXTINF:0,SRB: Arena Sport 1 HD
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/117279
+#EXTINF:0,SRB: Arena Sport 2 HD
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/198482
+#EXTINF:0,SRB: Arena Sport 3
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/65359
+#EXTINF:0,SRB: Arena Sport 4
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/65358
+#EXTINF:0,SRB: Arena Sport 5 HD
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/65357
 
-#EXTINF:-1,BT Sport ESPN
-http://123orca.com:25461/Michael1/Michael1/4742
-#EXTINF:-1,BT Sports 1
-http://123orca.com:25461/Michael1/Michael1/4777
-#EXTINF:-1,BT Sports 2
-http://123orca.com:25461/Michael1/Michael1/4776
-#EXTINF:-1,BT Sports 3
-http://123orca.com:25461/Michael1/Michael1/4775
-#EXTINF:-1,DAZN 1
-http://123orca.com:25461/Michael1/Michael1/11405
-#EXTINF:-1,DAZN 2
-http://123orca.com:25461/Michael1/Michael1/11406
-#EXTINF:-1,DAZN SPORT 1 HD
-http://123orca.com:25461/Michael1/Michael1/3551
-#EXTINF:-1,EUROSPORT 1 FHD
-http://123orca.com:25461/Michael1/Michael1/14343
-#EXTINF:-1,EUROSPORT 2 FHD
-http://123orca.com:25461/Michael1/Michael1/14342
-#EXTINF:-1,Fox Sports 1 HD
-http://123orca.com:25461/Michael1/Michael1/4185
-#EXTINF:-1,Fox Sports 1
-http://123orca.com:25461/Michael1/Michael1/14024
-#EXTINF:-1,Fox Sports 2 HD
-http://123orca.com:25461/Michael1/Michael1/4165
-#EXTINF:-1,Fox Sports 2
-http://123orca.com:25461/Michael1/Michael1/14023
-#EXTINF:-1,Fox Sports 3 HD
-http://123orca.com:25461/Michael1/Michael1/4183
-#EXTINF:-1,Fox Sports 4 HD
-http://123orca.com:25461/Michael1/Michael1/4184
-#EXTINF:-1,Fox Sports 5 Hd
-http://123orca.com:25461/Michael1/Michael1/4206
-#EXTINF:-1,Fox Sports 6 HD
-http://123orca.com:25461/Michael1/Michael1/4182
-#EXTINF:-1,M. Deportes FHD
-http://123orca.com:25461/Michael1/Michael1/14158
-#EXTINF:-1,M. Deportes
-http://123orca.com:25461/Michael1/Michael1/5568
-#EXTINF:-1,PL:Polsat Sport
-http://123orca.com:25461/Michael1/Michael1/11032
-#EXTINF:-1,PL:Polsat Sport EXTRA HD
-http://123orca.com:25461/Michael1/Michael1/11031
-#EXTINF:-1,Sky Sport Football
-http://123orca.com:25461/Michael1/Michael1/14504
-#EXTINF:-1,Sky Sports Action
-http://123orca.com:25461/Michael1/Michael1/4783
-#EXTINF:-1,Sky Sports MIX
-http://123orca.com:25461/Michael1/Michael1/4782
-#EXTINF:-1,Sky Sports Main Event
-http://123orca.com:25461/Michael1/Michael1/4784
-#EXTINF:-1,SportDigital FHD
-http://123orca.com:25461/Michael1/Michael1/14232
-#EXTINF:-1,TSN Sport 1 HD.
-http://123orca.com:25461/Michael1/Michael1/13886
-#EXTINF:-1,TSN Sport 2 HD.
-http://123orca.com:25461/Michael1/Michael1/13885
-#EXTINF:-1,TSN Sport 3 HD.
-http://123orca.com:25461/Michael1/Michael1/13884
-#EXTINF:-1,TSN Sport 4 HD.
-http://123orca.com:25461/Michael1/Michael1/13883
-#EXTINF:-1,TSN Sport 5 HD.
-http://123orca.com:25461/Michael1/Michael1/13882
-#EXTINF:-1,TeleDeporte FHD
-http://123orca.com:25461/Michael1/Michael1/14162
-#EXTINF:-1,Teledeporte
-http://123orca.com:25461/Michael1/Michael1/5588
-#EXTINF:-1,Ziggo Sport Select HD
-http://123orca.com:25461/Michael1/Michael1/4202
-#EXTINF:-1,Ziggo Sport Voetbal HD
-http://123orca.com:25461/Michael1/Michael1/4204
-#EXTINF:-1,beIN SPORTS HD11
-http://123orca.com:25461/Michael1/Michael1/3157
-#EXTINF:-1,beIN SPORTS HD12
-http://123orca.com:25461/Michael1/Michael1/3156
-#EXTINF:-1,sky bundesliga 10
-http://123orca.com:25461/Michael1/Michael1/9450
+#EXTINF:0,EX-YU: PlanetSport 1
+#EXTVLCOPT:network-caching=1000
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/207143
+#EXTINF:0,EX-YU: PlanetSport 2
+#EXTVLCOPT:network-caching=1000
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/207144
+#EXTINF:0,EX-YU: PlanetSport 3
+#EXTVLCOPT:network-caching=1000
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/207145
+
 
 #EXTINF:-1,*****  SPORT 0K    *****
 http://www.
