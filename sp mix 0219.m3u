@@ -128,7 +128,9 @@ http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/207144
 #EXTINF:0,EX-YU: PlanetSport 3
 #EXTVLCOPT:network-caching=1000
 http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/207145
-
+#EXTINF:0,EX-YU: HNTV
+#EXTVLCOPT:network-caching=1000
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/65272
 
 #EXTINF:-1,*****  SPORT 0K    *****
 http://www.
