@@ -1,29 +1,105 @@
 #EXTM3U
 
-#EXTINF:0,EX: ARENA 1HD
-http://hd.007iptv.com:2095/111/111/861
-#EXTINF:0,EX: ARENA 2HD
-http://hd.007iptv.com:2095/111/111/860
-#EXTINF:0,EX: ARENA 3HD
-http://hd.007iptv.com:2095/111/111/859
-#EXTINF:0,EX: ARENA 4HD
-http://hd.007iptv.com:2095/111/111/858
-#EXTINF:0,EX: ARENA 5 HD
-http://hd.007iptv.com:2095/111/111/857
-#EXTINF:0,EX: ARENA 6 HD
-http://hd.007iptv.com:2095/111/111/856
-#EXTINF:0,EX: SPORT KLUB 1  (SR)
-http://hd.007iptv.com:2095/111/111/855
-#EXTINF:0,EX: SPORT KLUB 2 (RS)
-http://hd.007iptv.com:2095/111/111/854
-#EXTINF:0,EX: SPORT KLUB 3 HD (SR)
-http://hd.007iptv.com:2095/111/111/853
-#EXTINF:0,EX: SPORT KLUB 4 HD
-http://hd.007iptv.com:2095/111/111/852
-#EXTINF:0,EX: SPORT KLUB 5
-http://hd.007iptv.com:2095/111/111/851
-#EXTINF:0,EX: SPORT KLUB 6
-http://hd.007iptv.com:2095/111/111/850
+#EXTINF:-1,DE: DAZN 1 BAR FHD
+http://rocksat.ddns.net:25461/bq7dfuar/2Gj5BNb36C/22420
+#EXTINF:-1,DE: DAZN 2 BAR FHD
+http://rocksat.ddns.net:25461/bq7dfuar/2Gj5BNb36C/22419
+#EXTINF:-1,DE: EUROSPORT 1 HD
+http://rocksat.ddns.net:25461/bq7dfuar/2Gj5BNb36C/22424
+#EXTINF:-1,DE: EUROSPORT 2  XTRA HD
+http://rocksat.ddns.net:25461/bq7dfuar/2Gj5BNb36C/22422
+#EXTINF:-1,DE: EUROSPORT 2 HD
+http://rocksat.ddns.net:25461/bq7dfuar/2Gj5BNb36C/22423
+#EXTINF:-1,DE: SKY BUNDESLIGA 1 HD
+http://rocksat.ddns.net:25461/bq7dfuar/2Gj5BNb36C/22414
+#EXTINF:-1,DE: SKY SPORT 1 HD
+http://rocksat.ddns.net:25461/bq7dfuar/2Gj5BNb36C/22418
+#EXTINF:-1,DE: SKY SPORT 1
+http://rocksat.ddns.net:25461/bq7dfuar/2Gj5BNb36C/22416
+#EXTINF:-1,DE: SKY SPORT 2 HD
+http://rocksat.ddns.net:25461/bq7dfuar/2Gj5BNb36C/22417
+#EXTINF:-1,DE: SKY SPORT 2
+http://rocksat.ddns.net:25461/bq7dfuar/2Gj5BNb36C/22415
+#EXTINF:-1,FR-FHD: BeIN SPORTS 1 FULL HD
+http://rocksat.ddns.net:25461/bq7dfuar/2Gj5BNb36C/25339
+#EXTINF:-1,FR-FHD: BeIN SPORTS 2 FULL HD
+http://rocksat.ddns.net:25461/bq7dfuar/2Gj5BNb36C/25338
+#EXTINF:-1,FR-FHD: BeIN SPORTS 3 FULL HD
+http://rocksat.ddns.net:25461/bq7dfuar/2Gj5BNb36C/25337
+#EXTINF:-1,NL : Fox Sport 1
+http://rocksat.ddns.net:25461/bq7dfuar/2Gj5BNb36C/5185
+#EXTINF:-1,NL : Fox Sport 2
+http://rocksat.ddns.net:25461/bq7dfuar/2Gj5BNb36C/5186
+#EXTINF:-1,NL : Fox Sport 3
+http://rocksat.ddns.net:25461/bq7dfuar/2Gj5BNb36C/5187
+#EXTINF:-1,NL : Fox Sport 4
+http://rocksat.ddns.net:25461/bq7dfuar/2Gj5BNb36C/5188
+#EXTINF:-1,NL : Fox Sport 5
+http://rocksat.ddns.net:25461/bq7dfuar/2Gj5BNb36C/5189
+#EXTINF:-1,NL : Fox Sport 6
+http://rocksat.ddns.net:25461/bq7dfuar/2Gj5BNb36C/5190
+#EXTINF:-1,NL : Ziggo Sport Select
+http://rocksat.ddns.net:25461/bq7dfuar/2Gj5BNb36C/5174
+#EXTINF:-1,NL : Ziggo Sport Voetbal
+http://rocksat.ddns.net:25461/bq7dfuar/2Gj5BNb36C/5173
+#EXTINF:-1,PL: POLSAT SPORT HD
+http://rocksat.ddns.net:25461/bq7dfuar/2Gj5BNb36C/15988
+#EXTINF:-1,SP: BEIN SPORTS HD
+http://rocksat.ddns.net:25461/bq7dfuar/2Gj5BNb36C/14993
+#EXTINF:-1,SP: M. DEPORTE 1 HD
+http://rocksat.ddns.net:25461/bq7dfuar/2Gj5BNb36C/14967
+#EXTINF:-1,SP: TELE DEPORTE
+http://rocksat.ddns.net:25461/bq7dfuar/2Gj5BNb36C/14965
+#EXTINF:-1,UK HD: BT Sports 1 HD
+http://rocksat.ddns.net:25461/bq7dfuar/2Gj5BNb36C/8222
+#EXTINF:-1,UK HD: BT Sports 2 HD
+http://rocksat.ddns.net:25461/bq7dfuar/2Gj5BNb36C/8221
+#EXTINF:-1,UK HD: BT Sports 3 HD
+http://rocksat.ddns.net:25461/bq7dfuar/2Gj5BNb36C/8220
+#EXTINF:-1,UK HD: BT Sports ESPN HD
+http://rocksat.ddns.net:25461/bq7dfuar/2Gj5BNb36C/8219
+#EXTINF:-1,UK HD: Eurosports HD 2
+http://rocksat.ddns.net:25461/bq7dfuar/2Gj5BNb36C/8130
+#EXTINF:-1,UK HD: Eurosports HD
+http://rocksat.ddns.net:25461/bq7dfuar/2Gj5BNb36C/8131
+#EXTINF:-1,UK HD: Sky Sports Action FHD
+http://rocksat.ddns.net:25461/bq7dfuar/2Gj5BNb36C/8155
+#EXTINF:-1,UK HD: Sky Sports Action HD
+http://rocksat.ddns.net:25461/bq7dfuar/2Gj5BNb36C/8161
+#EXTINF:-1,UK HD: Sky Sports F1 HD
+http://rocksat.ddns.net:25461/bq7dfuar/2Gj5BNb36C/8158
+#EXTINF:-1,UK HD: Sky Sports MIX HD
+http://rocksat.ddns.net:25461/bq7dfuar/2Gj5BNb36C/8151
+#EXTINF:-1,UK HD: Sky Sports Main Event FHD
+http://rocksat.ddns.net:25461/bq7dfuar/2Gj5BNb36C/8157
+#EXTINF:-1,UK HD: Sky Sports Main Event HD
+http://rocksat.ddns.net:25461/bq7dfuar/2Gj5BNb36C/8163
+#EXTINF:-1,UK HD: Sky Sports Premier League FHD
+http://rocksat.ddns.net:25461/bq7dfuar/2Gj5BNb36C/8153
+#EXTINF:-1,UK HD: Sky Sports Premier League HD
+http://rocksat.ddns.net:25461/bq7dfuar/2Gj5BNb36C/8159
+#EXTINF:-1,UK-HD: Sky Sports Arena HD
+http://rocksat.ddns.net:25461/bq7dfuar/2Gj5BNb36C/22842
+#EXTINF:-1,US: BEIN SPORTS HD
+http://rocksat.ddns.net:25461/bq7dfuar/2Gj5BNb36C/23677
+#EXTINF:-1,US: FOX SPORTS 1 HD
+http://rocksat.ddns.net:25461/bq7dfuar/2Gj5BNb36C/23661
+#EXTINF:-1,US: FOX SPORTS 2 HD
+http://rocksat.ddns.net:25461/bq7dfuar/2Gj5BNb36C/23660
+#EXTINF:-1,US: TSN SPORT 1 HD
+http://rocksat.ddns.net:25461/bq7dfuar/2Gj5BNb36C/18474
+#EXTINF:-1,US: TSN SPORT 2 HD
+http://rocksat.ddns.net:25461/bq7dfuar/2Gj5BNb36C/18473
+#EXTINF:-1,US: TSN SPORT 3 HD
+http://rocksat.ddns.net:25461/bq7dfuar/2Gj5BNb36C/18472
+#EXTINF:-1,US: TSN SPORT 4 HD
+http://rocksat.ddns.net:25461/bq7dfuar/2Gj5BNb36C/18471
+#EXTINF:-1,US: TSN SPORT 5 HD
+http://rocksat.ddns.net:25461/bq7dfuar/2Gj5BNb36C/18470
+#EXTINF:-1,beiN Sports 11
+http://rocksat.ddns.net:25461/bq7dfuar/2Gj5BNb36C/5241
+#EXTINF:-1,beiN Sports 12
+http://rocksat.ddns.net:25461/bq7dfuar/2Gj5BNb36C/5242
 
 
 #EXTINF:-1,*****  SPORT 0K    *****
@@ -256,40 +332,6 @@ http://tv.iptvsensation.org:6500/v7cEyu35Bt/X5IaaEu6Js/26128
 
 #EXTINF:-1,**** SPORT 1 OK   *****
 http://www.1
-#EXTINF:0,UK: Sky Sports Action HD
-http://hd.007iptv.com:2095/111/111/610
-#EXTINF:0,UK: Sky Sports Arena HD
-http://hd.007iptv.com:2095/111/111/609
-#EXTINF:0,UK: Sky Sports Cricket HD
-http://hd.007iptv.com:2095/111/111/608
-#EXTINF:0,UK: Sky Sports F1
-http://hd.007iptv.com:2095/111/111/604
-#EXTINF:0,UK: Sky Sports Football
-http://hd.007iptv.com:2095/111/111/613
-#EXTINF:0,UK: Sky Sports Main Event
-http://hd.007iptv.com:2095/111/111/612
-#EXTINF:0,UK: Sky Sports Mix
-http://hd.007iptv.com:2095/111/111/605
-#EXTINF:0,UK: Sky Sports News
-http://hd.007iptv.com:2095/111/111/615
-#EXTINF:0,UK: Sky Sports Premier League
-http://hd.007iptv.com:2095/111/111/614
-#EXTINF:0,UK: Sky Sports The Open HD
-http://hd.007iptv.com:2095/111/111/611
-#EXTINF:0,UK: BT Sport 1 HD
-http://hd.007iptv.com:2095/111/111/603
-#EXTINF:0,UK: BT Sport 2 HD
-http://hd.007iptv.com:2095/111/111/602
-#EXTINF:0,UK: BT Sport ESPN
-http://hd.007iptv.com:2095/111/111/601
-#EXTINF:0,DE: Sky Sport 1 HD
-http://hd.007iptv.com:2095/111/111/439
-#EXTINF:0,DE: Sky Sport 2 HD
-http://hd.007iptv.com:2095/111/111/438
-#EXTINF:0,DE: Dazn 1 HD
-http://hd.007iptv.com:2095/111/111/418
-#EXTINF:0,DE: Dazn 2 HD
-http://hd.007iptv.com:2095/111/111/417
 
 
 #EXTINF:-1,**** SPORT 1 OK  *****
