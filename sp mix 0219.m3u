@@ -1,287 +1,128 @@
 #EXTM3U
 
-#EXTINF:-1,DE: DAZN 1 BAR FHD
-http://rocksat.ddns.net:25461/bq7dfuar/2Gj5BNb36C/22420
-#EXTINF:-1,DE: DAZN 2 BAR FHD
-http://rocksat.ddns.net:25461/bq7dfuar/2Gj5BNb36C/22419
-#EXTINF:-1,DE: EUROSPORT 1 HD
-http://rocksat.ddns.net:25461/bq7dfuar/2Gj5BNb36C/22424
-#EXTINF:-1,DE: EUROSPORT 2  XTRA HD
-http://rocksat.ddns.net:25461/bq7dfuar/2Gj5BNb36C/22422
-#EXTINF:-1,DE: EUROSPORT 2 HD
-http://rocksat.ddns.net:25461/bq7dfuar/2Gj5BNb36C/22423
-#EXTINF:-1,DE: SKY BUNDESLIGA 1 HD
-http://rocksat.ddns.net:25461/bq7dfuar/2Gj5BNb36C/22414
-#EXTINF:-1,DE: SKY SPORT 1 HD
-http://rocksat.ddns.net:25461/bq7dfuar/2Gj5BNb36C/22418
-#EXTINF:-1,DE: SKY SPORT 1
-http://rocksat.ddns.net:25461/bq7dfuar/2Gj5BNb36C/22416
-#EXTINF:-1,DE: SKY SPORT 2 HD
-http://rocksat.ddns.net:25461/bq7dfuar/2Gj5BNb36C/22417
-#EXTINF:-1,DE: SKY SPORT 2
-http://rocksat.ddns.net:25461/bq7dfuar/2Gj5BNb36C/22415
-#EXTINF:-1,FR-FHD: BeIN SPORTS 1 FULL HD
-http://rocksat.ddns.net:25461/bq7dfuar/2Gj5BNb36C/25339
-#EXTINF:-1,FR-FHD: BeIN SPORTS 2 FULL HD
-http://rocksat.ddns.net:25461/bq7dfuar/2Gj5BNb36C/25338
-#EXTINF:-1,FR-FHD: BeIN SPORTS 3 FULL HD
-http://rocksat.ddns.net:25461/bq7dfuar/2Gj5BNb36C/25337
-#EXTINF:-1,NL : Fox Sport 1
-http://rocksat.ddns.net:25461/bq7dfuar/2Gj5BNb36C/5185
-#EXTINF:-1,NL : Fox Sport 2
-http://rocksat.ddns.net:25461/bq7dfuar/2Gj5BNb36C/5186
-#EXTINF:-1,NL : Fox Sport 3
-http://rocksat.ddns.net:25461/bq7dfuar/2Gj5BNb36C/5187
-#EXTINF:-1,NL : Fox Sport 4
-http://rocksat.ddns.net:25461/bq7dfuar/2Gj5BNb36C/5188
-#EXTINF:-1,NL : Fox Sport 5
-http://rocksat.ddns.net:25461/bq7dfuar/2Gj5BNb36C/5189
-#EXTINF:-1,NL : Fox Sport 6
-http://rocksat.ddns.net:25461/bq7dfuar/2Gj5BNb36C/5190
-#EXTINF:-1,NL : Ziggo Sport Select
-http://rocksat.ddns.net:25461/bq7dfuar/2Gj5BNb36C/5174
-#EXTINF:-1,NL : Ziggo Sport Voetbal
-http://rocksat.ddns.net:25461/bq7dfuar/2Gj5BNb36C/5173
-#EXTINF:-1,PL: POLSAT SPORT HD
-http://rocksat.ddns.net:25461/bq7dfuar/2Gj5BNb36C/15988
-#EXTINF:-1,SP: BEIN SPORTS HD
-http://rocksat.ddns.net:25461/bq7dfuar/2Gj5BNb36C/14993
-#EXTINF:-1,SP: M. DEPORTE 1 HD
-http://rocksat.ddns.net:25461/bq7dfuar/2Gj5BNb36C/14967
-#EXTINF:-1,SP: TELE DEPORTE
-http://rocksat.ddns.net:25461/bq7dfuar/2Gj5BNb36C/14965
 #EXTINF:-1,UK HD: BT Sports 1 HD
-http://rocksat.ddns.net:25461/bq7dfuar/2Gj5BNb36C/8222
+http:///www.sansat.net:25461/scmhj/JLuvVEWTVZ/8222
 #EXTINF:-1,UK HD: BT Sports 2 HD
-http://rocksat.ddns.net:25461/bq7dfuar/2Gj5BNb36C/8221
+http:///www.sansat.net:25461/scmhj/JLuvVEWTVZ/8221
 #EXTINF:-1,UK HD: BT Sports 3 HD
-http://rocksat.ddns.net:25461/bq7dfuar/2Gj5BNb36C/8220
+http:///www.sansat.net:25461/scmhj/JLuvVEWTVZ/8220
 #EXTINF:-1,UK HD: BT Sports ESPN HD
-http://rocksat.ddns.net:25461/bq7dfuar/2Gj5BNb36C/8219
+http:///www.sansat.net:25461/scmhj/JLuvVEWTVZ/8219
+#EXTINF:-1,UK HD: BT Sports FHD 1
+http:///www.sansat.net:25461/scmhj/JLuvVEWTVZ/8212
+#EXTINF:-1,UK HD: BT Sports FHD 2
+http:///www.sansat.net:25461/scmhj/JLuvVEWTVZ/8211
+#EXTINF:-1,UK HD: BT Sports FHD 3
+http:///www.sansat.net:25461/scmhj/JLuvVEWTVZ/8210
 #EXTINF:-1,UK HD: Eurosports HD 2
-http://rocksat.ddns.net:25461/bq7dfuar/2Gj5BNb36C/8130
+http:///www.sansat.net:25461/scmhj/JLuvVEWTVZ/8130
 #EXTINF:-1,UK HD: Eurosports HD
-http://rocksat.ddns.net:25461/bq7dfuar/2Gj5BNb36C/8131
+http:///www.sansat.net:25461/scmhj/JLuvVEWTVZ/8131
 #EXTINF:-1,UK HD: Sky Sports Action FHD
-http://rocksat.ddns.net:25461/bq7dfuar/2Gj5BNb36C/8155
+http:///www.sansat.net:25461/scmhj/JLuvVEWTVZ/8155
 #EXTINF:-1,UK HD: Sky Sports Action HD
-http://rocksat.ddns.net:25461/bq7dfuar/2Gj5BNb36C/8161
+http:///www.sansat.net:25461/scmhj/JLuvVEWTVZ/8161
 #EXTINF:-1,UK HD: Sky Sports F1 HD
-http://rocksat.ddns.net:25461/bq7dfuar/2Gj5BNb36C/8158
+http:///www.sansat.net:25461/scmhj/JLuvVEWTVZ/8158
+#EXTINF:-1,UK HD: Sky Sports Golf FHD
+http:///www.sansat.net:25461/scmhj/JLuvVEWTVZ/8154
+#EXTINF:-1,UK HD: Sky Sports Golf HD
+http:///www.sansat.net:25461/scmhj/JLuvVEWTVZ/8160
 #EXTINF:-1,UK HD: Sky Sports MIX HD
-http://rocksat.ddns.net:25461/bq7dfuar/2Gj5BNb36C/8151
+http:///www.sansat.net:25461/scmhj/JLuvVEWTVZ/8151
 #EXTINF:-1,UK HD: Sky Sports Main Event FHD
-http://rocksat.ddns.net:25461/bq7dfuar/2Gj5BNb36C/8157
+http:///www.sansat.net:25461/scmhj/JLuvVEWTVZ/8157
 #EXTINF:-1,UK HD: Sky Sports Main Event HD
-http://rocksat.ddns.net:25461/bq7dfuar/2Gj5BNb36C/8163
+http:///www.sansat.net:25461/scmhj/JLuvVEWTVZ/8163
 #EXTINF:-1,UK HD: Sky Sports Premier League FHD
-http://rocksat.ddns.net:25461/bq7dfuar/2Gj5BNb36C/8153
+http:///www.sansat.net:25461/scmhj/JLuvVEWTVZ/8153
 #EXTINF:-1,UK HD: Sky Sports Premier League HD
-http://rocksat.ddns.net:25461/bq7dfuar/2Gj5BNb36C/8159
+http:///www.sansat.net:25461/scmhj/JLuvVEWTVZ/8159
 #EXTINF:-1,UK-HD: Sky Sports Arena HD
-http://rocksat.ddns.net:25461/bq7dfuar/2Gj5BNb36C/22842
+http:///www.sansat.net:25461/scmhj/JLuvVEWTVZ/22842
+#EXTINF:-1,DE: DAZN 1 BAR FHD
+http:///www.sansat.net:25461/scmhj/JLuvVEWTVZ/22420
+#EXTINF:-1,DE: DAZN 2 BAR FHD
+http:///www.sansat.net:25461/scmhj/JLuvVEWTVZ/22419
+#EXTINF:-1,DE: EUROSPORT 1 HD
+http:///www.sansat.net:25461/scmhj/JLuvVEWTVZ/22424
+#EXTINF:-1,DE: EUROSPORT 2  XTRA HD
+http:///www.sansat.net:25461/scmhj/JLuvVEWTVZ/22422
+#EXTINF:-1,DE: EUROSPORT 2 HD
+http:///www.sansat.net:25461/scmhj/JLuvVEWTVZ/22423
+#EXTINF:-1,DE: SKY BUNDESLIGA 1 HD
+http:///www.sansat.net:25461/scmhj/JLuvVEWTVZ/22414
+#EXTINF:-1,DE: SKY SPORT 1 HD
+http:///www.sansat.net:25461/scmhj/JLuvVEWTVZ/22418
+#EXTINF:-1,DE: SKY SPORT 1
+http:///www.sansat.net:25461/scmhj/JLuvVEWTVZ/22416
+#EXTINF:-1,DE: SKY SPORT 2 HD
+http:///www.sansat.net:25461/scmhj/JLuvVEWTVZ/22417
+#EXTINF:-1,DE: SKY SPORT 2
+http:///www.sansat.net:25461/scmhj/JLuvVEWTVZ/22415
+#EXTINF:-1,FR-FHD: BeIN SPORTS 1 FULL HD
+http:///www.sansat.net:25461/scmhj/JLuvVEWTVZ/25339
+#EXTINF:-1,FR-FHD: BeIN SPORTS 2 FULL HD
+http:///www.sansat.net:25461/scmhj/JLuvVEWTVZ/25338
+#EXTINF:-1,FR-FHD: BeIN SPORTS 3 FULL HD
+http:///www.sansat.net:25461/scmhj/JLuvVEWTVZ/25337
+#EXTINF:-1,NL : Fox Sport 1
+http:///www.sansat.net:25461/scmhj/JLuvVEWTVZ/5185
+#EXTINF:-1,NL : Fox Sport 2
+http:///www.sansat.net:25461/scmhj/JLuvVEWTVZ/5186
+#EXTINF:-1,NL : Fox Sport 3
+http:///www.sansat.net:25461/scmhj/JLuvVEWTVZ/5187
+#EXTINF:-1,NL : Fox Sport 4
+http:///www.sansat.net:25461/scmhj/JLuvVEWTVZ/5188
+#EXTINF:-1,NL : Fox Sport 5
+http:///www.sansat.net:25461/scmhj/JLuvVEWTVZ/5189
+#EXTINF:-1,NL : Fox Sport 6
+http:///www.sansat.net:25461/scmhj/JLuvVEWTVZ/5190
+#EXTINF:-1,NL : Ziggo Sport Select
+http:///www.sansat.net:25461/scmhj/JLuvVEWTVZ/5174
+#EXTINF:-1,NL : Ziggo Sport Voetbal
+http:///www.sansat.net:25461/scmhj/JLuvVEWTVZ/5173
+#EXTINF:-1,PL: POLSAT SPORT EXTRA HD
+http:///www.sansat.net:25461/scmhj/JLuvVEWTVZ/15990
+#EXTINF:-1,PL: POLSAT SPORT HD
+http:///www.sansat.net:25461/scmhj/JLuvVEWTVZ/15988
+#EXTINF:-1,PL: POLSAT SPORT NEWS HD
+http:///www.sansat.net:25461/scmhj/JLuvVEWTVZ/15987
+#EXTINF:-1,SP: BEIN SPORTS HD
+http:///www.sansat.net:25461/scmhj/JLuvVEWTVZ/14993
+#EXTINF:-1,SP: M. DEPORTE 1 HD
+http:///www.sansat.net:25461/scmhj/JLuvVEWTVZ/14967
+#EXTINF:-1,SP: TELE DEPORTE
+http:///www.sansat.net:25461/scmhj/JLuvVEWTVZ/14965
 #EXTINF:-1,US: BEIN SPORTS HD
-http://rocksat.ddns.net:25461/bq7dfuar/2Gj5BNb36C/23677
+http:///www.sansat.net:25461/scmhj/JLuvVEWTVZ/23677
+#EXTINF:-1,US: ESPNDEPORTES HD
+http:///www.sansat.net:25461/scmhj/JLuvVEWTVZ/23709
 #EXTINF:-1,US: FOX SPORTS 1 HD
-http://rocksat.ddns.net:25461/bq7dfuar/2Gj5BNb36C/23661
+http:///www.sansat.net:25461/scmhj/JLuvVEWTVZ/23661
 #EXTINF:-1,US: FOX SPORTS 2 HD
-http://rocksat.ddns.net:25461/bq7dfuar/2Gj5BNb36C/23660
+http:///www.sansat.net:25461/scmhj/JLuvVEWTVZ/23660
 #EXTINF:-1,US: TSN SPORT 1 HD
-http://rocksat.ddns.net:25461/bq7dfuar/2Gj5BNb36C/18474
+http:///www.sansat.net:25461/scmhj/JLuvVEWTVZ/18474
 #EXTINF:-1,US: TSN SPORT 2 HD
-http://rocksat.ddns.net:25461/bq7dfuar/2Gj5BNb36C/18473
+http:///www.sansat.net:25461/scmhj/JLuvVEWTVZ/18473
 #EXTINF:-1,US: TSN SPORT 3 HD
-http://rocksat.ddns.net:25461/bq7dfuar/2Gj5BNb36C/18472
+http:///www.sansat.net:25461/scmhj/JLuvVEWTVZ/18472
 #EXTINF:-1,US: TSN SPORT 4 HD
-http://rocksat.ddns.net:25461/bq7dfuar/2Gj5BNb36C/18471
+http:///www.sansat.net:25461/scmhj/JLuvVEWTVZ/18471
 #EXTINF:-1,US: TSN SPORT 5 HD
-http://rocksat.ddns.net:25461/bq7dfuar/2Gj5BNb36C/18470
+http:///www.sansat.net:25461/scmhj/JLuvVEWTVZ/18470
 #EXTINF:-1,beiN Sports 11
-http://rocksat.ddns.net:25461/bq7dfuar/2Gj5BNb36C/5241
+http:///www.sansat.net:25461/scmhj/JLuvVEWTVZ/5241
 #EXTINF:-1,beiN Sports 12
-http://rocksat.ddns.net:25461/bq7dfuar/2Gj5BNb36C/5242
+http:///www.sansat.net:25461/scmhj/JLuvVEWTVZ/5242
+
 
 
 #EXTINF:-1,*****  SPORT 0K    *****
 http://www.
 
 
-#EXTINF:-1,BEIN SPORTS 11 (English)
-http://tv.iptvsensation.org:6500/v7cEyu35Bt/X5IaaEu6Js/8299
-#EXTINF:-1,BEIN SPORTS 12 (English)
-http://tv.iptvsensation.org:6500/v7cEyu35Bt/X5IaaEu6Js/8298
-#EXTINF:-1,BEIN SPORTS 1 FR
-http://tv.iptvsensation.org:6500/v7cEyu35Bt/X5IaaEu6Js/8301
-#EXTINF:-1,BEIN SPORTS 2 FR
-http://tv.iptvsensation.org:6500/v7cEyu35Bt/X5IaaEu6Js/8302
-#EXTINF:-1,BEIN SPORTS 3 FR
-http://tv.iptvsensation.org:6500/v7cEyu35Bt/X5IaaEu6Js/8303
-#EXTINF:-1,DE: Dazn 1 BAR FHD
-http://tv.iptvsensation.org:6500/v7cEyu35Bt/X5IaaEu6Js/21044
-#EXTINF:-1,DE: Dazn 2 BAR FHD
-http://tv.iptvsensation.org:6500/v7cEyu35Bt/X5IaaEu6Js/21045
-#EXTINF:-1,DE: Sport 1  HD
-http://tv.iptvsensation.org:6500/v7cEyu35Bt/X5IaaEu6Js/7108
-#EXTINF:-1,DE: Sport1  HD
-http://tv.iptvsensation.org:6500/v7cEyu35Bt/X5IaaEu6Js/15564
-#EXTINF:-1,DE: SPORT +1 HD
-http://tv.iptvsensation.org:6500/v7cEyu35Bt/X5IaaEu6Js/7109
-#EXTINF:-1,DE: Sport1 US HD
-http://tv.iptvsensation.org:6500/v7cEyu35Bt/X5IaaEu6Js/15587
-#EXTINF:-1,DE: Sport 1 US HD
-http://tv.iptvsensation.org:6500/v7cEyu35Bt/X5IaaEu6Js/7119
-#EXTINF:-1,DE: Sky Sport 2 HD
-http://tv.iptvsensation.org:6500/v7cEyu35Bt/X5IaaEu6Js/15556
-#EXTINF:-1,DE: Sky Sport 1 HD
-http://tv.iptvsensation.org:6500/v7cEyu35Bt/X5IaaEu6Js/7115
-#EXTINF:-1,DE: Sky Sport 1
-http://tv.iptvsensation.org:6500/v7cEyu35Bt/X5IaaEu6Js/7116
-#EXTINF:-1,DE: Sky Sport 2
-http://tv.iptvsensation.org:6500/v7cEyu35Bt/X5IaaEu6Js/7113
-#EXTINF:-1,DE: Sky Bundesliga 1 HD
-http://tv.iptvsensation.org:6500/v7cEyu35Bt/X5IaaEu6Js/16980
-#EXTINF:-1,UK: Sky Sports Mix FHD
-http://tv.iptvsensation.org:6500/v7cEyu35Bt/X5IaaEu6Js/13713
-#EXTINF:-1,UK: Sky Sports Main Event HD
-http://tv.iptvsensation.org:6500/v7cEyu35Bt/X5IaaEu6Js/8352
-#EXTINF:-1,UK: Sky Sports Main Event
-http://tv.iptvsensation.org:6500/v7cEyu35Bt/X5IaaEu6Js/7035
-#EXTINF:-1,UK: Sky Sports Action FHD
-http://tv.iptvsensation.org:6500/v7cEyu35Bt/X5IaaEu6Js/8350
-#EXTINF:-1,UK: Sky Sports Action
-http://tv.iptvsensation.org:6500/v7cEyu35Bt/X5IaaEu6Js/7037
-#EXTINF:-1,UK: Sky Sports Golf FHD
-http://tv.iptvsensation.org:6500/v7cEyu35Bt/X5IaaEu6Js/9549
-#EXTINF:-1,UK: Sky Sports Premier League FHD
-http://tv.iptvsensation.org:6500/v7cEyu35Bt/X5IaaEu6Js/8349
-#EXTINF:-1,UK: Sky Sports Premier League
-http://tv.iptvsensation.org:6500/v7cEyu35Bt/X5IaaEu6Js/7039
-#EXTINF:-1,UK: Sky Sports Arena FHD
-http://tv.iptvsensation.org:6500/v7cEyu35Bt/X5IaaEu6Js/17862
-#EXTINF:-1,UK: Sky Sports Arena
-http://tv.iptvsensation.org:6500/v7cEyu35Bt/X5IaaEu6Js/17863
-#EXTINF:-1,UK: Sky Sports Football FHD
-http://tv.iptvsensation.org:6500/v7cEyu35Bt/X5IaaEu6Js/17864
-#EXTINF:-1,UK: Sky Sports Football
-http://tv.iptvsensation.org:6500/v7cEyu35Bt/X5IaaEu6Js/17865
-#EXTINF:-1,UK: Sky Sports F1 FHD
-http://tv.iptvsensation.org:6500/v7cEyu35Bt/X5IaaEu6Js/7987
-#EXTINF:-1,UK: SKY SPORTS  F1
-http://tv.iptvsensation.org:6500/v7cEyu35Bt/X5IaaEu6Js/7067
-#EXTINF:-1,UK: ELEVEN SPORTS 1 FHD
-http://tv.iptvsensation.org:6500/v7cEyu35Bt/X5IaaEu6Js/21477
-#EXTINF:-1,UK: ELEVEN SPORTS 2 FHD
-http://tv.iptvsensation.org:6500/v7cEyu35Bt/X5IaaEu6Js/21476
-#EXTINF:-1,UK: Eurosport 1 FHD
-http://tv.iptvsensation.org:6500/v7cEyu35Bt/X5IaaEu6Js/7031
-#EXTINF:-1,UK: Eurosport 2 FHD
-http://tv.iptvsensation.org:6500/v7cEyu35Bt/X5IaaEu6Js/7374
-#EXTINF:-1,UK: Premier Sports
-http://tv.iptvsensation.org:6500/v7cEyu35Bt/X5IaaEu6Js/10163
-#EXTINF:-1,UK: PREMIER SPORTS 2
-http://tv.iptvsensation.org:6500/v7cEyu35Bt/X5IaaEu6Js/23098
-#EXTINF:-1,UK: BT Sports 1 FHD
-http://tv.iptvsensation.org:6500/v7cEyu35Bt/X5IaaEu6Js/7041
-#EXTINF:-1,UK: BT Sport 2 FHD
-http://tv.iptvsensation.org:6500/v7cEyu35Bt/X5IaaEu6Js/7042
-#EXTINF:-1,UK: BT Sport ESPN FHD
-http://tv.iptvsensation.org:6500/v7cEyu35Bt/X5IaaEu6Js/8358
-#EXTINF:-1,UK: BT Sport 2
-http://tv.iptvsensation.org:6500/v7cEyu35Bt/X5IaaEu6Js/8361
-#EXTINF:-1,UK: BT Sport 3 FHD
-http://tv.iptvsensation.org:6500/v7cEyu35Bt/X5IaaEu6Js/8360
-#EXTINF:-1,SP: M.  FUTBOL FHD
-http://tv.iptvsensation.org:6500/v7cEyu35Bt/X5IaaEu6Js/15433
-#EXTINF:-1,SP: M. Futbol
-http://tv.iptvsensation.org:6500/v7cEyu35Bt/X5IaaEu6Js/13008
-#EXTINF:-1,SP: M. DEPORTES 1 HD
-http://tv.iptvsensation.org:6500/v7cEyu35Bt/X5IaaEu6Js/15434
-#EXTINF:-1,SP: M. Depotes 1
-http://tv.iptvsensation.org:6500/v7cEyu35Bt/X5IaaEu6Js/13009
-#EXTINF:-1,SP: M. DEPORTES 2 HD
-http://tv.iptvsensation.org:6500/v7cEyu35Bt/X5IaaEu6Js/15435
-#EXTINF:-1,SP: M. Deportes 2
-http://tv.iptvsensation.org:6500/v7cEyu35Bt/X5IaaEu6Js/12545
-#EXTINF:-1,SP: BEIN SPORTS HD
-http://tv.iptvsensation.org:6500/v7cEyu35Bt/X5IaaEu6Js/15440
-#EXTINF:-1,SP: BeIN Sports FHD
-http://tv.iptvsensation.org:6500/v7cEyu35Bt/X5IaaEu6Js/13279
-#EXTINF:-1,SP: Bein LaLiga HD
-http://tv.iptvsensation.org:6500/v7cEyu35Bt/X5IaaEu6Js/13709
-#EXTINF:-1,SP: BEIN LA LIGA 1
-http://tv.iptvsensation.org:6500/v7cEyu35Bt/X5IaaEu6Js/19249
-#EXTINF:-1,SP: MULTIFUT. 1
-http://tv.iptvsensation.org:6500/v7cEyu35Bt/X5IaaEu6Js/19233
-#EXTINF:-1,SP: MULTIFUT. 2
-http://tv.iptvsensation.org:6500/v7cEyu35Bt/X5IaaEu6Js/19232
-#EXTINF:-1,SP: MULTIFUT. 3
-http://tv.iptvsensation.org:6500/v7cEyu35Bt/X5IaaEu6Js/19231
-#EXTINF:-1,SP: Teledeporte
-http://tv.iptvsensation.org:6500/v7cEyu35Bt/X5IaaEu6Js/7658
-#EXTINF:-1,PT: Eleven Sport 1 HD
-http://tv.iptvsensation.org:6500/v7cEyu35Bt/X5IaaEu6Js/21586
-#EXTINF:-1,PT: Eleven Sport 2 HD
-http://tv.iptvsensation.org:6500/v7cEyu35Bt/X5IaaEu6Js/21585
-#EXTINF:-1,PT: Eleven Sport 3 HD
-http://tv.iptvsensation.org:6500/v7cEyu35Bt/X5IaaEu6Js/21584
-#EXTINF:-1,ALB: SPORT KLUB 1
-http://tv.iptvsensation.org:6500/v7cEyu35Bt/X5IaaEu6Js/7588
-#EXTINF:-1,ALB: SPORT KLUB 2
-http://tv.iptvsensation.org:6500/v7cEyu35Bt/X5IaaEu6Js/7589
-#EXTINF:-1,ALB: SPORT KLUB 3
-http://tv.iptvsensation.org:6500/v7cEyu35Bt/X5IaaEu6Js/7590
-#EXTINF:-1,NL: FOX Sports 1 FHD
-http://tv.iptvsensation.org:6500/v7cEyu35Bt/X5IaaEu6Js/15982
-#EXTINF:-1,NL: Fox Sports 1 Eredivise
-http://tv.iptvsensation.org:6500/v7cEyu35Bt/X5IaaEu6Js/6974
-#EXTINF:-1,NL: FOX Sports 2 FHD
-http://tv.iptvsensation.org:6500/v7cEyu35Bt/X5IaaEu6Js/15981
-#EXTINF:-1,NL: Fox Sports 2 International
-http://tv.iptvsensation.org:6500/v7cEyu35Bt/X5IaaEu6Js/6973
-#EXTINF:-1,NL: Fox Sports 3 Eredivise
-http://tv.iptvsensation.org:6500/v7cEyu35Bt/X5IaaEu6Js/6972
-#EXTINF:-1,NL: Fox Sports 4
-http://tv.iptvsensation.org:6500/v7cEyu35Bt/X5IaaEu6Js/6971
-#EXTINF:-1,NL: Fox Sports 5 Eredivise
-http://tv.iptvsensation.org:6500/v7cEyu35Bt/X5IaaEu6Js/6970
-#EXTINF:-1,NL: Fox Sports 6
-http://tv.iptvsensation.org:6500/v7cEyu35Bt/X5IaaEu6Js/6969
-#EXTINF:-1,NL: Ziggo Sport Select HD
-http://tv.iptvsensation.org:6500/v7cEyu35Bt/X5IaaEu6Js/13000
-#EXTINF:-1,NL: Ziggo sport select FHD
-http://tv.iptvsensation.org:6500/v7cEyu35Bt/X5IaaEu6Js/15976
-#EXTINF:-1,NL: Ziggo Sport Voetbal
-http://tv.iptvsensation.org:6500/v7cEyu35Bt/X5IaaEu6Js/8814
-#EXTINF:-1,Ex-Yu: Sport Klub 1 SR
-http://tv.iptvsensation.org:6500/v7cEyu35Bt/X5IaaEu6Js/10320
-#EXTINF:-1,Ex-Yu: Arena Sport 1 Sr
-http://tv.iptvsensation.org:6500/v7cEyu35Bt/X5IaaEu6Js/13040
-#EXTINF:-1,Ex-Yu: Arena Sport 2 Sr
-http://tv.iptvsensation.org:6500/v7cEyu35Bt/X5IaaEu6Js/13041
-#EXTINF:-1,Ex-Yu: Arena Sport 3 Sr
-http://tv.iptvsensation.org:6500/v7cEyu35Bt/X5IaaEu6Js/13042
-#EXTINF:-1,Ex-Yu: Arena Sport 4 Sr
-http://tv.iptvsensation.org:6500/v7cEyu35Bt/X5IaaEu6Js/13043
-#EXTINF:-1,Ex-Yu: Arena Sport 5 Sr
-http://tv.iptvsensation.org:6500/v7cEyu35Bt/X5IaaEu6Js/13044
-#EXTINF:-1,FR: Canal+  Sport
-http://tv.iptvsensation.org:6500/v7cEyu35Bt/X5IaaEu6Js/9416
-#EXTINF:-1,FR: SFR Sport 1 HD
-http://tv.iptvsensation.org:6500/v7cEyu35Bt/X5IaaEu6Js/13053
-#EXTINF:-1,FR: SFR Sport 2 HD
-http://tv.iptvsensation.org:6500/v7cEyu35Bt/X5IaaEu6Js/13054
-#EXTINF:-1,FR: SFR Sport 3 HD
-http://tv.iptvsensation.org:6500/v7cEyu35Bt/X5IaaEu6Js/13719
-#EXTINF:-1,FR: SFR Sport 5 HD
-http://tv.iptvsensation.org:6500/v7cEyu35Bt/X5IaaEu6Js/13720
-#EXTINF:-1,FR: RMC SPORTS 1
-http://tv.iptvsensation.org:6500/v7cEyu35Bt/X5IaaEu6Js/26131
-#EXTINF:-1,FR: RMC SPORTS 2
-http://tv.iptvsensation.org:6500/v7cEyu35Bt/X5IaaEu6Js/26130
-#EXTINF:-1,FR: RMC SPORTS 3
-http://tv.iptvsensation.org:6500/v7cEyu35Bt/X5IaaEu6Js/26129
-#EXTINF:-1,FR: RMC SPORTS 4 FHD
-http://tv.iptvsensation.org:6500/v7cEyu35Bt/X5IaaEu6Js/26128
 
 #EXTINF:-1,**** SPORT 1 OK   *****
 http://www.1
@@ -404,34 +245,53 @@ http://aresera.ddns.net:6923/sferra2franco/ixGQmwOnzP/31021
 http://aresera.ddns.net:6923/sferra2franco/ixGQmwOnzP/31020
 #EXTINF:0,[ UK ] BT Sport ESPN HD
 http://aresera.ddns.net:6923/sferra2franco/ixGQmwOnzP/31019
+#EXTINF:-1,[ DE ] Eurosport 1 HD
+http://aresera.ddns.net:6923/sferra2franco/ixGQmwOnzP/30803
+#EXTINF:-1,[ DE ] Eurosport 2 HD XTRA
+http://aresera.ddns.net:6923/sferra2franco/ixGQmwOnzP/30801
+#EXTINF:-1,[ DE ] Eurosport 2 HD
+http://aresera.ddns.net:6923/sferra2franco/ixGQmwOnzP/30802
+#EXTINF:-1,[ DE ] Sky Sport 1 HD
+http://aresera.ddns.net:6923/sferra2franco/ixGQmwOnzP/30698
+#EXTINF:-1,[ DE ] Sky Sport 1
+http://aresera.ddns.net:6923/sferra2franco/ixGQmwOnzP/30699
+#EXTINF:-1,[ DE ] Sky Sport 2 HD
+http://aresera.ddns.net:6923/sferra2franco/ixGQmwOnzP/30695
+#EXTINF:-1,[ DE ] Sky Sport 2
+http://aresera.ddns.net:6923/sferra2franco/ixGQmwOnzP/30696
+#EXTINF:-1,[ DE ] Sky Sport Bundesliga 1 HD
+http://aresera.ddns.net:6923/sferra2franco/ixGQmwOnzP/30686
+#EXTINF:-1,[ DE ] Sky Sport Bundesliga 1 SD
+http://aresera.ddns.net:6923/sferra2franco/ixGQmwOnzP/30685
+#EXTINF:-1,[ DE ] Sky Sport Bundesliga 10 HD
+http://aresera.ddns.net:6923/sferra2franco/ixGQmwOnzP/30684
+#EXTINF:-1,[ DE ] Sportdigital HD
+http://aresera.ddns.net:6923/sferra2franco/ixGQmwOnzP/30663
+#EXTINF:-1,[ ES ] Canal  Deportes
+http://aresera.ddns.net:6923/sferra2franco/ixGQmwOnzP/30453
+#EXTINF:-1,[ ES ] EUROSPORT
+http://aresera.ddns.net:6923/sferra2franco/ixGQmwOnzP/30440
+#EXTINF:-1,[ ES ] M DEPORTES 1 HD
+http://aresera.ddns.net:6923/sferra2franco/ixGQmwOnzP/30428
+#EXTINF:-1,[ ES ] M DEPORTES 2 HD
+http://aresera.ddns.net:6923/sferra2franco/ixGQmwOnzP/30427
+#EXTINF:-1,[ ES ] beIN SPORTS HD
+http://aresera.ddns.net:6923/sferra2franco/ixGQmwOnzP/30458
+#EXTINF:-1,[ ES ] beIN SPORTS LA LIGA HD
+http://aresera.ddns.net:6923/sferra2franco/ixGQmwOnzP/30457
+#EXTINF:-1,[ ES ] beIN SPORTS Ñ HD
+http://aresera.ddns.net:6923/sferra2franco/ixGQmwOnzP/30456
+#EXTINF:-1,[ FR ] beIN SPORTS 1 HD
+http://aresera.ddns.net:6923/sferra2franco/ixGQmwOnzP/30636
+#EXTINF:-1,[ FR ] beIN SPORTS 2 HD
+http://aresera.ddns.net:6923/sferra2franco/ixGQmwOnzP/30634
+#EXTINF:-1,[ FR ] beIN SPORTS 3 HD
+http://aresera.ddns.net:6923/sferra2franco/ixGQmwOnzP/30633
 
 
 #EXTINF:-1,**** SPORT 1 LISTA   *****
 http://vip.3
-#EXTINF:0,|UK| SKY SPORT PREMIERE LEAGUE
-http://iptvpro.premium-tv.media:8789/allison/iptv2018/23457
-#EXTINF:0,|UK| SKY SPORT ACTION
-http://iptvpro.premium-tv.media:8789/allison/iptv2018/23455
-#EXTINF:0,|UK| SKY SPORT GOLF HD
-http://iptvpro.premium-tv.media:8789/allison/iptv2018/23454
-#EXTINF:0,|UK| SKY SPORT FOOTBALL HD
-http://iptvpro.premium-tv.media:8789/allison/iptv2018/23453
-#EXTINF:0,|UK| BT SPORT HD
-http://iptvpro.premium-tv.media:8789/allison/iptv2018/23452
-#EXTINF:0,|UK| BT SPORT2HD
-http://iptvpro.premium-tv.media:8789/allison/iptv2018/23451
-#EXTINF:0,|UK| BT SPORT3FHD
-http://iptvpro.premium-tv.media:8789/allison/iptv2018/23450
-#EXTINF:0,|UK| BTSPORT ESPN HD
-http://iptvpro.premium-tv.media:8789/allison/iptv2018/23449
-#EXTINF:0,|UK| SKY SPORTF1
-http://iptvpro.premium-tv.media:8789/allison/iptv2018/23445
-#EXTINF:0,|UK| EUROSPORT UK
-http://iptvpro.premium-tv.media:8789/allison/iptv2018/23444
-#EXTINF:0,|UK| EUROSPORT2
-http://iptvpro.premium-tv.media:8789/allison/iptv2018/23443
-#EXTINF:0,|UK| PREMIER SPORTS
-http://iptvpro.premium-tv.media:8789/allison/iptv2018/23442
+
 
 #EXTINF:-1,**** SPORT 3 LUSTA   ****
 http://www.4
