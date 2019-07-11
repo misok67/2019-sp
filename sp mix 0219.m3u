@@ -92,70 +92,6 @@ http://www.sansat.net:25461/025463392010/ylGRiLEJntH9w7E/14967
 http://www.sansat.net:25461/025463392010/ylGRiLEJntH9w7E/14966
 #EXTINF:-1 tvg-ID="teledeporte.es" tvg-name="SP: TELE DEPORTE" tvg-logo="http://images.noih.tv:25461/images/Astrapicon/1_0_1_76CC_40E_1_C00000_0_0_0.png" group-title="EU Spanish",SP: TELE DEPORTE
 http://www.sansat.net:25461/025463392010/ylGRiLEJntH9w7E/14965
-#EXTINF:-1 tvg-ID="" tvg-name="FR-FHD: BeIN SPORTS 1 FULL HD" tvg-logo="" group-title="EU FRANCE FULL HD",FR-FHD: BeIN SPORTS 1 FULL HD
-http://www.sansat.net:25461/025463392010/ylGRiLEJntH9w7E/25339
-#EXTINF:-1 tvg-ID="" tvg-name="FR-FHD: BeIN SPORTS 2 FULL HD" tvg-logo="" group-title="EU FRANCE FULL HD",FR-FHD: BeIN SPORTS 2 FULL HD
-http://www.sansat.net:25461/025463392010/ylGRiLEJntH9w7E/25338
-#EXTINF:-1 tvg-ID="" tvg-name="FR-FHD: BeIN SPORTS 3 FULL HD" tvg-logo="" group-title="EU FRANCE FULL HD",FR-FHD: BeIN SPORTS 3 FULL HD
-http://www.sansat.net:25461/025463392010/ylGRiLEJntH9w7E/25337
-#EXTINF:-1 tvg-ID="" tvg-name="US: BEIN SPORTS HD" tvg-logo="" group-title="USA",US: BEIN SPORTS HD
-http://www.sansat.net:25461/025463392010/ylGRiLEJntH9w7E/23677
-#EXTINF:-1 tvg-ID="" tvg-name="US: ESPNDEPORTES HD" tvg-logo="" group-title="USA",US: ESPNDEPORTES HD
-http://www.sansat.net:25461/025463392010/ylGRiLEJntH9w7E/23709
-#EXTINF:-1 tvg-ID="" tvg-name="US: FOX SPORTS 1 HD" tvg-logo="" group-title="USA",US: FOX SPORTS 1 HD
-http://www.sansat.net:25461/025463392010/ylGRiLEJntH9w7E/23661
-#EXTINF:-1 tvg-ID="" tvg-name="US: FOX SPORTS 2 HD" tvg-logo="" group-title="USA",US: FOX SPORTS 2 HD
-http://www.sansat.net:25461/025463392010/ylGRiLEJntH9w7E/23660
-#EXTINF:-1 tvg-ID="" tvg-name="US: TSN SPORT 1 HD" tvg-logo="" group-title="USA",US: TSN SPORT 1 HD
-http://www.sansat.net:25461/025463392010/ylGRiLEJntH9w7E/18474
-#EXTINF:-1 tvg-ID="" tvg-name="US: TSN SPORT 2 HD" tvg-logo="" group-title="USA",US: TSN SPORT 2 HD
-http://www.sansat.net:25461/025463392010/ylGRiLEJntH9w7E/18473
-#EXTINF:-1 tvg-ID="" tvg-name="US: TSN SPORT 3 HD" tvg-logo="" group-title="USA",US: TSN SPORT 3 HD
-http://www.sansat.net:25461/025463392010/ylGRiLEJntH9w7E/18472
-#EXTINF:-1 tvg-ID="" tvg-name="US: TSN SPORT 4 HD" tvg-logo="" group-title="USA",US: TSN SPORT 4 HD
-http://www.sansat.net:25461/025463392010/ylGRiLEJntH9w7E/18471
-#EXTINF:-1 tvg-ID="" tvg-name="US: TSN SPORT 5 HD" tvg-logo="" group-title="USA",US: TSN SPORT 5 HD
-http://www.sansat.net:25461/025463392010/ylGRiLEJntH9w7E/18470
-#EXTINF:-1 tvg-ID="" tvg-name="beiN Sports 11" tvg-logo="http://images.noih.tv:25461/images/bein/bein11.png" group-title="AR Bein Sports",beiN Sports 11
-http://www.sansat.net:25461/025463392010/ylGRiLEJntH9w7E/5241
-#EXTINF:-1 tvg-ID="" tvg-name="beiN Sports 12" tvg-logo="http://images.noih.tv:25461/images/bein/bein12.png" group-title="AR Bein Sports",beiN Sports 12
-http://www.sansat.net:25461/025463392010/ylGRiLEJntH9w7E/5242
-#EXTINF:-1 tvg-ID="bein4max.fr" tvg-name="FR: beIN SPORTS MAX 4 FHD" tvg-logo="http://images.noih.tv:25461/images/Astrapicon/1_0_1_757C_412_1_C00000_0_0_0.png" group-title="EU France HD",FR: beIN SPORTS MAX 4 FHD
-http://www.sansat.net:25461/025463392010/ylGRiLEJntH9w7E/15051
-#EXTINF:-1 tvg-ID="bein4max.fr" tvg-name="FR: beIN SPORTS MAX 4 H265/HEVC" tvg-logo="http://images.noih.tv:25461/images/Astrapicon/1_0_1_757C_412_1_C00000_0_0_0.png" group-title="EU France HD",FR: beIN SPORTS MAX 4 H265/HEVC
-http://www.sansat.net:25461/025463392010/ylGRiLEJntH9w7E/15052
-#EXTINF:-1 tvg-ID="bein4max.fr" tvg-name="FR: beIN SPORTS MAX 4 HD" tvg-logo="http://images.noih.tv:25461/images/Astrapicon/1_0_19_2009_430_1_C00000_0_0_0.png" group-title="EU France HD",FR: beIN SPORTS MAX 4 HD
-http://www.sansat.net:25461/025463392010/ylGRiLEJntH9w7E/6791
-#EXTINF:-1 tvg-ID="bein5max.fr" tvg-name="FR: beIN SPORTS MAX 5 FHD" tvg-logo="http://images.noih.tv:25461/images/Astrapicon/1_0_1_757D_412_1_C00000_0_0_0.png" group-title="EU France HD",FR: beIN SPORTS MAX 5 FHD
-http://www.sansat.net:25461/025463392010/ylGRiLEJntH9w7E/15049
-#EXTINF:-1 tvg-ID="bein5max.fr" tvg-name="FR: beIN SPORTS MAX 5 H265/HEVC" tvg-logo="http://images.noih.tv:25461/images/Astrapicon/1_0_1_757D_412_1_C00000_0_0_0.png" group-title="EU France HD",FR: beIN SPORTS MAX 5 H265/HEVC
-http://www.sansat.net:25461/025463392010/ylGRiLEJntH9w7E/15050
-#EXTINF:-1 tvg-ID="bein5max.fr" tvg-name="FR: beIN SPORTS MAX 5 HD" tvg-logo="http://images.noih.tv:25461/images/Astrapicon/1_0_19_200A_430_1_C00000_0_0_0.png" group-title="EU France HD",FR: beIN SPORTS MAX 5 HD
-http://www.sansat.net:25461/025463392010/ylGRiLEJntH9w7E/6790
-#EXTINF:-1 tvg-ID="bein6max.fr" tvg-name="FR: beIN SPORTS MAX 6 HD" tvg-logo="http://images.noih.tv:25461/images/Astrapicon/1_0_19_200B_430_1_C00000_0_0_0.png" group-title="EU France HD",FR: beIN SPORTS MAX 6 HD
-http://www.sansat.net:25461/025463392010/ylGRiLEJntH9w7E/6789
-#EXTINF:-1 tvg-ID="bein7max.fr" tvg-name="FR: beIN SPORTS MAX 7 HD" tvg-logo="http://images.noih.tv:25461/images/Astrapicon/1_0_19_2071_432_1_C00000_0_0_0.png" group-title="EU France HD",FR: beIN SPORTS MAX 7 HD
-http://www.sansat.net:25461/025463392010/ylGRiLEJntH9w7E/6788
-#EXTINF:-1 tvg-ID="bein8max.fr" tvg-name="FR: beIN SPORTS MAX 8 HD" tvg-logo="http://images.noih.tv:25461/images/Astrapicon/1_0_19_2072_432_1_C00000_0_0_0.png" group-title="EU France HD",FR: beIN SPORTS MAX 8 HD
-http://www.sansat.net:25461/025463392010/ylGRiLEJntH9w7E/6787
-#EXTINF:-1 tvg-ID="beinsports1.fr" tvg-name="FR: beIN SPORTS 1 FHD" tvg-logo="http://images.noih.tv:25461/images/bein/bein1.png" group-title="EU France HD",FR: beIN SPORTS 1 FHD
-http://www.sansat.net:25461/025463392010/ylGRiLEJntH9w7E/15044
-#EXTINF:-1 tvg-ID="beinsports1.fr" tvg-name="FR: beIN SPORTS 1 H265/HEVC" tvg-logo="http://images.noih.tv:25461/images/bein/bein1.png" group-title="EU France HD",FR: beIN SPORTS 1 H265/HEVC
-http://www.sansat.net:25461/025463392010/ylGRiLEJntH9w7E/15045
-#EXTINF:-1 tvg-ID="beinsports1.fr" tvg-name="FR: beIN SPORTS 1 HD" tvg-logo="http://images.noih.tv:25461/images/Astrapicon/1_0_19_189D_3F4_1_C00000_0_0_0.png" group-title="EU France HD",FR: beIN SPORTS 1 HD
-http://www.sansat.net:25461/025463392010/ylGRiLEJntH9w7E/5286
-#EXTINF:-1 tvg-ID="" tvg-name="CL: FOX SPORT 2" tvg-logo="" group-title="US Latin Other",CL: FOX SPORT 2
-http://www.sansat.net:25461/025463392010/ylGRiLEJntH9w7E/21346
-#EXTINF:-1 tvg-ID="" tvg-name="CL: FOX SPORTS" tvg-logo="" group-title="US Latin Other",CL: FOX SPORTS
-http://www.sansat.net:25461/025463392010/ylGRiLEJntH9w7E/21345
-#EXTINF:-1 tvg-ID="" tvg-name="CL: Fox Sports 1" tvg-logo="" group-title="US Latin Other",CL: Fox Sports 1
-http://www.sansat.net:25461/025463392010/ylGRiLEJntH9w7E/21344
-#EXTINF:-1 tvg-ID="" tvg-name="CO: FOX SPORTS 3" tvg-logo="" group-title="US Colombia",CO: FOX SPORTS 3
-http://www.sansat.net:25461/025463392010/ylGRiLEJntH9w7E/21454
-#EXTINF:-1 tvg-ID="" tvg-name="CO: FOX SPORTS" tvg-logo="" group-title="US Colombia",CO: FOX SPORTS
-http://www.sansat.net:25461/025463392010/ylGRiLEJntH9w7E/21457
-#EXTINF:-1 tvg-ID="" tvg-name="CO: Fox Sports 2 HD" tvg-logo="" group-title="US Colombia",CO: Fox Sports 2 HD
-http://www.sansat.net:25461/025463392010/ylGRiLEJntH9w7E/21455
 
 
 #EXTINF:-1,**** SPORT 1 OK   *****
@@ -242,6 +178,248 @@ http://hdlivetv.tv:8000/1NADORONEIPTV/SKYPEEXCHANGE502/8727
 
 #EXTINF:-1,**** SPORT 1 OK  *****
 http://www.2
+
+
+#EXTINF:-1,BEIN SPORTS 11 4K+ HEVC
+http://predator-ott.com:8000/GJY19596/yrRZ369cD9/50448
+#EXTINF:-1,BEIN SPORTS 11 HD+
+http://predator-ott.com:8000/GJY19596/yrRZ369cD9/33271
+#EXTINF:-1,BEIN SPORTS 11 HD
+http://predator-ott.com:8000/GJY19596/yrRZ369cD9/9498
+#EXTINF:-1,BEIN SPORTS 12 4K+ HEVC
+http://predator-ott.com:8000/GJY19596/yrRZ369cD9/50447
+#EXTINF:-1,BT Sport 1 HD
+http://predator-ott.com:8000/GJY19596/yrRZ369cD9/12107
+#EXTINF:-1,BT Sport 1
+http://predator-ott.com:8000/GJY19596/yrRZ369cD9/12106
+#EXTINF:-1,BT Sport 2 HD
+http://predator-ott.com:8000/GJY19596/yrRZ369cD9/12109
+#EXTINF:-1,BT Sport 2
+http://predator-ott.com:8000/GJY19596/yrRZ369cD9/12108
+#EXTINF:-1,BT Sport 3HD
+http://predator-ott.com:8000/GJY19596/yrRZ369cD9/12111
+#EXTINF:-1,BT Sport 3
+http://predator-ott.com:8000/GJY19596/yrRZ369cD9/12110
+#EXTINF:-1,BT Sport Xtra 1
+http://predator-ott.com:8000/GJY19596/yrRZ369cD9/12112
+#EXTINF:-1,BeIN SPORTS 1+
+http://predator-ott.com:8000/GJY19596/yrRZ369cD9/50411
+#EXTINF:-1,DAZN 1 HD+
+http://predator-ott.com:8000/GJY19596/yrRZ369cD9/52424
+#EXTINF:-1,DAZN 2 HD+
+http://predator-ott.com:8000/GJY19596/yrRZ369cD9/52423
+#EXTINF:-1,DAZN BAR 1 HD+
+http://predator-ott.com:8000/GJY19596/yrRZ369cD9/29411
+#EXTINF:-1,DAZN BAR 2 HD+
+http://predator-ott.com:8000/GJY19596/yrRZ369cD9/29412
+#EXTINF:-1,EUROSPORT  2 FR HD+
+http://predator-ott.com:8000/GJY19596/yrRZ369cD9/52872
+#EXTINF:-1,EUROSPORT  2 HD.
+http://predator-ott.com:8000/GJY19596/yrRZ369cD9/65574
+#EXTINF:-1,EUROSPORT  2 HD
+http://predator-ott.com:8000/GJY19596/yrRZ369cD9/55581
+#EXTINF:-1,EUROSPORT 1  HEVC
+http://predator-ott.com:8000/GJY19596/yrRZ369cD9/66850
+#EXTINF:-1,EUROSPORT 1 .HD
+http://predator-ott.com:8000/GJY19596/yrRZ369cD9/57565
+#EXTINF:-1,EUROSPORT 1 4K+
+http://predator-ott.com:8000/GJY19596/yrRZ369cD9/8579
+#EXTINF:-1,EUROSPORT 1 FR HD+
+http://predator-ott.com:8000/GJY19596/yrRZ369cD9/52871
+#EXTINF:-1,EUROSPORT 1 HD*
+http://predator-ott.com:8000/GJY19596/yrRZ369cD9/66565
+#EXTINF:-1,EUROSPORT 1.HD
+http://predator-ott.com:8000/GJY19596/yrRZ369cD9/59948
+#EXTINF:-1,EUROSPORT 2   HEVC
+http://predator-ott.com:8000/GJY19596/yrRZ369cD9/66851
+#EXTINF:-1,EUROSPORT 2 4K+
+http://predator-ott.com:8000/GJY19596/yrRZ369cD9/8580
+#EXTINF:-1,EUROSPORT 2 HD*
+http://predator-ott.com:8000/GJY19596/yrRZ369cD9/66566
+#EXTINF:-1,EUROSPORT 2.HD
+http://predator-ott.com:8000/GJY19596/yrRZ369cD9/59947
+#EXTINF:-1,EUROSPORT 2HD+
+http://predator-ott.com:8000/GJY19596/yrRZ369cD9/50207
+#EXTINF:-1,EUROSPORT N HD
+http://predator-ott.com:8000/GJY19596/yrRZ369cD9/59946
+#EXTINF:-1,EUROSPORT. 1 HD.
+http://predator-ott.com:8000/GJY19596/yrRZ369cD9/65575
+#EXTINF:-1,EUROSPORT1 4K
+http://predator-ott.com:8000/GJY19596/yrRZ369cD9/50332
+#EXTINF:-1,EUROSPORT1 HD+
+http://predator-ott.com:8000/GJY19596/yrRZ369cD9/50334
+#EXTINF:-1,EUROSPORT2 HD+
+http://predator-ott.com:8000/GJY19596/yrRZ369cD9/50333
+#EXTINF:-1,EUROSPORT
+http://predator-ott.com:8000/GJY19596/yrRZ369cD9/55541
+#EXTINF:-1,FOX SPORTS 1 HEVC
+http://predator-ott.com:8000/GJY19596/yrRZ369cD9/66843
+#EXTINF:-1,FOX SPORTS 2  HEVC
+http://predator-ott.com:8000/GJY19596/yrRZ369cD9/66842
+#EXTINF:-1,FOX SPORTS 3  HEVC
+http://predator-ott.com:8000/GJY19596/yrRZ369cD9/66841
+#EXTINF:-1,FOX SPORTS 4  HEVC
+http://predator-ott.com:8000/GJY19596/yrRZ369cD9/66840
+#EXTINF:-1,FOX SPORTS 5 HEVC
+http://predator-ott.com:8000/GJY19596/yrRZ369cD9/66839
+#EXTINF:-1,FOX SPORTS 6  HEVC
+http://predator-ott.com:8000/GJY19596/yrRZ369cD9/66838
+#EXTINF:-1,FOX SPORTS HD
+http://predator-ott.com:8000/GJY19596/yrRZ369cD9/60149
+#EXTINF:-1,FOX SPORTS.2 HD
+http://predator-ott.com:8000/GJY19596/yrRZ369cD9/60150
+#EXTINF:-1,FOX SPORTS1 HD
+http://predator-ott.com:8000/GJY19596/yrRZ369cD9/55866
+#EXTINF:-1,FOX SPORTS2 HD
+http://predator-ott.com:8000/GJY19596/yrRZ369cD9/55865
+#EXTINF:-1,FOX SPORTS3 HD
+http://predator-ott.com:8000/GJY19596/yrRZ369cD9/55864
+#EXTINF:-1,Fox Deportes HD.
+http://predator-ott.com:8000/GJY19596/yrRZ369cD9/53746
+#EXTINF:-1,M. DEPORTES 1 HD+
+http://predator-ott.com:8000/GJY19596/yrRZ369cD9/50249
+#EXTINF:-1,M. DEPORTES 2 HD+
+http://predator-ott.com:8000/GJY19596/yrRZ369cD9/50248
+#EXTINF:-1,M. DEPORTES 3 HD+
+http://predator-ott.com:8000/GJY19596/yrRZ369cD9/50247
+#EXTINF:-1,M. DEPORTES 4 HD+
+http://predator-ott.com:8000/GJY19596/yrRZ369cD9/50246
+#EXTINF:-1,M. DEPORTES 4K
+http://predator-ott.com:8000/GJY19596/yrRZ369cD9/50309
+#EXTINF:-1,M. DEPORTES 5 HD+
+http://predator-ott.com:8000/GJY19596/yrRZ369cD9/50245
+#EXTINF:-1,M. DEPORTES 6 HD+
+http://predator-ott.com:8000/GJY19596/yrRZ369cD9/50244
+#EXTINF:-1,M. DEPORTES 7 HD+
+http://predator-ott.com:8000/GJY19596/yrRZ369cD9/50243
+#EXTINF:-1,M. DEPORTES HD+
+http://predator-ott.com:8000/GJY19596/yrRZ369cD9/50310
+#EXTINF:-1,MOVISTAR DEPORTES
+http://predator-ott.com:8000/GJY19596/yrRZ369cD9/55797
+#EXTINF:-1,MULTIDEPORTE HD+
+http://predator-ott.com:8000/GJY19596/yrRZ369cD9/50285
+#EXTINF:-1,Movistar Deportes 1 HD
+http://predator-ott.com:8000/GJY19596/yrRZ369cD9/65915
+#EXTINF:-1,Movistar Deportes 2 HD
+http://predator-ott.com:8000/GJY19596/yrRZ369cD9/65914
+#EXTINF:-1,MultiDeportes 1 HD
+http://predator-ott.com:8000/GJY19596/yrRZ369cD9/65878
+#EXTINF:-1,MultiDeportes 2 HD
+http://predator-ott.com:8000/GJY19596/yrRZ369cD9/65877
+#EXTINF:-1,MultiDeportes 3 HD
+http://predator-ott.com:8000/GJY19596/yrRZ369cD9/65876
+#EXTINF:-1,MultiDeportes 4 HD
+http://predator-ott.com:8000/GJY19596/yrRZ369cD9/65875
+#EXTINF:-1,MultiDeportes 5 HD
+http://predator-ott.com:8000/GJY19596/yrRZ369cD9/65874
+#EXTINF:-1,Sky Sport 1 4K
+http://predator-ott.com:8000/GJY19596/yrRZ369cD9/51293
+#EXTINF:-1,Sky Sport 1 HD.
+http://predator-ott.com:8000/GJY19596/yrRZ369cD9/4686
+#EXTINF:-1,Sky Sport 2 4K
+http://predator-ott.com:8000/GJY19596/yrRZ369cD9/51292
+#EXTINF:-1,Sky Sport 2 HD.
+http://predator-ott.com:8000/GJY19596/yrRZ369cD9/4687
+#EXTINF:-1,Sky Sport 24 4K
+http://predator-ott.com:8000/GJY19596/yrRZ369cD9/57532
+#EXTINF:-1,Sky Sport Arena 4k
+http://predator-ott.com:8000/GJY19596/yrRZ369cD9/57531
+#EXTINF:-1,Sky Sport Arena HD
+http://predator-ott.com:8000/GJY19596/yrRZ369cD9/33306
+#EXTINF:-1,Sky Sport Bundesliga 1 4K
+http://predator-ott.com:8000/GJY19596/yrRZ369cD9/51302
+#EXTINF:-1,Sky Sport F1 HD
+http://predator-ott.com:8000/GJY19596/yrRZ369cD9/33307
+#EXTINF:-1,Sky Sport Football 4k
+http://predator-ott.com:8000/GJY19596/yrRZ369cD9/57530
+#EXTINF:-1,Sky Sport Football HD
+http://predator-ott.com:8000/GJY19596/yrRZ369cD9/33308
+#EXTINF:-1,Sky Sport Golf HD
+http://predator-ott.com:8000/GJY19596/yrRZ369cD9/33309
+#EXTINF:-1,Sky Sport MotoGP HD
+http://predator-ott.com:8000/GJY19596/yrRZ369cD9/33310
+#EXTINF:-1,Sky Sport NBA 4k
+http://predator-ott.com:8000/GJY19596/yrRZ369cD9/57528
+#EXTINF:-1,Sky Sport NBA HD
+http://predator-ott.com:8000/GJY19596/yrRZ369cD9/33311
+#EXTINF:-1,Sky Sport News 4K
+http://predator-ott.com:8000/GJY19596/yrRZ369cD9/51294
+#EXTINF:-1,Sky Sport News HD+
+http://predator-ott.com:8000/GJY19596/yrRZ369cD9/4685
+#EXTINF:-1,Sky Sport Seria A HD
+http://predator-ott.com:8000/GJY19596/yrRZ369cD9/33312
+#EXTINF:-1,Sky Sports Action HD
+http://predator-ott.com:8000/GJY19596/yrRZ369cD9/12190
+#EXTINF:-1,Sky Sports Action
+http://predator-ott.com:8000/GJY19596/yrRZ369cD9/12189
+#EXTINF:-1,Sky Sports F1 HD UK
+http://predator-ott.com:8000/GJY19596/yrRZ369cD9/12196
+#EXTINF:-1,Sky Sports F1
+http://predator-ott.com:8000/GJY19596/yrRZ369cD9/12195
+#EXTINF:-1,Sky Sports Main Events HD
+http://predator-ott.com:8000/GJY19596/yrRZ369cD9/12186
+#EXTINF:-1,Sky Sports Main Events
+http://predator-ott.com:8000/GJY19596/yrRZ369cD9/12185
+#EXTINF:-1,Sky Sports Mix HD
+http://predator-ott.com:8000/GJY19596/yrRZ369cD9/12199
+#EXTINF:-1,Sky Sports News HD
+http://predator-ott.com:8000/GJY19596/yrRZ369cD9/12197
+#EXTINF:-1,Sky Sports News HQ
+http://predator-ott.com:8000/GJY19596/yrRZ369cD9/12198
+#EXTINF:-1,Sky Sports Premier League HD
+http://predator-ott.com:8000/GJY19596/yrRZ369cD9/12194
+#EXTINF:-1,Sky Sports Premier League
+http://predator-ott.com:8000/GJY19596/yrRZ369cD9/12193
+#EXTINF:-1,Sky Sports The Open HD
+http://predator-ott.com:8000/GJY19596/yrRZ369cD9/12192
+#EXTINF:-1,Sky Sports The Open
+http://predator-ott.com:8000/GJY19596/yrRZ369cD9/12191
+#EXTINF:-1,TSN 1 |  HD
+http://predator-ott.com:8000/GJY19596/yrRZ369cD9/59530
+#EXTINF:-1,TSN 1 | HD
+http://predator-ott.com:8000/GJY19596/yrRZ369cD9/59531
+#EXTINF:-1,TSN 2   SD
+http://predator-ott.com:8000/GJY19596/yrRZ369cD9/59527
+#EXTINF:-1,TSN 2  | HD
+http://predator-ott.com:8000/GJY19596/yrRZ369cD9/59529
+#EXTINF:-1,TSN 2 |  HD
+http://predator-ott.com:8000/GJY19596/yrRZ369cD9/59528
+#EXTINF:-1,TSN 3  | UHD
+http://predator-ott.com:8000/GJY19596/yrRZ369cD9/59525
+#EXTINF:-1,TSN 3 | HD
+http://predator-ott.com:8000/GJY19596/yrRZ369cD9/59526
+#EXTINF:-1,TSN 4 | HD
+http://predator-ott.com:8000/GJY19596/yrRZ369cD9/59522
+#EXTINF:-1,TSN 5 | HD*
+http://predator-ott.com:8000/GJY19596/yrRZ369cD9/59520
+#EXTINF:-1,TSN 5 | HD
+http://predator-ott.com:8000/GJY19596/yrRZ369cD9/59521
+#EXTINF:-1,TSN 5 | UHD
+http://predator-ott.com:8000/GJY19596/yrRZ369cD9/59519
+#EXTINF:-1,Teledeporte HD
+http://predator-ott.com:8000/GJY19596/yrRZ369cD9/65906
+#EXTINF:-1,Tsn Livigno
+http://predator-ott.com:8000/GJY19596/yrRZ369cD9/17760
+#EXTINF:-1,UK ELEVEN SPORTS 1 HD
+http://predator-ott.com:8000/GJY19596/yrRZ369cD9/50981
+#EXTINF:-1,UK ELEVEN SPORTS 2 HD
+http://predator-ott.com:8000/GJY19596/yrRZ369cD9/50982
+#EXTINF:-1,UK ELEVEN SPORTS HD
+http://predator-ott.com:8000/GJY19596/yrRZ369cD9/50980
+#EXTINF:-1,ZIGGO SPORT SELECT  HEVC
+http://predator-ott.com:8000/GJY19596/yrRZ369cD9/66807
+#EXTINF:-1,ZIGGO SPORT VOETBAL  HEVC
+http://predator-ott.com:8000/GJY19596/yrRZ369cD9/66806
+#EXTINF:-1,Ziggo Sport Select 4K
+http://predator-ott.com:8000/GJY19596/yrRZ369cD9/52272
+#EXTINF:-1,Ziggo Sport Select HD+
+http://predator-ott.com:8000/GJY19596/yrRZ369cD9/1953
+#EXTINF:-1,Ziggo Sport Voetbal 4K
+http://predator-ott.com:8000/GJY19596/yrRZ369cD9/52271
+#EXTINF:-1,Ziggo Sport Voetbal HD+
+http://predator-ott.com:8000/GJY19596/yrRZ369cD9/1954
+#EXTINF:-1,bein Sport US HD
+http://predator-ott.com:8000/GJY19596/yrRZ369cD9/53809
 
 
 #EXTINF:-1,**** SPORT 1 LISTA   *****
