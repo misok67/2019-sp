@@ -1,54 +1,55 @@
 #EXTM3U
 
-#EXTINF:-1,UK: BT Sport 1 HD
-http://1sn.ns1.name:18800/live/cardak7_1Skype/bgxZFsdhfsdfsbfhgz/13301.m3u8
-#EXTINF:-1,UK: BT Sport 1
-http://1sn.ns1.name:18800/live/cardak7_1Skype/bgxZFsdhfsdfsbfhgz/13300.m3u8
-#EXTINF:-1,UK: BT Sport 2 HD
-http://1sn.ns1.name:18800/live/cardak7_1Skype/bgxZFsdhfsdfsbfhgz/13299.m3u8
-#EXTINF:-1,UK: BT Sport 2
-http://1sn.ns1.name:18800/live/cardak7_1Skype/bgxZFsdhfsdfsbfhgz/13298.m3u8
-#EXTINF:-1,UK: BT Sport 3 HD
-http://1sn.ns1.name:18800/live/cardak7_1Skype/bgxZFsdhfsdfsbfhgz/13297.m3u8
-#EXTINF:-1,UK: BT Sport 3
-http://1sn.ns1.name:18800/live/cardak7_1Skype/bgxZFsdhfsdfsbfhgz/13296.m3u8
-#EXTINF:-1,UK: BT Sport ESPN HD
-http://1sn.ns1.name:18800/live/cardak7_1Skype/bgxZFsdhfsdfsbfhgz/13295.m3u8
-#EXTINF:-1,UK: BT Sport ESPN
-http://1sn.ns1.name:18800/live/cardak7_1Skype/bgxZFsdhfsdfsbfhgz/13294.m3u8
-#EXTINF:-1,UK: BBC 2 HD
-http://1sn.ns1.name:18800/live/cardak7_1Skype/bgxZFsdhfsdfsbfhgz/3459.m3u8
-#EXTINF:-1,UK: BBC 1 HD
-http://1sn.ns1.name:18800/live/cardak7_1Skype/bgxZFsdhfsdfsbfhgz/3460.m3u8
-#EXTINF:-1,UK: EUROSPORT 1 HD
-http://1sn.ns1.name:18800/live/cardak7_1Skype/bgxZFsdhfsdfsbfhgz/13310.m3u8
-#EXTINF:-1,UK: EUROSPORT 2 HD
-http://1sn.ns1.name:18800/live/cardak7_1Skype/bgxZFsdhfsdfsbfhgz/13311.m3u8
-#EXTINF:-1,UK: SKY SPORTS ACTION
-http://1sn.ns1.name:18800/live/cardak7_1Skype/bgxZFsdhfsdfsbfhgz/1898.m3u8
-#EXTINF:-1,UK: Sky Sports Arena HD
-http://1sn.ns1.name:18800/live/cardak7_1Skype/bgxZFsdhfsdfsbfhgz/13785.m3u8
-#EXTINF:-1,UK: Sky Sports Golf HD
-http://1sn.ns1.name:18800/live/cardak7_1Skype/bgxZFsdhfsdfsbfhgz/2900.m3u8
-#EXTINF:-1,UK: Sky Sports Main Event HD
-http://1sn.ns1.name:18800/live/cardak7_1Skype/bgxZFsdhfsdfsbfhgz/2903.m3u8
-#EXTINF:-1,UK: Sky Sports Premier League HD
-http://1sn.ns1.name:18800/live/cardak7_1Skype/bgxZFsdhfsdfsbfhgz/3331.m3u8
-#EXTINF:-1,AR: Bein Sports 11 HD
-http://1sn.ns1.name:18800/live/cardak7_1Skype/bgxZFsdhfsdfsbfhgz/4971.m3u8
-#EXTINF:-1,AR: Bein Sports 12 HD
-http://1sn.ns1.name:18800/live/cardak7_1Skype/bgxZFsdhfsdfsbfhgz/4972.m3u8
-#EXTINF:-1,DE: Sky Sport 1 FULL HD 1080p
-http://1sn.ns1.name:18800/live/cardak7_1Skype/bgxZFsdhfsdfsbfhgz/13520.m3u8
-#EXTINF:-1,DE: Sky Sport 2 FULL HD
-http://1sn.ns1.name:18800/live/cardak7_1Skype/bgxZFsdhfsdfsbfhgz/13569.m3u8
-#EXTINF:-1,DE: Sky Sport Bundesliga 1 FULL HD
-http://1sn.ns1.name:18800/live/cardak7_1Skype/bgxZFsdhfsdfsbfhgz/13285.m3u8
-#EXTINF:-1,IT: Sky Sport 1 HD
-http://1sn.ns1.name:18800/live/cardak7_1Skype/bgxZFsdhfsdfsbfhgz/11060.m3u8
-#EXTINF:-1,IT: Sky Sport 2 HD
-http://1sn.ns1.name:18800/live/cardak7_1Skype/bgxZFsdhfsdfsbfhgz/11061.m3u8
-#EXTINF:-1,IT: Sky Sport 24 HD
-http://1sn.ns1.name:18800/live/cardak7_1Skype/bgxZFsdhfsdfsbfhgz/11059.m3u8
-#EXTINF:-1,IT: Sky Sport 3 HD
-http://1sn.ns1.name:18800/live/cardak7_1Skype/bgxZFsdhfsdfsbfhgz/11062.m3u8
+#EXTINF:-1,FR: BEIN SPORTS 1 HD
+http://hdlivetv.tv:8080/DEFANS/140920172305/51939.m3u8
+#EXTINF:-1,FR: BEIN SPORTS 2 HD
+http://hdlivetv.tv:8080/live/DEFANS/140920172305/51940.m3u8
+#EXTINF:-1,FR: BEIN SPORTS MAX 5
+http://hdlivetv.tv:8080/live/DEFANS/140920172305/51933.m3u8
+#EXTINF:-1,IT: SKY FOX SPORT 
+http://hdlivetv.tv:8080/live/DEFANS/140920172305/2375.m3u8
+#EXTINF:-1,IT: SKY SPORT 1 HD
+http://hdlivetv.tv:8080/live/DEFANS/140920172305/317.m3u8
+#EXTINF:-1,IT: SKY SPORT 24 HD
+http://hdlivetv.tv:8080/live/DEFANS/140920172305/71734.m3u8
+
+
+#EXTINF:-1,|DE| DAZN 1 Bar HD
+http://iptv6.premium-stv.com:25461/live/sourcegermanysnow/7626503642/2674.m3u8
+#EXTINF:-1,|DE| DAZN 2 Bar HD
+http://iptv6.premium-stv.com:25461/live/sourcegermanysnow/7626503642/2675.m3u8
+#EXTINF:-1,|DE| Eurosport 1 HD
+http://iptv6.premium-stv.com:25461/live/sourcegermanysnow/7626503642/2686.m3u8
+#EXTINF:-1,|DE| SKY Sport 1 FHD
+http://iptv6.premium-stv.com:25461/live/sourcegermanysnow/7626503642/2823.m3u8
+#EXTINF:-1,|DE| SKY Sport 2 FHD
+http://iptv6.premium-stv.com:25461/live/sourcegermanysnow/7626503642/2824.m3u8
+#EXTINF:-1,|DE| Sky Bundesliga 1 HD
+http://iptv6.premium-stv.com:25461/live/sourcegermanysnow/7626503642/2753.m3u8
+#EXTINF:-1,|DE| Sky Sport 1 HD
+http://iptv6.premium-stv.com:25461/live/sourcegermanysnow/7626503642/2772.m3u8
+#EXTINF:-1,|DE| Sky Sport 1
+http://iptv6.premium-stv.com:25461/live/sourcegermanysnow/7626503642/2771.m3u8
+#EXTINF:-1,|DE| Sky Sport 2 HD
+http://iptv6.premium-stv.com:25461/live/sourcegermanysnow/7626503642/2773.m3u8
+
+#EXTINF:-1,|IT| DAZN Info
+http://iptv6.premium-stv.com:25461/live/sourceitallypro1/0784212197/154.m3u8
+#EXTINF:-1,|IT| DAZN Sport 1 HD
+http://iptv6.premium-stv.com:25461/live/sourceitallypro1/0784212197/151.m3u8
+#EXTINF:-1,|IT| DAZN Sport 2 HD
+http://iptv6.premium-stv.com:25461/live/sourceitallypro1/0784212197/145.m3u8
+#EXTINF:-1,|IT| Sky Sport 24 Full HD
+http://iptv6.premium-stv.com:25461/live/sourceitallypro1/0784212197/295.m3u8
+#EXTINF:-1,|IT| Sky Sport 251 Full HD
+http://iptv6.premium-stv.com:25461/live/sourceitallypro1/0784212197/293.m3u8
+#EXTINF:-1,|IT| Sky Sport 252 HD
+http://iptv6.premium-stv.com:25461/live/sourceitallypro1/0784212197/290.m3u8
+#EXTINF:-1,|IT| Sky Sport 253 Full HD
+http://iptv6.premium-stv.com:25461/live/sourceitallypro1/0784212197/289.m3u8
+#EXTINF:-1,|IT| Sky Sport 254 Full HD
+http://iptv6.premium-stv.com:25461/live/sourceitallypro1/0784212197/287.m3u8
+#EXTINF:-1,|IT| Sky Sport Football Full HD
+http://iptv6.premium-stv.com:25461/live/sourceitallypro1/0784212197/308.m3u8
+#EXTINF:-1,|IT| Sky Sport Football HD
+http://iptv6.premium-stv.com:25461/live/sourceitallypro1/0784212197/307.m3u8
