@@ -1,98 +1,156 @@
 #EXTM3U
 
-#EXTINF:-1,|CA| TSN 1 HD
-http://dream-ott.com:8080/live/lWXobWbcdO/dPfFGUpl1K/30982.m3u8
-#EXTINF:-1,|CA| TSN 2 HD
-http://dream-ott.com:8080/live/lWXobWbcdO/dPfFGUpl1K/30981.m3u8
-#EXTINF:-1,|CA| TSN 3 HD
-http://dream-ott.com:8080/live/lWXobWbcdO/dPfFGUpl1K/30980.m3u8
-#EXTINF:-1,|CA| TSN 4 HD
-http://dream-ott.com:8080/live/lWXobWbcdO/dPfFGUpl1K/30979.m3u8
-#EXTINF:-1,|CA| TSN 5 HD
-http://dream-ott.com:8080/live/lWXobWbcdO/dPfFGUpl1K/30978.m3u8
-#EXTINF:-1,|DE| DAZN 1 BAR FHD
-http://dream-ott.com:8080/live/lWXobWbcdO/dPfFGUpl1K/16320.m3u8
-#EXTINF:-1,|DE| DAZN 2 BAR FHD
-http://dream-ott.com:8080/live/lWXobWbcdO/dPfFGUpl1K/16319.m3u8
-#EXTINF:-1,|DE| EUROSPORT 1 FHD
-http://dream-ott.com:8080/live/lWXobWbcdO/dPfFGUpl1K/16364.m3u8
-#EXTINF:-1,|DE| EUROSPORT 2 FHD
-http://dream-ott.com:8080/live/lWXobWbcdO/dPfFGUpl1K/16363.m3u8
-#EXTINF:-1,|DE| SKY BUNDESLIGA 1 FHD
-http://dream-ott.com:8080/live/lWXobWbcdO/dPfFGUpl1K/16339.m3u8
-#EXTINF:-1,|DE| SKY BUNDESLIGA 1 HD
-http://dream-ott.com:8080/live/lWXobWbcdO/dPfFGUpl1K/16340.m3u8
-#EXTINF:-1,|DE| SKY SPORT 1 FHD
-http://dream-ott.com:8080/live/lWXobWbcdO/dPfFGUpl1K/16360.m3u8
-#EXTINF:-1,|DE| SKY SPORT 2 FHD
-http://dream-ott.com:8080/live/lWXobWbcdO/dPfFGUpl1K/16358.m3u8
-#EXTINF:-1,|FR| BEIN SPORTS 1 FHD
-http://dream-ott.com:8080/live/lWXobWbcdO/dPfFGUpl1K/133.m3u8
-#EXTINF:-1,|FR| BEIN SPORTS 2 FHD
-http://dream-ott.com:8080/live/lWXobWbcdO/dPfFGUpl1K/146.m3u8
-#EXTINF:-1,|FR| BEIN SPORTS 3 FHD
-http://dream-ott.com:8080/live/lWXobWbcdO/dPfFGUpl1K/135.m3u8
-#EXTINF:-1,|IT| SKY SPORT 24 FHD
-http://dream-ott.com:8080/live/lWXobWbcdO/dPfFGUpl1K/86837.m3u8
-#EXTINF:-1,|IT| SKY SPORT 251 FHD
-http://dream-ott.com:8080/live/lWXobWbcdO/dPfFGUpl1K/2301.m3u8
-#EXTINF:-1,|IT| SKY SPORT 252 FHD
-http://dream-ott.com:8080/live/lWXobWbcdO/dPfFGUpl1K/2298.m3u8
-#EXTINF:-1,|IT| SKY SPORT 252 HD
-http://dream-ott.com:8080/live/lWXobWbcdO/dPfFGUpl1K/2297.m3u8
-#EXTINF:-1,|NL| FOX SPORTS 1 HD
-http://dream-ott.com:8080/live/lWXobWbcdO/dPfFGUpl1K/30803.m3u8
-#EXTINF:-1,|NL| FOX SPORTS 2 HD
-http://dream-ott.com:8080/live/lWXobWbcdO/dPfFGUpl1K/30802.m3u8
-#EXTINF:-1,|NL| FOX SPORTS 3 HD
-http://dream-ott.com:8080/live/lWXobWbcdO/dPfFGUpl1K/30801.m3u8
-#EXTINF:-1,|NL| FOX SPORTS 4 HD
-http://dream-ott.com:8080/live/lWXobWbcdO/dPfFGUpl1K/30800.m3u8
-#EXTINF:-1,|NL| FOX SPORTS 5 HD
-http://dream-ott.com:8080/live/lWXobWbcdO/dPfFGUpl1K/30799.m3u8
-#EXTINF:-1,|NL| FOX SPORTS 6 HD
-http://dream-ott.com:8080/live/lWXobWbcdO/dPfFGUpl1K/30798.m3u8
-#EXTINF:-1,|SP| BEIN SPORTS 11 FHD
-http://dream-ott.com:8080/live/lWXobWbcdO/dPfFGUpl1K/82987.m3u8
-#EXTINF:-1,|SP| BEIN SPORTS 12 FHD
-http://dream-ott.com:8080/live/lWXobWbcdO/dPfFGUpl1K/82985.m3u8
-#EXTINF:-1,|SP| BEIN SPORTS 13 FHD
-http://dream-ott.com:8080/live/lWXobWbcdO/dPfFGUpl1K/82983.m3u8
-#EXTINF:-1,|UK| BT SPORT 1 FHD
-http://dream-ott.com:8080/live/lWXobWbcdO/dPfFGUpl1K/30334.m3u8
-#EXTINF:-1,|UK| BT SPORT 2 FHD
-http://dream-ott.com:8080/live/lWXobWbcdO/dPfFGUpl1K/30332.m3u8
-#EXTINF:-1,|UK| BT SPORT 3 FHD
-http://dream-ott.com:8080/live/lWXobWbcdO/dPfFGUpl1K/30330.m3u8
-#EXTINF:-1,|UK| BT SPORT ESPN FHD
-http://dream-ott.com:8080/live/lWXobWbcdO/dPfFGUpl1K/30328.m3u8
-#EXTINF:-1,|UK| EUROSPORT 1 FHD
-http://dream-ott.com:8080/live/lWXobWbcdO/dPfFGUpl1K/30273.m3u8
-#EXTINF:-1,|UK| EUROSPORT 2 FHD
-http://dream-ott.com:8080/live/lWXobWbcdO/dPfFGUpl1K/30272.m3u8
-#EXTINF:-1,|UK| SKY SPORTS ACTION FHD
-http://dream-ott.com:8080/live/lWXobWbcdO/dPfFGUpl1K/30170.m3u8
-#EXTINF:-1,|UK| SKY SPORTS ARENA FHD
-http://dream-ott.com:8080/live/lWXobWbcdO/dPfFGUpl1K/30176.m3u8
-#EXTINF:-1,|UK| SKY SPORTS F1 FHD
-http://dream-ott.com:8080/live/lWXobWbcdO/dPfFGUpl1K/30165.m3u8
-#EXTINF:-1,|UK| SKY SPORTS GOLF FHD
-http://dream-ott.com:8080/live/lWXobWbcdO/dPfFGUpl1K/30162.m3u8
-#EXTINF:-1,|UK| SKY SPORTS MAIN EVENT FHD
-http://dream-ott.com:8080/live/lWXobWbcdO/dPfFGUpl1K/30158.m3u8
-#EXTINF:-1,|UK| SKY SPORTS MIX FHD
-http://dream-ott.com:8080/live/lWXobWbcdO/dPfFGUpl1K/30160.m3u8
-#EXTINF:-1,|US| BEIN SPORTS HD
-http://dream-ott.com:8080/live/lWXobWbcdO/dPfFGUpl1K/28261.m3u8
-#EXTINF:-1,|US| ESPN DEPORTES HD
-http://dream-ott.com:8080/live/lWXobWbcdO/dPfFGUpl1K/104584.m3u8
-#EXTINF:-1,|US| FOX DEPORTES HD
-http://dream-ott.com:8080/live/lWXobWbcdO/dPfFGUpl1K/104671.m3u8
-#EXTINF:-1,|US| FOX SPORTS 1 HD
-http://dream-ott.com:8080/live/lWXobWbcdO/dPfFGUpl1K/28193.m3u8
-#EXTINF:-1,|US| FOX SPORTS 2 HD
-http://dream-ott.com:8080/live/lWXobWbcdO/dPfFGUpl1K/28192.m3u8
-.m3u8
+**** DINAMO
+#EXTINF:-1,UK: BT Sport Extra 1
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/13293.m3u8
+#EXTINF:-1,UK: BT Sport Extra 2
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/13292.m3u8
+#EXTINF:-1,UK: BT Sport Extra 3
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/13291.m3u8
+#EXTINF:-1,UK: BT Sport Extra 4
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/13290.m3u8
+#EXTINF:-1,UK: BT Sport Extra 5
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/13289.m3u8
+#EXTINF:-1,NL: ZIGGO SPORT EXTRA HEVC
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/40896.m3u8
+#EXTINF:-1,NL: Ziggo Sport Extra 1
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/1069.m3u8
+#EXTINF:-1,NL: Ziggo Sport Extra 2
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/1070.m3u8
+#EXTINF:-1,AR: BEIN SPORTS 4 FHD
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/29347.m3u8
+#EXTINF:-1,AR: BEIN SPORTS 4 HD HEVC
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/33927.m3u8
+#EXTINF:-1,PL: Polsat Sport Premium 6
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/35770.m3u8
+#EXTINF:-1,PL: Polsat Sport Premium 5
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/35771.m3u8
+#EXTINF:-1,PL: Polsat Sport Premium 4
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/35772.m3u8
+#EXTINF:-1,PL: Polsat Sport Premium 3
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/35773.m3u8
+#EXTINF:-1,PL: Polsat Sport Premium 2 FHD
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/35774.m3u8
+#EXTINF:-1,PL: Polsat Sport Premium 1 FHD
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/35775.m3u8
+
+***
+#EXTINF:-1,|IT| SKY SPORT 253 HD
+http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/23562
+#EXTINF:-1,|IT| SKY SPORT ARENA FHD
+http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/23584
+
+
+***
+#EXTINF:-1,|AR| BEIN SPORTS 4
+http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/13681
+#EXTINF:-1,|AR| BEIN SPORTS 4	
+http://nosurrender.live:8080/live/5WkwInCd2V/5SEEzyUvQo/68109.m3u8
+#EXTINF:-1,S-Bein SPORTS HD 4
+http://samrapro.com:7766/naem/1234/42306
+#EXTINF:-1,S-Bein Sport 4 4K
+http://samrapro.com:7766/naem/1234/44619
+#EXTINF:0,|AR.BEIN| BEIN SPORTS 4 FHD.
+http://ultimateiptv.me:8081/live/mclaudedes11/R5fpuKqF0b/9678.m3u8
+#EXTINF:0,|AR.BEIN| BEIN SPORTS 4 FHD.
+http://ultimateiptv.me:8081/live/mclaudedes11/R5fpuKqF0b/3572.m3u8
+***
+#EXTINF:-1,|FR| RMC SPORT LIVE 8 FHD
+http://bestiptv2.premium-tv.info:8789/Naji_Derouiche/igaYR6PAtq/37939
+#EXTINF:-1,FR VIP: RMC SPORT LIVE 8-HD
+http://1sn.ns1.name:18800/5Pa1bZUvQg/CWDbFUArny/32421
+#EXTINF:-1,RMC SPORT LIVE 8-HD
+http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/6055.m3u8
+#EXTINF:-1,RMC SPORT LIVE 8-HD
+http://resosat.club:8080/live/iman/iman/171.m3u8
+
+http://ultimateiptv.me:8081/mclaudedes11/R5fpuKqF0b/5706
+***
+#EXTINF:-1,|NL| Ziggo Sport Extra 2 HD
+http://iptv6.premium-stv.com:25461/live/sourcenederlandpro2/6544963080/937.m3u8
+#EXTINF:-1,|NL| Ziggo Sport Extra 1 HD
+http://iptv6.premium-stv.com:25461/live/sourcenederlandpro2/6544963080/938.m3u8
+
+
+#EXTINF:-1,UK: BT Sport Extra 1
+http://1sn.ns1.name:18800/5Pa1bZUvQg/CWDbFUArny/13293
+#EXTINF:-1,UK: BT Sport Extra 2
+http://1sn.ns1.name:18800/5Pa1bZUvQg/CWDbFUArny/13292
+#EXTINF:-1,UK: BT Sport Extra 3
+http://1sn.ns1.name:18800/5Pa1bZUvQg/CWDbFUArny/13291
+#EXTINF:-1,UK: BT Sport Extra 4
+http://1sn.ns1.name:18800/5Pa1bZUvQg/CWDbFUArny/13290
+#EXTINF:-1,UK: BT Sport Extra 5
+http://1sn.ns1.name:18800/5Pa1bZUvQg/CWDbFUArny/13289
+#EXTINF:-1,NL: ZIGGO SPORT EXTRA HEVC
+http://1sn.ns1.name:18800/5Pa1bZUvQg/CWDbFUArny/40896
+#EXTINF:-1,NL: Ziggo Sport Extra 1
+http://1sn.ns1.name:18800/5Pa1bZUvQg/CWDbFUArny/1069
+#EXTINF:-1,NL: Ziggo Sport Extra 2
+http://1sn.ns1.name:18800/5Pa1bZUvQg/CWDbFUArny/1070
+#EXTINF:-1,AR: BEIN SPORTS 4 FHD
+http://1sn.ns1.name:18800/5Pa1bZUvQg/CWDbFUArny/29347
+#EXTINF:-1,AR: BEIN SPORTS 4 HD HEVC
+http://1sn.ns1.name:18800/5Pa1bZUvQg/CWDbFUArny/33927
+#EXTINF:-1,PL: Polsat Sport Premium 6
+http://1sn.ns1.name:18800/5Pa1bZUvQg/CWDbFUArny/35770
+#EXTINF:-1,PL: Polsat Sport Premium 5
+http://1sn.ns1.name:18800/5Pa1bZUvQg/CWDbFUArny/35771
+#EXTINF:-1,PL: Polsat Sport Premium 4
+http://1sn.ns1.name:18800/5Pa1bZUvQg/CWDbFUArny/35772
+#EXTINF:-1,PL: Polsat Sport Premium 3
+http://1sn.ns1.name:18800/5Pa1bZUvQg/CWDbFUArny/35773
+#EXTINF:-1,PL: Polsat Sport Premium 2 FHD
+http://1sn.ns1.name:18800/5Pa1bZUvQg/CWDbFUArny/35774
+#EXTINF:-1,PL: Polsat Sport Premium 1 FHD
+http://1sn.ns1.name:18800/5Pa1bZUvQg/CWDbFUArny/35775
+
+
+*** buckup za lsn
+
+#EXTINF:-1,UK: BT Sport Extra 1
+http://1sn.ns1.name:18800/live/36q2vq0Itx/6bT1xLstYF/13293.m3u8
+#EXTINF:-1,UK: BT Sport Extra 2
+http://1sn.ns1.name:18800/live/36q2vq0Itx/6bT1xLstYF/13292.m3u8
+#EXTINF:-1,UK: BT Sport Extra 3
+http://1sn.ns1.name:18800/live/36q2vq0Itx/6bT1xLstYF/13291.m3u8
+#EXTINF:-1,UK: BT Sport Extra 4
+http://1sn.ns1.name:18800/live/36q2vq0Itx/6bT1xLstYF/13290.m3u8
+#EXTINF:-1,UK: BT Sport Extra 5
+http://1sn.ns1.name:18800/live/36q2vq0Itx/6bT1xLstYF/13289.m3u8
+#EXTINF:-1,NL: ZIGGO SPORT EXTRA HEVC
+http://1sn.ns1.name:18800/live/36q2vq0Itx/6bT1xLstYF/40896.m3u8
+#EXTINF:-1,NL: Ziggo Sport Extra 1
+http://1sn.ns1.name:18800/live/36q2vq0Itx/6bT1xLstYF/1069.m3u8
+#EXTINF:-1,NL: Ziggo Sport Extra 2
+http://1sn.ns1.name:18800/live/36q2vq0Itx/6bT1xLstYF/1070.m3u8
+#EXTINF:-1,AR: BEIN SPORTS 4 FHD
+http://1sn.ns1.name:18800/live/36q2vq0Itx/6bT1xLstYF/29347.m3u8
+#EXTINF:-1,AR: BEIN SPORTS 4 HD HEVC
+http://1sn.ns1.name:18800/live/36q2vq0Itx/6bT1xLstYF/33927.m3u8
+#EXTINF:-1,PL: Polsat Sport Premium 6
+http://1sn.ns1.name:18800/live/36q2vq0Itx/6bT1xLstYF/35770.m3u8
+#EXTINF:-1,PL: Polsat Sport Premium 5
+http://1sn.ns1.name:18800/live/36q2vq0Itx/6bT1xLstYF/35771.m3u8
+#EXTINF:-1,PL: Polsat Sport Premium 4
+http://1sn.ns1.name:18800/live/36q2vq0Itx/6bT1xLstYF/35772.m3u8
+#EXTINF:-1,PL: Polsat Sport Premium 3
+http://1sn.ns1.name:18800/live/36q2vq0Itx/6bT1xLstYF/35773.m3u8
+#EXTINF:-1,PL: Polsat Sport Premium 2 FHD
+http://1sn.ns1.name:18800/live/36q2vq0Itx/6bT1xLstYF/35774.m3u8
+#EXTINF:-1,PL: Polsat Sport Premium 1 FHD
+http://1sn.ns1.name:18800/live/36q2vq0Itx/6bT1xLstYF/35775.m3u8
+
+#EXTINF:0,PL: Polsat Sport Premium 6
+http://1sn.ns1.name:18800/jFnKEJro0W/FN10NO94PUtj/35770
+#EXTINF:0,PL: Polsat Sport Premium 5
+http://1sn.ns1.name:18800/jFnKEJro0W/FN10NO94PUtj/35771
+#EXTINF:0,PL: Polsat Sport Premium 4
+http://1sn.ns1.name:18800/jFnKEJro0W/FN10NO94PUtj/35772
+#EXTINF:0,PL: Polsat Sport Premium 3
+http://1sn.ns1.name:18800/jFnKEJro0W/FN10NO94PUtj/35773
+
+
 
 #EXTINF:-1,https://flylinks.net,DE: DAZN SPORT 1 HD
 http://1sn.ns1.name:18800/live/36q2vq0Itx/6bT1xLstYF/17490.m3u8
