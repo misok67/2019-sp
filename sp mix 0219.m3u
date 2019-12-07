@@ -1,6 +1,77 @@
 #EXTM3U
 
+#EXTINF:0,Sky Sport Uno FHD
+http://newmoon.access.ly:8000/live/Linetestgianni/gianni/26842.m3u8
+#EXTINF:0,Sky Sport Football HD.m3u8
+http://newmoon.access.ly:8000/live/Linetestgianni/gianni/26847.m3u8
+#EXTINF:0,Sky Sport Football FHD.m3u8
+http://newmoon.access.ly:8000/live/Linetestgianni/gianni/26846.m3u8
+#EXTINF:0,Sky Sport Collection HD.m3u8
+http://newmoon.access.ly:8000/live/Linetestgianni/gianni/26851.m3u8
+#EXTINF:0,Sky Sport Collection FHD.m3u8
+http://newmoon.access.ly:8000/live/Linetestgianni/gianni/26850.m3u8
+#EXTINF:0,Sky Sport Arena FHD.m3u8
+http://newmoon.access.ly:8000/live/Linetestgianni/gianni/26844.m3u8
+#EXTINF:0,Sky Sport Arena HD.m3u8
+http://newmoon.access.ly:8000/live/Linetestgianni/gianni/26845.m3u8
+#EXTINF:0,Sky Sport Serie A FHD.m3u8
+http://newmoon.access.ly:8000/live/Linetestgianni/gianni/26876.m3u8
+#EXTINF:0,Sky Calcio 1 FHD.m3u8
+http://newmoon.access.ly:8000/live/Linetestgianni/gianni/26878.m3u8
+#EXTINF:0,DAZN ONE FHD.m3u8
+http://newmoon.access.ly:8000/live/Linetestgianni/gianni/32437.m3u8
+#EXTINF:0,DAZN ONE HD.m3u8
+http://newmoon.access.ly:8000/live/Linetestgianni/gianni/32435.m3u8
 
+#EXTINF:0,Sky Sport 1 HD
+http://kisotv.com:1557/live/5nx5l02yYq/n3t9yEv2ug/807.ts
+#EXTINF:0,DE: Sky Sport 2
+http://kisotv.com:1557/live/5nx5l02yYq/n3t9yEv2ug/2515.ts
+#EXTINF:0,DE: Sky Bundesliga 1
+http://kisotv.com:1557/live/5nx5l02yYq/n3t9yEv2ug/806.ts
+#EXTINF:0,Sky Bundesliga 1 HD
+http://kisotv.com:1557/live/5nx5l02yYq/n3t9yEv2ug/1407.ts
+#EXTINF:0,DE: DAZN 1 BAR HD+ 2K
+http://kisotv.com:1557/live/5nx5l02yYq/n3t9yEv2ug/6244.ts
+#EXTINF:0,DE: DAZN 2 BAR HD+ 2K
+http://kisotv.com:1557/live/5nx5l02yYq/n3t9yEv2ug/6243.ts
+#EXTINF:0,DE: Eurosport 1 HD
+http://kisotv.com:1557/live/5nx5l02yYq/n3t9yEv2ug/4026.ts
+#EXTINF:0,DE: Eurosport 2 HD
+http://kisotv.com:1557/live/5nx5l02yYq/n3t9yEv2ug/4593.ts
+#EXTINF:0,DE: Sky Sport 1 HD
+http://kisotv.com:1557/live/5nx5l02yYq/n3t9yEv2ug/5086.ts
+#EXTINF:0,DE: Sky Sport 1 HD+ 2K
+http://kisotv.com:1557/live/5nx5l02yYq/n3t9yEv2ug/1659.ts
+#EXTINF:0,DE: Sky Sport 2 HD+ 2K
+http://kisotv.com:1557/live/5nx5l02yYq/n3t9yEv2ug/6286.ts
+#EXTINF:0,Sport Klub 1 HD
+http://kisotv.com:1557/live/5nx5l02yYq/n3t9yEv2ug/1387.ts
+#EXTINF:0,Sport Klub 1 SR (HD)
+http://kisotv.com:1557/live/5nx5l02yYq/n3t9yEv2ug/4501.ts
+#EXTINF:0,Sport Klub 2 HD
+http://kisotv.com:1557/live/5nx5l02yYq/n3t9yEv2ug/1388.ts
+#EXTINF:0,Sport Klub 3 HD
+http://kisotv.com:1557/live/5nx5l02yYq/n3t9yEv2ug/1389.ts
+#EXTINF:0,Sport Klub 4
+http://kisotv.com:1557/live/5nx5l02yYq/n3t9yEv2ug/3437.ts
+#EXTINF:0,HR: Arena Sport 1
+http://kisotv.com:1557/live/5nx5l02yYq/n3t9yEv2ug/1095.ts
+#EXTINF:0,Arena Sport 2
+http://kisotv.com:1557/live/5nx5l02yYq/n3t9yEv2ug/1096.ts
+#EXTINF:0,Arena Sport 3
+http://kisotv.com:1557/live/5nx5l02yYq/n3t9yEv2ug/1097.ts
+#EXTINF:0,Arena Sport 4
+http://kisotv.com:1557/live/5nx5l02yYq/n3t9yEv2ug/1098.ts
+#EXTINF:0,Arena Sport 5
+http://kisotv.com:1557/live/5nx5l02yYq/n3t9yEv2ug/1099.ts
+
+#EXTINF:0,IT: Sport UNO HD loc
+http://kisotv.com:1557/live/5nx5l02yYq/n3t9yEv2ug/3715.ts
+#EXTINF:0,IT: Sport Football HD loc
+http://kisotv.com:1557/live/5nx5l02yYq/n3t9yEv2ug/3716.ts
+#EXTINF:0,IT: Sport Arena HD loc
+http://kisotv.com:1557/live/5nx5l02yYq/n3t9yEv2ug/5789.ts
 #EXTINF:0,Bein-1-hevc
 http://s.igiptv.com:8000/Hisham/hisham123/34640
 #EXTINF:0,Bein-2-
