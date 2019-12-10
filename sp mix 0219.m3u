@@ -1,131 +1,88 @@
 #EXTM3U
 
-#EXTINF:-1,BEIN SPORTS 10 | UHD
-http://185.164.35.35:80/live/Ub8pp9OW4L/2yg9oM2SkW/328.m3u8
-#EXTINF:-1,BEIN SPORTS 11 | UHD EN
-http://185.164.35.35:80/live/Ub8pp9OW4L/2yg9oM2SkW/329.m3u8
-#EXTINF:-1,BEIN SPORTS 12 | UHD EN
-http://185.164.35.35:80/live/Ub8pp9OW4L/2yg9oM2SkW/330.m3u8
-#EXTINF:-1,FOX SPORTS 3 HD
-http://185.164.35.35:80/live/Ub8pp9OW4L/2yg9oM2SkW/424.m3u8
-#EXTINF:-1,FOX SPORTS 4 HD
-http://185.164.35.35:80/live/Ub8pp9OW4L/2yg9oM2SkW/425.m3u8
-#EXTINF:-1,FOX SPORTS 5 HD
-http://185.164.35.35:80/live/Ub8pp9OW4L/2yg9oM2SkW/426.m3u8
-#EXTINF:-1,FOX SPORTS 6 HD
-http://185.164.35.35:80/live/Ub8pp9OW4L/2yg9oM2SkW/427.m3u8
-#EXTINF:-1,ZIGGO SPORT SELECT HD
-http://185.164.35.35:80/live/Ub8pp9OW4L/2yg9oM2SkW/430.m3u8
-#EXTINF:-1,ZIGGO SPORT VOETBAL HD
-http://185.164.35.35:80/live/Ub8pp9OW4L/2yg9oM2SkW/429.m3u8
-#EXTINF:-1,|DE| DAZN 1 BAR HD
-http://185.164.35.35:80/live/Ub8pp9OW4L/2yg9oM2SkW/847.m3u8
-#EXTINF:-1,|DE| DAZN 2 BAR HD
-http://185.164.35.35:80/live/Ub8pp9OW4L/2yg9oM2SkW/848.m3u8
-#EXTINF:-1,|DE| EUROSPORT 1 HD
-http://185.164.35.35:80/live/Ub8pp9OW4L/2yg9oM2SkW/859.m3u8
-#EXTINF:-1,|DE| EUROSPORT 2 HD XTRA
-http://185.164.35.35:80/live/Ub8pp9OW4L/2yg9oM2SkW/860.m3u8
-#EXTINF:-1,|DE| EUROSPORT 2 HD
-http://185.164.35.35:80/live/Ub8pp9OW4L/2yg9oM2SkW/861.m3u8
-#EXTINF:-1,|DE| SKY BUNDESLIGA 1 HD
-http://185.164.35.35:80/live/Ub8pp9OW4L/2yg9oM2SkW/849.m3u8
-#EXTINF:-1,|DE| SKY SPORT 1 HD
-http://185.164.35.35:80/live/Ub8pp9OW4L/2yg9oM2SkW/844.m3u8
-#EXTINF:-1,|DE| SKY SPORT 1
-http://185.164.35.35:80/live/Ub8pp9OW4L/2yg9oM2SkW/843.m3u8
-#EXTINF:-1,|DE| SKY SPORT 2 HD
-http://185.164.35.35:80/live/Ub8pp9OW4L/2yg9oM2SkW/846.m3u8
-#EXTINF:-1,|DE| SKY SPORT 2
-http://185.164.35.35:80/live/Ub8pp9OW4L/2yg9oM2SkW/845.m3u8
-#EXTINF:-1,|UK| BEIN SPORT 1 HD AR
-http://185.164.35.35:80/live/Ub8pp9OW4L/2yg9oM2SkW/2359.m3u8
-#EXTINF:-1,|UK| BEIN SPORT 2 HD AR
-http://185.164.35.35:80/live/Ub8pp9OW4L/2yg9oM2SkW/2360.m3u8
-#EXTINF:-1,|UK|FHD| BT SPORTS 1
-http://185.164.35.35:80/live/Ub8pp9OW4L/2yg9oM2SkW/2397.m3u8
-#EXTINF:-1,|UK|FHD| BT SPORTS 2
-http://185.164.35.35:80/live/Ub8pp9OW4L/2yg9oM2SkW/2398.m3u8
-#EXTINF:-1,|UK|FHD| BT SPORTS 3
-http://185.164.35.35:80/live/Ub8pp9OW4L/2yg9oM2SkW/2399.m3u8
-#EXTINF:-1,|UK|FHD| BT SPORTS ESPN
-http://185.164.35.35:80/live/Ub8pp9OW4L/2yg9oM2SkW/2396.m3u8
-#EXTINF:-1,|UK|FHD| EUROSPORTS 1
-http://185.164.35.35:80/live/Ub8pp9OW4L/2yg9oM2SkW/2400.m3u8
-#EXTINF:-1,|UK|FHD| EUROSPORTS 2
-http://185.164.35.35:80/live/Ub8pp9OW4L/2yg9oM2SkW/2401.m3u8
-#EXTINF:-1,|UK|FHD| SKY SPORTS ACTION
-http://185.164.35.35:80/live/Ub8pp9OW4L/2yg9oM2SkW/2386.m3u8
-#EXTINF:-1,|UK|FHD| SKY SPORTS ARENA
-http://185.164.35.35:80/live/Ub8pp9OW4L/2yg9oM2SkW/2392.m3u8
-#EXTINF:-1,|UK|FHD| SKY SPORTS PREMIER LEAGUE
-http://185.164.35.35:80/live/Ub8pp9OW4L/2yg9oM2SkW/2388.m3u8
-#EXTINF:-1,|UK|HD| BT SPORTS 1
-http://185.164.35.35:80/live/Ub8pp9OW4L/2yg9oM2SkW/2371.m3u8
-#EXTINF:-1,|UK|HD| BT SPORTS 2
-http://185.164.35.35:80/live/Ub8pp9OW4L/2yg9oM2SkW/2372.m3u8
-#EXTINF:-1,|UK|HD| BT SPORTS 3
-http://185.164.35.35:80/live/Ub8pp9OW4L/2yg9oM2SkW/2373.m3u8
-#EXTINF:-1,|UK|HD| BT SPORTS ESPN
-http://185.164.35.35:80/live/Ub8pp9OW4L/2yg9oM2SkW/2370.m3u8
-#EXTINF:-1,|UK|HD| FOX SPORTS ASIA 1
-http://185.164.35.35:80/live/Ub8pp9OW4L/2yg9oM2SkW/2376.m3u8
-#EXTINF:-1,|UK|HD| FOX SPORTS ASIA 2
-http://185.164.35.35:80/live/Ub8pp9OW4L/2yg9oM2SkW/2377.m3u8
-#EXTINF:-1,|UK|HD| FOX SPORTS ASIA 3
-http://185.164.35.35:80/live/Ub8pp9OW4L/2yg9oM2SkW/2378.m3u8
-#EXTINF:-1,|UK|HD| SKY SPORTS ACTION
-http://185.164.35.35:80/live/Ub8pp9OW4L/2yg9oM2SkW/2362.m3u8
-#EXTINF:-1,|UK|HD| SKY SPORTS ARENA
-http://185.164.35.35:80/live/Ub8pp9OW4L/2yg9oM2SkW/2366.m3u8
-#EXTINF:-1,|UK|HD| SKY SPORTS PREMIER LEAGUE
-http://185.164.35.35:80/live/Ub8pp9OW4L/2yg9oM2SkW/2365.m3u8
-
-
-#EXTINF:0,|FR| RMC SPORT 1 FHD
-http://iptv3.premium-stv.com:25461/live/sourcesportpro2/0359030035/40.m3u8
-#EXTINF:0,|FR| RMC SPORT 2 FHD
-http://iptv3.premium-stv.com:25461/live/sourcesportpro2/0359030035/41.m3u8
-#EXTINF:0,|FR| RMC SPORT 3 FHD
-http://iptv3.premium-stv.com:25461/live/sourcesportpro2/0359030035/42.m3u8
-#EXTINF:0,|FR| RMC SPORT 4 FHD
-http://iptv3.premium-stv.com:25461/live/sourcesportpro2/0359030035/43.m3u8
-#EXTINF:0,|FR| BEINSPORT 1 FHD
-http://iptv3.premium-stv.com:25461/live/sourcesportpro2/0359030035/44.m3u8
-#EXTINF:0,|FR| BEINSPORT 2 FHD
-http://iptv3.premium-stv.com:25461/live/sourcesportpro2/0359030035/45.m3u8
-#EXTINF:0,|FR| BEINSPORT 3 FHD
-http://iptv3.premium-stv.com:25461/live/sourcesportpro2/0359030035/46.m3u8
-#EXTINF:0,|FR| CANAL+ SPORT FHD
-http://iptv3.premium-stv.com:25461/live/sourcesportpro2/0359030035/47.m3u8
-#EXTINF:0,|FR| RMC SPORT 1
-http://iptv3.premium-stv.com:25461/live/sourcesportpro2/0359030035/62.m3u8
-#EXTINF:0,|FR| RMC SPORT 2
-http://iptv3.premium-stv.com:25461/live/sourcesportpro2/0359030035/63.m3u8
-#EXTINF:0,|FR| RMC SPORT 3
-http://iptv3.premium-stv.com:25461/live/sourcesportpro2/0359030035/64.m3u8
-#EXTINF:0,|FR| RMC SPORT 4
-http://iptv3.premium-stv.com:25461/live/sourcesportpro2/0359030035/65.m3u8
-#EXTINF:0,|FR| CANAL+ FHD
-http://iptv3.premium-stv.com:25461/live/sourcesportpro2/0359030035/66.m3u8
-#EXTINF:0,|FR| CANAL+ HD
-http://iptv3.premium-stv.com:25461/live/sourcesportpro2/0359030035/67.m3u8
-#EXTINF:0,|FR| BEINSPORT 2 HD
-http://iptv3.premium-stv.com:25461/live/sourcesportpro2/0359030035/68.m3u8
-#EXTINF:0,|FR| BEINSPORT 3 HD
-http://iptv3.premium-stv.com:25461/live/sourcesportpro2/0359030035/69.m3u8
-#EXTINF:0,|FR| CANAL+ SPORT HD
-http://iptv3.premium-stv.com:25461/live/sourcesportpro2/0359030035/70.m3u8
-#EXTINF:0,MULTISPORTS 1 HD
-http://iptv3.premium-stv.com:25461/live/sourcesportpro2/0359030035/87.m3u8
-#EXTINF:0,MULTISPORTS 2
-http://iptv3.premium-stv.com:25461/live/sourcesportpro2/0359030035/88.m3u8
-#EXTINF:0,MULTISPORTS 3
-http://iptv3.premium-stv.com:25461/live/sourcesportpro2/0359030035/89.m3u8
-#EXTINF:0,MULTISPORTS 4
-http://iptv3.premium-stv.com:25461/live/sourcesportpro2/0359030035/90.m3u8
-#EXTINF:0,MULTISPORTS 5
-http://iptv3.premium-stv.com:25461/live/sourcesportpro2/0359030035/91.m3u8
-#EXTINF:0,MULTISPORTS 6
-http://iptv3.premium-stv.com:25461/live/sourcesportpro2/0359030035/92.m3u8
-.m3u8
+#EXTINF:-1,(DE) DAZN Bar 1 4K+
+http://109.163.232.253:1339/live/8xl10CGj/VHtVOnyf2v/37069.m3u8
+#EXTINF:-1,(DE) DAZN Bar 2 4K+
+http://109.163.232.253:1339/live/8xl10CGj/VHtVOnyf2v/37070.m3u8
+#EXTINF:-1,(DE) Eurosport 1 4K+
+http://109.163.232.253:1339/live/8xl10CGj/VHtVOnyf2v/15927.m3u8
+#EXTINF:-1,(DE) Eurosport 2 4K+
+http://109.163.232.253:1339/live/8xl10CGj/VHtVOnyf2v/15928.m3u8
+#EXTINF:-1,(DE) Sky Sport 1 4K+
+http://109.163.232.253:1339/live/8xl10CGj/VHtVOnyf2v/28546.m3u8
+#EXTINF:-1,(DE) Sky Sport 1 HD+
+http://109.163.232.253:1339/live/8xl10CGj/VHtVOnyf2v/182.m3u8
+#EXTINF:-1,(DE) Sky Sport 2 4K+
+http://109.163.232.253:1339/live/8xl10CGj/VHtVOnyf2v/15943.m3u8
+#EXTINF:-1,(DE) Sky Sport 2 HD+
+http://109.163.232.253:1339/live/8xl10CGj/VHtVOnyf2v/183.m3u8
+#EXTINF:-1,(DE) Sky Sport Bundesliga 1 4K+
+http://109.163.232.253:1339/live/8xl10CGj/VHtVOnyf2v/15944.m3u8
+#EXTINF:-1,(FR) beIN Sports 1 4K+
+http://109.163.232.253:1339/live/8xl10CGj/VHtVOnyf2v/158.m3u8
+#EXTINF:-1,(FR) beIN Sports 2 4K+
+http://109.163.232.253:1339/live/8xl10CGj/VHtVOnyf2v/159.m3u8
+#EXTINF:-1,(FR) beIN Sports 3 4K+
+http://109.163.232.253:1339/live/8xl10CGj/VHtVOnyf2v/1219.m3u8
+#EXTINF:-1,(IT) Dazn 1 HD+
+http://109.163.232.253:1339/live/8xl10CGj/VHtVOnyf2v/38186.m3u8
+#EXTINF:-1,(IT) Dazn 2 HD+
+http://109.163.232.253:1339/live/8xl10CGj/VHtVOnyf2v/38187.m3u8
+#EXTINF:-1,(IT) Sky Sport 1 HD+
+http://109.163.232.253:1339/live/8xl10CGj/VHtVOnyf2v/4395.m3u8
+#EXTINF:-1,(IT) Sky Sport 24 HD+
+http://109.163.232.253:1339/live/8xl10CGj/VHtVOnyf2v/296.m3u8
+#EXTINF:-1,(IT) Sky Sport MotoGP HD+
+http://109.163.232.253:1339/live/8xl10CGj/VHtVOnyf2v/46094.m3u8
+#EXTINF:-1,(NL) FOX Sports 3 4K+
+http://109.163.232.253:1339/live/8xl10CGj/VHtVOnyf2v/9708.m3u8
+#EXTINF:-1,(NL) FOX Sports 4 4K+
+http://109.163.232.253:1339/live/8xl10CGj/VHtVOnyf2v/9758.m3u8
+#EXTINF:-1,(NL) FOX Sports 5 4K+
+http://109.163.232.253:1339/live/8xl10CGj/VHtVOnyf2v/9709.m3u8
+#EXTINF:-1,(NL) FOX Sports 6 4K+
+http://109.163.232.253:1339/live/8xl10CGj/VHtVOnyf2v/9710.m3u8
+#EXTINF:-1,(NL) Ziggo Sport Select 4K+
+http://109.163.232.253:1339/live/8xl10CGj/VHtVOnyf2v/9683.m3u8
+#EXTINF:-1,(NL) Ziggo Sport Voetbal 4K+
+http://109.163.232.253:1339/live/8xl10CGj/VHtVOnyf2v/9681.m3u8
+#EXTINF:-1,(QA) beIN Sports 11 4K+
+http://109.163.232.253:1339/live/8xl10CGj/VHtVOnyf2v/1968.m3u8
+#EXTINF:-1,(QA) beIN Sports 12 4K+
+http://109.163.232.253:1339/live/8xl10CGj/VHtVOnyf2v/1969.m3u8
+#EXTINF:-1,(UK) BT Sport 1 4K+
+http://109.163.232.253:1339/live/8xl10CGj/VHtVOnyf2v/11484.m3u8
+#EXTINF:-1,(UK) BT Sport 2 4K+
+http://109.163.232.253:1339/live/8xl10CGj/VHtVOnyf2v/11485.m3u8
+#EXTINF:-1,(UK) BT Sport 3 4K+
+http://109.163.232.253:1339/live/8xl10CGj/VHtVOnyf2v/11486.m3u8
+#EXTINF:-1,(UK) BT Sport ESPN 4K+
+http://109.163.232.253:1339/live/8xl10CGj/VHtVOnyf2v/316.m3u8
+#EXTINF:-1,(UK) Eurosport 1 4K+
+http://109.163.232.253:1339/live/8xl10CGj/VHtVOnyf2v/985.m3u8
+#EXTINF:-1,(UK) Sky Sports Arena 4K+
+http://109.163.232.253:1339/live/8xl10CGj/VHtVOnyf2v/28035.m3u8
+#EXTINF:-1,(UK) Sky Sports Football 4K+
+http://109.163.232.253:1339/live/8xl10CGj/VHtVOnyf2v/28034.m3u8
+#EXTINF:-1,(UK) Sky Sports Main Event 4K+
+http://109.163.232.253:1339/live/8xl10CGj/VHtVOnyf2v/7641.m3u8
+#EXTINF:-1,(UK) Sky Sports Mix 4K+
+http://109.163.232.253:1339/live/8xl10CGj/VHtVOnyf2v/22456.m3u8
+#EXTINF:-1,(UK) Sky Sports Premier League 4K+
+http://109.163.232.253:1339/live/8xl10CGj/VHtVOnyf2v/213.m3u8
+#EXTINF:-1,(UK) beIN Sports 11 (ENG)
+http://109.163.232.253:1339/live/8xl10CGj/VHtVOnyf2v/13251.m3u8
+#EXTINF:-1,(US) Fox Sport 1 4K+
+http://109.163.232.253:1339/live/8xl10CGj/VHtVOnyf2v/18206.m3u8
+#EXTINF:-1,(US) Fox Sport 2 4K+
+http://109.163.232.253:1339/live/8xl10CGj/VHtVOnyf2v/18205.m3u8
+#EXTINF:-1,(US) TSN 1 4K+
+http://109.163.232.253:1339/live/8xl10CGj/VHtVOnyf2v/18139.m3u8
+#EXTINF:-1,(US) TSN 2 4K+
+http://109.163.232.253:1339/live/8xl10CGj/VHtVOnyf2v/18138.m3u8
+#EXTINF:-1,(FR) RMC Sport 1 4K+
+http://109.163.232.253:1339/8xl10CGj/VHtVOnyf2v/19333
+#EXTINF:-1,(FR) RMC Sport 2 4K+
+http://109.163.232.253:1339/8xl10CGj/VHtVOnyf2v/19332
+#EXTINF:-1,(FR) RMC Sport 3 4K+
+http://109.163.232.253:1339/8xl10CGj/VHtVOnyf2v/31693
