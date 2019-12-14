@@ -1,113 +1,29 @@
 #EXTM3U
 
-#EXTINF:-1,EX-YU: ARENA SPORT 1 (SR)
-http://the.herolegend.tv:25461/live/prova/prova/67179.m3u8
-#EXTINF:-1,EX-YU: ARENA SPORT 2 (SR)
-http://the.herolegend.tv:25461/live/prova/prova/67180.m3u8
-#EXTINF:-1,EX-YU: ARENA SPORT 3 (SR)
-http://the.herolegend.tv:25461/live/prova/prova/67181.m3u8
-#EXTINF:-1,EX-YU: ARENA SPORT 4 (SR)
-http://the.herolegend.tv:25461/live/prova/prova/67182.m3u8
-#EXTINF:-1,EX-YU: ARENA SPORT 5 (SR)
-http://the.herolegend.tv:25461/live/prova/prova/67183.m3u8
-#EXTINF:-1, (STV) SKY DAZN BAR FHD
-http://the.herolegend.tv:25461/live/prova/prova/30873.m3u8
-#EXTINF:-1, (STV) SKY DAZN BAR HD
-http://the.herolegend.tv:25461/live/prova/prova/30872.m3u8
-#EXTINF:-1,(AR) BeIN Sport 11 HD
-http://the.herolegend.tv:25461/live/prova/prova/66008.m3u8
-#EXTINF:-1,(AR) BeIN Sport 12 HD
-http://the.herolegend.tv:25461/live/prova/prova/66009.m3u8
-#EXTINF:-1,(AR) BeIN Sport 13 HD
-http://the.herolegend.tv:25461/live/prova/prova/66010.m3u8
-#EXTINF:-1,DAZN 1 (STV) HD
-http://the.herolegend.tv:25461/live/prova/prova/29941.m3u8
-#EXTINF:-1,DAZN 2 (STV) HD
-http://the.herolegend.tv:25461/live/prova/prova/29942.m3u8
-#EXTINF:-1,DE: DAZN Bar 1
-http://the.herolegend.tv:25461/live/prova/prova/64857.m3u8
-#EXTINF:-1,DE: DAZN Bar 2
-http://the.herolegend.tv:25461/live/prova/prova/64858.m3u8
-#EXTINF:-1,DE: Eurosport 1 HD
-http://the.herolegend.tv:25461/live/prova/prova/64875.m3u8
-#EXTINF:-1,DE: Eurosport 2 HD
-http://the.herolegend.tv:25461/live/prova/prova/64876.m3u8
-#EXTINF:-1,DE: Eurosport 2 xtra HD
-http://the.herolegend.tv:25461/live/prova/prova/64877.m3u8
-#EXTINF:-1,DE: Sky Bundesliga 1 HD
-http://the.herolegend.tv:25461/live/prova/prova/64952.m3u8
-#EXTINF:-1,DE: Sky Sport 1 HD
-http://the.herolegend.tv:25461/live/prova/prova/64943.m3u8
-#EXTINF:-1,DE: Sky Sport 2 HD
-http://the.herolegend.tv:25461/live/prova/prova/64944.m3u8
-#EXTINF:-1,ES: Bein Sports Espa?a HD
-http://the.herolegend.tv:25461/live/prova/prova/65199.m3u8
-#EXTINF:-1,FR: BeIN SPORTS 1 HD
-http://the.herolegend.tv:25461/live/prova/prova/67316.m3u8
-#EXTINF:-1,FR: BeIN SPORTS 2 HD
-http://the.herolegend.tv:25461/live/prova/prova/67317.m3u8
-#EXTINF:-1,FR: BeIN SPORTS 3 HD
-http://the.herolegend.tv:25461/live/prova/prova/67318.m3u8
-#EXTINF:0,FR: RMC Sport 01 HD
-http://the.herolegend.tv:25461/prova/prova/67329
-#EXTINF:0,FR: RMC Sport 02 FullHD
-http://the.herolegend.tv:25461/prova/prova/67330
-#EXTINF:0,FR: RMC Sport 03 HD
-http://the.herolegend.tv:25461/prova/prova/67331
-#EXTINF:-1,NL: FOX SPORTS 4 FHD
-http://the.herolegend.tv:25461/live/prova/prova/67819.m3u8
-#EXTINF:-1,NL: FOX SPORTS 5 FHD
-http://the.herolegend.tv:25461/live/prova/prova/67818.m3u8
-#EXTINF:-1,NL: FOX SPORTS 6 FHD
-http://the.herolegend.tv:25461/live/prova/prova/67817.m3u8
-#EXTINF:-1,NL: FOX Sports 3 FHD
-http://the.herolegend.tv:25461/live/prova/prova/67820.m3u8
-#EXTINF:-1,NL: ZIGGO SPORT SELECT
-http://the.herolegend.tv:25461/live/prova/prova/67811.m3u8
-#EXTINF:-1,NL: Ziggo Sport Voetbal
-http://the.herolegend.tv:25461/live/prova/prova/67814.m3u8
-#EXTINF:-1,PL: CANAL SPORT 1 HD
-http://the.herolegend.tv:25461/live/prova/prova/67831.m3u8
-#EXTINF:-1,Sky Sport 24 FHD
-http://the.herolegend.tv:25461/live/prova/prova/49532.m3u8
-#EXTINF:-1,Sky Sport Football FHD
-http://the.herolegend.tv:25461/live/prova/prova/369.m3u8
-#EXTINF:-1,Sky Sport Football HD
-http://the.herolegend.tv:25461/live/prova/prova/49536.m3u8
-#EXTINF:-1,UK: BT Sport 1 FullHD
-http://the.herolegend.tv:25461/live/prova/prova/68398.m3u8
-#EXTINF:-1,UK: BT Sport 2 FullHD
-http://the.herolegend.tv:25461/live/prova/prova/68399.m3u8
-#EXTINF:-1,UK: BT Sport 3 FullHD
-http://the.herolegend.tv:25461/live/prova/prova/68400.m3u8
-#EXTINF:-1,UK: BT Sport ESPN
-http://the.herolegend.tv:25461/live/prova/prova/68411.m3u8
-#EXTINF:-1,UK: EUROSPORT 1
-http://the.herolegend.tv:25461/live/prova/prova/68446.m3u8
-#EXTINF:-1,UK: EUROSPORT 2
-http://the.herolegend.tv:25461/live/prova/prova/68447.m3u8
-#EXTINF:-1,UK: SKY SPORTS MAIN EVENT HD
-http://the.herolegend.tv:25461/live/prova/prova/68408.m3u8
-#EXTINF:-1,UK: Sky Sports Action HD
-http://the.herolegend.tv:25461/live/prova/prova/68406.m3u8
-#EXTINF:-1,UK: Sky Sports Arena FullHD
-http://the.herolegend.tv:25461/live/prova/prova/68474.m3u8
-#EXTINF:-1,UK: Sky Sports Premier League HD
-http://the.herolegend.tv:25461/live/prova/prova/68404.m3u8
-#EXTINF:-1,UK: Univision Deportes
-http://the.herolegend.tv:25461/live/prova/prova/68512.m3u8
-#EXTINF:-1,USA: BEIN Sports HD
-http://the.herolegend.tv:25461/live/prova/prova/68540.m3u8
-#EXTINF:-1,USA: ESPN Deportes HD
-http://the.herolegend.tv:25461/live/prova/prova/68590.m3u8
-#EXTINF:-1,USA: TSN HD 1
-http://the.herolegend.tv:25461/live/prova/prova/68525.m3u8
-#EXTINF:-1,USA: TSN HD 2
-http://the.herolegend.tv:25461/live/prova/prova/68526.m3u8
-#EXTINF:-1,[H] SKY DAZN BAR 2 FULL HD
-http://the.herolegend.tv:25461/live/prova/prova/49580.m3u8
-#EXTINF:-1,[H] SKY DAZN BAR FULL HD
-http://the.herolegend.tv:25461/live/prova/prova/49578.m3u8
-#EXTINF:-1,[H] SKY DAZN BAR HD
-http://the.herolegend.tv:25461/live/prova/prova/49577.m3u8
-.m3u8
+#EXTM3U
+#EXTINF:0,Sky Sport 24 FHD
+http://net-tv.ddns.net:69/q3rxcyGjmg/rKr5FDrcmW4m/116
+#EXTINF:0,Sky Sport Uno FHD
+http://net-tv.ddns.net:69/q3rxcyGjmg/rKr5FDrcmW4m/117
+#EXTINF:0,Sky Sport Football FHD
+http://net-tv.ddns.net:69/q3rxcyGjmg/rKr5FDrcmW4m/118
+#EXTINF:0,Sky Sport NBA FHD
+http://net-tv.ddns.net:69/q3rxcyGjmg/rKr5FDrcmW4m/120
+#EXTINF:0,Sky Sport Arena FHD
+http://net-tv.ddns.net:69/q3rxcyGjmg/rKr5FDrcmW4m/119
+#EXTINF:0,SuperTennis FHD
+http://net-tv.ddns.net:69/q3rxcyGjmg/rKr5FDrcmW4m/115
+#EXTINF:0,Sky Serie A FHD
+http://net-tv.ddns.net:69/q3rxcyGjmg/rKr5FDrcmW4m/152
+#EXTINF:0,Sky Calcio 1 FHD
+http://net-tv.ddns.net:69/q3rxcyGjmg/rKr5FDrcmW4m/153
+#EXTINF:0,Dazn Serie A-B Sport FHD
+http://net-tv.ddns.net:69/q3rxcyGjmg/rKr5FDrcmW4m/173
+#EXTINF:0,Dazn1
+http://net-tv.ddns.net:69/q3rxcyGjmg/rKr5FDrcmW4m/188
+#EXTINF:0,Dazn2
+http://net-tv.ddns.net:69/q3rxcyGjmg/rKr5FDrcmW4m/189
+#EXTINF:0,Dazn3
+http://net-tv.ddns.net:69/q3rxcyGjmg/rKr5FDrcmW4m/190
+#EXTINF:0,Dazn4
+http://net-tv.ddns.net:69/q3rxcyGjmg/rKr5FDrcmW4m/191
