@@ -1,29 +1,53 @@
 #EXTM3U
 
-#EXTM3U
-#EXTINF:0,Sky Sport 24 FHD
-http://net-tv.ddns.net:69/q3rxcyGjmg/rKr5FDrcmW4m/116
-#EXTINF:0,Sky Sport Uno FHD
-http://net-tv.ddns.net:69/q3rxcyGjmg/rKr5FDrcmW4m/117
-#EXTINF:0,Sky Sport Football FHD
-http://net-tv.ddns.net:69/q3rxcyGjmg/rKr5FDrcmW4m/118
-#EXTINF:0,Sky Sport NBA FHD
-http://net-tv.ddns.net:69/q3rxcyGjmg/rKr5FDrcmW4m/120
-#EXTINF:0,Sky Sport Arena FHD
-http://net-tv.ddns.net:69/q3rxcyGjmg/rKr5FDrcmW4m/119
-#EXTINF:0,SuperTennis FHD
-http://net-tv.ddns.net:69/q3rxcyGjmg/rKr5FDrcmW4m/115
-#EXTINF:0,Sky Serie A FHD
-http://net-tv.ddns.net:69/q3rxcyGjmg/rKr5FDrcmW4m/152
-#EXTINF:0,Sky Calcio 1 FHD
-http://net-tv.ddns.net:69/q3rxcyGjmg/rKr5FDrcmW4m/153
-#EXTINF:0,Dazn Serie A-B Sport FHD
-http://net-tv.ddns.net:69/q3rxcyGjmg/rKr5FDrcmW4m/173
-#EXTINF:0,Dazn1
-http://net-tv.ddns.net:69/q3rxcyGjmg/rKr5FDrcmW4m/188
-#EXTINF:0,Dazn2
-http://net-tv.ddns.net:69/q3rxcyGjmg/rKr5FDrcmW4m/189
-#EXTINF:0,Dazn3
-http://net-tv.ddns.net:69/q3rxcyGjmg/rKr5FDrcmW4m/190
-#EXTINF:0,Dazn4
-http://net-tv.ddns.net:69/q3rxcyGjmg/rKr5FDrcmW4m/191
+#EXTINF:-1,proba
+http://stream.tvtap.live:8081/live/klub1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTUvMjAxOSA3OjAwOjE0IFBNJmhhc2hfdmFsdWU9blVVRHBtbWVudS92SnpTQXpraHFUZz09JnZhbGlkbWludXRlcz0yMA==
+#EXTINF:-1,(UK) BT SPORT 1
+http://mylatinotv.com:25461/live/andrei/andrei123/19600.m3u8
+#EXTINF:-1,(UK) BT SPORT 2
+http://mylatinotv.com:25461/live/andrei/andrei123/19599.m3u8
+#EXTINF:-1,(UK) BT SPORT 3
+http://mylatinotv.com:25461/live/andrei/andrei123/19598.m3u8
+#EXTINF:-1,(UK) BT SPORT EUROPE
+http://mylatinotv.com:25461/live/andrei/andrei123/19601.m3u8
+#EXTINF:-1,(UK) EUROSPORT 1
+http://mylatinotv.com:25461/live/andrei/andrei123/19597.m3u8
+#EXTINF:-1,(UK) EUROSPORT 2
+http://mylatinotv.com:25461/live/andrei/andrei123/19596.m3u8
+#EXTINF:-1,(UK) SKY SPORTS ACTION HD
+http://mylatinotv.com:25461/live/andrei/andrei123/19613.m3u8
+#EXTINF:-1,(UK) SKY SPORTS MAIN EVENTS HD
+http://mylatinotv.com:25461/live/andrei/andrei123/19618.m3u8
+#EXTINF:-1,(UK) SKY SPORTS MAIN EVENTS
+http://mylatinotv.com:25461/live/andrei/andrei123/19617.m3u8
+#EXTINF:-1,CA: TSN 1 FHD
+http://mylatinotv.com:25461/live/andrei/andrei123/37698.m3u8
+#EXTINF:-1,ES || DAZN HD
+http://mylatinotv.com:25461/live/andrei/andrei123/1114819.m3u8
+#EXTINF:-1,ES || MOVISTAR DEPORTE 1 FULLHD
+http://mylatinotv.com:25461/live/andrei/andrei123/1114873.m3u8
+#EXTINF:-1,ES || TELEDEPORTE FULL HD
+http://mylatinotv.com:25461/live/andrei/andrei123/1114870.m3u8
+#EXTINF:-1,Eurosport 1 FR
+http://mylatinotv.com:25461/live/andrei/andrei123/19200.m3u8
+#EXTINF:-1,Eurosport 2 HD FR
+http://mylatinotv.com:25461/live/andrei/andrei123/19199.m3u8
+#EXTINF:-1,Sky Sport 1 HD IT
+http://mylatinotv.com:25461/live/andrei/andrei123/14845.m3u8
+#EXTINF:-1,Sky Sport 2 HD IT
+http://mylatinotv.com:25461/live/andrei/andrei123/14844.m3u8
+#EXTINF:-1,Sky Sport 3 HD IT
+http://mylatinotv.com:25461/live/andrei/andrei123/14843.m3u8
+#EXTINF:-1,US1: Fox Sport 1 HD
+http://mylatinotv.com:25461/live/andrei/andrei123/82536.m3u8
+#EXTINF:-1,US1: Fox Sport 2 HD
+http://mylatinotv.com:25461/live/andrei/andrei123/82535.m3u8
+#EXTINF:-1,US1: TSN 1 HD
+http://mylatinotv.com:25461/live/andrei/andrei123/82509.m3u8
+#EXTINF:-1,beIN SPORTS 1 FR
+http://mylatinotv.com:25461/live/andrei/andrei123/14609.m3u8
+#EXTINF:-1,beIN SPORTS 2 FR
+http://mylatinotv.com:25461/live/andrei/andrei123/14606.m3u8
+#EXTINF:-1,beIN SPORTS 3 FR
+http://mylatinotv.com:25461/live/andrei/andrei123/14604.m3u8
+.m3u8
