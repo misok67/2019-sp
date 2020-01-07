@@ -1,59 +1,50 @@
 #EXTM3U
 
 
-#EXTINF:0,DE | DAZN 1 Bar FHD
-http://topiptv.net:5890/live/bilal/bilal/1266.m3u8
-#EXTINF:0,DE | DAZN 2 Bar FHD
-http://topiptv.net:5890/live/bilal/bilal/1267.m3u8
-#EXTINF:0,DE | Eurosport 1 HD
-http://topiptv.net:5890/live/bilal/bilal/1268.m3u8
-#EXTINF:0,DE | Eurosport 2  HD Xtra
-http://topiptv.net:5890/live/bilal/bilal/1270.m3u8
-#EXTINF:0,DE | Sky Sport 1 HD
-http://topiptv.net:5890/live/bilal/bilal/1293.m3u8
-#EXTINF:0,DE | Sky Sport 1
-http://topiptv.net:5890/live/bilal/bilal/1294.m3u8
-#EXTINF:0,DE | Sky Sport 2 HD
-http://topiptv.net:5890/live/bilal/bilal/1295.m3u8
-#EXTINF:0,DE | Sky Sport Bundesliga 1 HD
-http://topiptv.net:5890/live/bilal/bilal/1276.m3u8
-#EXTINF:0,HEVC | beIN SPORTS 1 
-http://topiptv.net:5890/live/bilal/bilal/62240.m3u8
-#EXTINF:0,HEVC | beIN SPORTS 2
-http://topiptv.net:5890/live/bilal/bilal/62241.m3u8
-#EXTINF:0,HEVC | beIN SPORTS 3
-http://topiptv.net:5890/live/bilal/bilal/62242.m3u8
-#EXTINF:0,HEVC | beIN SPORTS 4
-http://topiptv.net:5890/live/bilal/bilal/62244.m3u8
-#EXTINF:0,HEVC | beIN SPORTS 5
-http://topiptv.net:5890/live/bilal/bilal/62243.m3u8
-#EXTINF:0,beIN SPORTS 1 FHD
-http://topiptv.net:5890/live/bilal/bilal/5.m3u8
-#EXTINF:0,beIN SPORTS 10HD
-http://topiptv.net:5890/live/bilal/bilal/25.m3u8
-#EXTINF:0,beIN SPORTS 11HD
-http://topiptv.net:5890/live/bilal/bilal/26.m3u8
-#EXTINF:0,beIN SPORTS 12HD
-http://topiptv.net:5890/live/bilal/bilal/27.m3u8
-#EXTINF:0,beIN SPORTS 2 FHD
-http://topiptv.net:5890/live/bilal/bilal/6.m3u8
-#EXTINF:0,beIN SPORTS 3 FHD
-http://topiptv.net:5890/live/bilal/bilal/7.m3u8
-#EXTINF:0,beIN SPORTS 4 FHD
-http://topiptv.net:5890/live/bilal/bilal/8.m3u8
-#EXTINF:0,beIN SPORTS 5 FHD
-http://topiptv.net:5890/live/bilal/bilal/9.m3u8
-#EXTINF:0,beIN SPORTS 6 FHD
-http://topiptv.net:5890/live/bilal/bilal/10.m3u8
-#EXTINF:0,beIN SPORTS 7 FHD
-http://topiptv.net:5890/live/bilal/bilal/11.m3u8
-#EXTINF:0,beIN SPORTS 8 FHD
-http://topiptv.net:5890/live/bilal/bilal/12.m3u8
-#EXTINF:0,beIN SPORTS 9 FHD
-http://topiptv.net:5890/live/bilal/bilal/13.m3u8
-#EXTINF:0,beIN SPORTS FHD
-http://topiptv.net:5890/live/bilal/bilal/3.m3u8
-#EXTINF:0,beIN SPORTS NBA
-http://topiptv.net:5890/live/bilal/bilal/33.m3u8
-#EXTINF:0,beIN SPORTS News FHD
-http://topiptv.net:5890/live/bilal/bilal/4.m3u8
+#EXTM3U
+#EXTINF:0,BeinSport 11 FHD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/36295
+#EXTINF:0,BeinSport 12 FHD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/36294
+#EXTINF:0,beiN Sports 1
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/5223
+#EXTINF:0,beiN Sports 2
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/5225
+#EXTINF:0,beiN Sports 3
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/5227
+#EXTINF:0,beiN Sports 4
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/5229
+#EXTINF:0,beiN Sports 5
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/5231
+#EXTINF:0,beiN Sports 6
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/5233
+#EXTINF:0,beiN Sports 7
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/5235
+#EXTINF:0,beiN Sports 8
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/5237
+#EXTINF:0,beiN Sports 9
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/5239
+#EXTINF:0,IT: SUPER TENNIS 
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/52312
+#EXTINF:0,IT: SKY SPORT FOOTBALL 
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/52318
+#EXTINF:0,IT: SKY SPORT ARENA 
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/52319
+#EXTINF:0,NL : Ziggo Sport HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/9305
+#EXTINF:0,NL : Ziggo Sport Voetbal
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/5173
+#EXTINF:0,DE: EUROSPORT 1 HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/22424
+#EXTINF:0,DE: EUROSPORT 2 HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/22423
+#EXTINF:0,DE: DAZN 1 BAR FHD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/22420
+#EXTINF:0,DE: DAZN 2 BAR FHD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/22419
+#EXTINF:0,DE: SKY SPORT 1 HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/22418
+#EXTINF:0,DE: SKY SPORT 2 HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/22417
+#EXTINF:0,DE: SKY BUNDESLIGA 1 HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/22414
