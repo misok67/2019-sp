@@ -1,70 +1,138 @@
 #EXTM3U
 
-#EXTINF:-1,*DE- Eurosport 1 HD DE**
-http://95.154.194.14:8000/live/uZz7fm8ZIG/vjajC8nvBb/31998.m3u8
-#EXTINF:-1,*DE- Eurosport 2 DE**
-http://95.154.194.14:8000/live/uZz7fm8ZIG/vjajC8nvBb/31997.m3u8
-#EXTINF:-1,*DE- Sky Sport 1 HD DE**
-http://95.154.194.14:8000/live/uZz7fm8ZIG/vjajC8nvBb/31898.m3u8
-#EXTINF:-1,*DE- Sky Sport 2 HD DE**
-http://95.154.194.14:8000/live/uZz7fm8ZIG/vjajC8nvBb/31897.m3u8
-#EXTINF:-1,*DE- Sky Sport Bundesliga 1 HD DE**
-http://95.154.194.14:8000/live/uZz7fm8ZIG/vjajC8nvBb/31888.m3u8
-#EXTINF:-1,*FR: beIN SPORTS 1 HD FR-
-http://95.154.194.14:8000/live/uZz7fm8ZIG/vjajC8nvBb/33381.m3u8
-#EXTINF:-1,*FR: beIN SPORTS 2 HD FR-
-http://95.154.194.14:8000/live/uZz7fm8ZIG/vjajC8nvBb/33380.m3u8
-#EXTINF:-1,*FR: beIN SPORTS 3 HD FR-
-http://95.154.194.14:8000/live/uZz7fm8ZIG/vjajC8nvBb/33379.m3u8
-#EXTINF:-1,*SS- BT Sport 1 HD UK***
-http://95.154.194.14:8000/live/uZz7fm8ZIG/vjajC8nvBb/32045.m3u8
-#EXTINF:-1,*SS- BT Sport 2 HD UK***
-http://95.154.194.14:8000/live/uZz7fm8ZIG/vjajC8nvBb/32044.m3u8
-#EXTINF:-1,*SS- BT Sport 3 HD UK***
-http://95.154.194.14:8000/live/uZz7fm8ZIG/vjajC8nvBb/32043.m3u8
-#EXTINF:-1,*SS- BT Sport ESPN HD UK*
-http://95.154.194.14:8000/live/uZz7fm8ZIG/vjajC8nvBb/32042.m3u8
-#EXTINF:-1,*SS- BT Sport ESPN UK*
-http://95.154.194.14:8000/live/uZz7fm8ZIG/vjajC8nvBb/32041.m3u8
-#EXTINF:-1,SS- SKY SPORTS PREMIER LEAGUE
-http://95.154.194.14:8000/live/uZz7fm8ZIG/vjajC8nvBb/77917.m3u8
-#EXTINF:-1,Sky Sports Action HD UK**
-http://95.154.194.14:8000/live/uZz7fm8ZIG/vjajC8nvBb/19262.m3u8
-#EXTINF:-1,Sky Sports Arena HD UK**
-http://95.154.194.14:8000/live/uZz7fm8ZIG/vjajC8nvBb/19260.m3u8
-#EXTINF:-1,Sky Sports Main Event HD UK**
-http://95.154.194.14:8000/live/uZz7fm8ZIG/vjajC8nvBb/19250.m3u8
-#EXTINF:-1,Sky Sports Mix HD UK**
-http://95.154.194.14:8000/live/uZz7fm8ZIG/vjajC8nvBb/19248.m3u8
-#EXTINF:-1,Sky Sports Premier League HD UK**
-http://95.154.194.14:8000/live/uZz7fm8ZIG/vjajC8nvBb/19246.m3u8
-#EXTINF:-1,*USA- Fox Sports 1 HD US***
-http://95.154.194.14:8000/live/uZz7fm8ZIG/vjajC8nvBb/29966.m3u8
-#EXTINF:-1,*USA- Fox Sports 2 FHD US***
-http://95.154.194.14:8000/live/uZz7fm8ZIG/vjajC8nvBb/29964.m3u8
-#EXTINF:-1,CA: TSN 1 HD CA*
-http://95.154.194.14:8000/live/uZz7fm8ZIG/vjajC8nvBb/89184.m3u8
-#EXTINF:-1,NL: Fox Sports 3 HD**
-http://95.154.194.14:8000/live/uZz7fm8ZIG/vjajC8nvBb/15748.m3u8
-#EXTINF:-1,NL: Fox Sports 4 HD**
-http://95.154.194.14:8000/live/uZz7fm8ZIG/vjajC8nvBb/15745.m3u8
-#EXTINF:-1,NL: Fox Sports 5 HD**
-http://95.154.194.14:8000/live/uZz7fm8ZIG/vjajC8nvBb/15744.m3u8
-#EXTINF:-1,NL: Fox Sports 6 HD**
-http://95.154.194.14:8000/live/uZz7fm8ZIG/vjajC8nvBb/15743.m3u8
-#EXTINF:-1,NL: Ziggo Sports Select HD**
-http://95.154.194.14:8000/live/uZz7fm8ZIG/vjajC8nvBb/15740.m3u8
-#EXTINF:-1,NL: Ziggo Sports Voetbal HD**
-http://95.154.194.14:8000/live/uZz7fm8ZIG/vjajC8nvBb/15741.m3u8
-#EXTINF:-1,SS- SKY SPORTS PREMIER LEAGUE
-http://95.154.194.14:8000/live/uZz7fm8ZIG/vjajC8nvBb/77917.m3u8
-#EXTINF:-1,Sky Sports Action HD UK**
-http://95.154.194.14:8000/live/uZz7fm8ZIG/vjajC8nvBb/19262.m3u8
-#EXTINF:-1,Sky Sports Arena HD UK**
-http://95.154.194.14:8000/live/uZz7fm8ZIG/vjajC8nvBb/19260.m3u8
-#EXTINF:-1,Sky Sports Main Event HD UK**
-http://95.154.194.14:8000/live/uZz7fm8ZIG/vjajC8nvBb/19250.m3u8
-#EXTINF:-1,Sky Sports Mix HD UK**
-http://95.154.194.14:8000/live/uZz7fm8ZIG/vjajC8nvBb/19248.m3u8
-#EXTINF:-1,Sky Sports Premier League HD UK**
-http://95.154.194.14:8000/live/uZz7fm8ZIG/vjajC8nvBb/19246.m3u8
+#EXTINF:-1,BT Sport 1 HD
+http://nemesis-iptv.club:25461/live/t7GHgSyhge/Svhk2BoBRv/1491.m3u8
+#EXTINF:-1,BT Sport 2 HD
+http://nemesis-iptv.club:25461/live/t7GHgSyhge/Svhk2BoBRv/1490.m3u8
+#EXTINF:-1,BT Sport 3 HD
+http://nemesis-iptv.club:25461/live/t7GHgSyhge/Svhk2BoBRv/1489.m3u8
+#EXTINF:-1,BT Sports ESPN HD
+http://nemesis-iptv.club:25461/live/t7GHgSyhge/Svhk2BoBRv/1488.m3u8
+#EXTINF:-1,DAZN Bar 1 HD DE
+http://nemesis-iptv.club:25461/live/t7GHgSyhge/Svhk2BoBRv/5816.m3u8
+#EXTINF:-1,DAZN Bar 2 HD DE
+http://nemesis-iptv.club:25461/live/t7GHgSyhge/Svhk2BoBRv/5817.m3u8
+#EXTINF:-1,DAZN SPORT1 BAR (2K) DE
+http://nemesis-iptv.club:25461/live/t7GHgSyhge/Svhk2BoBRv/5210.m3u8
+#EXTINF:-1,DAZN SPORT2 BAR (2K) DE
+http://nemesis-iptv.club:25461/live/t7GHgSyhge/Svhk2BoBRv/5211.m3u8
+#EXTINF:-1,EUROSPORT 1 FR
+http://nemesis-iptv.club:25461/live/t7GHgSyhge/Svhk2BoBRv/5302.m3u8
+#EXTINF:-1,EUROSPORT 2 FR
+http://nemesis-iptv.club:25461/live/t7GHgSyhge/Svhk2BoBRv/5301.m3u8
+#EXTINF:-1,Eurosport 1 DE 2K Hevc
+http://nemesis-iptv.club:25461/live/t7GHgSyhge/Svhk2BoBRv/5821.m3u8
+#EXTINF:-1,Eurosport 1 DE
+http://nemesis-iptv.club:25461/live/t7GHgSyhge/Svhk2BoBRv/1506.m3u8
+#EXTINF:-1,Eurosport 1
+http://nemesis-iptv.club:25461/live/t7GHgSyhge/Svhk2BoBRv/1508.m3u8
+#EXTINF:-1,Eurosport 2 DE 2K Hevc
+http://nemesis-iptv.club:25461/live/t7GHgSyhge/Svhk2BoBRv/5822.m3u8
+#EXTINF:-1,Eurosport 2 DE
+http://nemesis-iptv.club:25461/live/t7GHgSyhge/Svhk2BoBRv/1505.m3u8
+#EXTINF:-1,Eurosport 2
+http://nemesis-iptv.club:25461/live/t7GHgSyhge/Svhk2BoBRv/1507.m3u8
+#EXTINF:-1,FOX Sports 1 (Nl)
+http://nemesis-iptv.club:25461/live/t7GHgSyhge/Svhk2BoBRv/1466.m3u8
+#EXTINF:-1,FOX Sports 2 (Nl)
+http://nemesis-iptv.club:25461/live/t7GHgSyhge/Svhk2BoBRv/1465.m3u8
+#EXTINF:-1,FOX Sports 3 (Nl)
+http://nemesis-iptv.club:25461/live/t7GHgSyhge/Svhk2BoBRv/1464.m3u8
+#EXTINF:-1,FOX Sports 4 (Nl)
+http://nemesis-iptv.club:25461/live/t7GHgSyhge/Svhk2BoBRv/1463.m3u8
+#EXTINF:-1,SKY SPORT 1 DE FHD
+http://nemesis-iptv.club:25461/live/t7GHgSyhge/Svhk2BoBRv/1487.m3u8
+#EXTINF:-1,SKY SPORT 2 DE FHD
+http://nemesis-iptv.club:25461/live/t7GHgSyhge/Svhk2BoBRv/1486.m3u8
+#EXTINF:-1,Sky Sports Action HD
+http://nemesis-iptv.club:25461/live/t7GHgSyhge/Svhk2BoBRv/1498.m3u8
+#EXTINF:-1,Sky Sports Arena HD
+http://nemesis-iptv.club:25461/live/t7GHgSyhge/Svhk2BoBRv/1497.m3u8
+#EXTINF:-1,Sky Sports Arena IT
+http://nemesis-iptv.club:25461/live/t7GHgSyhge/Svhk2BoBRv/1477.m3u8
+#EXTINF:-1,Sky Sports F1 UK
+http://nemesis-iptv.club:25461/live/t7GHgSyhge/Svhk2BoBRv/1499.m3u8
+#EXTINF:-1,Sky Sports Golf HD
+http://nemesis-iptv.club:25461/live/t7GHgSyhge/Svhk2BoBRv/1494.m3u8
+#EXTINF:-1,Sky Sports Main Event HD
+http://nemesis-iptv.club:25461/live/t7GHgSyhge/Svhk2BoBRv/1493.m3u8
+#EXTINF:-1,Sky Sports Mix HD
+http://nemesis-iptv.club:25461/live/t7GHgSyhge/Svhk2BoBRv/1492.m3u8
+#EXTINF:-1,TSN 1
+http://nemesis-iptv.club:25461/live/t7GHgSyhge/Svhk2BoBRv/1456.m3u8
+#EXTINF:-1,beIN SPORTS 1 Fr
+http://nemesis-iptv.club:25461/live/t7GHgSyhge/Svhk2BoBRv/4859.m3u8
+#EXTINF:-1,beIN SPORTS 2 Fr
+http://nemesis-iptv.club:25461/live/t7GHgSyhge/Svhk2BoBRv/4860.m3u8
+#EXTINF:-1,beIN SPORTS 3 Fr
+http://nemesis-iptv.club:25461/live/t7GHgSyhge/Svhk2BoBRv/4861.m3u8
+#EXTINF:-1,Bein Sports 1
+http://nemesis-iptv.club:25461/live/t7GHgSyhge/Svhk2BoBRv/1475.m3u8
+#EXTINF:-1,Bein Sports 2
+http://nemesis-iptv.club:25461/live/t7GHgSyhge/Svhk2BoBRv/1474.m3u8
+#EXTINF:-1,Bein Sports 3
+http://nemesis-iptv.club:25461/live/t7GHgSyhge/Svhk2BoBRv/1473.m3u8
+#EXTINF:-1,Bein Sports 4
+http://nemesis-iptv.club:25461/live/t7GHgSyhge/Svhk2BoBRv/1472.m3u8
+#EXTINF:-1,Bein Sports 5
+http://nemesis-iptv.club:25461/live/t7GHgSyhge/Svhk2BoBRv/1471.m3u8
+#EXTINF:-1,Bein Sports 6
+http://nemesis-iptv.club:25461/live/t7GHgSyhge/Svhk2BoBRv/1470.m3u8
+#EXTINF:-1,Bein Sports 7
+http://nemesis-iptv.club:25461/live/t7GHgSyhge/Svhk2BoBRv/1469.m3u8
+#EXTINF:-1,Bein Sports 8
+http://nemesis-iptv.club:25461/live/t7GHgSyhge/Svhk2BoBRv/1468.m3u8
+#EXTINF:-1,Bein Sports 9
+http://nemesis-iptv.club:25461/live/t7GHgSyhge/Svhk2BoBRv/1467.m3u8
+#EXTINF:-1,Bein sport 1 HD
+http://159.89.80.49:25461/live/semainesultan/01021978alouta/268.m3u8
+#EXTINF:-1,Bein sport 2 HD
+http://159.89.80.49:25461/live/semainesultan/01021978alouta/269.m3u8
+#EXTINF:-1,Bein sport 3 HD
+http://159.89.80.49:25461/live/semainesultan/01021978alouta/270.m3u8
+#EXTINF:-1,Bein Sport 4
+http://159.89.80.49:25461/live/semainesultan/01021978alouta/309.m3u8
+#EXTINF:-1,Bein sport 4 HD
+http://159.89.80.49:25461/live/semainesultan/01021978alouta/271.m3u8
+#EXTINF:-1,Bein sport 5 HD
+http://159.89.80.49:25461/live/semainesultan/01021978alouta/272.m3u8
+#EXTINF:-1,Bein sport 6 HD
+http://159.89.80.49:25461/live/semainesultan/01021978alouta/273.m3u8
+#EXTINF:-1,Bein sport 7 HD
+http://159.89.80.49:25461/live/semainesultan/01021978alouta/274.m3u8
+#EXTINF:-1,Bein sport 8 HD
+http://159.89.80.49:25461/live/semainesultan/01021978alouta/275.m3u8
+#EXTINF:-1,Bein sport 9 HD
+http://159.89.80.49:25461/live/semainesultan/01021978alouta/276.m3u8
+#EXTINF:-1,Bein sport 10 HD
+http://159.89.80.49:25461/live/semainesultan/01021978alouta/277.m3u8
+#EXTINF:-1,Bein sport 11 HD
+http://159.89.80.49:25461/live/semainesultan/01021978alouta/278.m3u8
+#EXTINF:-1,Bein sport 12 HD
+http://159.89.80.49:25461/live/semainesultan/01021978alouta/279.m3u8 
+#EXTINF:-1,Bein Sport 1 FHD
+http://95.170.215.101:80/hls/m3u8/Bein-S1-a58.m3u8
+#EXTINF:-1,Bein Sport 2 FHD
+http://159.89.80.49:25461/live/semainesultan/01021978alouta/96.m3u8
+#EXTINF:-1,Bein Sport 3 FDH
+http://159.89.80.49:25461/live/semainesultan/01021978alouta/97.m3u8
+#EXTINF:-1,Bein Sport 4 FHD
+http://159.89.80.49:25461/live/semainesultan/01021978alouta/98.m3u8
+#EXTINF:-1,Bein Sport 5 FHD
+http://159.89.80.49:25461/live/semainesultan/01021978alouta/99.m3u8
+#EXTINF:-1,Bein Sport 6 FHD
+http://159.89.80.49:25461/live/semainesultan/01021978alouta/100.m3u8
+#EXTINF:-1,Bein Sport 7 FHD
+http://159.89.80.49:25461/live/semainesultan/01021978alouta/101.m3u8
+#EXTINF:-1,Bein Sport 8 FHD
+http://159.89.80.49:25461/live/semainesultan/01021978alouta/102.m3u8
+#EXTINF:-1,Bein Sport 9 FHD
+http://159.89.80.49:25461/live/semainesultan/01021978alouta/103.m3u8
+#EXTINF:-1,Bein Sport 10 FHD
+http://159.89.80.49:25461/live/semainesultan/01021978alouta/104.m3u8 
+#EXTINF:-1,Bein Sport 1HD FR
+http://159.89.80.49:25461/live/semainesultan/01021978alouta/35.m3u8
+#EXTINF:-1,Bein Sport 2HD FR
+http://159.89.80.49:25461/live/semainesultan/01021978alouta/36.m3u8
+#EXTINF:-1,Bein Sport 3HD FR
+http://159.89.80.49:25461/live/semainesultan/01021978alouta/37.m3u8
