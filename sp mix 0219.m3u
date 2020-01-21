@@ -1,5 +1,48 @@
 #EXTM3U
 
+#EXTINF:-1,MOVISTAR DEPORTE 1 FULLHD
+http://servicioiptv.com:8000/live/german/123456/197.m3u8
+#EXTINF:-1,MOVISTAR DEPORTE 2
+http://servicioiptv.com:8000/live/german/123456/199.m3u8
+#EXTINF:-1,MOVISTAR DEPORTE 3
+http://servicioiptv.com:8000/live/german/123456/200.m3u8
+#EXTINF:-1,MOVISTAR DEPORTE 4
+http://servicioiptv.com:8000/live/german/123456/201.m3u8
+#EXTINF:-1,MOVISTAR DEPORTE 5
+http://servicioiptv.com:8000/live/german/123456/202.m3u8
+
+#EXTINF:0,CAN: TSN 1 HD
+http://cdn7.dyncdn.pro:8080/live/n8GmuPdHCj/RZRFXENac1/1465.m3u8
+#EXTINF:0,CAN: TSN 1 HD
+http://104.207.130.26:8080/live/4SpBqpOMKAMr/3BegUrYEyJmT/1465.m3u8
+#EXTINF:0,EuroSport1
+http://104.207.130.26:8080/live/4SpBqpOMKAMr/3BegUrYEyJmT/5322.m3u8
+#EXTINF:0,EuroSport2
+http://104.207.130.26:8080/live/4SpBqpOMKAMr/3BegUrYEyJmT/5323.m3u8
+#EXTINF:0,Eurosport 2 HD
+http://104.207.130.26:8080/live/4SpBqpOMKAMr/3BegUrYEyJmT/38.m3u8
+#EXTINF:0,EuroSport1
+http://cdn7.dyncdn.pro:8080/live/n8GmuPdHCj/RZRFXENac1/5322.m3u8
+#EXTINF:0,EuroSport2
+http://cdn7.dyncdn.pro:8080/live/n8GmuPdHCj/RZRFXENac1/5323.m3u8
+#EXTINF:0,Eurosport 2 HD
+http://cdn7.dyncdn.pro:8080/live/n8GmuPdHCj/RZRFXENac1/38.m3u8
+#EXTINF:0,beIN Sport 12 HD
+http://cdn7.dyncdn.pro:8080/live/n8GmuPdHCj/RZRFXENac1/1481.m3u8
+#EXTINF:-1,Bein Sports 7hd
+http://iptv.hayat-isp.net:1997/bein-sport7HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Bein Sports 8hd
+http://iptv.hayat-isp.net:1997/bein-sport8HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Bein Sports 9 HD
+http://iptv.hayat-isp.net:1997/bein-sport9HD/tracks-v1a1/mono.m3u8
+#EXTINF:0,beIN Sport 7 HD
+http://cdn7.dyncdn.pro:8080/live/n8GmuPdHCj/RZRFXENac1/1486.m3u8
+#EXTINF:0,beIN Sport 8 HD
+http://cdn7.dyncdn.pro:8080/live/n8GmuPdHCj/RZRFXENac1/1485.m3u8
+#EXTINF:0,beIN Sport 9 HD
+http://cdn7.dyncdn.pro:8080/live/n8GmuPdHCj/RZRFXENac1/1484.m3u8
+
+
 #EXTINF:0,BT Sport 1 HD (HQ)
 http://cdn7.dyncdn.pro:8080/live/n8GmuPdHCj/RZRFXENac1/3263.m3u8
 #EXTINF:0,BT Sport 2 HD (HQ)
@@ -8,16 +51,6 @@ http://cdn7.dyncdn.pro:8080/live/n8GmuPdHCj/RZRFXENac1/3264.m3u8
 http://cdn7.dyncdn.pro:8080/live/n8GmuPdHCj/RZRFXENac1/5.m3u8
 #EXTINF:0,BT Sport ESPN HD (HQ)
 http://cdn7.dyncdn.pro:8080/live/n8GmuPdHCj/RZRFXENac1/5159.m3u8
-#EXTINF:0,CAN: TSN 1 HD
-http://cdn7.dyncdn.pro:8080/live/n8GmuPdHCj/RZRFXENac1/1465.m3u8
-#EXTINF:0,EuroSport1
-http://cdn7.dyncdn.pro:8080/live/n8GmuPdHCj/RZRFXENac1/5322.m3u8
-#EXTINF:0,EuroSport2
-http://cdn7.dyncdn.pro:8080/live/n8GmuPdHCj/RZRFXENac1/5323.m3u8
-#EXTINF:0,Eurosport 2 HD
-http://cdn7.dyncdn.pro:8080/live/n8GmuPdHCj/RZRFXENac1/38.m3u8
-#EXTINF:0,Eurosport HD
-http://cdn7.dyncdn.pro:8080/live/n8GmuPdHCj/RZRFXENac1/41.m3u8
 #EXTINF:0,Sky Sports Action HD
 http://cdn7.dyncdn.pro:8080/live/n8GmuPdHCj/RZRFXENac1/27.m3u8
 #EXTINF:0,Sky Sports Arena HD
