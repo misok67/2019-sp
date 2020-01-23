@@ -1,101 +1,53 @@
 #EXTM3U
 
-#EXTINF:-1,MOVISTAR DEPORTE 1 FULLHD
-http://servicioiptv.com:8000/live/german/123456/197.m3u8
-#EXTINF:-1,MOVISTAR DEPORTE 2
-http://servicioiptv.com:8000/live/german/123456/199.m3u8
-#EXTINF:-1,MOVISTAR DEPORTE 3
-http://servicioiptv.com:8000/live/german/123456/200.m3u8
-#EXTINF:-1,MOVISTAR DEPORTE 4
-http://servicioiptv.com:8000/live/german/123456/201.m3u8
-#EXTINF:-1,MOVISTAR DEPORTE 5
-http://servicioiptv.com:8000/live/german/123456/202.m3u8
 
-#EXTINF:0,CAN: TSN 1 HD
-http://cdn7.dyncdn.pro:8080/live/n8GmuPdHCj/RZRFXENac1/1465.m3u8
-#EXTINF:0,CAN: TSN 1 HD
-http://104.207.130.26:8080/live/4SpBqpOMKAMr/3BegUrYEyJmT/1465.m3u8
-#EXTINF:0,EuroSport1
-http://104.207.130.26:8080/live/4SpBqpOMKAMr/3BegUrYEyJmT/5322.m3u8
-#EXTINF:0,EuroSport2
-http://104.207.130.26:8080/live/4SpBqpOMKAMr/3BegUrYEyJmT/5323.m3u8
-#EXTINF:0,Eurosport 2 HD
-http://104.207.130.26:8080/live/4SpBqpOMKAMr/3BegUrYEyJmT/38.m3u8
-#EXTINF:0,EuroSport1
-http://cdn7.dyncdn.pro:8080/live/n8GmuPdHCj/RZRFXENac1/5322.m3u8
-#EXTINF:0,EuroSport2
-http://cdn7.dyncdn.pro:8080/live/n8GmuPdHCj/RZRFXENac1/5323.m3u8
-#EXTINF:0,Eurosport 2 HD
-http://cdn7.dyncdn.pro:8080/live/n8GmuPdHCj/RZRFXENac1/38.m3u8
-#EXTINF:0,beIN Sport 12 HD
-http://cdn7.dyncdn.pro:8080/live/n8GmuPdHCj/RZRFXENac1/1481.m3u8
-#EXTINF:-1,Bein Sports 7hd
-http://iptv.hayat-isp.net:1997/bein-sport7HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Bein Sports 8hd
-http://iptv.hayat-isp.net:1997/bein-sport8HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Bein Sports 9 HD
-http://iptv.hayat-isp.net:1997/bein-sport9HD/tracks-v1a1/mono.m3u8
-#EXTINF:0,beIN Sport 7 HD
-http://cdn7.dyncdn.pro:8080/live/n8GmuPdHCj/RZRFXENac1/1486.m3u8
-#EXTINF:0,beIN Sport 8 HD
-http://cdn7.dyncdn.pro:8080/live/n8GmuPdHCj/RZRFXENac1/1485.m3u8
-#EXTINF:0,beIN Sport 9 HD
-http://cdn7.dyncdn.pro:8080/live/n8GmuPdHCj/RZRFXENac1/1484.m3u8
+#EXTINF:-1,DE: SKY SPORT 1 HD
+http://163.172.168.157:3456/live/andris/andris/1159.m3u8
+#EXTINF:-1,DE: SKY SPORT 2 HD
+http://163.172.168.157:3456/live/andris/andris/1158.m3u8
+#EXTINF:-1,FR: BEIN SPORT 1
+http://163.172.168.157:3456/live/andris/andris/1026.m3u8
+#EXTINF:-1,FR: BEIN SPORT 2  HD
+http://163.172.168.157:3456/live/andris/andris/1024.m3u8
+#EXTINF:-1,NL: Fox Sports 3 HD
+http://163.172.168.157:3456/live/andris/andris/1312.m3u8
+#EXTINF:-1,NL: Fox Sports 5 HD
+http://163.172.168.157:3456/live/andris/andris/1309.m3u8
+#EXTINF:-1,NL: Ziggo Sport Select HD
+http://163.172.168.157:3456/live/andris/andris/1048.m3u8
+#EXTINF:-1,PL: EUROSPORT 2
+http://163.172.168.157:3456/live/andris/andris/1249.m3u8
+#EXTINF:-1,PL: EUROSPORT
+http://163.172.168.157:3456/live/andris/andris/1306.m3u8
+#EXTINF:-1,UK: BT SPORT 1 HD
+http://163.172.168.157:3456/live/andris/andris/834.m3u8
+#EXTINF:-1,UK: BT SPORT 2 HD
+http://163.172.168.157:3456/live/andris/andris/835.m3u8
+#EXTINF:-1,UK: BT SPORT 3
+http://163.172.168.157:3456/live/andris/andris/859.m3u8
+#EXTINF:-1,UK: BT SPORT ESPN
+http://163.172.168.157:3456/live/andris/andris/836.m3u8
+#EXTINF:-1,UK: Bein Sport 11 HD
+http://163.172.168.157:3456/live/andris/andris/1031.m3u8
+#EXTINF:-1,UK: SKY SPORTS FHD MAIN EVENT
+http://163.172.168.157:3456/live/andris/andris/654.m3u8
+#EXTINF:-1,UK: SKY SPORTS FOOTBALL HD
+http://163.172.168.157:3456/live/andris/andris/426.m3u8
+#EXTINF:-1,UK: SKY SPORTS Mix
+http://163.172.168.157:3456/live/andris/andris/873.m3u8
+#EXTINF:-1,UK: Sky Sports Arena
+http://163.172.168.157:3456/live/andris/andris/874.m3u8
+#EXTINF:-1,UK: Sky Sports Cricket
+http://163.172.168.157:3456/live/andris/andris/875.m3u8
+#EXTINF:-1,UK: Sky Sports Premier League
+http://163.172.168.157:3456/live/andris/andris/833.m3u8
+#EXTINF:-1,US: FOX SPORT 1 HD
+http://163.172.168.157:3456/live/andris/andris/931.m3u8
+#EXTINF:-1,US: FOX SPORT 2 HD
+http://163.172.168.157:3456/live/andris/andris/930.m3u8
+#EXTINF:-1,US: TSN 1 
+http://163.172.168.157:3456/live/andris/andris/939.m3u8
 
-
-#EXTINF:0,BT Sport 1 HD (HQ)
-http://cdn7.dyncdn.pro:8080/live/n8GmuPdHCj/RZRFXENac1/3263.m3u8
-#EXTINF:0,BT Sport 2 HD (HQ)
-http://cdn7.dyncdn.pro:8080/live/n8GmuPdHCj/RZRFXENac1/3264.m3u8
-#EXTINF:0,BT Sport 3 HD (HQ)
-http://cdn7.dyncdn.pro:8080/live/n8GmuPdHCj/RZRFXENac1/5.m3u8
-#EXTINF:0,BT Sport ESPN HD (HQ)
-http://cdn7.dyncdn.pro:8080/live/n8GmuPdHCj/RZRFXENac1/5159.m3u8
-#EXTINF:0,Sky Sports Action HD
-http://cdn7.dyncdn.pro:8080/live/n8GmuPdHCj/RZRFXENac1/27.m3u8
-#EXTINF:0,Sky Sports Arena HD
-http://cdn7.dyncdn.pro:8080/live/n8GmuPdHCj/RZRFXENac1/622.m3u8
-#EXTINF:0,Sky Sports Football HD
-http://cdn7.dyncdn.pro:8080/live/n8GmuPdHCj/RZRFXENac1/6650.m3u8
-#EXTINF:0,Sky Sports Main Event HD
-http://cdn7.dyncdn.pro:8080/live/n8GmuPdHCj/RZRFXENac1/6649.m3u8
-#EXTINF:0,Sky Sports Mix HD
-http://cdn7.dyncdn.pro:8080/live/n8GmuPdHCj/RZRFXENac1/10372.m3u8
-#EXTINF:0,Sky Sports Premiere League HD
-http://cdn7.dyncdn.pro:8080/live/n8GmuPdHCj/RZRFXENac1/6651.m3u8
-
-#EXTINF:0,USA- BEIN SPORTS HD
-http://cdn7.dyncdn.pro:8080/live/n8GmuPdHCj/RZRFXENac1/7309.m3u8
-#EXTINF:0,USA- BEIN SPORTS LaLiga
-http://cdn7.dyncdn.pro:8080/live/n8GmuPdHCj/RZRFXENac1/7310.m3u8
-#EXTINF:0,USA- FOX SPORTS 1 HD
-http://cdn7.dyncdn.pro:8080/live/n8GmuPdHCj/RZRFXENac1/7272.m3u8
-#EXTINF:0,USA- FOX SPORTS 2 HD
-http://cdn7.dyncdn.pro:8080/live/n8GmuPdHCj/RZRFXENac1/7273.m3u8
-#EXTINF:0,beIN Sport 1 HD
-http://cdn7.dyncdn.pro:8080/live/n8GmuPdHCj/RZRFXENac1/1492.m3u8
-#EXTINF:0,beIN Sport 10 HD
-http://cdn7.dyncdn.pro:8080/live/n8GmuPdHCj/RZRFXENac1/1483.m3u8
-#EXTINF:0,beIN Sport 11 HD
-http://cdn7.dyncdn.pro:8080/live/n8GmuPdHCj/RZRFXENac1/1482.m3u8
-#EXTINF:0,beIN Sport 12 HD
-http://cdn7.dyncdn.pro:8080/live/n8GmuPdHCj/RZRFXENac1/1481.m3u8
-#EXTINF:0,beIN Sport 2 HD
-http://cdn7.dyncdn.pro:8080/live/n8GmuPdHCj/RZRFXENac1/1491.m3u8
-#EXTINF:0,beIN Sport 3 HD
-http://cdn7.dyncdn.pro:8080/live/n8GmuPdHCj/RZRFXENac1/1490.m3u8
-#EXTINF:0,beIN Sport 4 HD
-http://cdn7.dyncdn.pro:8080/live/n8GmuPdHCj/RZRFXENac1/1489.m3u8
-#EXTINF:0,beIN Sport 5 HD
-http://cdn7.dyncdn.pro:8080/live/n8GmuPdHCj/RZRFXENac1/1488.m3u8
-#EXTINF:0,beIN Sport 6 HD
-http://cdn7.dyncdn.pro:8080/live/n8GmuPdHCj/RZRFXENac1/1487.m3u8
-#EXTINF:0,beIN Sport 7 HD
-http://cdn7.dyncdn.pro:8080/live/n8GmuPdHCj/RZRFXENac1/1486.m3u8
-#EXTINF:0,beIN Sport 8 HD
-http://cdn7.dyncdn.pro:8080/live/n8GmuPdHCj/RZRFXENac1/1485.m3u8
-#EXTINF:0,beIN Sport 9 HD
-http://cdn7.dyncdn.pro:8080/live/n8GmuPdHCj/RZRFXENac1/1484.m3u8
 
 #EXTINF:-1,Bein Sports 1
 http://iptv.hayat-isp.net:1997/bein-sport1HD/tracks-v1a1/mono.m3u8
