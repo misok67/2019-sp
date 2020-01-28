@@ -1,75 +1,162 @@
 #EXTM3U
 
+#EXTINF:-1, BT SPORT 2@
+http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3262.m3u8
+#EXTINF:-1,(DE) Sky Sport 1 4K+i @2
+http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4208.m3u8
+#EXTINF:-1,(DE) Sky Sport 2 4K@ipd
+http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3673.m3u8
+#EXTINF:-1,DE: EUROSPORT 1su@7
+http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3924.m3u8
+#EXTINF:-1,DE: SKY SPORT 1 HDsu@m
+http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3920.m3u8
+#EXTINF:-1,DE: SKY SPORT 1@S
+http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/300.m3u8
+#EXTINF:-1,DE: SKY SPORT 2 HDsu@m
+http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3921.m3u8
+#EXTINF:-1,DE: SKY SPORTs 1@S
+http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/296.m3u8
+#EXTINF:-1,DE: SKY SPORTs 2@
+http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/295.m3u8
+#EXTINF:-1,DE:EUROSPORT2HD@..e...................
+http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/58.m3u8
+#EXTINF:-1,DE_EUROSPORT 1@ips
+http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3654.m3u8
+#EXTINF:-1,DE_Sky Sport 1 HD@ips
+http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3669.m3u8
+#EXTINF:-1,DE_Sky Sport 2 HD@ips
+http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3668.m3u8
+#EXTINF:-1,ES: Movistar+ Deportes 1@
+http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3256.m3u8
+#EXTINF:-1,FR:EUROSPORT 2su@21
+http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4001.m3u8
+#EXTINF:-1,SP: FOX SPORTS 1@
+http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3251.m3u8
+#EXTINF:-1,SP: FOX SPORTS 2@
+http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3252.m3u8
+#EXTINF:-1,Sky Sport HD 1@PRE
+http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/226.m3u8
+#EXTINF:-1,Sky Sports Action HD@ex
+http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3172.m3u8
+#EXTINF:-1,Sky Sports Arena SD@ex
+http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3165.m3u8
+#EXTINF:-1,Sky Sports Football HD@ex
+http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3181.m3u8
+#EXTINF:-1,Sky Sports Main Event SD@ex
+http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3183.m3u8
+#EXTINF:-1,Sky Sports Premier league SD@ex
+http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3176.m3u8
+#EXTINF:-1,UK I BT Sport 2 HD@PER
+http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/228.m3u8
+#EXTINF:-1,UK | BT Sport ESPN@h
+http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3583.m3u8
+#EXTINF:-1,UK | BT Sports 1@h
+http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3584.m3u8
+#EXTINF:-1,UK | BT Sports 2@h
+http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3585.m3u8
+#EXTINF:-1,UK | BT Sports 3@h
+http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3586.m3u8
+#EXTINF:-1,UK | SKY Sports Action FHD@h
+http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3636.m3u8
+#EXTINF:-1,UK | SKY Sports Action@h
+http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3575.m3u8
+#EXTINF:-1,UK | SKY Sports Action@h
+http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3629.m3u8
+#EXTINF:-1,UK | SKY Sports Action@h
+http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3646.m3u8
+#EXTINF:-1,UK | SKY Sports Arena FHD@h
+http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3648.m3u8
+#EXTINF:-1,UK | SKY Sports Main Event FHD@h
+http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3637.m3u8
+#EXTINF:-1,UK | SKY Sports Premier League@h
+http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3573.m3u8
+#EXTINF:-1,|AR.BEIN|  BEIN SPORTS 10 HD@e
+http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3484.m3u8
+#EXTINF:-1,|AR.BEIN|  BEIN SPORTS 2 HD@e
+http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3476.m3u8
+#EXTINF:-1,|AR.BEIN|  BEIN SPORTS 3 HD@e
+http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3477.m3u8
+#EXTINF:-1,|AR.BEIN|  BEIN SPORTS 4 HD@e
+http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3478.m3u8
+#EXTINF:-1,|AR.BEIN|  BEIN SPORTS 5 HD@e
+http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3479.m3u8
+#EXTINF:-1,|AR.BEIN|  BEIN SPORTS 6 HD@e
+http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3480.m3u8
+#EXTINF:-1,|AR.BEIN|  BEIN SPORTS 7 HD@e
+http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3481.m3u8
+#EXTINF:-1,|AR.BEIN|  BEIN SPORTS 8 HD@e
+http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3482.m3u8
+#EXTINF:-1,|AR.BEIN|  BEIN SPORTS 9 HD
+http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3483.m3u8
 
-#EXTINF:-1,DE: SKY SPORT 1 HD
-http://163.172.168.157:3456/live/andris/andris/1159.m3u8
-#EXTINF:-1,DE: SKY SPORT 2 HD
-http://163.172.168.157:3456/live/andris/andris/1158.m3u8
-#EXTINF:-1,FR: BEIN SPORT 1
-http://163.172.168.157:3456/live/andris/andris/1026.m3u8
-#EXTINF:-1,FR: BEIN SPORT 2  HD
-http://163.172.168.157:3456/live/andris/andris/1024.m3u8
-#EXTINF:-1,NL: Fox Sports 3 HD
-http://163.172.168.157:3456/live/andris/andris/1312.m3u8
-#EXTINF:-1,NL: Fox Sports 5 HD
-http://163.172.168.157:3456/live/andris/andris/1309.m3u8
-#EXTINF:-1,NL: Ziggo Sport Select HD
-http://163.172.168.157:3456/live/andris/andris/1048.m3u8
-#EXTINF:-1,PL: EUROSPORT 2
-http://163.172.168.157:3456/live/andris/andris/1249.m3u8
-#EXTINF:-1,PL: EUROSPORT
-http://163.172.168.157:3456/live/andris/andris/1306.m3u8
-#EXTINF:-1,UK: BT SPORT 1 HD
-http://163.172.168.157:3456/live/andris/andris/834.m3u8
-#EXTINF:-1,UK: BT SPORT 2 HD
-http://163.172.168.157:3456/live/andris/andris/835.m3u8
-#EXTINF:-1,UK: BT SPORT 3
-http://163.172.168.157:3456/live/andris/andris/859.m3u8
-#EXTINF:-1,UK: BT SPORT ESPN
-http://163.172.168.157:3456/live/andris/andris/836.m3u8
-#EXTINF:-1,UK: Bein Sport 11 HD
-http://163.172.168.157:3456/live/andris/andris/1031.m3u8
-#EXTINF:-1,UK: SKY SPORTS FHD MAIN EVENT
-http://163.172.168.157:3456/live/andris/andris/654.m3u8
-#EXTINF:-1,UK: SKY SPORTS FOOTBALL HD
-http://163.172.168.157:3456/live/andris/andris/426.m3u8
-#EXTINF:-1,UK: SKY SPORTS Mix
-http://163.172.168.157:3456/live/andris/andris/873.m3u8
-#EXTINF:-1,UK: Sky Sports Arena
-http://163.172.168.157:3456/live/andris/andris/874.m3u8
-#EXTINF:-1,UK: Sky Sports Cricket
-http://163.172.168.157:3456/live/andris/andris/875.m3u8
-#EXTINF:-1,UK: Sky Sports Premier League
-http://163.172.168.157:3456/live/andris/andris/833.m3u8
-#EXTINF:-1,US: FOX SPORT 1 HD
-http://163.172.168.157:3456/live/andris/andris/931.m3u8
-#EXTINF:-1,US: FOX SPORT 2 HD
-http://163.172.168.157:3456/live/andris/andris/930.m3u8
-#EXTINF:-1,US: TSN 1 
-http://163.172.168.157:3456/live/andris/andris/939.m3u8
 
+#EXTINF:-1,EX-YU:Sport_Klub1
+http://universeiptv.com:8000/live/alexaiptv/hvsfw2yfgwu/1444.m3u8
+#EXTINF:-1,EX-YU:Sport_Klub2
+http://universeiptv.com:8000/live/alexaiptv/hvsfw2yfgwu/1445.m3u8
+#EXTINF:-1,EX-YU:Sport_Klub3
+http://universeiptv.com:8000/live/alexaiptv/hvsfw2yfgwu/1446.m3u8
 
-#EXTINF:-1,Bein Sports 1
-http://iptv.hayat-isp.net:1997/bein-sport1HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Bein Sports 2hd
-http://iptv.hayat-isp.net:1997/bein-sport2HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Bein Sports 3hd
-http://iptv.hayat-isp.net:1997/bein-sport3HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Bein Sports 4
-http://iptv.hayat-isp.net:1997/bein-sport4HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Bein Sports 5hd
-http://iptv.hayat-isp.net:1997/bein-sport5HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Bein Sports 6hd
-http://iptv.hayat-isp.net:1997/bein-sport6HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Bein Sports 7hd
-http://iptv.hayat-isp.net:1997/bein-sport7HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Bein Sports 8hd
-http://iptv.hayat-isp.net:1997/bein-sport8HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Bein Sports 9 HD
-http://iptv.hayat-isp.net:1997/bein-sport9HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Bein Sports 10hd
-http://iptv.hayat-isp.net:1997/bein-sport10HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Bein Sports 11 HD
-http://iptv.hayat-isp.net:1997/bein-sport11HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Bein Sports 12
-http://iptv.hayat-isp.net:1997/bein-sport12HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1,EX-YU:Arena_Sport_2
+http://universeiptv.com:8000/live/alexaiptv/hvsfw2yfgwu/583.m3u8
+#EXTINF:-1,EX-YU:Arena_Sport_1
+http://universeiptv.com:8000/live/alexaiptv/hvsfw2yfgwu/584.m3u8
+#EXTINF:-1,BEIN SPORTS HD1 HEVC
+http://dreamtv.v90.co:2086/live/dreamtvchanelle/Bg1UvgUJ73/43.m3u8
+#EXTINF:-1,BEIN SPORTS HD10 HEVC
+http://dreamtv.v90.co:2086/live/dreamtvchanelle/Bg1UvgUJ73/42.m3u8
+#EXTINF:-1,BEIN SPORTS HD2 HEVC
+http://dreamtv.v90.co:2086/live/dreamtvchanelle/Bg1UvgUJ73/41.m3u8
+#EXTINF:-1,BEIN SPORTS HD3 HEVC
+http://dreamtv.v90.co:2086/live/dreamtvchanelle/Bg1UvgUJ73/40.m3u8
+#EXTINF:-1,BEIN SPORTS HD4 HEVC
+http://dreamtv.v90.co:2086/live/dreamtvchanelle/Bg1UvgUJ73/13.m3u8
+#EXTINF:-1,BEIN SPORTS HD5 HEVC
+http://dreamtv.v90.co:2086/live/dreamtvchanelle/Bg1UvgUJ73/39.m3u8
+#EXTINF:-1,BEIN SPORTS HD6 HEVC
+http://dreamtv.v90.co:2086/live/dreamtvchanelle/Bg1UvgUJ73/38.m3u8
+#EXTINF:-1,BEIN SPORTS HD7 HEVC
+http://dreamtv.v90.co:2086/live/dreamtvchanelle/Bg1UvgUJ73/37.m3u8
+#EXTINF:-1,BEIN SPORTS HD8 HEVC
+http://dreamtv.v90.co:2086/live/dreamtvchanelle/Bg1UvgUJ73/36.m3u8
+#EXTINF:-1,BEIN SPORTS HD9 HEVC
+http://dreamtv.v90.co:2086/live/dreamtvchanelle/Bg1UvgUJ73/35.m3u8
+#EXTINF:-1,beIN Sports 11 FHD EN
+http://dreamtv.v90.co:2086/live/dreamtvchanelle/Bg1UvgUJ73/555.m3u8
+#EXTINF:-1,|BR| FOX SPORTS 2 HD
+http://dreamtv.v90.co:2086/live/dreamtvchanelle/Bg1UvgUJ73/428.m3u8
+#EXTINF:-1,|FR| beIN Sports 1 HD
+http://dreamtv.v90.co:2086/live/dreamtvchanelle/Bg1UvgUJ73/1490.m3u8
+
+#EXTINF:-1,EUROSPORT 1
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/31459.m3u8
+#EXTINF:-1,EUROSPORT 2
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/31460.m3u8
+#EXTINF:-1,Bee n Sport 12
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/89199.m3u8
+#EXTINF:0,TSN 1V
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/1621.m3u8
+#EXTINF:-1,TENNIS CHANNEL Local
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/31209.m3u8
+#EXTINF:-1,Bee N Sport 11
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/89200.m3u8
+#EXTINF:-1,Bee n Sport 7
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/89204.m3u8
+#EXTINF:-1,Bee N Sport 8
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/89203.m3u8
+#EXTINF:-1,Bee N Sport 9
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/89202.m3u8
+#EXTINF:-1,Bee n Sport 1
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/89210.m3u8
+#EXTINF:-1,Bee n Sport 2
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/89209.m3u8
+#EXTINF:-1,Bee N Sport 3
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/89208.m3u8
+#EXTINF:-1,Bee N Sport 4
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/89207.m3u8
+#EXTINF:-1,Bee n Sport 5
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/89206.m3u8
+#EXTINF:-1,Bee n Sport 6
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/89205.m3u8
+#EXTINF:-1,Bee N Sport 10
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/89201.m3u8
