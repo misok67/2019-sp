@@ -1,70 +1,58 @@
 #EXTM3U
 
-#EXTINF:-1,(UK):EUROSPORT 1 HD
-http://fluence.mypets.ws:8080/live/live:david.clayton24/eigpO27vAL/2967.m3u8
-#EXTINF:-1,FR-EUROSPORT1 HD
-http://fluence.mypets.ws:8080/live/live:david.clayton24/eigpO27vAL/507.m3u8
-#EXTINF:-1,SP-EUROSPORT1 HD
-http://fluence.mypets.ws:8080/live/live:david.clayton24/eigpO27vAL/2905.m3u8
-#EXTINF:-1,SP-EUROSPORT2 HD
-http://fluence.mypets.ws:8080/live/live:david.clayton24/eigpO27vAL/2906.m3u8
-#EXTINF:-1,ARB-BEIN-SPORT11
-http://fluence.mypets.ws:8080/live/live:david.clayton24/eigpO27vAL/242.m3u8
-#EXTINF:-1,ARB-BeIN Sport 12
-http://fluence.mypets.ws:8080/live/live:david.clayton24/eigpO27vAL/243.m3u8
-#EXTINF:-1,(UK):BT SPORT 1 HD
-http://fluence.mypets.ws:8080/live/live:david.clayton24/eigpO27vAL/2830.m3u8
-#EXTINF:-1,(UK):BT SPORT 2 HD
-http://fluence.mypets.ws:8080/live/live:david.clayton24/eigpO27vAL/2831.m3u8
-#EXTINF:-1,(UK):BT SPORT 3 HD
-http://fluence.mypets.ws:8080/live/live:david.clayton24/eigpO27vAL/2832.m3u8
-#EXTINF:-1,(UK):BT SPORT ESPN HD
-http://fluence.mypets.ws:8080/live/live:david.clayton24/eigpO27vAL/2829.m3u8
-#EXTINF:-1,(UK):SKY SPORTS ACTION HD
-http://fluence.mypets.ws:8080/live/live:david.clayton24/eigpO27vAL/2822.m3u8
-#EXTINF:-1,(UK):SKY SPORTS ARENA HD
-http://fluence.mypets.ws:8080/live/live:david.clayton24/eigpO27vAL/2821.m3u8
-#EXTINF:-1,(UK):SKY SPORTS F1 HD
-http://fluence.mypets.ws:8080/live/live:david.clayton24/eigpO27vAL/2827.m3u8
-#EXTINF:-1,(UK):SKY SPORTS GOLF HD
-http://fluence.mypets.ws:8080/live/live:david.clayton24/eigpO27vAL/2825.m3u8
-#EXTINF:-1,(UK):SKY SPORTS MAIN EVENT HD
-http://fluence.mypets.ws:8080/live/live:david.clayton24/eigpO27vAL/2819.m3u8
-#EXTINF:-1,(UK):SKY SPORTS MIX HD
-http://fluence.mypets.ws:8080/live/live:david.clayton24/eigpO27vAL/2824.m3u8
-#EXTINF:-1,(UK):SKY SPORTS PREMIER LEAGUE HD
-http://fluence.mypets.ws:8080/live/live:david.clayton24/eigpO27vAL/2823.m3u8
-#EXTINF:-1,ARB-BEIN-SPORT1
-http://fluence.mypets.ws:8080/live/live:david.clayton24/eigpO27vAL/232.m3u8
-#EXTINF:-1,ARB-BEIN-SPORT2
-http://fluence.mypets.ws:8080/live/live:david.clayton24/eigpO27vAL/233.m3u8
-#EXTINF:-1,ARB-BEIN-SPORT3
-http://fluence.mypets.ws:8080/live/live:david.clayton24/eigpO27vAL/234.m3u8
-#EXTINF:-1,ARB-BEIN-SPORT4
-http://fluence.mypets.ws:8080/live/live:david.clayton24/eigpO27vAL/235.m3u8
-#EXTINF:-1,ARB-BEIN-SPORT5
-http://fluence.mypets.ws:8080/live/live:david.clayton24/eigpO27vAL/236.m3u8
-#EXTINF:-1,ARB-BeIN Sport 6
-http://fluence.mypets.ws:8080/live/live:david.clayton24/eigpO27vAL/237.m3u8
-#EXTINF:-1,ARB-BEIN-SPORT7
-http://fluence.mypets.ws:8080/live/live:david.clayton24/eigpO27vAL/238.m3u8
-#EXTINF:-1,ARB-BEIN-SPORT8
-http://fluence.mypets.ws:8080/live/live:david.clayton24/eigpO27vAL/239.m3u8
-#EXTINF:-1,ARB-BEIN-SPORT9
-http://fluence.mypets.ws:8080/live/live:david.clayton24/eigpO27vAL/240.m3u8
-#EXTINF:-1,ARB-BEIN-SPORT10
-http://fluence.mypets.ws:8080/live/live:david.clayton24/eigpO27vAL/241.m3u8
-#EXTINF:-1,DE-Sky Sport Bundesliga 1 HD
-http://fluence.mypets.ws:8080/live/live:david.clayton24/eigpO27vAL/2948.m3u8
-#EXTINF:-1,FR-BEIN SPORT 1 FHD
-http://fluence.mypets.ws:8080/live/live:david.clayton24/eigpO27vAL/508.m3u8
-#EXTINF:-1,FR-BEIN SPORT 2 FHD
-http://fluence.mypets.ws:8080/live/live:david.clayton24/eigpO27vAL/509.m3u8
-#EXTINF:-1,FR-BEIN SPORT 3 FHD
-http://fluence.mypets.ws:8080/live/live:david.clayton24/eigpO27vAL/510.m3u8
-#EXTINF:-1,FR-RMC SPORTS 1 HD
-http://fluence.mypets.ws:8080/live/live:david.clayton24/eigpO27vAL/512.m3u8
-#EXTINF:-1,FR-RMC SPORTS 3 HD
-http://fluence.mypets.ws:8080/live/live:david.clayton24/eigpO27vAL/514.m3u8
-#EXTINF:-1,FR-RMC SPORTS 2 HD
-http://fluence.mypets.ws:8080/live/live:david.clayton24/eigpO27vAL/513.m3u8
+#EXTINF:-1,*ES- Movistar  Deportes 1 FHD ES-
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/31642.m3u8
+#EXTINF:-1,*IT- Fox Sport HD IT**
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/30696.m3u8
+#EXTINF:-1,*SS- BEIN Sports 01 HD*
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/32098.m3u8
+#EXTINF:-1,*SS- BEIN Sports 02 HD*
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/32097.m3u8
+#EXTINF:-1,*SS- BEIN Sports 03 HD*
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/32096.m3u8
+#EXTINF:-1,*SS- BEIN Sports 04 HD*
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/32095.m3u8
+#EXTINF:-1,*SS- BEIN Sports 05 HD*
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/32094.m3u8
+#EXTINF:-1,*SS- BEIN Sports 06 HD*
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/32093.m3u8
+#EXTINF:-1,*SS- BEIN Sports 07 HD*
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/32092.m3u8
+#EXTINF:-1,*SS- BEIN Sports 08 HD*
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/32091.m3u8
+#EXTINF:-1,*SS- BEIN Sports 09 HD*
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/32090.m3u8
+#EXTINF:-1,*SS- BEIN Sports 10 HD*
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/32089.m3u8
+#EXTINF:-1,*SS- BEIN Sports 11 HD*
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/32088.m3u8
+#EXTINF:-1,*SS- BEIN Sports 12 HD*
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/32087.m3u8
+#EXTINF:-1,*SS- BEIN Sports Global ARB
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/32086.m3u8
+#EXTINF:-1,*SS- BT Sport 1 HD UK***
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/32045.m3u8
+#EXTINF:-1,*SS- BT Sport 2 HD UK***
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/32044.m3u8
+#EXTINF:-1,*SS- BT Sport 3 HD UK***
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/32043.m3u8
+#EXTINF:-1,*SS- Eurosport 1 HD UK**
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/32033.m3u8
+#EXTINF:-1,*SS- Eurosport 2 HD UK**
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/32032.m3u8
+#EXTINF:-1,*USA- Fox Sports 1 HD US***
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/29966.m3u8
+#EXTINF:-1,*USA- Fox Sports 2 FHD US***
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/29964.m3u8
+#EXTINF:-1,NL: Fox Sports 3 HD**
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/15748.m3u8
+#EXTINF:-1,NL: Fox Sports 4 HD**
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/15745.m3u8
+#EXTINF:-1,NL: Fox Sports 5 HD**
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/15744.m3u8
+#EXTINF:-1,NL: Fox Sports 6 HD**
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/15743.m3u8
+#EXTINF:-1,NL: Ziggo Sports Select HD**
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/15740.m3u8
+#EXTINF:-1,NL: Ziggo Sports Voetbal HD**
+http://95.154.194.84:8000/live/DlrSUqOZ2k/lFcKAenHiB/15741.m3u8
