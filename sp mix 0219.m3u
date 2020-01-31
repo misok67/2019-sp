@@ -1,162 +1,70 @@
 #EXTM3U
 
-#EXTINF:-1, BT SPORT 2@
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3262.m3u8
-#EXTINF:-1,(DE) Sky Sport 1 4K+i @2
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4208.m3u8
-#EXTINF:-1,(DE) Sky Sport 2 4K@ipd
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3673.m3u8
-#EXTINF:-1,DE: EUROSPORT 1su@7
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3924.m3u8
-#EXTINF:-1,DE: SKY SPORT 1 HDsu@m
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3920.m3u8
-#EXTINF:-1,DE: SKY SPORT 1@S
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/300.m3u8
-#EXTINF:-1,DE: SKY SPORT 2 HDsu@m
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3921.m3u8
-#EXTINF:-1,DE: SKY SPORTs 1@S
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/296.m3u8
-#EXTINF:-1,DE: SKY SPORTs 2@
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/295.m3u8
-#EXTINF:-1,DE:EUROSPORT2HD@..e...................
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/58.m3u8
-#EXTINF:-1,DE_EUROSPORT 1@ips
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3654.m3u8
-#EXTINF:-1,DE_Sky Sport 1 HD@ips
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3669.m3u8
-#EXTINF:-1,DE_Sky Sport 2 HD@ips
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3668.m3u8
-#EXTINF:-1,ES: Movistar+ Deportes 1@
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3256.m3u8
-#EXTINF:-1,FR:EUROSPORT 2su@21
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/4001.m3u8
-#EXTINF:-1,SP: FOX SPORTS 1@
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3251.m3u8
-#EXTINF:-1,SP: FOX SPORTS 2@
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3252.m3u8
-#EXTINF:-1,Sky Sport HD 1@PRE
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/226.m3u8
-#EXTINF:-1,Sky Sports Action HD@ex
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3172.m3u8
-#EXTINF:-1,Sky Sports Arena SD@ex
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3165.m3u8
-#EXTINF:-1,Sky Sports Football HD@ex
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3181.m3u8
-#EXTINF:-1,Sky Sports Main Event SD@ex
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3183.m3u8
-#EXTINF:-1,Sky Sports Premier league SD@ex
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3176.m3u8
-#EXTINF:-1,UK I BT Sport 2 HD@PER
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/228.m3u8
-#EXTINF:-1,UK | BT Sport ESPN@h
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3583.m3u8
-#EXTINF:-1,UK | BT Sports 1@h
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3584.m3u8
-#EXTINF:-1,UK | BT Sports 2@h
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3585.m3u8
-#EXTINF:-1,UK | BT Sports 3@h
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3586.m3u8
-#EXTINF:-1,UK | SKY Sports Action FHD@h
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3636.m3u8
-#EXTINF:-1,UK | SKY Sports Action@h
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3575.m3u8
-#EXTINF:-1,UK | SKY Sports Action@h
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3629.m3u8
-#EXTINF:-1,UK | SKY Sports Action@h
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3646.m3u8
-#EXTINF:-1,UK | SKY Sports Arena FHD@h
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3648.m3u8
-#EXTINF:-1,UK | SKY Sports Main Event FHD@h
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3637.m3u8
-#EXTINF:-1,UK | SKY Sports Premier League@h
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3573.m3u8
-#EXTINF:-1,|AR.BEIN|  BEIN SPORTS 10 HD@e
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3484.m3u8
-#EXTINF:-1,|AR.BEIN|  BEIN SPORTS 2 HD@e
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3476.m3u8
-#EXTINF:-1,|AR.BEIN|  BEIN SPORTS 3 HD@e
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3477.m3u8
-#EXTINF:-1,|AR.BEIN|  BEIN SPORTS 4 HD@e
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3478.m3u8
-#EXTINF:-1,|AR.BEIN|  BEIN SPORTS 5 HD@e
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3479.m3u8
-#EXTINF:-1,|AR.BEIN|  BEIN SPORTS 6 HD@e
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3480.m3u8
-#EXTINF:-1,|AR.BEIN|  BEIN SPORTS 7 HD@e
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3481.m3u8
-#EXTINF:-1,|AR.BEIN|  BEIN SPORTS 8 HD@e
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3482.m3u8
-#EXTINF:-1,|AR.BEIN|  BEIN SPORTS 9 HD
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3483.m3u8
-
-
-#EXTINF:-1,EX-YU:Sport_Klub1
-http://universeiptv.com:8000/live/alexaiptv/hvsfw2yfgwu/1444.m3u8
-#EXTINF:-1,EX-YU:Sport_Klub2
-http://universeiptv.com:8000/live/alexaiptv/hvsfw2yfgwu/1445.m3u8
-#EXTINF:-1,EX-YU:Sport_Klub3
-http://universeiptv.com:8000/live/alexaiptv/hvsfw2yfgwu/1446.m3u8
-
-#EXTINF:-1,EX-YU:Arena_Sport_2
-http://universeiptv.com:8000/live/alexaiptv/hvsfw2yfgwu/583.m3u8
-#EXTINF:-1,EX-YU:Arena_Sport_1
-http://universeiptv.com:8000/live/alexaiptv/hvsfw2yfgwu/584.m3u8
-#EXTINF:-1,BEIN SPORTS HD1 HEVC
-http://dreamtv.v90.co:2086/live/dreamtvchanelle/Bg1UvgUJ73/43.m3u8
-#EXTINF:-1,BEIN SPORTS HD10 HEVC
-http://dreamtv.v90.co:2086/live/dreamtvchanelle/Bg1UvgUJ73/42.m3u8
-#EXTINF:-1,BEIN SPORTS HD2 HEVC
-http://dreamtv.v90.co:2086/live/dreamtvchanelle/Bg1UvgUJ73/41.m3u8
-#EXTINF:-1,BEIN SPORTS HD3 HEVC
-http://dreamtv.v90.co:2086/live/dreamtvchanelle/Bg1UvgUJ73/40.m3u8
-#EXTINF:-1,BEIN SPORTS HD4 HEVC
-http://dreamtv.v90.co:2086/live/dreamtvchanelle/Bg1UvgUJ73/13.m3u8
-#EXTINF:-1,BEIN SPORTS HD5 HEVC
-http://dreamtv.v90.co:2086/live/dreamtvchanelle/Bg1UvgUJ73/39.m3u8
-#EXTINF:-1,BEIN SPORTS HD6 HEVC
-http://dreamtv.v90.co:2086/live/dreamtvchanelle/Bg1UvgUJ73/38.m3u8
-#EXTINF:-1,BEIN SPORTS HD7 HEVC
-http://dreamtv.v90.co:2086/live/dreamtvchanelle/Bg1UvgUJ73/37.m3u8
-#EXTINF:-1,BEIN SPORTS HD8 HEVC
-http://dreamtv.v90.co:2086/live/dreamtvchanelle/Bg1UvgUJ73/36.m3u8
-#EXTINF:-1,BEIN SPORTS HD9 HEVC
-http://dreamtv.v90.co:2086/live/dreamtvchanelle/Bg1UvgUJ73/35.m3u8
-#EXTINF:-1,beIN Sports 11 FHD EN
-http://dreamtv.v90.co:2086/live/dreamtvchanelle/Bg1UvgUJ73/555.m3u8
-#EXTINF:-1,|BR| FOX SPORTS 2 HD
-http://dreamtv.v90.co:2086/live/dreamtvchanelle/Bg1UvgUJ73/428.m3u8
-#EXTINF:-1,|FR| beIN Sports 1 HD
-http://dreamtv.v90.co:2086/live/dreamtvchanelle/Bg1UvgUJ73/1490.m3u8
-
-#EXTINF:-1,EUROSPORT 1
-http://89.187.181.171:826/live/armelb/zQxn5lB3zK/31459.m3u8
-#EXTINF:-1,EUROSPORT 2
-http://89.187.181.171:826/live/armelb/zQxn5lB3zK/31460.m3u8
-#EXTINF:-1,Bee n Sport 12
-http://89.187.181.171:826/live/armelb/zQxn5lB3zK/89199.m3u8
-#EXTINF:0,TSN 1V
-http://89.187.181.171:826/live/armelb/zQxn5lB3zK/1621.m3u8
-#EXTINF:-1,TENNIS CHANNEL Local
-http://89.187.181.171:826/live/armelb/zQxn5lB3zK/31209.m3u8
-#EXTINF:-1,Bee N Sport 11
-http://89.187.181.171:826/live/armelb/zQxn5lB3zK/89200.m3u8
-#EXTINF:-1,Bee n Sport 7
-http://89.187.181.171:826/live/armelb/zQxn5lB3zK/89204.m3u8
-#EXTINF:-1,Bee N Sport 8
-http://89.187.181.171:826/live/armelb/zQxn5lB3zK/89203.m3u8
-#EXTINF:-1,Bee N Sport 9
-http://89.187.181.171:826/live/armelb/zQxn5lB3zK/89202.m3u8
-#EXTINF:-1,Bee n Sport 1
-http://89.187.181.171:826/live/armelb/zQxn5lB3zK/89210.m3u8
-#EXTINF:-1,Bee n Sport 2
-http://89.187.181.171:826/live/armelb/zQxn5lB3zK/89209.m3u8
-#EXTINF:-1,Bee N Sport 3
-http://89.187.181.171:826/live/armelb/zQxn5lB3zK/89208.m3u8
-#EXTINF:-1,Bee N Sport 4
-http://89.187.181.171:826/live/armelb/zQxn5lB3zK/89207.m3u8
-#EXTINF:-1,Bee n Sport 5
-http://89.187.181.171:826/live/armelb/zQxn5lB3zK/89206.m3u8
-#EXTINF:-1,Bee n Sport 6
-http://89.187.181.171:826/live/armelb/zQxn5lB3zK/89205.m3u8
-#EXTINF:-1,Bee N Sport 10
-http://89.187.181.171:826/live/armelb/zQxn5lB3zK/89201.m3u8
+#EXTINF:-1,(UK):EUROSPORT 1 HD
+http://fluence.mypets.ws:8080/live/live:david.clayton24/eigpO27vAL/2967.m3u8
+#EXTINF:-1,FR-EUROSPORT1 HD
+http://fluence.mypets.ws:8080/live/live:david.clayton24/eigpO27vAL/507.m3u8
+#EXTINF:-1,SP-EUROSPORT1 HD
+http://fluence.mypets.ws:8080/live/live:david.clayton24/eigpO27vAL/2905.m3u8
+#EXTINF:-1,SP-EUROSPORT2 HD
+http://fluence.mypets.ws:8080/live/live:david.clayton24/eigpO27vAL/2906.m3u8
+#EXTINF:-1,ARB-BEIN-SPORT11
+http://fluence.mypets.ws:8080/live/live:david.clayton24/eigpO27vAL/242.m3u8
+#EXTINF:-1,ARB-BeIN Sport 12
+http://fluence.mypets.ws:8080/live/live:david.clayton24/eigpO27vAL/243.m3u8
+#EXTINF:-1,(UK):BT SPORT 1 HD
+http://fluence.mypets.ws:8080/live/live:david.clayton24/eigpO27vAL/2830.m3u8
+#EXTINF:-1,(UK):BT SPORT 2 HD
+http://fluence.mypets.ws:8080/live/live:david.clayton24/eigpO27vAL/2831.m3u8
+#EXTINF:-1,(UK):BT SPORT 3 HD
+http://fluence.mypets.ws:8080/live/live:david.clayton24/eigpO27vAL/2832.m3u8
+#EXTINF:-1,(UK):BT SPORT ESPN HD
+http://fluence.mypets.ws:8080/live/live:david.clayton24/eigpO27vAL/2829.m3u8
+#EXTINF:-1,(UK):SKY SPORTS ACTION HD
+http://fluence.mypets.ws:8080/live/live:david.clayton24/eigpO27vAL/2822.m3u8
+#EXTINF:-1,(UK):SKY SPORTS ARENA HD
+http://fluence.mypets.ws:8080/live/live:david.clayton24/eigpO27vAL/2821.m3u8
+#EXTINF:-1,(UK):SKY SPORTS F1 HD
+http://fluence.mypets.ws:8080/live/live:david.clayton24/eigpO27vAL/2827.m3u8
+#EXTINF:-1,(UK):SKY SPORTS GOLF HD
+http://fluence.mypets.ws:8080/live/live:david.clayton24/eigpO27vAL/2825.m3u8
+#EXTINF:-1,(UK):SKY SPORTS MAIN EVENT HD
+http://fluence.mypets.ws:8080/live/live:david.clayton24/eigpO27vAL/2819.m3u8
+#EXTINF:-1,(UK):SKY SPORTS MIX HD
+http://fluence.mypets.ws:8080/live/live:david.clayton24/eigpO27vAL/2824.m3u8
+#EXTINF:-1,(UK):SKY SPORTS PREMIER LEAGUE HD
+http://fluence.mypets.ws:8080/live/live:david.clayton24/eigpO27vAL/2823.m3u8
+#EXTINF:-1,ARB-BEIN-SPORT1
+http://fluence.mypets.ws:8080/live/live:david.clayton24/eigpO27vAL/232.m3u8
+#EXTINF:-1,ARB-BEIN-SPORT2
+http://fluence.mypets.ws:8080/live/live:david.clayton24/eigpO27vAL/233.m3u8
+#EXTINF:-1,ARB-BEIN-SPORT3
+http://fluence.mypets.ws:8080/live/live:david.clayton24/eigpO27vAL/234.m3u8
+#EXTINF:-1,ARB-BEIN-SPORT4
+http://fluence.mypets.ws:8080/live/live:david.clayton24/eigpO27vAL/235.m3u8
+#EXTINF:-1,ARB-BEIN-SPORT5
+http://fluence.mypets.ws:8080/live/live:david.clayton24/eigpO27vAL/236.m3u8
+#EXTINF:-1,ARB-BeIN Sport 6
+http://fluence.mypets.ws:8080/live/live:david.clayton24/eigpO27vAL/237.m3u8
+#EXTINF:-1,ARB-BEIN-SPORT7
+http://fluence.mypets.ws:8080/live/live:david.clayton24/eigpO27vAL/238.m3u8
+#EXTINF:-1,ARB-BEIN-SPORT8
+http://fluence.mypets.ws:8080/live/live:david.clayton24/eigpO27vAL/239.m3u8
+#EXTINF:-1,ARB-BEIN-SPORT9
+http://fluence.mypets.ws:8080/live/live:david.clayton24/eigpO27vAL/240.m3u8
+#EXTINF:-1,ARB-BEIN-SPORT10
+http://fluence.mypets.ws:8080/live/live:david.clayton24/eigpO27vAL/241.m3u8
+#EXTINF:-1,DE-Sky Sport Bundesliga 1 HD
+http://fluence.mypets.ws:8080/live/live:david.clayton24/eigpO27vAL/2948.m3u8
+#EXTINF:-1,FR-BEIN SPORT 1 FHD
+http://fluence.mypets.ws:8080/live/live:david.clayton24/eigpO27vAL/508.m3u8
+#EXTINF:-1,FR-BEIN SPORT 2 FHD
+http://fluence.mypets.ws:8080/live/live:david.clayton24/eigpO27vAL/509.m3u8
+#EXTINF:-1,FR-BEIN SPORT 3 FHD
+http://fluence.mypets.ws:8080/live/live:david.clayton24/eigpO27vAL/510.m3u8
+#EXTINF:-1,FR-RMC SPORTS 1 HD
+http://fluence.mypets.ws:8080/live/live:david.clayton24/eigpO27vAL/512.m3u8
+#EXTINF:-1,FR-RMC SPORTS 3 HD
+http://fluence.mypets.ws:8080/live/live:david.clayton24/eigpO27vAL/514.m3u8
+#EXTINF:-1,FR-RMC SPORTS 2 HD
+http://fluence.mypets.ws:8080/live/live:david.clayton24/eigpO27vAL/513.m3u8
