@@ -33,37 +33,37 @@ http://tvla.xyz:80/live/letgybgq/7M3eU6m7ur/1312248.m3u8
 #EXTINF:-1 ,ESPN (US)
 http://tvla.xyz:80/live/letgybgq/7M3eU6m7ur/1328910.m3u8
 
-#EXTINF:0, lista 2 - |FR| RMC SPORT 1 FHD.m3u8
-http://iptv3.premium-stv.com:25461/8571361380SP@pro2@irr@/4538907326ns@bljbzd@44t@/40.m3u8
-#EXTINF:0, lista 2 - |FR| RMC SPORT 2 FHD.m3u8
+#EXTINF:-1, lista 2 - |FR| RMC SPORT 1 FHD.m3u8
+http://iptv3.premium-stv.com:25461/live/8571361380SP@pro2@irr@/4538907326ns@bljbzd@44t@/40.m3u8
+#EXTINF:-1, lista 2 - |FR| RMC SPORT 2 FHD.m3u8
 http://iptv3.premium-stv.com:25461/live/8571361380SP@pro2@irr@/4538907326ns@bljbzd@44t@/41.m3u8
-#EXTINF:0, lista 2 - |FR| CANAL+ SPORT FHD.m3u8
+#EXTINF:-1, lista 2 - |FR| CANAL+ SPORT FHD.m3u8
 http://iptv3.premium-stv.com:25461/live/8571361380SP@pro2@irr@/4538907326ns@bljbzd@44t@/47.m3u8
-#EXTINF:0, lista 2 - |FR|BEINSPORT 1 sd FR.m3u8
+#EXTINF:-1, lista 2 - |FR|BEINSPORT 1 sd FR.m3u8
 http://iptv3.premium-stv.com:25461/live/8571361380SP@pro2@irr@/4538907326ns@bljbzd@44t@/79.m3u8
-#EXTINF:0, lista 2 - |FR|BEINSPORT 2 sd FR.m3u8
+#EXTINF:-1, lista 2 - |FR|BEINSPORT 2 sd FR.m3u8
 http://iptv3.premium-stv.com:25461/live/8571361380SP@pro2@irr@/4538907326ns@bljbzd@44t@/80.m3u8
-#EXTINF:0, lista 2 - |FR|BEINSPORT 3 sd FR.m3u8
+#EXTINF:-1, lista 2 - |FR|BEINSPORT 3 sd FR.m3u8
 http://iptv3.premium-stv.com:25461/live/8571361380SP@pro2@irr@/4538907326ns@bljbzd@44t@/81.m3u8
-#EXTINF:0, lista 2 - MULTISPORTS 1 HD.m3u8
+#EXTINF:-1, lista 2 - MULTISPORTS 1 HD.m3u8
 http://iptv3.premium-stv.com:25461/live/8571361380SP@pro2@irr@/4538907326ns@bljbzd@44t@/87.m3u8
-#EXTINF:0, lista 2 - MULTISPORTS 2.m3u8
+#EXTINF:-1, lista 2 - MULTISPORTS 2.m3u8
 http://iptv3.premium-stv.com:25461/live/8571361380SP@pro2@irr@/4538907326ns@bljbzd@44t@/88.m3u8
-#EXTINF:0, lista 2 - MULTISPORTS 3.m3u8
+#EXTINF:-1, lista 2 - MULTISPORTS 3.m3u8
 http://iptv3.premium-stv.com:25461/live/8571361380SP@pro2@irr@/4538907326ns@bljbzd@44t@/89.m3u8
-#EXTINF:0, lista 2 - MULTISPORTS 4.m3u8
+#EXTINF:-1, lista 2 - MULTISPORTS 4.m3u8
 http://iptv3.premium-stv.com:25461/live/8571361380SP@pro2@irr@/4538907326ns@bljbzd@44t@/90.m3u8
-#EXTINF:0, lista 2 - MULTISPORTS 5.m3u8
+#EXTINF:-1, lista 2 - MULTISPORTS 5.m3u8
 http://iptv3.premium-stv.com:25461/live/8571361380SP@pro2@irr@/4538907326ns@bljbzd@44t@/91.m3u8
-#EXTINF:0, lista 2 - MULTISPORTS 6.m3u8
+#EXTINF:-1, lista 2 - MULTISPORTS 6.m3u8
 http://iptv3.premium-stv.com:25461/live/8571361380SP@pro2@irr@/4538907326ns@bljbzd@44t@/92.m3u8
-#EXTINF:0, lista 2 - |UK| BT SPORT / ESPN HD.m3u8
+#EXTINF:-1, lista 2 - |UK| BT SPORT / ESPN HD.m3u8
 http://iptv3.premium-stv.com:25461/live/8571361380SP@pro2@irr@/4538907326ns@bljbzd@44t@/97.m3u8
-#EXTINF:0, lista 2 - |UK| BT SPORT 1 HD.m3u8
+#EXTINF:-1, lista 2 - |UK| BT SPORT 1 HD.m3u8
 http://iptv3.premium-stv.com:25461/live/8571361380SP@pro2@irr@/4538907326ns@bljbzd@44t@/98.m3u8
-#EXTINF:0, lista 2 - |UK| BT SPORT 2 HD.m3u8
+#EXTINF:-1, lista 2 - |UK| BT SPORT 2 HD.m3u8
 http://iptv3.premium-stv.com:25461/live/8571361380SP@pro2@irr@/4538907326ns@bljbzd@44t@/99.m3u8
-#EXTINF:0, lista 2 - |UK| BT SPORT 3 HD.m3u8
+#EXTINF:-1, lista 2 - |UK| BT SPORT 3 HD.m3u8
 http://iptv3.premium-stv.com:25461/live/8571361380SP@pro2@irr@/4538907326ns@bljbzd@44t@/100.m3u8
 
 #EXTINF:-1, lista 3 -AR | Bein sport 1 HD
