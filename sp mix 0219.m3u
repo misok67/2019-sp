@@ -1,116 +1,45 @@
 #EXTM3U
 
-#EXTINF:-1 ,b31N Sports 11 HD (AR)
-http://tvla.xyz:80/live/letgybgq/7M3eU6m7ur/1312006.m3u8
-#EXTINF:-1 ,b31N Sports 12 HD (AR)
-http://tvla.xyz:80/live/letgybgq/7M3eU6m7ur/1312005.m3u8
-#EXTINF:-1 ,b31N LA Liga FHD (ES)
-http://tvla.xyz:80/live/letgybgq/7M3eU6m7ur/131388.m3u8
-#EXTINF:-1 ,Movistar Deportes FHD (ES)
-http://tvla.xyz:80/live/letgybgq/7M3eU6m7ur/1328911.m3u8
-#EXTINF:-1 ,b31N Sports 1 HD (AR)
-http://tvla.xyz:80/live/letgybgq/7M3eU6m7ur/1312016.m3u8
-#EXTINF:-1 ,b31N Sports 2 HD (AR)
-http://tvla.xyz:80/live/letgybgq/7M3eU6m7ur/1312015.m3u8
-#EXTINF:-1 ,b31N Sports 3 HD (AR)
-http://tvla.xyz:80/live/letgybgq/7M3eU6m7ur/1312014.m3u8
-#EXTINF:-1 ,b31N Sports 4 HD (AR)
-http://tvla.xyz:80/live/letgybgq/7M3eU6m7ur/1312013.m3u8
-#EXTINF:-1 ,b31N Sports 5 HD (AR)
-http://tvla.xyz:80/live/letgybgq/7M3eU6m7ur/1312012.m3u8
-#EXTINF:-1 ,b31N Sports 6 HD (AR)
-http://tvla.xyz:80/live/letgybgq/7M3eU6m7ur/1312011.m3u8
-#EXTINF:-1 ,b31N Sports 7 HD (AR)
-http://tvla.xyz:80/live/letgybgq/7M3eU6m7ur/1312010.m3u8
-#EXTINF:-1 ,b31N Sports 8 HD (AR)
-http://tvla.xyz:80/live/letgybgq/7M3eU6m7ur/1312009.m3u8
-#EXTINF:-1 ,b31N Sports 9 HD (AR)
-http://tvla.xyz:80/live/letgybgq/7M3eU6m7ur/1312008.m3u8
-#EXTINF:-1 ,b31N Sports 10 HD (AR)
-http://tvla.xyz:80/live/letgybgq/7M3eU6m7ur/1312007.m3u8
-#EXTINF:-1 ,ESPN 2 (ARG)
-http://tvla.xyz:80/live/letgybgq/7M3eU6m7ur/1312248.m3u8
-#EXTINF:-1 ,ESPN (US)
-http://tvla.xyz:80/live/letgybgq/7M3eU6m7ur/1328910.m3u8
 
-#EXTINF:-1, lista 2 - |FR| RMC SPORT 1 FHD.m3u8
-http://iptv3.premium-stv.com:25461/live/8571361380SP@pro2@irr@/4538907326ns@bljbzd@44t@/40.m3u8
-#EXTINF:-1, lista 2 - |FR| RMC SPORT 2 FHD.m3u8
-http://iptv3.premium-stv.com:25461/live/8571361380SP@pro2@irr@/4538907326ns@bljbzd@44t@/41.m3u8
-#EXTINF:-1, lista 2 - |FR| CANAL+ SPORT FHD.m3u8
-http://iptv3.premium-stv.com:25461/live/8571361380SP@pro2@irr@/4538907326ns@bljbzd@44t@/47.m3u8
-#EXTINF:-1, lista 2 - |FR|BEINSPORT 1 sd FR.m3u8
-http://iptv3.premium-stv.com:25461/live/8571361380SP@pro2@irr@/4538907326ns@bljbzd@44t@/79.m3u8
-#EXTINF:-1, lista 2 - |FR|BEINSPORT 2 sd FR.m3u8
-http://iptv3.premium-stv.com:25461/live/8571361380SP@pro2@irr@/4538907326ns@bljbzd@44t@/80.m3u8
-#EXTINF:-1, lista 2 - |FR|BEINSPORT 3 sd FR.m3u8
-http://iptv3.premium-stv.com:25461/live/8571361380SP@pro2@irr@/4538907326ns@bljbzd@44t@/81.m3u8
-#EXTINF:-1, lista 2 - MULTISPORTS 1 HD.m3u8
-http://iptv3.premium-stv.com:25461/live/8571361380SP@pro2@irr@/4538907326ns@bljbzd@44t@/87.m3u8
-#EXTINF:-1, lista 2 - MULTISPORTS 2.m3u8
-http://iptv3.premium-stv.com:25461/live/8571361380SP@pro2@irr@/4538907326ns@bljbzd@44t@/88.m3u8
-#EXTINF:-1, lista 2 - MULTISPORTS 3.m3u8
-http://iptv3.premium-stv.com:25461/live/8571361380SP@pro2@irr@/4538907326ns@bljbzd@44t@/89.m3u8
-#EXTINF:-1, lista 2 - MULTISPORTS 4.m3u8
-http://iptv3.premium-stv.com:25461/live/8571361380SP@pro2@irr@/4538907326ns@bljbzd@44t@/90.m3u8
-#EXTINF:-1, lista 2 - MULTISPORTS 5.m3u8
-http://iptv3.premium-stv.com:25461/live/8571361380SP@pro2@irr@/4538907326ns@bljbzd@44t@/91.m3u8
-#EXTINF:-1, lista 2 - MULTISPORTS 6.m3u8
-http://iptv3.premium-stv.com:25461/live/8571361380SP@pro2@irr@/4538907326ns@bljbzd@44t@/92.m3u8
-#EXTINF:-1, lista 2 - |UK| BT SPORT / ESPN HD.m3u8
-http://iptv3.premium-stv.com:25461/live/8571361380SP@pro2@irr@/4538907326ns@bljbzd@44t@/97.m3u8
-#EXTINF:-1, lista 2 - |UK| BT SPORT 1 HD.m3u8
-http://iptv3.premium-stv.com:25461/live/8571361380SP@pro2@irr@/4538907326ns@bljbzd@44t@/98.m3u8
-#EXTINF:-1, lista 2 - |UK| BT SPORT 2 HD.m3u8
-http://iptv3.premium-stv.com:25461/live/8571361380SP@pro2@irr@/4538907326ns@bljbzd@44t@/99.m3u8
-#EXTINF:-1, lista 2 - |UK| BT SPORT 3 HD.m3u8
-http://iptv3.premium-stv.com:25461/live/8571361380SP@pro2@irr@/4538907326ns@bljbzd@44t@/100.m3u8
-
-#EXTINF:-1, lista 3 -AR | Bein sport 1 HD
-http://vip.kralsmart.de:2086/albastream.fun/hweyw26540/26143
-#EXTINF:-1, lista 3 -AR | Bein sport 10 HD
-http://vip.kralsmart.de:2086/albastream.fun/hweyw26540/26152
-#EXTINF:-1, lista 3 -AR | Bein sport 11 HD
-http://vip.kralsmart.de:2086/albastream.fun/hweyw26540/26153
-#EXTINF:-1, lista 3 -AR | Bein sport 2 HD
-http://vip.kralsmart.de:2086/albastream.fun/hweyw26540/26144
-#EXTINF:-1, lista 3 -AR | Bein sport 3 HD
-http://vip.kralsmart.de:2086/albastream.fun/hweyw26540/26145
-#EXTINF:-1, lista 3 -AR | Bein sport 4 HD
-http://vip.kralsmart.de:2086/albastream.fun/hweyw26540/26146
-#EXTINF:-1, lista 3 -AR | Bein sport 5 HD
-http://vip.kralsmart.de:2086/albastream.fun/hweyw26540/26147
-#EXTINF:-1, lista 3 -AR | Bein sport 6 HD
-http://vip.kralsmart.de:2086/albastream.fun/hweyw26540/26148
-#EXTINF:-1, lista 3 -AR | Bein sport 7 HD
-http://vip.kralsmart.de:2086/albastream.fun/hweyw26540/26149
-#EXTINF:-1, lista 3 -AR | Bein sport 8 HD
-http://vip.kralsmart.de:2086/albastream.fun/hweyw26540/26150
-#EXTINF:-1, lista 3 -AR | Bein sport 9 HD
-http://vip.kralsmart.de:2086/albastream.fun/hweyw26540/26151
-#EXTINF:-1, lista 3 -NL: Fox Sports 3 HD
-http://vip.kralsmart.de:2086/albastream.fun/hweyw26540/7879
-#EXTINF:-1, lista 3 -NL: Fox Sports 4 HD
-http://vip.kralsmart.de:2086/albastream.fun/hweyw26540/7878
-#EXTINF:-1, lista 3 -NL: Fox Sports 5 HD
-http://vip.kralsmart.de:2086/albastream.fun/hweyw26540/7877
-#EXTINF:-1, lista 3 -NL: Fox Sports 6 HD
-http://vip.kralsmart.de:2086/albastream.fun/hweyw26540/7876
-#EXTINF:-1, lista 3 -NL: Ziggo Sport Select HD
-http://vip.kralsmart.de:2086/albastream.fun/hweyw26540/7873
-#EXTINF:-1, lista 3 -NL: Ziggo Sport Voetbal
-http://vip.kralsmart.de:2086/albastream.fun/hweyw26540/7872
-#EXTINF:-1, lista 3 -|IT| SKY FOX SPORT HD
-http://vip.kralsmart.de:2086/albastream.fun/hweyw26540/26393
-#EXTINF:-1, lista 3 -|IT| SKY SPORT 1
-http://vip.kralsmart.de:2086/albastream.fun/hweyw26540/26397
-#EXTINF:-1, lista 3 -|IT| SKY SPORT 24 HD
-http://vip.kralsmart.de:2086/albastream.fun/hweyw26540/26400
-#EXTINF:-1, lista 3 -|IT| SKY SPORT 3 HD ITALIA
-http://vip.kralsmart.de:2086/albastream.fun/hweyw26540/26401
-#EXTINF:-1, lista 3 -|IT| SKY SPORT DIRETTA 1
-http://vip.kralsmart.de:2086/albastream.fun/hweyw26540/26399
-#EXTINF:-1, lista 3 -|IT| SKY SPORT FOOTBALL HD
-http://vip.kralsmart.de:2086/albastream.fun/hweyw26540/26398
-#EXTINF:-1, lista 3 -|IT| SKY SPORT NBA
-http://vip.kralsmart.de:2086/albastream.fun/hweyw26540/26403
+#EXTINF:0,BeinSport1
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+http://95.170.215.120:80/hls/m3u8/BeinSport1.m3u8
+#EXTINF:0,BeinSport2
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+http://95.170.215.120:80/hls/m3u8/BeinSport2.m3u8
+#EXTINF:0,BeinSport3
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+http://95.170.215.120:80/hls/m3u8/BeinSport3.m3u8
+#EXTINF:0,BeinSport4
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+http://95.170.215.120:80/hls/m3u8/BeinSport4.m3u8
+#EXTINF:0,BeinSport5
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+http://95.170.215.120:80/hls/m3u8/BeinSport5.m3u8
+#EXTINF:0,BeinSport6
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+http://95.170.215.120:80/hls/m3u8/BeinSport6.m3u8
+#EXTINF:0,BeinSport7
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+http://95.170.215.120:80/hls/m3u8/BeinSport7.m3u8
+#EXTINF:0,BeinSport8
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+http://95.170.215.120:80/hls/m3u8/BeinSport8.m3u8
+#EXTINF:0,BeinSport9
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+http://95.170.215.120:80/hls/m3u8/BeinSport9.m3u8
+#EXTINF:0,BeinSport10
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+http://95.170.215.120:80/hls/m3u8/BeinSport10.m3u8
+#EXTINF:-1 ,BT Sport 1HD
+http://95.170.215.120/hls/m3u8/BT-Sport-1HD.m3u8
+#EXTINF:-1 ,BT Sport 2HD
+http://95.170.215.120/hls/m3u8/BT-Sport-2HD.m3u8
+#EXTINF:-1 ,Fox Sport 1 live alemania
+http://95.170.215.118/hls/m3u8/Fox-Sport-1.m3u8
+#EXTINF:-1 ,Eurosport 1HD INGLES
+http://95.170.215.118/hls/m3u8/EURO-Sport-1.m3u8
+#EXTINF:-1 ,Eurosport 2 HD INGLES
+http://95.170.215.118/hls/m3u8/EURO-Sport-2.m3u8
+#EXTINF:-1 ,CT-Sport
+http://95.170.215.118/hls/m3u8/CT-Sport.m3u8
