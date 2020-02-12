@@ -55,3 +55,16 @@ http://skdn.redi-vo.com/iptv/ch3513?code=103131497823984&key=30356.m3u8
 http://skdn.redi-vo.com/iptv/ch3514?code=103131497823984&key=23881.m3u8
 #EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3522.png",TSN 1 HD
 http://skdn.redi-vo.com/iptv/ch3522?code=103131497823984&key=12157.m3u8
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/255.png",RMC Sport 1 HD
+http://skdn.redi-vo.com/iptv/ch255?code=103131497823984&key=43852.m3u8
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/253.png",RMC Sport 2 HD
+http://skdn.redi-vo.com/iptv/ch253?code=103131497823984&key=43971.m3u8
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/254.png",RMC Sport 3 HD
+http://skdn.redi-vo.com/iptv/ch254?code=103131497823984&key=13496.m3u8
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/243.png",RMC Sport 4 HD
+http://skdn.redi-vo.com/iptv/ch243?code=103131497823984&key=62334.m3u8
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/119.png",BeInSport 1 FR
+http://skdn.redi-vo.com/iptv/ch119?code=103131497823984&key=62807.m3u8
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/120.png",BeInSport 2 FR
+http://skdn.redi-vo.com/iptv/ch120?code=103131497823984&key=38010.m3u8
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/206.png",BeInSport 3 FR
