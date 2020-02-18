@@ -1,122 +1,79 @@
 #EXTM3U
 
-#EXTINF:-1,AR beIN Sports 1 FHD
-http://www.esuniptv.com:5555/live/12x0211q31/eTav7XaPcx/53977.m3u8
-#EXTINF:-1,AR beIN Sports 10 FHD
-http://www.esuniptv.com:5555/live/12x0211q31/eTav7XaPcx/53984.m3u8
-#EXTINF:-1,AR beIN Sports 11 FHD
-http://www.esuniptv.com:5555/live/12x0211q31/eTav7XaPcx/53985.m3u8
-#EXTINF:-1,AR beIN Sports 12 HD
-http://www.esuniptv.com:5555/live/12x0211q31/eTav7XaPcx/53992.m3u8
-#EXTINF:-1,AR beIN Sports 2 FHD
-http://www.esuniptv.com:5555/live/12x0211q31/eTav7XaPcx/53978.m3u8
-#EXTINF:-1,AR beIN Sports 3 FHD
-http://www.esuniptv.com:5555/live/12x0211q31/eTav7XaPcx/53979.m3u8
-#EXTINF:-1,AR beIN Sports 4 FHD
-http://www.esuniptv.com:5555/live/12x0211q31/eTav7XaPcx/53980.m3u8
-#EXTINF:-1,AR beIN Sports 5 FHD
-http://www.esuniptv.com:5555/live/12x0211q31/eTav7XaPcx/53981.m3u8
-#EXTINF:-1,AR beIN Sports 7 FHD
-http://www.esuniptv.com:5555/live/12x0211q31/eTav7XaPcx/53982.m3u8
-#EXTINF:-1,AR: beIN Sports 8 FHD
-http://www.esuniptv.com:5555/live/12x0211q31/eTav7XaPcx/53250.m3u8
-#EXTINF:-1,AR: beIN Sports 9 FHD
-http://www.esuniptv.com:5555/live/12x0211q31/eTav7XaPcx/53251.m3u8
-#EXTINF:-1,AR: beIN Sports 9 HEVC
-http://www.esuniptv.com:5555/live/12x0211q31/eTav7XaPcx/53275.m3u8
-#EXTINF:-1,DAZN 1 HD
-http://tv.factoryiptv.com:80/live/22032/22032/58130.m3u8
-#EXTINF:-1,DAZN 2 HD
-http://tv.factoryiptv.com:80/live/22032/22032/58433.m3u8
-#EXTINF:-1,DE : Eurosport 1 HD
-http://www.esuniptv.com:5555/live/12x0211q31/eTav7XaPcx/71708.m3u8
-#EXTINF:-1,DE: Bundesliga 1
-http://www.esuniptv.com:5555/live/12x0211q31/eTav7XaPcx/71651.m3u8
-#EXTINF:-1,DE: DAZN 1 Bar HD
-http://www.esuniptv.com:5555/live/12x0211q31/eTav7XaPcx/71345.m3u8
-#EXTINF:-1,DE: DAZN 1 FHD
-http://www.esuniptv.com:5555/live/12x0211q31/eTav7XaPcx/71346.m3u8
-#EXTINF:-1,DE: DAZN 2 Bar HD
-http://www.esuniptv.com:5555/live/12x0211q31/eTav7XaPcx/71347.m3u8
-#EXTINF:-1,DE: DAZN 2 FHD
-http://www.esuniptv.com:5555/live/12x0211q31/eTav7XaPcx/71348.m3u8
-#EXTINF:-1,DE: DAZN BAR 1 FHD
-http://www.esuniptv.com:5555/live/12x0211q31/eTav7XaPcx/71349.m3u8
-#EXTINF:-1,DE: DAZN Bar 2 FHD
-http://www.esuniptv.com:5555/live/12x0211q31/eTav7XaPcx/71350.m3u8
-#EXTINF:-1,DE: EUROSPORT 1 FHD
-http://www.esuniptv.com:5555/live/12x0211q31/eTav7XaPcx/71438.m3u8
-#EXTINF:-1,DE: EUROSPORT 2 FHD
-http://www.esuniptv.com:5555/live/12x0211q31/eTav7XaPcx/71440.m3u8
-#EXTINF:-1,DE: Sky Germany BUNDESLIGA 10 HD
-http://www.esuniptv.com:5555/live/12x0211q31/eTav7XaPcx/71713.m3u8
-#EXTINF:-1,DE: Sky Sport 1 FHD
-http://www.esuniptv.com:5555/live/12x0211q31/eTav7XaPcx/71305.m3u8
-#EXTINF:-1,DE: Sky Sport 2 FHD
-http://www.esuniptv.com:5555/live/12x0211q31/eTav7XaPcx/71307.m3u8
-#EXTINF:-1,DE: Sky Sport Bundesliga 1 FHD
-http://www.esuniptv.com:5555/live/12x0211q31/eTav7XaPcx/71357.m3u8
-#EXTINF:-1,FR: beIN Sports 1 FHD
-http://www.esuniptv.com:5555/live/12x0211q31/eTav7XaPcx/54024.m3u8
-#EXTINF:-1,FR: beIN Sports 2 HD
-http://www.esuniptv.com:5555/live/12x0211q31/eTav7XaPcx/54027.m3u8
-#EXTINF:-1,FR: beIN Sports 3 FHD
-http://www.esuniptv.com:5555/live/12x0211q31/eTav7XaPcx/54025.m3u8
-#EXTINF:-1,IT: Sky Sport 2 FHD
-http://www.esuniptv.com:5555/live/12x0211q31/eTav7XaPcx/73695.m3u8
-#EXTINF:-1,IT: Sky Sport 252 HD
-http://www.esuniptv.com:5555/live/12x0211q31/eTav7XaPcx/73700.m3u8
-#EXTINF:-1,IT: Sky Sport 253 HD
-http://www.esuniptv.com:5555/live/12x0211q31/eTav7XaPcx/73701.m3u8
-#EXTINF:-1,IT: Sky Sport 255 HD
-http://www.esuniptv.com:5555/live/12x0211q31/eTav7XaPcx/73702.m3u8
-#EXTINF:-1,IT: Sky Sport Football FHD
-http://www.esuniptv.com:5555/live/12x0211q31/eTav7XaPcx/73708.m3u8
-#EXTINF:-1,NL: FOX SPORTS 3 FHD
-http://www.esuniptv.com:5555/live/12x0211q31/eTav7XaPcx/71020.m3u8
-#EXTINF:-1,NL: FOX SPORTS 4 FHD
-http://www.esuniptv.com:5555/live/12x0211q31/eTav7XaPcx/71021.m3u8
-#EXTINF:-1,NL: FOX SPORTS 5 FHD
-http://www.esuniptv.com:5555/live/12x0211q31/eTav7XaPcx/71022.m3u8
-#EXTINF:-1,NL: FOX SPORTS 6 FHD
-http://www.esuniptv.com:5555/live/12x0211q31/eTav7XaPcx/71023.m3u8
-#EXTINF:-1,NL: Ziggo Sport Select H265
-http://www.esuniptv.com:5555/live/12x0211q31/eTav7XaPcx/71122.m3u8
-#EXTINF:-1,NL: Ziggo Sport Voetbal H265
-http://www.esuniptv.com:5555/live/12x0211q31/eTav7XaPcx/71121.m3u8
-EXTINF:-1,UK: Premier Sports 1 FHD
-http://www.esuniptv.com:5555/live/12x0211q31/eTav7XaPcx/54600.m3u8
-#EXTINF:-1,UK: Premier Sports 2 FHD
-http://www.esuniptv.com:5555/live/12x0211q31/eTav7XaPcx/54601.m3u8
-#EXTINF:-1,UK BT Sport 1 HD
-http://www.esuniptv.com:5555/live/12x0211q31/eTav7XaPcx/54364.m3u8
-#EXTINF:-1,UK BT Sport 2 FHD
-http://www.esuniptv.com:5555/live/12x0211q31/eTav7XaPcx/54363.m3u8
-#EXTINF:-1,UK BT Sport 3 HD
-http://www.esuniptv.com:5555/live/12x0211q31/eTav7XaPcx/54366.m3u8
-#EXTINF:-1,UK BT Sport ESPN HD
-http://www.esuniptv.com:5555/live/12x0211q31/eTav7XaPcx/54367.m3u8
-#EXTINF:-1,UK Sky Sports Action HD
-http://www.esuniptv.com:5555/live/12x0211q31/eTav7XaPcx/54370.m3u8
-#EXTINF:-1,UK Sky Sports Arena HD
-http://www.esuniptv.com:5555/live/12x0211q31/eTav7XaPcx/54371.m3u8
-#EXTINF:-1,UK Sky Sports Main Event HD
-http://www.esuniptv.com:5555/live/12x0211q31/eTav7XaPcx/54376.m3u8
-#EXTINF:-1,UK Sky Sports Mix HD
-http://www.esuniptv.com:5555/live/12x0211q31/eTav7XaPcx/54377.m3u8
-#EXTINF:-1,UK Sky Sports Premier League HD
-http://www.esuniptv.com:5555/live/12x0211q31/eTav7XaPcx/54379.m3u8
-#EXTINF:-1,UK: BT Sport 1 FHD
-http://www.esuniptv.com:5555/live/12x0211q31/eTav7XaPcx/54439.m3u8
-#EXTINF:-1,UK: BT Sport 2 FHD
-http://www.esuniptv.com:5555/live/12x0211q31/eTav7XaPcx/54440.m3u8
-#EXTINF:-1,UK: BT Sport 3 FHD
-http://www.esuniptv.com:5555/live/12x0211q31/eTav7XaPcx/54441.m3u8
-#EXTINF:-1,UK: BT Sport 3 HD
-http://www.esuniptv.com:5555/live/12x0211q31/eTav7XaPcx/54444.m3u8
-#EXTINF:-1,UK: Sky Sports Action FHD
-http://www.esuniptv.com:5555/live/12x0211q31/eTav7XaPcx/54670.m3u8
-#EXTINF:-1,UK: Sky Sports Main Event FHD
-http://www.esuniptv.com:5555/live/12x0211q31/eTav7XaPcx/54675.m3u8
-#EXTINF:-1,UK: Sky Sports Premier League FHD
-http://www.esuniptv.com:5555/live/12x0211q31/eTav7XaPcx/54679.m3u8
+#EXTINF:-1,IT: SKY SPORT 1 HD
+http://g-phonix.live:1991/live/salon5/2RNhi1PnlV/72127.m3u8
+#EXTINF:-1,IT: Sky Sport Football HD
+http://g-phonix.live:1991/live/salon5/2RNhi1PnlV/72129.m3u8
+#EXTINF:-1,|UK| BT SPORT / ESPN HD
+http://g-phonix.live:1991/live/salon5/2RNhi1PnlV/71776.m3u8
+#EXTINF:-1,|UK| BT SPORT 1 HD
+http://g-phonix.live:1991/live/salon5/2RNhi1PnlV/71777.m3u8
+#EXTINF:-1,|UK| BT SPORT 1 SD
+http://g-phonix.live:1991/live/salon5/2RNhi1PnlV/71778.m3u8
+#EXTINF:-1,|UK| BT SPORT 2 HD
+http://g-phonix.live:1991/live/salon5/2RNhi1PnlV/71779.m3u8
+#EXTINF:-1,|UK| BT SPORT 2 SD
+http://g-phonix.live:1991/live/salon5/2RNhi1PnlV/71780.m3u8
+#EXTINF:-1,|UK| BT SPORT 3 SD
+http://g-phonix.live:1991/live/salon5/2RNhi1PnlV/71782.m3u8
+#EXTINF:-1,|UK| EUROSPORT 1 HD
+http://g-phonix.live:1991/live/salon5/2RNhi1PnlV/71678.m3u8
+#EXTINF:-1,|UK| EUROSPORT 2 SD
+http://g-phonix.live:1991/live/salon5/2RNhi1PnlV/71679.m3u8
+#EXTINF:-1,|UK| SKY SPORTS ACTION HD
+http://g-phonix.live:1991/live/salon5/2RNhi1PnlV/71735.m3u8
+#EXTINF:-1,|UK| SKY SPORTS ARENA
+http://g-phonix.live:1991/live/salon5/2RNhi1PnlV/71736.m3u8
+#EXTINF:-1,|UK| SKY SPORTS CRICKET HD
+http://g-phonix.live:1991/live/salon5/2RNhi1PnlV/71737.m3u8
+#EXTINF:-1,|UK| SKY SPORTS CRICKET SD
+http://g-phonix.live:1991/live/salon5/2RNhi1PnlV/71738.m3u8
+#EXTINF:-1,|UK| SKY SPORTS F1 SD
+http://g-phonix.live:1991/live/salon5/2RNhi1PnlV/71739.m3u8
+#EXTINF:-1,|UK| SKY SPORTS FOOTBALL SD
+http://g-phonix.live:1991/live/salon5/2RNhi1PnlV/71740.m3u8
+#EXTINF:-1,|UK| SKY SPORTS GOLF HD
+http://g-phonix.live:1991/live/salon5/2RNhi1PnlV/71741.m3u8
+#EXTINF:-1,|UK| SKY SPORTS MAIN EVENT HD
+http://g-phonix.live:1991/live/salon5/2RNhi1PnlV/71742.m3u8
+#EXTINF:-1,|UK| SKY SPORTS MIX HD
+http://g-phonix.live:1991/live/salon5/2RNhi1PnlV/71743.m3u8
+#EXTINF:-1,|UK| SKY SPORTS NEWS SD
+http://g-phonix.live:1991/live/salon5/2RNhi1PnlV/71744.m3u8
+#EXTINF:-1,|UK| SKY SPORTS PREMIER LEAGUE HD
+http://g-phonix.live:1991/live/salon5/2RNhi1PnlV/71745.m3u8
+#EXTINF:-1,|UK| SKY SPORTS RACING HD
+http://g-phonix.live:1991/live/salon5/2RNhi1PnlV/71746.m3u8
+#EXTINF:-1,|FR| RMC SPORT 1 SD
+http://g-phonix.live:1991/live/salon5/2RNhi1PnlV/49956.m3u8
+#EXTINF:-1,|FR| RMC SPORT 2 SD
+http://g-phonix.live:1991/live/salon5/2RNhi1PnlV/49954.m3u8
+#EXTINF:-1,|FR| RMC SPORT 3 SD
+http://g-phonix.live:1991/live/salon5/2RNhi1PnlV/49952.m3u8
+#EXTINF:-1,FR:BEINSPORT_1_HD
+http://g-phonix.live:1991/live/salon5/2RNhi1PnlV/5525.m3u8
+#EXTINF:-1,FR:BEINSPORT_2_HD
+http://g-phonix.live:1991/live/salon5/2RNhi1PnlV/5526.m3u8
+#EXTINF:-1,|FR| BEINSPORT_3_SD
+http://g-phonix.live:1991/live/salon5/2RNhi1PnlV/8486.m3u8
+#EXTINF:-1,AR: BEINSPORTS_HD1
+http://g-phonix.live:1991/live/salon5/2RNhi1PnlV/11138.m3u8
+#EXTINF:-1,AR: BEINSPORTS_HD2
+http://g-phonix.live:1991/live/salon5/2RNhi1PnlV/11140.m3u8
+#EXTINF:-1,AR: BEINSPORTS_HD3
+http://g-phonix.live:1991/live/salon5/2RNhi1PnlV/11141.m3u8
+#EXTINF:-1,AR: BEINSPORTS_HD4
+http://g-phonix.live:1991/live/salon5/2RNhi1PnlV/11142.m3u8
+#EXTINF:-1,AR: BEINSPORTS_HD5
+http://g-phonix.live:1991/live/salon5/2RNhi1PnlV/12994.m3u8
+#EXTINF:-1,AR: BEINSPORTS_HD6
+http://g-phonix.live:1991/live/salon5/2RNhi1PnlV/13138.m3u8
+#EXTINF:-1,AR: BEINSPORTS_HD7
+http://g-phonix.live:1991/live/salon5/2RNhi1PnlV/13141.m3u8
+#EXTINF:-1,AR: BEINSPORTS_HD8
+http://g-phonix.live:1991/live/salon5/2RNhi1PnlV/13139.m3u8
+#EXTINF:-1,AR: BEINSPORTS_HD9
+http://g-phonix.live:1991/live/salon5/2RNhi1PnlV/13142.m3u8
+#EXTINF:-1,AR: BEINSPORTS_HD10
+http://g-phonix.live:1991/live/salon5/2RNhi1PnlV/13140.m3u8
+
