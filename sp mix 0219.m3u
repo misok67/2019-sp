@@ -1,140 +1,40 @@
 #EXTM3U
 
-
-#EXTINF:-1,AR: beIN Sports 1 HD
-http://hd.007iptv.com:2095/live/eda/eda123456/1013.m3u8
-#EXTINF:-1,AR: beIN Sports 10 HD
-http://hd.007iptv.com:2095/live/eda/eda123456/1012.m3u8
-#EXTINF:-1,AR: beIN Sports 11 HD
-http://hd.007iptv.com:2095/live/eda/eda123456/1011.m3u8
-#EXTINF:-1,AR: beIN Sports 2 HD
-http://hd.007iptv.com:2095/live/eda/eda123456/1010.m3u8
-#EXTINF:-1,AR: beIN Sports 3 HD
-http://hd.007iptv.com:2095/live/eda/eda123456/1009.m3u8
-#EXTINF:-1,AR: beIN Sports 4 HD
-http://hd.007iptv.com:2095/live/eda/eda123456/1008.m3u8
-#EXTINF:-1,AR: beIN Sports 5 HD
-http://hd.007iptv.com:2095/live/eda/eda123456/1007.m3u8
-#EXTINF:-1,AR: beIN Sports 6 HD
-http://hd.007iptv.com:2095/live/eda/eda123456/1006.m3u8
-#EXTINF:-1,AR: beIN Sports 7 HD
-http://hd.007iptv.com:2095/live/eda/eda123456/1005.m3u8
-#EXTINF:-1,AR: beIN Sports 8 HD
-http://hd.007iptv.com:2095/live/eda/eda123456/1004.m3u8
-#EXTINF:-1,AR: beIN Sports 9 HD
-http://hd.007iptv.com:2095/live/eda/eda123456/1003.m3u8
-#EXTINF:-1,DE -- Dazn 1 HD
-http://hd.007iptv.com:2095/live/eda/eda123456/868.m3u8
-#EXTINF:-1,DE -- Dazn 2 HD
-http://hd.007iptv.com:2095/live/eda/eda123456/867.m3u8
-#EXTINF:-1,DE -- Eurosport 1
-http://hd.007iptv.com:2095/live/eda/eda123456/796.m3u8
-#EXTINF:-1,DE -- Eurosport 2 HD
-http://hd.007iptv.com:2095/live/eda/eda123456/795.m3u8
-#EXTINF:-1,DE -- Sky Sport 1 HD
-http://hd.007iptv.com:2095/live/eda/eda123456/866.m3u8
-#EXTINF:-1,DE -- Sky Sport 2 HD
-http://hd.007iptv.com:2095/live/eda/eda123456/863.m3u8
-#EXTINF:-1,ES: M.DEPORTES 1
-http://hd.007iptv.com:2095/live/eda/eda123456/1095.m3u8
-#EXTINF:-1,ES: M.DEPORTES 2
-http://hd.007iptv.com:2095/live/eda/eda123456/1094.m3u8
-#EXTINF:-1,FR -- BEIN SPORT 3 HD
-http://hd.007iptv.com:2095/live/eda/eda123456/973.m3u8
-#EXTINF:-1,FR -- CANAL SPORT
-http://hd.007iptv.com:2095/live/eda/eda123456/964.m3u8
-#EXTINF:-1,FR -- EUROSPORT 1 HD
-http://hd.007iptv.com:2095/live/eda/eda123456/963.m3u8
-#EXTINF:-1,FR -- EUROSPORT 2 HD
-http://hd.007iptv.com:2095/live/eda/eda123456/962.m3u8
-#EXTINF:-1,IT: DAZN SPORT 1 HD
-http://hd.007iptv.com:2095/live/eda/eda123456/658.m3u8
-#EXTINF:-1,IT: Sky Sport 24 HD
-http://hd.007iptv.com:2095/live/eda/eda123456/635.m3u8
-#EXTINF:-1,IT: Sky Sport 5521 local
-http://hd.007iptv.com:2095/live/eda/eda123456/615.m3u8
-#EXTINF:-1,IT: Sky Sport 5531 local
-http://hd.007iptv.com:2095/live/eda/eda123456/614.m3u8
-#EXTINF:-1,IT: Sky Sport Arena FHD
-http://hd.007iptv.com:2095/live/eda/eda123456/634.m3u8
-#EXTINF:-1,IT: Sky Sport Football FHD
-http://hd.007iptv.com:2095/live/eda/eda123456/630.m3u8
-#EXTINF:-1,IT: Sky Sport Seria A FHD
-http://hd.007iptv.com:2095/live/eda/eda123456/625.m3u8
-#EXTINF:-1,IT: Sky Sport Uno FHD
-http://hd.007iptv.com:2095/live/eda/eda123456/623.m3u8
-#EXTINF:-1,UK: BT Sport 1 HD
-http://hd.007iptv.com:2095/live/eda/eda123456/911.m3u8
-#EXTINF:-1,UK: BT Sport 2 HD
-http://hd.007iptv.com:2095/live/eda/eda123456/910.m3u8
-
-#EXTINF:-1, LISTA 1...AR: BEIN SPORT 10
-http://s1.niacam.net:24621/live/mtg_2406_1/IyBf86mT158!1/434.m3u8
-#EXTINF:-1, LISTA 1...AR: BEIN SPORT 1
-http://s1.niacam.net:24621/live/mtg_2406_1/IyBf86mT158!1/425.m3u8
-#EXTINF:-1, LISTA 1...AR: BEIN SPORT 2
-http://s1.niacam.net:24621/live/mtg_2406_1/IyBf86mT158!1/426.m3u8
-#EXTINF:-1, LISTA 1...AR: BEIN SPORT 3
-http://s1.niacam.net:24621/live/mtg_2406_1/IyBf86mT158!1/427.m3u8
-#EXTINF:-1, LISTA 1...AR: BEIN SPORT 4
-http://s1.niacam.net:24621/live/mtg_2406_1/IyBf86mT158!1/428.m3u8
-#EXTINF:-1, LISTA 1...AR: BEIN SPORT 5
-http://s1.niacam.net:24621/live/mtg_2406_1/IyBf86mT158!1/429.m3u8
-#EXTINF:-1, LISTA 1...AR: BEIN SPORT 6
-http://s1.niacam.net:24621/live/mtg_2406_1/IyBf86mT158!1/430.m3u8
-#EXTINF:-1, LISTA 1...AR: BEIN SPORT 7
-http://s1.niacam.net:24621/live/mtg_2406_1/IyBf86mT158!1/431.m3u8
-#EXTINF:-1, LISTA 1...AR: BEIN SPORT 8
-http://s1.niacam.net:24621/live/mtg_2406_1/IyBf86mT158!1/432.m3u8
-#EXTINF:-1, LISTA 1...AR: BEIN SPORT 9
-http://s1.niacam.net:24621/live/mtg_2406_1/IyBf86mT158!1/433.m3u8
-#EXTINF:-1, LISTA 1...AR: BEIN SPORTS 11
-http://s1.niacam.net:24621/live/mtg_2406_1/IyBf86mT158!1/452.m3u8
-#EXTINF:-1, LISTA 1...AR: BEIN SPORTS 12
-http://s1.niacam.net:24621/live/mtg_2406_1/IyBf86mT158!1/453.m3u8
-#EXTINF:-1, LISTA 1...DE: DAZN Sport 1 HD
-http://s1.niacam.net:24621/live/mtg_2406_1/IyBf86mT158!1/547.m3u8
-#EXTINF:-1, LISTA 1...DE: DAZN Sport 2 HD
-http://s1.niacam.net:24621/live/mtg_2406_1/IyBf86mT158!1/546.m3u8
-#EXTINF:-1, LISTA 1...DE: EUROSPORT 1
-http://s1.niacam.net:24621/live/mtg_2406_1/IyBf86mT158!1/688.m3u8
-#EXTINF:-1, LISTA 1...DE: EUROSPORT 2
-http://s1.niacam.net:24621/live/mtg_2406_1/IyBf86mT158!1/689.m3u8
-#EXTINF:-1, LISTA 1...DE: SKY SPORT 1
-http://s1.niacam.net:24621/live/mtg_2406_1/IyBf86mT158!1/347.m3u8
-#EXTINF:-1, LISTA 1...DE: SKY SPORT 2
-http://s1.niacam.net:24621/live/mtg_2406_1/IyBf86mT158!1/346.m3u8
-#EXTINF:-1, LISTA 1...FR: BEIN SPORTS 1
-http://s1.niacam.net:24621/live/mtg_2406_1/IyBf86mT158!1/397.m3u8
-#EXTINF:-1, LISTA 1...FR: BEIN SPORTS 2
-http://s1.niacam.net:24621/live/mtg_2406_1/IyBf86mT158!1/398.m3u8
-#EXTINF:-1, LISTA 1...FR: BEIN SPORTS 3
-http://s1.niacam.net:24621/live/mtg_2406_1/IyBf86mT158!1/399.m3u8
-#EXTINF:-1, LISTA 1...IT: SKY SPORT SERIE A
-http://s1.niacam.net:24621/live/mtg_2406_1/IyBf86mT158!1/706.m3u8
-#EXTINF:-1, LISTA 1...IT: SKY SPORTS 1
-http://s1.niacam.net:24621/live/mtg_2406_1/IyBf86mT158!1/417.m3u8
-#EXTINF:-1, LISTA 1...NL: FOX SPORT 3
-http://s1.niacam.net:24621/live/mtg_2406_1/IyBf86mT158!1/360.m3u8
-#EXTINF:-1, LISTA 1...NL: FOX SPORT 4
-http://s1.niacam.net:24621/live/mtg_2406_1/IyBf86mT158!1/359.m3u8
-#EXTINF:-1, LISTA 1...NL: FOX SPORT 5
-http://s1.niacam.net:24621/live/mtg_2406_1/IyBf86mT158!1/358.m3u8
-#EXTINF:-1, LISTA 1...NL: FOX SPORT 6
-http://s1.niacam.net:24621/live/mtg_2406_1/IyBf86mT158!1/357.m3u8
-#EXTINF:-1, LISTA 1...NL: ZIGGO SPORT SELECT
-http://s1.niacam.net:24621/live/mtg_2406_1/IyBf86mT158!1/352.m3u8
-#EXTINF:-1, LISTA 1...NL: ZIGGO SPORT VOETBAL
-http://s1.niacam.net:24621/live/mtg_2406_1/IyBf86mT158!1/742.m3u8
-#EXTINF:-1, LISTA 1...UK: BT SPORT 1
-http://s1.niacam.net:24621/live/mtg_2406_1/IyBf86mT158!1/414.m3u8
-#EXTINF:-1, LISTA 1...UK: BT SPORT 2
-http://s1.niacam.net:24621/live/mtg_2406_1/IyBf86mT158!1/413.m3u8
-#EXTINF:-1, LISTA 1...UK: BT SPORT 3
-http://s1.niacam.net:24621/live/mtg_2406_1/IyBf86mT158!1/412.m3u8
-#EXTINF:-1, LISTA 1...UK: BT SPORT ESPN
-http://s1.niacam.net:24621/live/mtg_2406_1/IyBf86mT158!1/442.m3u8
-#EXTINF:-1, LISTA 1...US: FOX SPORTS 1
-http://s1.niacam.net:24621/live/mtg_2406_1/IyBf86mT158!1/768.m3u8
-#EXTINF:-1, LISTA 1...US: FOX SPORTS 2
-http://s1.niacam.net:24621/live/mtg_2406_1/IyBf86mT158!1/769.m3u8
+#EXTINF:0,AR.BEIN| BEIN SPORTS 1 FHD
+http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/6814
+#EXTINF:0,AR.BEIN| BEIN SPORTS 10 FHD
+http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/6821
+#EXTINF:0,AR.BEIN| BEIN SPORTS 2 FHD
+http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/6813
+#EXTINF:0,AR.BEIN| BEIN SPORTS 3 FHD
+http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/6812
+#EXTINF:0,AR.BEIN| BEIN SPORTS 4 FHD
+http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/6815
+#EXTINF:0,AR.BEIN| BEIN SPORTS 5 FHD
+http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/6816
+#EXTINF:0,AR.BEIN| BEIN SPORTS 6 FHD
+http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/6817
+#EXTINF:0,AR.BEIN| BEIN SPORTS 7 FHD
+http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/6818
+#EXTINF:0,AR.BEIN| BEIN SPORTS 8 FHD
+http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/6819
+#EXTINF:0,AR.BEIN| BEIN SPORTS 9 FHD
+http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/6820
+#EXTINF:0,|FR| RMC SPORT 1 FHD STABLE
+http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/9215
+#EXTINF:0,|FR| RMC SPORT 2 FHD STABLE
+http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/9216
+#EXTINF:0,|FR| RMC SPORT 3 FHD STABLE
+http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/9217
+#EXTINF:0,|FR| BEIN SPORT 1 FHD  STABLE
+http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/9210
+#EXTINF:0,|FR| BEIN SPORT 1 HD
+http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/3401
+#EXTINF:0,|FR| BEIN SPORT 2 FHD  STABLE
+http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/9211
+#EXTINF:0,|FR| BEIN SPORT 2 HD
+http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/3402
+#EXTINF:0,|FR| BEIN SPORT 3 FHD STABLE
+http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/9212
+#EXTINF:0,|FR| BEIN SPORT 3 HD
+http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/9441
