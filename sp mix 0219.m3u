@@ -1,69 +1,38 @@
 #EXTM3U
 
-#EXTINF:0,SPORT KLUB 1
-http://iptv-local.myftp.biz:8080/live/kennythetiger/RpZX9Xdtzh/3119.m3u8
-#EXTINF:0,SPORT_KLUB_2
-http://iptv-local.myftp.biz:8080/live/kennythetiger/RpZX9Xdtzh/3120.m3u8
-#EXTINF:0,SPORT KLUB 3
-http://iptv-local.myftp.biz:8080/live/kennythetiger/RpZX9Xdtzh/3121.m3u8
-#EXTINF:0,SPORT KLUB 4
-http://iptv-local.myftp.biz:8080/live/kennythetiger/RpZX9Xdtzh/3122.m3u8
-#EXTINF:0,Arena Sport 1
-http://iptv-local.myftp.biz:8080/live/kennythetiger/RpZX9Xdtzh/1575.m3u8
-#EXTINF:0,Arena Sport 3
-http://iptv-local.myftp.biz:8080/live/kennythetiger/RpZX9Xdtzh/1577.m3u8
-#EXTINF:0,Arena Sport 4 HD
-http://iptv-local.myftp.biz:8080/live/kennythetiger/RpZX9Xdtzh/1580.m3u8
-#EXTINF:0,Arena Sport2 HD
-http://iptv-local.myftp.biz:8080/live/kennythetiger/RpZX9Xdtzh/1576.m3u8
-#EXTINF:0,Arena_Sport_5HD
-http://iptv-local.myftp.biz:8080/live/kennythetiger/RpZX9Xdtzh/1578.m3u8
-#EXTINF:0,BEIN SPORT 1 FHD
-http://iptv-local.myftp.biz:8080/live/kennythetiger/RpZX9Xdtzh/5052.m3u8
-#EXTINF:0,BEIN SPORT 2 FHD
-http://iptv-local.myftp.biz:8080/live/kennythetiger/RpZX9Xdtzh/5051.m3u8
-#EXTINF:0,BEIN SPORT 4 FHD
-http://iptv-local.myftp.biz:8080/live/kennythetiger/RpZX9Xdtzh/5049.m3u8
-#EXTINF:0,BEIN SPORT 5 FHD
-http://iptv-local.myftp.biz:8080/live/kennythetiger/RpZX9Xdtzh/5048.m3u8
-#EXTINF:0,BEIN SPORT 7 FHD
-http://iptv-local.myftp.biz:8080/live/kennythetiger/RpZX9Xdtzh/5046.m3u8
-#EXTINF:0,BEIN SPORT 8 FHD
-http://iptv-local.myftp.biz:8080/live/kennythetiger/RpZX9Xdtzh/5045.m3u8
-#EXTINF:0,BEIN SPORT 9 FHD
-http://iptv-local.myftp.biz:8080/live/kennythetiger/RpZX9Xdtzh/6167.m3u8
-#EXTINF:0,beIN SPORT 10HD
-http://iptv-local.myftp.biz:8080/live/kennythetiger/RpZX9Xdtzh/790.m3u8
-#EXTINF:0,beIN SPORT 11HD
-http://iptv-local.myftp.biz:8080/live/kennythetiger/RpZX9Xdtzh/1272.m3u8
-#EXTINF:0,beIN SPORT 12HD
-http://iptv-local.myftp.biz:8080/live/kennythetiger/RpZX9Xdtzh/1273.m3u8
-#EXTINF:0,FR: RMC Sport 1 HD
-http://iptv-local.myftp.biz:8080/live/kennythetiger/RpZX9Xdtzh/1559.m3u8
-#EXTINF:0,FR: RMC Sport 2 HD
-http://iptv-local.myftp.biz:8080/live/kennythetiger/RpZX9Xdtzh/1761.m3u8
-#EXTINF:0,FR: RMC Sport 3 HD
-http://iptv-local.myftp.biz:8080/live/kennythetiger/RpZX9Xdtzh/1812.m3u8
-#EXTINF:0,beIN France1 HD
-http://iptv-local.myftp.biz:8080/live/kennythetiger/RpZX9Xdtzh/3175.m3u8
-#EXTINF:0,beIN France2 HD
-http://iptv-local.myftp.biz:8080/live/kennythetiger/RpZX9Xdtzh/480.m3u8
-#EXTINF:0,beIN France3 HD
-http://iptv-local.myftp.biz:8080/live/kennythetiger/RpZX9Xdtzh/478.m3u8
-#EXTINF:0,beIN Sport2 HD
-http://iptv-local.myftp.biz:8080/live/kennythetiger/RpZX9Xdtzh/1834.m3u8
-#EXTINF:0,beIN Sport3 HD
-http://iptv-local.myftp.biz:8080/live/kennythetiger/RpZX9Xdtzh/1859.m3u8
-#EXTINF:0,beIN Sport4 HD
-http://iptv-local.myftp.biz:8080/live/kennythetiger/RpZX9Xdtzh/1825.m3u8
-#EXTINF:0,beIN Sport5 HD
-http://iptv-local.myftp.biz:8080/live/kennythetiger/RpZX9Xdtzh/3532.m3u8
-#EXTINF:0,beIN Sport6 hd
-http://iptv-local.myftp.biz:8080/live/kennythetiger/RpZX9Xdtzh/2083.m3u8
-#EXTINF:0,beIN Sport7 HD
-http://iptv-local.myftp.biz:8080/live/kennythetiger/RpZX9Xdtzh/2086.m3u8
-#EXTINF:0,beIN Sport8 HD
-http://iptv-local.myftp.biz:8080/live/kennythetiger/RpZX9Xdtzh/2087.m3u8
-#EXTINF:0,beIN Sport9 HD
-http://iptv-local.myftp.biz:8080/live/kennythetiger/RpZX9Xdtzh/789.m3u8
-
+#EXTINF:-1,SP | SUPER TENNIS
+http://tv-prime.tv:8080/live/Cruzado/nsNviFCPtn/22280.m3u8
+#EXTINF:-1,SP | TENNIS CHANNEL *HD
+http://tv-prime.tv:8080/live/Cruzado/nsNviFCPtn/1822.m3u8
+#EXTINF:-1,Super Tennis
+http://hostiptv.com:8089/live/roch/roch123/17615.m3u8
+#EXTINF:-1,JuanR USA TENNIS CHANEL
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/165.m3u8
+#EXTINF:-1,TOTALPLAY SD | FOX SPORTS 1 SD
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/496.m3u8
+#EXTINF:-1,TOTALPLAY SD | FOX SPORTS 2 SD
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/497.m3u8
+#EXTINF:-1,TOTALPLAY SD | FOX SPORTS 3 SD
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/498.m3u8
+#EXTINF:-1,TOTALPLAY HD | FOX SPORTS 1
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/784.m3u8
+#EXTINF:-1,TOTALPLAY HD | FOX SPORTS 2
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/785.m3u8
+#EXTINF:-1,TOTALPLAY HD | FOX SPORTS 3
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/786.m3u8
+#EXTINF:-1,Fox Sports HD
+http://cdn.miptv.ws:8880/live/787980/787980/838.m3u8
+#EXTINF:-1,Fox Sports Full HD
+http://cdn.miptv.ws:8880/live/787980/787980/5418.m3u8
+#EXTINF:-1,Fox Sports HD [PLUS]
+http://cdn.miptv.ws:8880/live/787980/787980/1844.m3u8
+#EXTINF:-1,Fox Sports 2
+http://cdn.miptv.ws:8880/live/787980/787980/836.m3u8
+#EXTINF:-1,FOX Sports 2 HD
+http://cdn.miptv.ws:8880/live/787980/787980/835.m3u8
+#EXTINF:-1,Fox Sports 2 Full HD
+http://cdn.miptv.ws:8880/live/787980/787980/5456.m3u8
+#EXTINF:-1,USA: FOX DEPORTES HD
+http://cdn.miptv.ws:8880/live/787980/787980/5820.m3u8
+#EXTINF:-1,USA: FOX SPORTS 1 HD
+http://cdn.miptv.ws:8880/live/787980/787980/5819.m3u8
