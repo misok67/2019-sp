@@ -1,348 +1,70 @@
 #EXTM3U
+#EXTINF:-1 ,HRT 1
+http://195.29.70.84/PLTV/88888888/224/3221226139/04.m3u8
+#EXTINF:-1 ,HRT 2
+http://195.29.70.82/PLTV/88888888/224/3221226140/04.m3u8
+#EXTINF:-1 ,HRT 3
+http://195.29.70.67/PLTV/88888888/224/3221226280/04.m3u8
+#EXTINF:-1 ,HRT 4
+http://195.29.70.89/PLTV/88888888/224/3221226281/04.m3u8
+#EXTINF:-1 ,RTL CRO
+http://195.29.70.67/PLTV/88888888/224/3221226195/04.m3u8
 
-#EXTINF:-1,NOVA TV HR
-http://iptv.expathdtv.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/379127.m3u8
-#EXTINF:-1,NOVA TV HR
-http://iptv.expathdtv.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/379177.m3u8
-#EXTINF:-1,RTL 2
-http://iptv.expathdtv.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/379126.m3u8
-#EXTINF:-1,DOMA-TV
-http://iptv.expathdtv.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/379122.m3u8
-#EXTINF:-1,HBO ADRIA
-http://iptv.expathdtv.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/379134.m3u8
-#EXTINF:-1,HBO 2
-http://iptv.expathdtv.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/379130.m3u8
-#EXTINF:-1,HBO 3
-http://iptv.expathdtv.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/379123.m3u8
-#EXTINF:-1,CINEMAX-2
-http://iptv.expathdtv.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/379121.m3u8
-#EXTINF:-1,CINEMAX 1
-http://iptv.expathdtv.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/379120.m3u8
-#EXTINF:-1,CINESTAR ACTION
-http://iptv.expathdtv.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/379164.m3u8
+#EXTINF:-1,NOVA TV
+http://195.181.161.111:80/live/martin/martin/9029.m3u8
+#EXTINF:-1,NOVA TV HD
+http://195.181.161.111:80/live/martin/martin/9030.m3u8
+#EXTINF:-1,DOMA TV
+http://195.181.161.111:80/live/martin/martin/9036.m3u8
+#EXTINF:-1,DOMA TV HD
+http://195.181.161.111:80/live/martin/martin/9037.m3u8
+#EXTINF:-1,HBO 1 HD
+http://195.181.161.111:80/live/martin/martin/419.m3u8
+#EXTINF:-1,HBO 2 HD
+http://195.181.161.111:80/live/martin/martin/418.m3u8
+#EXTINF:-1,HBO 3 HD
+http://195.181.161.111:80/live/martin/martin/417.m3u8
+#EXTINF:-1,HBO GO
+http://195.181.161.111:80/live/martin/martin/8019.m3u8
+#EXTINF:-1,CINEMAX 1 HD
+http://195.181.161.111:80/live/martin/martin/435.m3u8
+#EXTINF:-1,CINEMAX 2 HD
+http://195.181.161.111:80/live/martin/martin/434.m3u8
+#EXTINF:-1,KINO TV
+http://195.181.161.111:80/live/martin/martin/416.m3u8
 #EXTINF:-1,CINESTAR PREMIERE 1
-http://iptv.expathdtv.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/379136.m3u8
-#EXTINF:-1,CINESTAR PREMIER 2
-http://iptv.expathdtv.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/379135.m3u8
+http://195.181.161.111:80/live/martin/martin/6543.m3u8
+#EXTINF:-1,CINESTAR PREMIERE 2
+http://195.181.161.111:80/live/martin/martin/6542.m3u8
+#EXTINF:-1,CINESTAR PREMIERE 1 HD
+http://195.181.161.111:80/live/martin/martin/431.m3u8
+#EXTINF:-1,CINESTAR PREMIERE 2 HD
+http://195.181.161.111:80/live/martin/martin/430.m3u8
+#EXTINF:-1,CINESTAR TV
+http://195.181.161.111:80/live/martin/martin/429.m3u8
+#EXTINF:-1,CINESTAR TV 2 HD
+http://195.181.161.111:80/live/martin/martin/8304.m3u8
+#EXTINF:-1,CINESTAR FANTASY
+http://195.181.161.111:80/live/martin/martin/432.m3u8
+#EXTINF:-1,CINESTAR ACTION
+http://195.181.161.111:80/live/martin/martin/433.m3u8
+#EXTINF:-1,FOX MOVIES HD
+http://195.181.161.111:80/live/martin/martin/6308.m3u8
+#EXTINF:-1,TV 1000
+http://195.181.161.111:80/live/martin/martin/408.m3u8
+#EXTINF:-1,M1 FILM
+http://195.181.161.111:80/live/martin/martin/414.m3u8
+#EXTINF:-1,RTS 1 HD
+http://195.181.161.111:80/live/martin/martin/521.m3u8
+#EXTINF:-1,RTS 1
+http://195.181.161.111:80/live/martin/martin/6886.m3u8
+#EXTINF:-1,RTS 2 HD
+http://195.181.161.111:80/live/martin/martin/520.m3u8
 #EXTINF:-1,PINK FILM
-http://iptv.expathdtv.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/379186.m3u8
-#EXTINF:-1,FOX MOVIES
-http://iptv.expathdtv.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/379155.m3u8
-
-#EXTINF:-1,VIP FHD : BBC 1
-http://iptv.expathdtv.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/374075.m3u8
-#EXTINF:-1,VIP FHD : BBC 1
-http://iptv.expathdtv.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/374158.m3u8
-#EXTINF:-1,VIP FHD : BBC 2
-http://iptv.expathdtv.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/374159.m3u8
-#EXTINF:-1,VIP FHD : BBC  4
-http://iptv.expathdtv.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/374078.m3u8
-#EXTINF:-1,VIP FHD : ITV 1
-http://iptv.expathdtv.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/374190.m3u8
-#EXTINF:-1,VIP FHD : ITV 2
-http://iptv.expathdtv.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/374191.m3u8
-#EXTINF:-1,VIP FHD : ITV 3
-http://iptv.expathdtv.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/374192.m3u8
-#EXTINF:-1,VIP FHD : ITV 4
-http://iptv.expathdtv.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/374193.m3u8
-#EXTINF:-1,VIP FHD : BBC NEWS
-http://iptv.expathdtv.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/374079.m3u8
-#EXTINF:-1,VIP FHD : SKY ARTS
-http://iptv.expathdtv.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/374124.m3u8
-#EXTINF:-1,VIP FHD : SKY ARTS
-http://iptv.expathdtv.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/374208.m3u8
-#EXTINF:-1,VIP FHD : SKY ATLANTIC 
-http://iptv.expathdtv.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/374219.m3u8
-#EXTINF:-1,VIP FHD : SKY CINEMA ACTION & ADVENTURE
-http://iptv.expathdtv.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/303841.m3u8
-#EXTINF:-1,VIP FHD : SKY CINEMA COMEDY
-#EXTINF:-1,VIP SD : SKY ATLANTIC
-http://iptv.expathdtv.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/374221.m3u8
-#EXTINF:-1,VIP FHD : SKY CINEMA DISNEY
-http://iptv.expathdtv.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/303837.m3u8
-#EXTINF:-1,VIP FHD : SKY CINEMA DRAMA
-http://iptv.expathdtv.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/303840.m3u8
-#EXTINF:-1,VIP FHD : SKY CINEMA FAMILY
-http://iptv.expathdtv.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/303836.m3u8
-#EXTINF:-1,VIP FHD : SKY CINEMA HITS 
-http://iptv.expathdtv.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/303834.m3u8
-#EXTINF:-1,VIP FHD : SKY CINEMA PREMIER
-http://iptv.expathdtv.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/303833.m3u8
-#EXTINF:-1,VIP FHD : SKY CINEMA PREMIER
-http://iptv.expathdtv.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/303833.m3u8
-#EXTINF:-1,VIP FHD : SKY CINEMA SCIFI & HORROR
-http://iptv.expathdtv.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/303832.m3u8
-#EXTINF:-1,VIP FHD : SKY CINEMA SELECT
-http://iptv.expathdtv.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/303831.m3u8
-#EXTINF:-1,VIP FHD : SKY CINEMA THRILLER
-http://iptv.expathdtv.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/303838.m3u8
-#EXTINF:-1,VIP HD : SKY ATLANTIC
-http://iptv.expathdtv.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/374220.m3u8
-#EXTINF:-1,VIP HD : SKY CINEMA COMEDY
-http://iptv.expathdtv.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/303850.m3u8
-#EXTINF:-1,VIP HD : SKY CINEMA DRAMA
-http://iptv.expathdtv.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/303848.m3u8
-#EXTINF:-1,VIP HD : SKY CINEMA FAMILY
-http://iptv.expathdtv.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/303847.m3u8
-#EXTINF:-1,VIP HD : SKY CINEMA HITS
-http://iptv.expathdtv.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/303845.m3u8
-#EXTINF:-1,VIP HD : SKY CINEMA PREMIERE
-http://iptv.expathdtv.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/303844.m3u8
-#EXTINF:-1,VIP HD : SKY CINEMA PREMIERE
-http://iptv.expathdtv.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/303844.m3u8
-#EXTINF:-1,VIP HD : SKY CINEMA SCIFI & HORROR
-http://iptv.expathdtv.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/303843.m3u8
-#EXTINF:-1,VIP HD : SKY CINEMA SELECT
-http://iptv.expathdtv.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/303842.m3u8
-#EXTINF:-1,VIP HD : SKY CINEMA SUPERHEROES
-http://iptv.expathdtv.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/303846.m3u8
-#EXTINF:-1,VIP HD : SKY CINEMA THRILLER
-http://iptv.expathdtv.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/303849.m3u8
-#EXTINF:-1,UK SD : BBC ONE
-http://iptv.expathdtv.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/168364.m3u8
-#EXTINF:-1,UK FHD :  BBC ONE 
-http://iptv.expathdtv.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/330424.m3u8
-#EXTINF:-1,UK SD : BBC ONE NORTHERN IRELAND
-http://iptv.expathdtv.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/168349.m3u8
-#EXTINF:-1,UK SD : BBC ONE SCOTLAND
-http://iptv.expathdtv.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/168351.m3u8
-#EXTINF:-1,UK SD : BBC ONE WALES
-http://iptv.expathdtv.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/168353.m3u8
-#EXTINF:-1,UK SD : BBC TWO
-http://iptv.expathdtv.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/21112.m3u8
-#EXTINF:-1,UK SD : BBC TWO NORTHERN IRELAND
-http://iptv.expathdtv.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/327636.m3u8
-#EXTINF:-1,UK SD : BBC TWO WALES
-http://iptv.expathdtv.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/168352.m3u8
-#EXTINF:-1,UK FHD :  ITV
-http://iptv.expathdtv.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/142763.m3u8
-#EXTINF:-1,UK SD : ITV
-http://iptv.expathdtv.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/21062.m3u8
-#EXTINF:-1,UK SD : BBC ALBA
-http://iptv.expathdtv.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/256034.m3u8
-#EXTINF:-1,UK SD : BBC 4
-http://iptv.expathdtv.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/302111.m3u8
-#EXTINF:-1,UK SD : BBC SCOTLAND
-http://iptv.expathdtv.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/338125.m3u8
-#EXTINF:-1,UK HD : ITV 2
-http://iptv.expathdtv.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/67155.m3u8
-#EXTINF:-1,UK SD :  ITV 2
-http://iptv.expathdtv.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/142765.m3u8
-#EXTINF:-1,UK FHD :  ITV3
-http://iptv.expathdtv.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/21076.m3u8
-#EXTINF:-1,UK SD :  ITV 3
-http://iptv.expathdtv.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/142782.m3u8
-#EXTINF:-1,UK FHD : ITV 4
-http://iptv.expathdtv.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/142783.m3u8
-#EXTINF:-1,UK SD : ITV 4
-http://iptv.expathdtv.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/142784.m3u8
-#EXTINF:-1,UK SD : ITV BE
-http://iptv.expathdtv.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/142787.m3u8
-#EXTINF:-1,UK SD : SKY ARTS
-http://iptv.expathdtv.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/21063.m3u8
-#EXTINF:-1,UK HD : SKY ARTS 
-http://iptv.expathdtv.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/142757.m3u8
-#EXTINF:-1,UK SD : SKY ATLANTIC
-http://iptv.expathdtv.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/221839.m3u8
-#EXTINF:-1,UK FHD : SKY ATLANTIC 
-http://iptv.expathdtv.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/348426.m3u8
-#EXTINF:-1,UK SD : BBC ONE EAST MIDLANDS
-http://iptv.expathdtv.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/382184.m3u8
-#EXTINF:-1,USA SD : BBC AMERICA
-http://iptv.expathdtv.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/142614.m3u8
-#EXTINF:-1,VIP SD : BBC 1
-http://iptv.expathdtv.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/304118.m3u8
-#EXTINF:-1,VIP SD : BBC 2
-http://iptv.expathdtv.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/304117.m3u8
-#EXTINF:-1,VIP SD : BBC ONE OXFORD
-http://iptv.expathdtv.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/304114.m3u8
-#EXTINF:-1,VIP SD : BBC ONE YORKSHIRE
-http://iptv.expathdtv.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/304112.m3u8
-#EXTINF:-1,VIP SD : BBC ONE LONDON
-http://iptv.expathdtv.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/304115.m3u8
-#EXTINF:-1,VIP SD : BBC ONE WEST
-http://iptv.expathdtv.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/304113.m3u8
-#EXTINF:-1,VIP SD : BBC ONE NORTH WEST
-http://iptv.expathdtv.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/354989.m3u8
-#EXTINF:-1,VIP SD : BBC TWO ENGLAND
-http://iptv.expathdtv.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/304110.m3u8
-#EXTINF:-1,VIP SD : CITV
-http://iptv.expathdtv.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/304086.m3u8
-#EXTINF:-1,VIP SD : ITV 3
-http://iptv.expathdtv.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/304051.m3u8
-#EXTINF:-1,VIP SD : ITV 4
-http://iptv.expathdtv.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/304050.m3u8
-#EXTINF:-1,VIP SD : ITV
-http://iptv.expathdtv.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/304052.m3u8
-#EXTINF:-1,VIP SD :  ITV2
-http://iptv.expathdtv.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/304049.m3u8
-#EXTINF:-1,VIP SD : ITV4 +1
-http://iptv.expathdtv.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/303944.m3u8
-#EXTINF:-1,VIP SD : ITV GRANADA
-http://iptv.expathdtv.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/367822.m3u8
-#EXTINF:-1,VIP SD : SKY CINEMA ACTION
-http://iptv.expathdtv.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/304159.m3u8
-#EXTINF:-1,VIP SD : SKY CINEMA COMEDY
-http://iptv.expathdtv.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/304158.m3u8
-#EXTINF:-1,VIP SD : SKY CINEMA DISNEY
-http://iptv.expathdtv.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/304004.m3u8
-#EXTINF:-1,VIP SD : SKY CINEMA DRAMA
-http://iptv.expathdtv.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/304157.m3u8
-#EXTINF:-1,VIP SD : SKY CINEMA FAMILY
-http://iptv.expathdtv.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/304156.m3u8
-#EXTINF:-1,VIP SD : SKY CINEMA PREMIER +1 
-http://iptv.expathdtv.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/303971.m3u8
-#EXTINF:-1,VIP SD : SKY CINEMA PREMIER +1 
-http://iptv.expathdtv.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/303971.m3u8
-#EXTINF:-1,VIP SD : SKY CINEMA PREMIER
-http://iptv.expathdtv.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/304154.m3u8
-#EXTINF:-1,VIP SD : SKY CINEMA PREMIER
-http://iptv.expathdtv.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/304154.m3u8
-#EXTINF:-1,VIP SD : SKY CINEMA SCIFI
-http://iptv.expathdtv.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/304153.m3u8
-#EXTINF:-1,VIP SD : SKY CINEMA SELECT
-http://iptv.expathdtv.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/304152.m3u8
-#EXTINF:-1,VIP SD : SKY CINEMA THRILLER
-http://iptv.expathdtv.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/304151.m3u8
-#EXTINF:-1,VIP USA HD : BBC AMERICA
-http://iptv.expathdtv.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/308960.m3u8
-#EXTINF:-1,UK SD : CBBC
-http://iptv.expathdtv.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/257060.m3u8
-#EXTINF:-1,SKY CINEMA BEST OF 2019 FHD
-http://iptv.expathdtv.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/381303.m3u8
-#EXTINF:-1,UK HD : BBC NEWS
-http://iptv.expathdtv.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/168363.m3u8
-#EXTINF:-1,UK SD : BBC NEWS
-http://iptv.expathdtv.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/326784.m3u8
-#EXTINF:-1,UK SD :  BBC PARLIAMENT
-http://iptv.expathdtv.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/168365.m3u8
-#EXTINF:-1,UK SD : BBC WORLD NEWS
-http://iptv.expathdtv.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/168366.m3u8
-#EXTINF:-1,CANADA: BBC CANADA
-http://iptv.expathdtv.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/306253.m3u8
-#EXTINF:-1,CANADA: BBC WORLD NEWS
-http://iptv.expathdtv.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/306251.m3u8
-#EXTINF:-1,AF: ITV ( NIGERIA )
-http://iptv.expathdtv.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/379603.m3u8
-#EXTINF:-1,DE: SKY ATLANTIC +1 HD
-http://iptv.expathdtv.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/375478.m3u8
-#EXTINF:-1,DE: SKY ATLANTIC HD
-http://iptv.expathdtv.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/375518.m3u8
-#EXTINF:-1,DE: SKY CINEMA  24 HD
-http://iptv.expathdtv.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/375503.m3u8
-#EXTINF:-1,DE: SKY CINEMA +1 HD
-http://iptv.expathdtv.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/375502.m3u8
-#EXTINF:-1,DE: SKY CINEMA HD
-http://iptv.expathdtv.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/375504.m3u8
-#EXTINF:-1,[ENTERTAINMENT] BEIN.BBC.EARTH
-http://iptv.expathdtv.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/381872.m3u8
-#EXTINF:-1,[NEWS.DOC]: BBC ARABIC
-http://iptv.expathdtv.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/381547.m3u8
-#EXTINF:-1,VN: ITV HD
-http://iptv.expathdtv.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/350128.m3u8
-#EXTINF:-1,IR: BBC PERSIAN
-http://iptv.expathdtv.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/376970.m3u8
-#EXTINF:-1,IT: [CANALI SD] SKY ATLANTIC SD
-http://iptv.expathdtv.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/375096.m3u8
-#EXTINF:-1,IT: [CANALI SD] SKY CINEMA ACTION SD
-http://iptv.expathdtv.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/375054.m3u8
-#EXTINF:-1,IT: [CANALI SD] SKY CINEMA COLLECTION SD
-http://iptv.expathdtv.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/375053.m3u8
-#EXTINF:-1,IT: [CANALI SD] SKY CINEMA COMEDY SD
-http://iptv.expathdtv.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/375055.m3u8
-#EXTINF:-1,IT: [CANALI SD] SKY CINEMA DRAMA SD
-http://iptv.expathdtv.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/375052.m3u8
-#EXTINF:-1,IT: [CANALI SD] SKY CINEMA DUE +24 SD
-http://iptv.expathdtv.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/375049.m3u8
-#EXTINF:-1,IT: [CANALI SD] SKY CINEMA DUE SD
-http://iptv.expathdtv.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/375048.m3u8
-#EXTINF:-1,IT: [CANALI SD] SKY CINEMA FAMILY SD
-http://iptv.expathdtv.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/375056.m3u8
-#EXTINF:-1,IT: [CANALI SD] SKY CINEMA ROMANCE SD
-http://iptv.expathdtv.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/375051.m3u8
-#EXTINF:-1,IT: [CANALI SD] SKY CINEMA SUSPANCE SD
-http://iptv.expathdtv.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/375050.m3u8
-#EXTINF:-1,IT: SKY ARTE FHD
-http://iptv.expathdtv.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/375168.m3u8
-#EXTINF:-1,IT: SKY ATLANTIC FULL HD
-http://iptv.expathdtv.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/375078.m3u8
-#EXTINF:-1,IT: SKY ATLANTIC HD
-http://iptv.expathdtv.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/375079.m3u8
-#EXTINF:-1,IT: SKY CINEMA 2  24 FULL HD
-http://iptv.expathdtv.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/375028.m3u8
-#EXTINF:-1,IT: SKY CINEMA ACTION FULL HD
-http://iptv.expathdtv.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/375034.m3u8
-#EXTINF:-1,IT: SKY CINEMA ACTION HD
-http://iptv.expathdtv.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/375046.m3u8
-#EXTINF:-1,IT: SKY CINEMA COLLECTION FULL HD
-http://iptv.expathdtv.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/375031.m3u8
-#EXTINF:-1,IT: SKY CINEMA COLLECTION HD
-http://iptv.expathdtv.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/375043.m3u8
-#EXTINF:-1,IT: SKY CINEMA COMEDY FULL HD
-http://iptv.expathdtv.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/375030.m3u8
-#EXTINF:-1,IT: SKY CINEMA COMEDY HD
-http://iptv.expathdtv.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/375042.m3u8
-#EXTINF:-1,IT: SKY CINEMA DRAMA FULL HD
-http://iptv.expathdtv.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/375035.m3u8
-#EXTINF:-1,IT: SKY CINEMA DRAMA HD
-http://iptv.expathdtv.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/375047.m3u8
-#EXTINF:-1,IT: SKY CINEMA DUE  24 HD
-http://iptv.expathdtv.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/375039.m3u8
-#EXTINF:-1,IT: SKY CINEMA DUE FULL HD
-http://iptv.expathdtv.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/375027.m3u8
-#EXTINF:-1,IT: SKY CINEMA DUE HD
-http://iptv.expathdtv.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/375038.m3u8
-#EXTINF:-1,IT: SKY CINEMA FAMILY FULL HD
-http://iptv.expathdtv.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/375029.m3u8
-#EXTINF:-1,IT: SKY CINEMA FAMILY HD
-http://iptv.expathdtv.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/375040.m3u8
-#EXTINF:-1,IT: SKY CINEMA FAMILY HD+1
-http://iptv.expathdtv.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/375041.m3u8
-#EXTINF:-1,IT: SKY CINEMA ROMANCE FULL HD
-http://iptv.expathdtv.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/375033.m3u8
-#EXTINF:-1,IT: SKY CINEMA ROMANCE HD
-http://iptv.expathdtv.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/375045.m3u8
-#EXTINF:-1,IT: SKY CINEMA SUSPANCE FULL HD
-http://iptv.expathdtv.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/375032.m3u8
-#EXTINF:-1,IT: SKY CINEMA SUSPENSE HD
-http://iptv.expathdtv.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/375044.m3u8
-#EXTINF:-1,IT: SKY CINEMA UNO  24 FULL HD
-http://iptv.expathdtv.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/375025.m3u8
-#EXTINF:-1,IT: SKY CINEMA UNO  24 FULL HD 1
-http://iptv.expathdtv.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/375026.m3u8
-#EXTINF:-1,IT: SKY CINEMA UNO  24 HD
-http://iptv.expathdtv.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/375037.m3u8
-#EXTINF:-1,IT: SKY CINEMA UNO FULL HD
-http://iptv.expathdtv.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/375024.m3u8
-#EXTINF:-1,IT: SKY CINEMA UNO HD
-http://iptv.expathdtv.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/375036.m3u8
-#EXTINF:-1,DK: BBC BRIT HD
-http://iptv.expathdtv.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/376884.m3u8
-#EXTINF:-1,SE: BBC BRIT HD
-http://iptv.expathdtv.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/378321.m3u8
-#EXTINF:-1,SE: BBC EARTH HD
-http://iptv.expathdtv.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/378322.m3u8
-#EXTINF:-1,TR: BBC EARTH HD
-http://iptv.expathdtv.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/379035.m3u8
-#EXTINF:-1,PL: BBC EARTH
-http://iptv.expathdtv.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/375728.m3u8
-#EXTINF:-1,PL: BBC HD
-http://iptv.expathdtv.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/375729.m3u8
-#EXTINF:-1,AU SD : NITV NATIONAL	
-http://iptv.expathdtv.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/377272.m3u8
-#EXTINF:-1,AUS SD : NITV SYDNEY
-http://iptv.expathdtv.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/382455.m3u8
-#EXTINF:-1,BBC RADIO 1
-http://iptv.expathdtv.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/257023.m3u8
-#EXTINF:-1,BBC RADIO 2
-http://iptv.expathdtv.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/257025.m3u8
-#EXTINF:-1,BBC RADIO 4
-http://iptv.expathdtv.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/257026.m3u8
-#EXTINF:-1,BBC RADIO 5 LIVE
-http://iptv.expathdtv.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/257027.m3u8
-#EXTINF:-1,BBC ASIA
-http://iptv.expathdtv.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/257032.m3u8
-#EXTINF:-1,NO: BBC BRIT HD
-http://iptv.expathdtv.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/376840.m3u8
-#EXTINF:-1,VIP HD BBC PUNJAB
-http://iptv.expathdtv.xyz:83/live/OM1qxKIalX/8ItAbtKxSz/374381.m3u8
+http://195.181.161.111:80/live/martin/martin/369.m3u8
+#EXTINF:-1,HBO 1 SLO
+http://195.181.161.111:80/live/martin/martin/226.m3u8
+#EXTINF:-1,HBO 2 SLO
+http://195.181.161.111:80/live/martin/martin/225.m3u8
+#EXTINF:-1,HBO 3 SLO
+http://195.181.161.111:80/live/martin/martin/224.m3u8
