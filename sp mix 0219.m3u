@@ -10,75 +10,166 @@ http://195.29.70.89/PLTV/88888888/224/3221226281/04.m3u8
 #EXTINF:-1 ,RTL CRO
 http://195.29.70.67/PLTV/88888888/224/3221226195/04.m3u8
 
-#EXTINF:-1,BS:BEIN SPORTS 01 H265
-http://gold.4khdiptv.com:80/live/8c:5a:f8:12:5b:80/live/25022020kp5/53710.m3u8
-#EXTINF:-1,BS:BEIN SPORTS 02 H265
-http://gold.4khdiptv.com:80/live/8c:5a:f8:12:5b:80/live/25022020kp5/53711.m3u8
-#EXTINF:-1,BS:BEIN SPORTS 03 H265
-http://gold.4khdiptv.com:80/live/8c:5a:f8:12:5b:80/live/25022020kp5/53712.m3u8
-#EXTINF:-1,BS:BEIN SPORTS 04 H265
-http://gold.4khdiptv.com:80/live/8c:5a:f8:12:5b:80/live/25022020kp5/53713.m3u8
-#EXTINF:-1,BS:BEIN SPORTS 05 H265
-http://gold.4khdiptv.com:80/live/8c:5a:f8:12:5b:80/live/25022020kp5/53714.m3u8
-#EXTINF:-1,BS:BEIN SPORTS 06 H265
-http://gold.4khdiptv.com:80/live/8c:5a:f8:12:5b:80/live/25022020kp5/53715.m3u8
-#EXTINF:-1,BS:BEIN SPORTS 07 H265
-http://gold.4khdiptv.com:80/live/8c:5a:f8:12:5b:80/live/25022020kp5/53716.m3u8
-#EXTINF:-1,BS:BEIN SPORTS 09 H265
-http://gold.4khdiptv.com:80/live/8c:5a:f8:12:5b:80/live/25022020kp5/53718.m3u8
-#EXTINF:-1,BS:BEIN SPORTS 10 H265
-http://gold.4khdiptv.com:80/live/8c:5a:f8:12:5b:80/live/25022020kp5/53719.m3u8
-#EXTINF:-1,BS:BEIN SPORTS 11 4K
-http://gold.4khdiptv.com:80/live/8c:5a:f8:12:5b:80/live/25022020kp5/53740.m3u8
-#EXTINF:-1,BS:BEIN SPORTS 12 4K
-http://gold.4khdiptv.com:80/live/8c:5a:f8:12:5b:80/live/25022020kp5/53741.m3u8
-#EXTINF:-1,DE:DAZN 1 BAR HD
-http://gold.4khdiptv.com:80/live/8c:5a:f8:12:5b:80/live/25022020kp5/12631.m3u8
-#EXTINF:-1,DE:DAZN 1 BAR FHD
-http://gold.4khdiptv.com:80/live/8c:5a:f8:12:5b:80/live/25022020kp5/971.m3u8
-#EXTINF:-1,DE:DAZN 2 BAR HD
-http://gold.4khdiptv.com:80/live/8c:5a:f8:12:5b:80/live/25022020kp5/12632.m3u8
-#EXTINF:-1,DE:DAZN 2 BAR FHD
-http://gold.4khdiptv.com:80/live/8c:5a:f8:12:5b:80/live/25022020kp5/970.m3u8
-#EXTINF:-1,DE:SKY SPORT 1 HD
-http://gold.4khdiptv.com:80/live/8c:5a:f8:12:5b:80/live/25022020kp5/10496.m3u8
-#EXTINF:-1,DE:SKY SPORT 1 FHD
-http://gold.4khdiptv.com:80/live/8c:5a:f8:12:5b:80/live/25022020kp5/12484.m3u8
-#EXTINF:-1,DE:SKY SPORT 2 FHD
-http://gold.4khdiptv.com:80/live/8c:5a:f8:12:5b:80/live/25022020kp5/12485.m3u8
-#EXTINF:-1,DE:SKY SPORT BUNDESLIGA 1 HD
-http://gold.4khdiptv.com:80/live/8c:5a:f8:12:5b:80/live/25022020kp5/877.m3u8
-#EXTINF:-1,DE:SKY SPORT BUNDESLIGA 1 FHD
-http://gold.4khdiptv.com:80/live/8c:5a:f8:12:5b:80/live/25022020kp5/10494.m3u8
-#EXTINF:-1,FR:RMC SPORT 1 HD
-http://gold.4khdiptv.com:80/live/8c:5a:f8:12:5b:80/live/25022020kp5/41531.m3u8
-#EXTINF:-1,FR:RMC SPORT 2 HD
-http://gold.4khdiptv.com:80/live/8c:5a:f8:12:5b:80/live/25022020kp5/41532.m3u8
-#EXTINF:-1,FR:RMC SPORT 3 FHD
-http://gold.4khdiptv.com:80/live/8c:5a:f8:12:5b:80/live/25022020kp5/41533.m3u8
-#EXTINF:-1,FR:BEIN SPORTS 1 HD
-http://gold.4khdiptv.com:80/live/8c:5a:f8:12:5b:80/live/25022020kp5/41413.m3u8
-#EXTINF:-1,FR:BEIN SPORTS 2 HD
-http://gold.4khdiptv.com:80/live/8c:5a:f8:12:5b:80/live/25022020kp5/41414.m3u8
-#EXTINF:-1,FR:BEIN SPORTS 3 HD
-http://gold.4khdiptv.com:80/live/8c:5a:f8:12:5b:80/live/25022020kp5/41415.m3u8
-#EXTINF:-1,NL:FOX SPORTS 3 HD
-http://gold.4khdiptv.com:80/live/8c:5a:f8:12:5b:80/live/25022020kp5/500.m3u8
-#EXTINF:-1,NL:FOX SPORTS 3 FHD
-http://gold.4khdiptv.com:80/live/8c:5a:f8:12:5b:80/live/25022020kp5/15397.m3u8
-#EXTINF:-1,NL:FOX SPORTS 4 HD
-http://gold.4khdiptv.com:80/live/8c:5a:f8:12:5b:80/live/25022020kp5/499.m3u8
-#EXTINF:-1,NL:FOX SPORTS 4 FHD
-http://gold.4khdiptv.com:80/live/8c:5a:f8:12:5b:80/live/25022020kp5/15398.m3u8
-#EXTINF:-1,NL:FOX SPORTS 5 HD
-http://gold.4khdiptv.com:80/live/8c:5a:f8:12:5b:80/live/25022020kp5/498.m3u8
-#EXTINF:-1,NL:FOX SPORTS 5 FHD
-http://gold.4khdiptv.com:80/live/8c:5a:f8:12:5b:80/live/25022020kp5/15399.m3u8
-#EXTINF:-1,NL:FOX SPORTS 6 HD
-http://gold.4khdiptv.com:80/live/8c:5a:f8:12:5b:80/live/25022020kp5/497.m3u8
-#EXTINF:-1,NL:FOX SPORTS 6 FHD
-http://gold.4khdiptv.com:80/live/8c:5a:f8:12:5b:80/live/25022020kp5/15400.m3u8
-#EXTINF:-1,NL:ZIGGO SPORT SELECT HD
-http://gold.4khdiptv.com:80/live/8c:5a:f8:12:5b:80/live/25022020kp5/443.m3u8
-#EXTINF:-1,ES:TELEDEPORTE
-http://gold.4khdiptv.com:80/live/8c:5a:f8:12:5b:80/live/25022020kp5/365.m3u8
+#EXTINF:-1 ,BS:beIN SPORTS 01 4k
+http://gold.4khdiptv.com:80/8c:5a:f8:12:5b:88/25022020kp5/53730
+#EXTINF:-1 ,BS:beIN SPORTS 02 LOW
+http://gold.4khdiptv.com:80/8c:5a:f8:12:5b:88/25022020kp5/53778
+#EXTINF:-1 ,BS:beIN SPORTS 03 FHD
+http://gold.4khdiptv.com:80/8c:5a:f8:12:5b:88/25022020kp5/53722
+#EXTINF:-1 ,BS:beIN SPORTS 04 H265
+http://gold.4khdiptv.com:80/8c:5a:f8:12:5b:88/25022020kp5/53713
+#EXTINF:-1 ,BS:beIN SPORTS 06 H265
+http://gold.4khdiptv.com:80/8c:5a:f8:12:5b:88/25022020kp5/53715
+#EXTINF:-1 ,BS:beIN SPORTS 07 H265
+http://gold.4khdiptv.com:80/8c:5a:f8:12:5b:88/25022020kp5/53716
+#EXTINF:-1 ,BS:beIN SPORTS 04 FHD
+http://gold.4khdiptv.com:80/8c:5a:f8:12:5b:88/25022020kp5/53723
+#EXTINF:-1 ,BS:beIN SPORTS 05 FHD
+http://gold.4khdiptv.com:80/8c:5a:f8:12:5b:88/25022020kp5/53724
+#EXTINF:-1 ,BS:beIN SPORTS 06 FHD
+http://gold.4khdiptv.com:80/8c:5a:f8:12:5b:88/25022020kp5/53725
+#EXTINF:-1 ,BS:beIN SPORTS 07 FHD
+http://gold.4khdiptv.com:80/8c:5a:f8:12:5b:88/25022020kp5/53726
+#EXTINF:-1 ,BS:beIN SPORTS 08 FHD
+http://gold.4khdiptv.com:80/8c:5a:f8:12:5b:88/25022020kp5/53727
+#EXTINF:-1 ,BS:beIN SPORTS 09 FHD
+http://gold.4khdiptv.com:80/8c:5a:f8:12:5b:88/25022020kp5/53728
+#EXTINF:-1 ,BS:beIN SPORTS 10 FHD
+http://gold.4khdiptv.com:80/8c:5a:f8:12:5b:88/25022020kp5/53729
+#EXTINF:-1 ,BS:beIN SPORTS 11 4k
+http://gold.4khdiptv.com:80/8c:5a:f8:12:5b:88/25022020kp5/53740
+#EXTINF:-1 ,BS:beIN SPORTS 12 4k
+http://gold.4khdiptv.com:80/8c:5a:f8:12:5b:88/25022020kp5/53741
+#EXTINF:-1 ,BS:beIN SPORTS 11 1080
+http://gold.4khdiptv.com:80/8c:5a:f8:12:5b:88/25022020kp5/53753
+#EXTINF:-1 ,BS:beIN SPORTS 12 1080
+http://gold.4khdiptv.com:80/8c:5a:f8:12:5b:88/25022020kp5/53754
+
+#EXTINF:-1 ,RMC SPORT 2 HD FR
+http://vip1080.us:8000/live/Hakan/asdfghj/1728.m3u8
+#EXTINF:-1 ,RMC SPORT 3 HD FR
+http://vip1080.us:8000/live/Hakan/asdfghj/1739.m3u8
+#EXTINF:-1 ,BEIN SPORTS 1 HD FR
+http://vip1080.us:8000/live/Hakan/asdfghj/115.m3u8
+#EXTINF:-1 ,BEIN SPORTS 3 HD FR
+http://vip1080.us:8000/live/Hakan/asdfghj/113.m3u8
+#EXTINF:-1 ,DAZN 1 BAR UHD 2K (DE)
+http://vip1080.us:8000/live/Hakan/asdfghj/56832.m3u8
+#EXTINF:-1 ,DAZN 2 HD (DE)
+http://vip1080.us:8000/live/Hakan/asdfghj/35589.m3u8
+#EXTINF:-1 ,DAZN 2 BAR FHD (DE) (H265-4K)
+http://vip1080.us:8000/live/Hakan/asdfghj/22500.m3u8
+#EXTINF:-1 ,SKY SPORT 1 UHD 2K (DE)
+http://vip1080.us:8000/live/Hakan/asdfghj/56830.m3u8
+#EXTINF:-1 ,ZIGGO SPORT VOETBAL HD NL
+http://vip1080.us:8000/live/Hakan/asdfghj/1138.m3u8
+#EXTINF:-1 ,ZIGGO SPORT SELECT FHD NL
+http://vip1080.us:8000/live/Hakan/asdfghj/4326.m3u8
+#EXTINF:-1 ,ZIGGO SPORT SELECT HD NL
+http://vip1080.us:8000/live/Hakan/asdfghj/74087.m3u8
+#EXTINF:-1 ,ZIGGO SPORT VOETBAL HD NL
+http://vip1080.us:8000/live/Hakan/asdfghj/74088.m3u8
+#EXTINF:-1 ,FOX SPORTS 4 HD NL
+http://vip1080.us:8000/live/Hakan/asdfghj/267.m3u8
+#EXTINF:-1 ,FOX SPORTS 6 HD NL
+http://vip1080.us:8000/live/Hakan/asdfghj/4331.m3u8
+#EXTINF:-1 ,RO:SPORT KLUB 1
+http://vip1080.us:8000/live/Hakan/asdfghj/2174.m3u8
+#EXTINF:-1 ,RO:SPORT KLUB 2
+http://vip1080.us:8000/live/Hakan/asdfghj/2173.m3u8
+#EXTINF:-1 ,RO:SPORT KLUB 3
+http://vip1080.us:8000/live/Hakan/asdfghj/2172.m3u8
+#EXTINF:-1 ,BEIN SPORTS 2 HD AR
+http://vip1080.us:8000/live/Hakan/asdfghj/46658.m3u8
+#EXTINF:-1 ,BEIN SPORTS 3 HD AR
+http://vip1080.us:8000/live/Hakan/asdfghj/46659.m3u8
+#EXTINF:-1 ,BEIN SPORTS 4 HD AR
+http://vip1080.us:8000/live/Hakan/asdfghj/46660.m3u8
+#EXTINF:-1 ,BEIN SPORTS 5 HD AR
+http://vip1080.us:8000/live/Hakan/asdfghj/46661.m3u8
+#EXTINF:-1 ,BEIN SPORTS 6 HD AR
+http://vip1080.us:8000/live/Hakan/asdfghj/46662.m3u8
+#EXTINF:-1 ,BEIN SPORTS 7 HD AR
+http://vip1080.us:8000/live/Hakan/asdfghj/46663.m3u8
+#EXTINF:-1 ,BEIN SPORTS 8 HD AR
+http://vip1080.us:8000/live/Hakan/asdfghj/46664.m3u8
+#EXTINF:-1 ,BEIN SPORTS 9 HD AR
+http://vip1080.us:8000/live/Hakan/asdfghj/46665.m3u8
+#EXTINF:-1 ,BEIN SPORTS 10 HD AR
+http://vip1080.us:8000/live/Hakan/asdfghj/50724.m3u8
+#EXTINF:-1 ,BEIN SPORTS 11 HD AR
+http://vip1080.us:8000/live/Hakan/asdfghj/50725.m3u8
+#EXTINF:-1 ,BEIN SPORTS 12 HD AR
+http://vip1080.us:8000/live/Hakan/asdfghj/50726.m3u8
+#EXTINF:-1 ,BEIN SPORTS 13 HD AR
+http://vip1080.us:8000/live/Hakan/asdfghj/50727.m3u8
+#EXTINF:-1 ,TELEDEPORTE HD ES
+http://vip1080.us:8000/live/Hakan/asdfghj/4162.m3u8
+#EXTINF:-1 ,MOVISTAR+ DEPORTES HD ES
+http://vip1080.us:8000/live/Hakan/asdfghj/123034.m3u8
+#EXTINF:-1 ,MOVISTAR+  DEPORTES 1 HD ES
+http://vip1080.us:8000/live/Hakan/asdfghj/4201.m3u8
+#EXTINF:-1 ,IT: SKY SPORT 24 HD
+http://vip1080.us:8000/live/Hakan/asdfghj/23705.m3u8
+#EXTINF:-1 ,IT: SKY SPORT MOTOGP HD
+http://vip1080.us:8000/live/Hakan/asdfghj/23707.m3u8
+#EXTINF:-1 ,UK:BT SPORT 2
+http://vip1080.us:8000/live/Hakan/asdfghj/4759.m3u8
+#EXTINF:-1 ,UK:BT SPORT 3
+http://vip1080.us:8000/live/Hakan/asdfghj/4760.m3u8
+#EXTINF:-1 ,UK:BT SPORT ESPN HD
+http://vip1080.us:8000/live/Hakan/asdfghj/1512.m3u8
+#EXTINF:-1 ,UK:SKY SPORTS ARENA HD
+http://vip1080.us:8000/live/Hakan/asdfghj/1016.m3u8
+#EXTINF:-1 ,UK:SKY SPORTS ACTION HD
+http://vip1080.us:8000/live/Hakan/asdfghj/1018.m3u8
+#EXTINF:-1 ,UK:SKY SPORTS GOLF HD
+http://vip1080.us:8000/live/Hakan/asdfghj/1019.m3u8
+#EXTINF:-1 ,UK:SKY SPORTS F1 HD
+http://vip1080.us:8000/live/Hakan/asdfghj/1020.m3u8
+#EXTINF:-1 ,UK:SKY SPORT MAIN EVENT HD
+http://vip1080.us:8000/live/Hakan/asdfghj/22754.m3u8
+#EXTINF:-1 ,UK:SKY SPORTS PREMIER LEAGUE
+http://vip1080.us:8000/live/Hakan/asdfghj/22755.m3u8
+#EXTINF:-1 ,USA | FOX SPORTS 1
+http://vip1080.us:8000/live/Hakan/asdfghj/9476.m3u8
+#EXTINF:-1 ,USA | FOX SPORTS 2
+http://vip1080.us:8000/live/Hakan/asdfghj/9475.m3u8
+#EXTINF:-1 ,USA | TENNIS CHANNEL
+http://vip1080.us:8000/live/Hakan/asdfghj/32725.m3u8
+#EXTINF:-1 ,EXYU: ARENA SPORT 1 HD
+http://vip1080.us:8000/live/Hakan/asdfghj/7335.m3u8
+#EXTINF:-1 ,EXYU: ARENA SPORT 2 HD
+http://vip1080.us:8000/live/Hakan/asdfghj/7334.m3u8
+#EXTINF:-1 ,EXYU: ARENA SPORT 3 HD
+http://vip1080.us:8000/live/Hakan/asdfghj/7333.m3u8
+#EXTINF:-1 ,EXYU: ARENA SPORT 4 HD
+http://vip1080.us:8000/live/Hakan/asdfghj/7332.m3u8
+#EXTINF:-1 ,EXYU:ARENA SPORT 5
+http://vip1080.us:8000/live/Hakan/asdfghj/8165.m3u8
+#EXTINF:-1 ,EXYU:VIP:ARENA SPORT 1 HD (HR)
+http://vip1080.us:8000/live/Hakan/asdfghj/8209.m3u8
+#EXTINF:-1 ,EXYU:VIP:ARENA SPORT 2 HD (HR)
+http://vip1080.us:8000/live/Hakan/asdfghj/8210.m3u8
+#EXTINF:-1 ,EXYU: SPORT KLUB 1
+http://vip1080.us:8000/live/Hakan/asdfghj/7338.m3u8
+#EXTINF:-1 ,EXYU: SPORT KLUB 2
+http://vip1080.us:8000/live/Hakan/asdfghj/7337.m3u8
+#EXTINF:-1 ,EXYU: SPORT KLUB 3 HD
+http://vip1080.us:8000/live/Hakan/asdfghj/7336.m3u8
+#EXTINF:-1 ,HR:SPORT KLUB 1 HD HR
+http://vip1080.us:8000/live/Hakan/asdfghj/17567.m3u8
+#EXTINF:-1 ,HR:SPORT KLUB 2 HD HR
+http://vip1080.us:8000/live/Hakan/asdfghj/17566.m3u8
+#EXTINF:-1 ,HR:SPORT KLUB 3 HD HR
+http://vip1080.us:8000/live/Hakan/asdfghj/17565.m3u8
+#EXTINF:-1 ,HR:ARENA SPORT 1 HD (HR)
+http://vip1080.us:8000/live/Hakan/asdfghj/17573.m3u8
+#EXTINF:-1 ,HR:ARENA SPORT 2 HD (HR)
+http://vip1080.us:8000/live/Hakan/asdfghj/17572.m3u8
+#EXTINF:-1 ,HR:ARENA SPORT 3 HD (HR)
+http://vip1080.us:8000/live/Hakan/asdfghj/17571.m3u8
+#EXTINF:-1 ,HR:ARENA SPORT 4 HD (HR)
+http://vip1080.us:8000/live/Hakan/asdfghj/17570.m3u8
+#EXTINF:-1 ,HR:ARENA SPORT 5 HD (HR)
+http://vip1080.us:8000/live/Hakan/asdfghj/17569.m3u8
