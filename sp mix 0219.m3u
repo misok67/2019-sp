@@ -101,32 +101,17 @@ http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/18334.m3u8
 #EXTINF:-1,|IT| SUPERTENNIS
 http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/18335.m3u8
 
+#EXTINF:-1,|FR| RMC SPORT 1 FHD
+http://globe2.midomed.com:80/live/walidca/jXjTFUVm29/16725.m3u8
+#EXTINF:-1,|FR| RMC SPORT 2 FHD
+http://globe2.midomed.com:80/live/walidca/jXjTFUVm29/16724.m3u8
+#EXTINF:-1,|FR| RMC SPORT 3 FHD
+http://globe2.midomed.com:80/live/walidca/jXjTFUVm29/16723.m3u8
+#EXTINF:-1,|FR| BEIN SPORTS 1 HD
+http://globe2.midomed.com:80/live/walidca/jXjTFUVm29/258.m3u8
+#EXTINF:-1,|FR| BEIN SPORTS 2 HD
+http://globe2.midomed.com:80/live/walidca/jXjTFUVm29/259.m3u8
+#EXTINF:-1,|FR| BEIN SPORTS 3 HD
+http://globe2.midomed.com:80/live/walidca/jXjTFUVm29/265.m3u8
 
-#EXTINF:-1, **L1  BEIN SPORTS
-http://flowfhd.xyz:25461/live/pollo/pollo/8508.m3u8
-#EXTINF:-1, **L1  ESPN DEPORTES 
-http://flowfhd.xyz:25461/live/pollo/pollo/8881.m3u8
-#EXTINF:-1, **L1  TENNIS CHANNEL
-http://flowfhd.xyz:25461/live/pollo/pollo/8977.m3u8
-#EXTINF:-1, **L1  BEIN SPORTS LA LIGA (LATINO)
-http://flowfhd.xyz:25461/live/pollo/pollo/8988.m3u8
-#EXTINF:-1, **L1  DEPORTES | DIRECTV SPORTS
-http://flowfhd.xyz:25461/live/pollo/pollo/9805.m3u8
-#EXTINF:-1, **L1  DEPORTES | DIRECTV SPORTS 2
-http://flowfhd.xyz:25461/live/pollo/pollo/9806.m3u8
-#EXTINF:-1, **L1  ES | M.LIGA CAMPEONES1 FHD
-http://flowfhd.xyz:25461/live/pollo/pollo/62900.m3u8
-#EXTINF:-1, **L1  FOX DEPORTES | USA
-http://flowfhd.xyz:25461/live/pollo/pollo/65993.m3u8
-#EXTINF:-1, **L1  BEIN SPORTS CANADA
-http://flowfhd.xyz:25461/live/pollo/pollo/62769.m3u8
-#EXTINF:-1, **L1  USA | BEIN SPORTS 1
-http://flowfhd.xyz:25461/live/pollo/pollo/62771.m3u8
-#EXTINF:-1, **L1  BEIN SPORTS 2
-http://flowfhd.xyz:25461/live/pollo/pollo/62772.m3u8
-#EXTINF:-1, **L1  TENNIS CHANNEL
-http://flowfhd.xyz:25461/live/pollo/pollo/34785.m3u8
-#EXTINF:-1, **L1  TENNIS CHANNEL PLUS
-http://flowfhd.xyz:25461/live/pollo/pollo/34786.m3u8
-#EXTINF:-1, **L1  FOX SPORTS NEWS
-http://flowfhd.xyz:25461/live/pollo/pollo/35014.m3u8
+
