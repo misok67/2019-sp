@@ -1,136 +1,110 @@
 #EXTM3U
 
-#EXTINF:-1,RMC SPORT 1
-http://digitech-tv.webhop.org:2016/live/karat/karat/39070.m3u8
-#EXTINF:-1,RMC SPORT 2
-http://digitech-tv.webhop.org:2016/live/karat/karat/39072.m3u8
-#EXTINF:-1,RMC SPORT 3
-http://digitech-tv.webhop.org:2016/live/karat/karat/39073.m3u8
-#EXTINF:-1,BEIN SPORTS 1 HD
-http://digitech-tv.webhop.org:2016/live/karat/karat/18359.m3u8
-#EXTINF:-1,BEIN SPORTS 2 HD
-http://digitech-tv.webhop.org:2016/live/karat/karat/18358.m3u8
-#EXTINF:-1,BEIN SPORTS 3 HD
-http://digitech-tv.webhop.org:2016/live/karat/karat/18357.m3u8
-#EXTINF:-1,BEIN SPORTS 4 HD
-http://digitech-tv.webhop.org:2016/live/karat/karat/18356.m3u8
-#EXTINF:-1,BEIN SPORTS 5 HD
-http://digitech-tv.webhop.org:2016/live/karat/karat/18355.m3u8
-#EXTINF:-1,BEIN SPORTS 6 HD
-http://digitech-tv.webhop.org:2016/live/karat/karat/18354.m3u8
-#EXTINF:-1,BEIN SPORTS 7 HD
-http://digitech-tv.webhop.org:2016/live/karat/karat/18353.m3u8
-#EXTINF:-1,BEIN SPORTS 8 HD
-http://digitech-tv.webhop.org:2016/live/karat/karat/18352.m3u8
-#EXTINF:-1,BEIN SPORTS 9 HD
-http://digitech-tv.webhop.org:2016/live/karat/karat/5744.m3u8
-#EXTINF:-1,BEIN SPORTS 10 HD
-http://digitech-tv.webhop.org:2016/live/karat/karat/37326.m3u8
-#EXTINF:-1,BEIN SPORTS 11 HD
-http://digitech-tv.webhop.org:2016/live/karat/karat/60249.m3u8
-#EXTINF:-1,BEIN SPORTS 12 HD
-http://digitech-tv.webhop.org:2016/live/karat/karat/60250.m3u8
-#EXTINF:-1,RMC SPORT 1 HD
-http://digitech-tv.webhop.org:2016/live/karat/karat/39076.m3u8
-#EXTINF:-1,RMC SPORT 2 HD
-http://digitech-tv.webhop.org:2016/live/karat/karat/39074.m3u8
-#EXTINF:-1,RMC SPORT 3 HD
-http://digitech-tv.webhop.org:2016/live/karat/karat/39075.m3u8
-#EXTINF:-1,RMC SPORT 4 HD
-http://digitech-tv.webhop.org:2016/live/karat/karat/2226.m3u8
-#EXTINF:-1,RMC SPORT NEWS HD
-http://digitech-tv.webhop.org:2016/live/karat/karat/37323.m3u8
-#EXTINF:-1,ES:BEIN SPORTS
-http://digitech-tv.webhop.org:2016/live/karat/karat/48634.m3u8
-#EXTINF:-1,ES:BEIN SPORTS HD
-http://digitech-tv.webhop.org:2016/live/karat/karat/48633.m3u8
-#EXTINF:-1,ES:BEIN SPORTS LALIGA
-http://digitech-tv.webhop.org:2016/live/karat/karat/48632.m3u8
-#EXTINF:-1,ES:BEIN SPORTS LALIGA HD
-http://digitech-tv.webhop.org:2016/live/karat/karat/48631.m3u8
-#EXTINF:-1,ES:MOVISTAR DEPORTES 1
-http://digitech-tv.webhop.org:2016/live/karat/karat/48641.m3u8
-#EXTINF:-1,ES:MOVISTAR DEPORTES 1 HD
-http://digitech-tv.webhop.org:2016/live/karat/karat/48640.m3u8
-#EXTINF:-1,ES:M.CAMPEONES HD
-http://digitech-tv.webhop.org:2016/live/karat/karat/48635.m3u8
-#EXTINF:-1,DAZN 1 HD
-http://digitech-tv.webhop.org:2016/live/karat/karat/54550.m3u8
-#EXTINF:-1,DAZN 2 HD
-http://digitech-tv.webhop.org:2016/live/karat/karat/54062.m3u8
-#EXTINF:-1,SKY SPORT 1 HD
-http://digitech-tv.webhop.org:2016/live/karat/karat/53931.m3u8
-#EXTINF:-1,SKY SPORT 2 HD
-http://digitech-tv.webhop.org:2016/live/karat/karat/53930.m3u8
-#EXTINF:-1,DE:SKY SPORT BUNDESLIGA 1 HD
-http://digitech-tv.webhop.org:2016/live/karat/karat/53921.m3u8
-#EXTINF:-1,DE:SKY SPORT NEWS HD
-http://digitech-tv.webhop.org:2016/live/karat/karat/53914.m3u8
-#EXTINF:-1,UK: BT SPORT 1
-http://digitech-tv.webhop.org:2016/live/karat/karat/25740.m3u8
-#EXTINF:-1,UK: BT SPORT 1 HD
-http://digitech-tv.webhop.org:2016/live/karat/karat/25738.m3u8
-#EXTINF:-1,UK: BT SPORT 2
-http://digitech-tv.webhop.org:2016/live/karat/karat/25741.m3u8
-#EXTINF:-1,UK: BT SPORT 2 HD
-http://digitech-tv.webhop.org:2016/live/karat/karat/25739.m3u8
-#EXTINF:-1,NL: FOX SPORTS 3 HD
-http://digitech-tv.webhop.org:2016/live/karat/karat/35415.m3u8
-#EXTINF:-1,NL: FOX SPORTS 4 HD
-http://digitech-tv.webhop.org:2016/live/karat/karat/35414.m3u8
-#EXTINF:-1,NL: FOX SPORTS 5 HD
-http://digitech-tv.webhop.org:2016/live/karat/karat/35413.m3u8
-#EXTINF:-1,NL: FOX SPORTS 6
-http://digitech-tv.webhop.org:2016/live/karat/karat/35412.m3u8
-#EXTINF:-1,NL: ZIGGO SPORT VOETBAL HD
-http://digitech-tv.webhop.org:2016/live/karat/karat/35409.m3u8
-#EXTINF:-1,NL: ZIGGO SPORT SELECT HD
-http://digitech-tv.webhop.org:2016/live/karat/karat/35408.m3u8
-#EXTINF:-1,USA:FOX SPORTS 1
-http://digitech-tv.webhop.org:2016/live/karat/karat/51108.m3u8
-#EXTINF:-1,USA:FOX SPORTS 1 HD
-http://digitech-tv.webhop.org:2016/live/karat/karat/51109.m3u8
-#EXTINF:-1,USA:FOX SPORTS 2 FHD
-http://digitech-tv.webhop.org:2016/live/karat/karat/51107.m3u8
-#EXTINF:-1,USA:FOX SPORTS 2 HD
-http://digitech-tv.webhop.org:2016/live/karat/karat/51106.m3u8
-#EXTINF:-1,SUPER TENNIS HD
-http://digitech-tv.webhop.org:2016/live/karat/karat/59031.m3u8
-#EXTINF:-1,SKY SPORT UNO HD
-http://digitech-tv.webhop.org:2016/live/karat/karat/59040.m3u8
-#EXTINF:-1,SKY SPORT ARENA HD
-http://digitech-tv.webhop.org:2016/live/karat/karat/59041.m3u8
-#EXTINF:-1,SKY SPORT SERIE A HD
-http://digitech-tv.webhop.org:2016/live/karat/karat/59042.m3u8
-#EXTINF:-1,DAZN 1 HD
-http://digitech-tv.webhop.org:2016/live/karat/karat/59047.m3u8
-#EXTINF:-1,DAZN 2 HD
-http://digitech-tv.webhop.org:2016/live/karat/karat/59048.m3u8
-#EXTINF:-1,SB:ARENA SPORT 1
-http://digitech-tv.webhop.org:2016/live/karat/karat/51905.m3u8
-#EXTINF:-1,SB:ARENA SPORT 1 HR HD
-http://digitech-tv.webhop.org:2016/live/karat/karat/51900.m3u8
-#EXTINF:-1,SB:ARENA SPORT 2
-http://digitech-tv.webhop.org:2016/live/karat/karat/51904.m3u8
-#EXTINF:-1,SB:ARENA SPORT 2 HR HD
-http://digitech-tv.webhop.org:2016/live/karat/karat/51899.m3u8
-#EXTINF:-1,SB:ARENA SPORT 3
-http://digitech-tv.webhop.org:2016/live/karat/karat/51903.m3u8
-#EXTINF:-1,SB:ARENA SPORT 3 HR HD
-http://digitech-tv.webhop.org:2016/live/karat/karat/51898.m3u8
-#EXTINF:-1,SB:ARENA SPORT 4
-http://digitech-tv.webhop.org:2016/live/karat/karat/51902.m3u8
-#EXTINF:-1,SB:ARENA SPORT 4 HR HD
-http://digitech-tv.webhop.org:2016/live/karat/karat/51897.m3u8
-#EXTINF:-1,SB:ARENA SPORT 5
-http://digitech-tv.webhop.org:2016/live/karat/karat/51901.m3u8
-#EXTINF:-1,SB:ARENA SPORT 5 HR HD
-http://digitech-tv.webhop.org:2016/live/karat/karat/51896.m3u8
-#EXTINF:-1,SB:SPORT KLUB 1
-http://digitech-tv.webhop.org:2016/live/karat/karat/51895.m3u8
-#EXTINF:-1,SB:SPORT KLUB 2
-http://digitech-tv.webhop.org:2016/live/karat/karat/51893.m3u8
-#EXTINF:-1,SB:SPORT KLUB 3
-http://digitech-tv.webhop.org:2016/live/karat/karat/51891.m3u8
-#EXTINF:-1,SB:SPORT KLUB 4 SR
-http://digitech-tv.webhop.org:2016/live/karat/karat/51889.m3u8
+#EXTINF:-1,USA | FOX SPORTS 1 HD 1080P
+http://54.39.97.88:25461/live/danny1/danny1/323351.m3u8
+#EXTINF:-1,USA | FOX SPORTS 2 HD 1080P
+http://54.39.97.88:25461/live/danny1/danny1/323350.m3u8
+#EXTINF:-1,USA | TENNIS HD 1080P
+http://54.39.97.88:25461/live/danny1/danny1/323264.m3u8
+#EXTINF:-1,UK | BT SPORTS 1 HD 25FPS
+http://54.39.97.88:25461/live/danny1/danny1/323740.m3u8
+#EXTINF:-1,UK | BT SPORTS 2 HD 25FPS
+http://54.39.97.88:25461/live/danny1/danny1/323741.m3u8
+#EXTINF:-1,UK | BT SPORTS 3 HD 25FPS
+http://54.39.97.88:25461/live/danny1/danny1/323742.m3u8
+#EXTINF:-1,ES | MOVISTAR  DEPORTES 2 HD
+http://54.39.97.88:25461/live/danny1/danny1/323623.m3u8
+#EXTINF:-1,ES | MOVISTAR  DEPORTES HD
+http://54.39.97.88:25461/live/danny1/danny1/323634.m3u8
+#EXTINF:-1,AR | BEIN SPORTS
+http://54.39.97.88:25461/live/danny1/danny1/331972.m3u8
+#EXTINF:-1,AR | BEIN SPORTS 1 HD
+http://54.39.97.88:25461/live/danny1/danny1/331973.m3u8
+#EXTINF:-1,AR | BEIN SPORTS 2 HD
+http://54.39.97.88:25461/live/danny1/danny1/331974.m3u8
+#EXTINF:-1,AR | BEIN SPORTS 3 HD
+http://54.39.97.88:25461/live/danny1/danny1/331975.m3u8
+#EXTINF:-1,AR | BEIN SPORTS 4 HD
+http://54.39.97.88:25461/live/danny1/danny1/331976.m3u8
+#EXTINF:-1,AR | BEIN SPORTS 5 HD
+http://54.39.97.88:25461/live/danny1/danny1/331977.m3u8
+#EXTINF:-1,AR | BEIN SPORTS 6 HD
+http://54.39.97.88:25461/live/danny1/danny1/331978.m3u8
+#EXTINF:-1,AR | BEIN SPORTS 7 HD
+http://54.39.97.88:25461/live/danny1/danny1/331979.m3u8
+#EXTINF:-1,AR | BEIN SPORTS 8 HD
+http://54.39.97.88:25461/live/danny1/danny1/331980.m3u8
+#EXTINF:-1,AR | BEIN SPORTS 9 HD
+http://54.39.97.88:25461/live/danny1/danny1/331981.m3u8
+#EXTINF:-1,AR | BEIN SPORTS 10 HD
+http://54.39.97.88:25461/live/danny1/danny1/331982.m3u8
+#EXTINF:-1,AR | BEIN SPORTS 11 HD
+http://54.39.97.88:25461/live/danny1/danny1/331983.m3u8
+#EXTINF:-1,AR | BEIN SPORTS 12 HD
+http://54.39.97.88:25461/live/danny1/danny1/331984.m3u8
+#EXTINF:-1,AR | BEIN SPORTS 13 HD
+http://54.39.97.88:25461/live/danny1/danny1/331985.m3u8
+#EXTINF:-1,DE | SKY SPORT BUNDESLIGA 1 HD 1080P
+http://54.39.97.88:25461/live/danny1/danny1/332558.m3u8
+#EXTINF:-1,EX-YU | SPORT KLUB 1
+http://54.39.97.88:25461/live/danny1/danny1/332704.m3u8
+#EXTINF:-1,EX-YU | SPORT KLUB 2
+http://54.39.97.88:25461/live/danny1/danny1/332705.m3u8
+#EXTINF:-1,EX-YU | SPORT KLUB 3
+http://54.39.97.88:25461/live/danny1/danny1/332706.m3u8
+#EXTINF:-1,FR | BEIN SPORTS 1 HD (1080P)
+http://54.39.97.88:25461/live/danny1/danny1/332740.m3u8
+#EXTINF:-1,FR | BEIN SPORTS 2 HD (1080P)
+http://54.39.97.88:25461/live/danny1/danny1/332741.m3u8
+#EXTINF:-1,FR | BEIN SPORTS 3 HD (1080P)
+http://54.39.97.88:25461/live/danny1/danny1/332742.m3u8
+#EXTINF:-1,IT | SKY SPORT1 HD
+http://54.39.97.88:25461/live/danny1/danny1/333279.m3u8
+#EXTINF:-1,IT | SKY SPORT2 HD
+http://54.39.97.88:25461/live/danny1/danny1/333280.m3u8
+#EXTINF:-1,IT | SKY SPORT3 HD
+http://54.39.97.88:25461/live/danny1/danny1/333281.m3u8
+#EXTINF:-1,IT | SUPER TENNIS (BACKUP)
+http://54.39.97.88:25461/live/danny1/danny1/333285.m3u8
+#EXTINF:-1,IT |SUPER TENNIS
+http://54.39.97.88:25461/live/danny1/danny1/333290.m3u8
+#EXTINF:-1,NL | ZIGGO SPORT SELECT FHD 1080
+http://54.39.97.88:25461/live/danny1/danny1/333386.m3u8
+#EXTINF:-1,NL | FOX SPORTS 6
+http://54.39.97.88:25461/live/danny1/danny1/344564.m3u8
+#EXTINF:-1,NL | FOX SPORTS 5
+http://54.39.97.88:25461/live/danny1/danny1/344566.m3u8
+#EXTINF:-1,NL | FOX SPORTS 4
+http://54.39.97.88:25461/live/danny1/danny1/344567.m3u8
+#EXTINF:-1,NL | FOX SPORTS 3
+http://54.39.97.88:25461/live/danny1/danny1/344568.m3u8
+#EXTINF:-1,EX-YU | ARENA SPORTS SE HD
+http://54.39.97.88:25461/live/danny1/danny1/344584.m3u8
+#EXTINF:-1,EX-YU | ARENA SPORTS 2 SE HD
+http://54.39.97.88:25461/live/danny1/danny1/344585.m3u8
+#EXTINF:-1,EX-YU | ARENA SPORTS 3 SE HD
+http://54.39.97.88:25461/live/danny1/danny1/344586.m3u8
+#EXTINF:-1,EX-YU | ARENA SPORTS 4 SE HD
+http://54.39.97.88:25461/live/danny1/danny1/344587.m3u8
+#EXTINF:-1,SE | ARENA SPORTS 5 HD
+http://54.39.97.88:25461/live/danny1/danny1/344592.m3u8
+#EXTINF:-1,FR | RMC SPORTS HD
+http://54.39.97.88:25461/live/danny1/danny1/344600.m3u8
+#EXTINF:-1,FR | RMC SPORTS 2 HD
+http://54.39.97.88:25461/live/danny1/danny1/344601.m3u8
+#EXTINF:-1,DE | DAZN 1 HD
+http://54.39.97.88:25461/live/danny1/danny1/344625.m3u8
+#EXTINF:-1,DE | DAZN 2 HD
+http://54.39.97.88:25461/live/danny1/danny1/344626.m3u8
+#EXTINF:-1,IT | DAZN SKY HD
+http://54.39.97.88:25461/live/danny1/danny1/344627.m3u8
+#EXTINF:-1,IT | DAZN SPORTS HD
+http://54.39.97.88:25461/live/danny1/danny1/344628.m3u8
+#EXTINF:-1,UK | BT SPORTS 3 HD 1080P
+http://54.39.97.88:25461/live/danny1/danny1/351795.m3u8
+#EXTINF:-1,UK | BT SPORTS ESPN HD 1080P
+http://54.39.97.88:25461/live/danny1/danny1/351796.m3u8
+#EXTINF:-1,DE | DAZN 1 HD 1080P
+http://54.39.97.88:25461/live/danny1/danny1/352809.m3u8
+#EXTINF:-1,DE | DAZN 2 HD 1080P
+http://54.39.97.88:25461/live/danny1/danny1/352810.m3u8
