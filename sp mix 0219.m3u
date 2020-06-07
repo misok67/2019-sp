@@ -1,5 +1,22 @@
 #EXTM3U
 
+#EXTINF:-1,USA ESPN DEPORTES SD
+http://loginto.live:80/live/EPJY3St56/K6s2ruk8O0/28898.m3u8
+#EXTINF:-1,USA TENNIS CHANNEL SD
+http://loginto.live:80/live/EPJY3St56/K6s2ruk8O0/28939.m3u8
+#EXTINF:-1,USA | TENNIS CHANNEL
+http://loginto.live:80/live/EPJY3St56/K6s2ruk8O0/565.m3u8
+#EXTINF:-1,USA | TENNIS CHANNEL PLUS
+http://loginto.live:80/live/EPJY3St56/K6s2ruk8O0/41224.m3u8
+#EXTINF:-1,07 | ESPN DEPORTES
+http://loginto.live:80/live/EPJY3St56/K6s2ruk8O0/643.m3u8
+#EXTINF:-1,USA |  FOX SPORTS 1
+http://loginto.live:80/live/EPJY3St56/K6s2ruk8O0/450.m3u8
+#EXTINF:-1,USA |  FOX SPORTS 2
+http://loginto.live:80/live/EPJY3St56/K6s2ruk8O0/451.m3u8
+#EXTINF:-1,USA | FOX DEPORTES
+http://loginto.live:80/live/EPJY3St56/K6s2ruk8O0/217.m3u8
+
 #EXTINF:-1,USA | FOX SPORTS 1 HD 1080P
 http://54.39.97.88:25461/live/danny1/danny1/323351.m3u8
 #EXTINF:-1,USA | FOX SPORTS 2 HD 1080P
@@ -18,32 +35,6 @@ http://54.39.97.88:25461/live/danny1/danny1/323623.m3u8
 http://54.39.97.88:25461/live/danny1/danny1/323634.m3u8
 #EXTINF:-1,AR | BEIN SPORTS
 http://54.39.97.88:25461/live/danny1/danny1/331972.m3u8
-#EXTINF:-1,AR | BEIN SPORTS 1 HD
-http://54.39.97.88:25461/live/danny1/danny1/331973.m3u8
-#EXTINF:-1,AR | BEIN SPORTS 2 HD
-http://54.39.97.88:25461/live/danny1/danny1/331974.m3u8
-#EXTINF:-1,AR | BEIN SPORTS 3 HD
-http://54.39.97.88:25461/live/danny1/danny1/331975.m3u8
-#EXTINF:-1,AR | BEIN SPORTS 4 HD
-http://54.39.97.88:25461/live/danny1/danny1/331976.m3u8
-#EXTINF:-1,AR | BEIN SPORTS 5 HD
-http://54.39.97.88:25461/live/danny1/danny1/331977.m3u8
-#EXTINF:-1,AR | BEIN SPORTS 6 HD
-http://54.39.97.88:25461/live/danny1/danny1/331978.m3u8
-#EXTINF:-1,AR | BEIN SPORTS 7 HD
-http://54.39.97.88:25461/live/danny1/danny1/331979.m3u8
-#EXTINF:-1,AR | BEIN SPORTS 8 HD
-http://54.39.97.88:25461/live/danny1/danny1/331980.m3u8
-#EXTINF:-1,AR | BEIN SPORTS 9 HD
-http://54.39.97.88:25461/live/danny1/danny1/331981.m3u8
-#EXTINF:-1,AR | BEIN SPORTS 10 HD
-http://54.39.97.88:25461/live/danny1/danny1/331982.m3u8
-#EXTINF:-1,AR | BEIN SPORTS 11 HD
-http://54.39.97.88:25461/live/danny1/danny1/331983.m3u8
-#EXTINF:-1,AR | BEIN SPORTS 12 HD
-http://54.39.97.88:25461/live/danny1/danny1/331984.m3u8
-#EXTINF:-1,AR | BEIN SPORTS 13 HD
-http://54.39.97.88:25461/live/danny1/danny1/331985.m3u8
 #EXTINF:-1,DE | SKY SPORT BUNDESLIGA 1 HD 1080P
 http://54.39.97.88:25461/live/danny1/danny1/332558.m3u8
 #EXTINF:-1,EX-YU | SPORT KLUB 1
