@@ -1,101 +1,42 @@
 #EXTM3U
 
-#EXTINF:-1,USA ESPN DEPORTES SD
-http://loginto.live:80/live/EPJY3St56/K6s2ruk8O0/28898.m3u8
-#EXTINF:-1,USA TENNIS CHANNEL SD
-http://loginto.live:80/live/EPJY3St56/K6s2ruk8O0/28939.m3u8
-#EXTINF:-1,USA | TENNIS CHANNEL
-http://loginto.live:80/live/EPJY3St56/K6s2ruk8O0/565.m3u8
-#EXTINF:-1,USA | TENNIS CHANNEL PLUS
-http://loginto.live:80/live/EPJY3St56/K6s2ruk8O0/41224.m3u8
-#EXTINF:-1,07 | ESPN DEPORTES
-http://loginto.live:80/live/EPJY3St56/K6s2ruk8O0/643.m3u8
-#EXTINF:-1,USA |  FOX SPORTS 1
-http://loginto.live:80/live/EPJY3St56/K6s2ruk8O0/450.m3u8
-#EXTINF:-1,USA |  FOX SPORTS 2
-http://loginto.live:80/live/EPJY3St56/K6s2ruk8O0/451.m3u8
-#EXTINF:-1,USA | FOX DEPORTES
-http://loginto.live:80/live/EPJY3St56/K6s2ruk8O0/217.m3u8
-
-#EXTINF:-1,USA | FOX SPORTS 1 HD 1080P
-http://54.39.97.88:25461/live/danny1/danny1/323351.m3u8
-#EXTINF:-1,USA | FOX SPORTS 2 HD 1080P
-http://54.39.97.88:25461/live/danny1/danny1/323350.m3u8
-#EXTINF:-1,USA | TENNIS HD 1080P
-http://54.39.97.88:25461/live/danny1/danny1/323264.m3u8
-#EXTINF:-1,UK | BT SPORTS 1 HD 25FPS
-http://54.39.97.88:25461/live/danny1/danny1/323740.m3u8
-#EXTINF:-1,UK | BT SPORTS 2 HD 25FPS
-http://54.39.97.88:25461/live/danny1/danny1/323741.m3u8
-#EXTINF:-1,UK | BT SPORTS 3 HD 25FPS
-http://54.39.97.88:25461/live/danny1/danny1/323742.m3u8
-#EXTINF:-1,ES | MOVISTAR  DEPORTES 2 HD
-http://54.39.97.88:25461/live/danny1/danny1/323623.m3u8
-#EXTINF:-1,ES | MOVISTAR  DEPORTES HD
-http://54.39.97.88:25461/live/danny1/danny1/323634.m3u8
-#EXTINF:-1,AR | BEIN SPORTS
-http://54.39.97.88:25461/live/danny1/danny1/331972.m3u8
-#EXTINF:-1,DE | SKY SPORT BUNDESLIGA 1 HD 1080P
-http://54.39.97.88:25461/live/danny1/danny1/332558.m3u8
-#EXTINF:-1,EX-YU | SPORT KLUB 1
-http://54.39.97.88:25461/live/danny1/danny1/332704.m3u8
-#EXTINF:-1,EX-YU | SPORT KLUB 2
-http://54.39.97.88:25461/live/danny1/danny1/332705.m3u8
-#EXTINF:-1,EX-YU | SPORT KLUB 3
-http://54.39.97.88:25461/live/danny1/danny1/332706.m3u8
-#EXTINF:-1,FR | BEIN SPORTS 1 HD (1080P)
-http://54.39.97.88:25461/live/danny1/danny1/332740.m3u8
-#EXTINF:-1,FR | BEIN SPORTS 2 HD (1080P)
-http://54.39.97.88:25461/live/danny1/danny1/332741.m3u8
-#EXTINF:-1,FR | BEIN SPORTS 3 HD (1080P)
-http://54.39.97.88:25461/live/danny1/danny1/332742.m3u8
-#EXTINF:-1,IT | SKY SPORT1 HD
-http://54.39.97.88:25461/live/danny1/danny1/333279.m3u8
-#EXTINF:-1,IT | SKY SPORT2 HD
-http://54.39.97.88:25461/live/danny1/danny1/333280.m3u8
-#EXTINF:-1,IT | SKY SPORT3 HD
-http://54.39.97.88:25461/live/danny1/danny1/333281.m3u8
-#EXTINF:-1,IT | SUPER TENNIS (BACKUP)
-http://54.39.97.88:25461/live/danny1/danny1/333285.m3u8
-#EXTINF:-1,IT |SUPER TENNIS
-http://54.39.97.88:25461/live/danny1/danny1/333290.m3u8
-#EXTINF:-1,NL | ZIGGO SPORT SELECT FHD 1080
-http://54.39.97.88:25461/live/danny1/danny1/333386.m3u8
-#EXTINF:-1,NL | FOX SPORTS 6
-http://54.39.97.88:25461/live/danny1/danny1/344564.m3u8
-#EXTINF:-1,NL | FOX SPORTS 5
-http://54.39.97.88:25461/live/danny1/danny1/344566.m3u8
-#EXTINF:-1,NL | FOX SPORTS 4
-http://54.39.97.88:25461/live/danny1/danny1/344567.m3u8
-#EXTINF:-1,NL | FOX SPORTS 3
-http://54.39.97.88:25461/live/danny1/danny1/344568.m3u8
-#EXTINF:-1,EX-YU | ARENA SPORTS SE HD
-http://54.39.97.88:25461/live/danny1/danny1/344584.m3u8
-#EXTINF:-1,EX-YU | ARENA SPORTS 2 SE HD
-http://54.39.97.88:25461/live/danny1/danny1/344585.m3u8
-#EXTINF:-1,EX-YU | ARENA SPORTS 3 SE HD
-http://54.39.97.88:25461/live/danny1/danny1/344586.m3u8
-#EXTINF:-1,EX-YU | ARENA SPORTS 4 SE HD
-http://54.39.97.88:25461/live/danny1/danny1/344587.m3u8
-#EXTINF:-1,SE | ARENA SPORTS 5 HD
-http://54.39.97.88:25461/live/danny1/danny1/344592.m3u8
-#EXTINF:-1,FR | RMC SPORTS HD
-http://54.39.97.88:25461/live/danny1/danny1/344600.m3u8
-#EXTINF:-1,FR | RMC SPORTS 2 HD
-http://54.39.97.88:25461/live/danny1/danny1/344601.m3u8
-#EXTINF:-1,DE | DAZN 1 HD
-http://54.39.97.88:25461/live/danny1/danny1/344625.m3u8
-#EXTINF:-1,DE | DAZN 2 HD
-http://54.39.97.88:25461/live/danny1/danny1/344626.m3u8
-#EXTINF:-1,IT | DAZN SKY HD
-http://54.39.97.88:25461/live/danny1/danny1/344627.m3u8
-#EXTINF:-1,IT | DAZN SPORTS HD
-http://54.39.97.88:25461/live/danny1/danny1/344628.m3u8
-#EXTINF:-1,UK | BT SPORTS 3 HD 1080P
-http://54.39.97.88:25461/live/danny1/danny1/351795.m3u8
-#EXTINF:-1,UK | BT SPORTS ESPN HD 1080P
-http://54.39.97.88:25461/live/danny1/danny1/351796.m3u8
-#EXTINF:-1,DE | DAZN 1 HD 1080P
-http://54.39.97.88:25461/live/danny1/danny1/352809.m3u8
-#EXTINF:-1,DE | DAZN 2 HD 1080P
-http://54.39.97.88:25461/live/danny1/danny1/352810.m3u8
+#EXTINF:-1,ES: MOVISTAR DEPORTES 2 HD
+http://alblive.org:80/live/bgIwwjFfmn/zcwd04GXE1/1748.m3u8
+#EXTINF:-1,ES: TELEDEPORTE HD
+http://alblive.org:80/live/bgIwwjFfmn/zcwd04GXE1/3612.m3u8
+#EXTINF:-1,ES: MOVISTAR DEPORTES 1
+http://alblive.org:80/live/bgIwwjFfmn/zcwd04GXE1/1353.m3u8
+#EXTINF:-1,DE: SKY SPORT NEWS
+http://alblive.org:80/live/bgIwwjFfmn/zcwd04GXE1/1942.m3u8
+#EXTINF:-1,DE: SKY SPORT 1 HD
+http://alblive.org:80/live/bgIwwjFfmn/zcwd04GXE1/1943.m3u8
+#EXTINF:-1,DE: SKY SPORT 2 HD
+http://alblive.org:80/live/bgIwwjFfmn/zcwd04GXE1/1944.m3u8
+#EXTINF:-1,DE: DAZN 1
+http://alblive.org:80/live/bgIwwjFfmn/zcwd04GXE1/1565.m3u8
+#EXTINF:-1,DE: DAZN 2
+http://alblive.org:80/live/bgIwwjFfmn/zcwd04GXE1/1563.m3u8
+#EXTINF:-1,UK: BT SPORT 1
+http://alblive.org:80/live/bgIwwjFfmn/zcwd04GXE1/1561.m3u8
+#EXTINF:-1,UK: BT SPORT 2
+http://alblive.org:80/live/bgIwwjFfmn/zcwd04GXE1/1450.m3u8
+#EXTINF:-1,IT: SKY SPORT 1 FHD
+http://alblive.org:80/live/bgIwwjFfmn/zcwd04GXE1/1440.m3u8
+#EXTINF:-1,IT: SKY SPORT ARENA
+http://alblive.org:80/live/bgIwwjFfmn/zcwd04GXE1/1441.m3u8
+#EXTINF:-1,IT: DAZN 1 HD
+http://alblive.org:80/live/bgIwwjFfmn/zcwd04GXE1/4387.m3u8
+#EXTINF:-1,FR: BEIN SPORTS HD 1
+http://alblive.org:80/live/bgIwwjFfmn/zcwd04GXE1/144.m3u8
+#EXTINF:-1,FR: BEIN SPORTS HD 2
+http://alblive.org:80/live/bgIwwjFfmn/zcwd04GXE1/145.m3u8
+#EXTINF:-1,FR: RMC SPORT 1
+http://alblive.org:80/live/bgIwwjFfmn/zcwd04GXE1/149.m3u8
+#EXTINF:-1,FR: RMC SPORT 2
+http://alblive.org:80/live/bgIwwjFfmn/zcwd04GXE1/1601.m3u8
+#EXTINF:-1,FR: RMC SPORT 3
+http://alblive.org:80/live/bgIwwjFfmn/zcwd04GXE1/1597.m3u8
+#EXTINF:-1,NL: ZIGGO SPORT SELECT
+http://alblive.org:80/live/bgIwwjFfmn/zcwd04GXE1/1795.m3u8
+#EXTINF:-1,NL: ZIGGO SPORT VOETBALL
+http://alblive.org:80/live/bgIwwjFfmn/zcwd04GXE1/1807.m3u8
