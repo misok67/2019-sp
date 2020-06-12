@@ -1,42 +1,28 @@
 #EXTM3U
 
-#EXTINF:-1,ES: MOVISTAR DEPORTES 2 HD
-http://alblive.org:80/live/bgIwwjFfmn/zcwd04GXE1/1748.m3u8
-#EXTINF:-1,ES: TELEDEPORTE HD
-http://alblive.org:80/live/bgIwwjFfmn/zcwd04GXE1/3612.m3u8
-#EXTINF:-1,ES: MOVISTAR DEPORTES 1
-http://alblive.org:80/live/bgIwwjFfmn/zcwd04GXE1/1353.m3u8
-#EXTINF:-1,DE: SKY SPORT NEWS
-http://alblive.org:80/live/bgIwwjFfmn/zcwd04GXE1/1942.m3u8
-#EXTINF:-1,DE: SKY SPORT 1 HD
-http://alblive.org:80/live/bgIwwjFfmn/zcwd04GXE1/1943.m3u8
-#EXTINF:-1,DE: SKY SPORT 2 HD
-http://alblive.org:80/live/bgIwwjFfmn/zcwd04GXE1/1944.m3u8
-#EXTINF:-1,DE: DAZN 1
-http://alblive.org:80/live/bgIwwjFfmn/zcwd04GXE1/1565.m3u8
-#EXTINF:-1,DE: DAZN 2
-http://alblive.org:80/live/bgIwwjFfmn/zcwd04GXE1/1563.m3u8
-#EXTINF:-1,UK: BT SPORT 1
-http://alblive.org:80/live/bgIwwjFfmn/zcwd04GXE1/1561.m3u8
-#EXTINF:-1,UK: BT SPORT 2
-http://alblive.org:80/live/bgIwwjFfmn/zcwd04GXE1/1450.m3u8
-#EXTINF:-1,IT: SKY SPORT 1 FHD
-http://alblive.org:80/live/bgIwwjFfmn/zcwd04GXE1/1440.m3u8
-#EXTINF:-1,IT: SKY SPORT ARENA
-http://alblive.org:80/live/bgIwwjFfmn/zcwd04GXE1/1441.m3u8
-#EXTINF:-1,IT: DAZN 1 HD
-http://alblive.org:80/live/bgIwwjFfmn/zcwd04GXE1/4387.m3u8
-#EXTINF:-1,FR: BEIN SPORTS HD 1
-http://alblive.org:80/live/bgIwwjFfmn/zcwd04GXE1/144.m3u8
-#EXTINF:-1,FR: BEIN SPORTS HD 2
-http://alblive.org:80/live/bgIwwjFfmn/zcwd04GXE1/145.m3u8
-#EXTINF:-1,FR: RMC SPORT 1
-http://alblive.org:80/live/bgIwwjFfmn/zcwd04GXE1/149.m3u8
-#EXTINF:-1,FR: RMC SPORT 2
-http://alblive.org:80/live/bgIwwjFfmn/zcwd04GXE1/1601.m3u8
-#EXTINF:-1,FR: RMC SPORT 3
-http://alblive.org:80/live/bgIwwjFfmn/zcwd04GXE1/1597.m3u8
-#EXTINF:-1,NL: ZIGGO SPORT SELECT
-http://alblive.org:80/live/bgIwwjFfmn/zcwd04GXE1/1795.m3u8
-#EXTINF:-1,NL: ZIGGO SPORT VOETBALL
-http://alblive.org:80/live/bgIwwjFfmn/zcwd04GXE1/1807.m3u8
+#EXTINF:0,NBC SPORTS
+http://cdn.miip.tv:8080/live/canada/123456/50.m3u8
+#EXTINF:0,CBS SPORTS
+http://cdn.miip.tv:8080/live/canada/123456/51.m3u8
+#EXTINF:0,beIN Sports ٌ
+http://cdn.miip.tv:8080/live/canada/123456/53.m3u8
+#EXTINF:0,FOX SOCCER PLUS
+http://cdn.miip.tv:8080/live/canada/123456/55.m3u8
+#EXTINF:0,Fox Sport 1 Usa
+http://cdn.miip.tv:8080/live/canada/123456/537.m3u8
+#EXTINF:0,Fox Sport Usa 2
+http://cdn.miip.tv:8080/live/canada/123456/538.m3u8
+#EXTINF:0,BT SPORTS
+http://cdn.miip.tv:8080/live/canada/123456/3741.m3u8
+#EXTINF:0,BT SPORT 1
+http://cdn.miip.tv:8080/live/canada/123456/3742.m3u8
+#EXTINF:0,BT SPORT 2
+http://cdn.miip.tv:8080/live/canada/123456/3743.m3u8
+#EXTINF:0,BT SPORT 3
+http://cdn.miip.tv:8080/live/canada/123456/3744.m3u8
+#EXTINF:0,TNT SPORTS
+http://cdn.miip.tv:8080/live/canada/123456/4240.m3u8
+#EXTINF:0,DIRECTV SPORT 2
+http://cdn.miip.tv:8080/live/canada/123456/4236.m3u8
+#EXTINF:0,DIRECTV SPORT
+http://cdn.miip.tv:8080/live/canada/123456/4235.m3u8
