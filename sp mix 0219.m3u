@@ -1,28 +1,115 @@
 #EXTM3U
 
-#EXTINF:0,NBC SPORTS
-http://cdn.miip.tv:8080/live/canada/123456/50.m3u8
-#EXTINF:0,CBS SPORTS
-http://cdn.miip.tv:8080/live/canada/123456/51.m3u8
-#EXTINF:0,beIN Sports ٌ
-http://cdn.miip.tv:8080/live/canada/123456/53.m3u8
-#EXTINF:0,FOX SOCCER PLUS
-http://cdn.miip.tv:8080/live/canada/123456/55.m3u8
-#EXTINF:0,Fox Sport 1 Usa
-http://cdn.miip.tv:8080/live/canada/123456/537.m3u8
-#EXTINF:0,Fox Sport Usa 2
-http://cdn.miip.tv:8080/live/canada/123456/538.m3u8
-#EXTINF:0,BT SPORTS
-http://cdn.miip.tv:8080/live/canada/123456/3741.m3u8
-#EXTINF:0,BT SPORT 1
-http://cdn.miip.tv:8080/live/canada/123456/3742.m3u8
-#EXTINF:0,BT SPORT 2
-http://cdn.miip.tv:8080/live/canada/123456/3743.m3u8
-#EXTINF:0,BT SPORT 3
-http://cdn.miip.tv:8080/live/canada/123456/3744.m3u8
-#EXTINF:0,TNT SPORTS
-http://cdn.miip.tv:8080/live/canada/123456/4240.m3u8
-#EXTINF:0,DIRECTV SPORT 2
-http://cdn.miip.tv:8080/live/canada/123456/4236.m3u8
-#EXTINF:0,DIRECTV SPORT
-http://cdn.miip.tv:8080/live/canada/123456/4235.m3u8
+#EXTM3U
+#EXTINF:-1,Bein Sport 1 FHD
+http://almultakatv.com:25461/live/qot51T0DRYZ/wKrJ1YXcpuPP/857.m3u8
+#EXTINF:-1,Bein Sport 2 FHD
+http://almultakatv.com:25461/live/qot51T0DRYZ/wKrJ1YXcpuPP/858.m3u8
+#EXTINF:-1,Bein Sport 4 FHD
+http://almultakatv.com:25461/live/qot51T0DRYZ/wKrJ1YXcpuPP/860.m3u8
+#EXTINF:-1,Bein Sport 6 FHD
+http://almultakatv.com:25461/live/qot51T0DRYZ/wKrJ1YXcpuPP/862.m3u8
+#EXTINF:-1,Bein Sport 7 FHD
+http://almultakatv.com:25461/live/qot51T0DRYZ/wKrJ1YXcpuPP/863.m3u8
+#EXTINF:-1,Bein Sport 8 FHD
+http://almultakatv.com:25461/live/qot51T0DRYZ/wKrJ1YXcpuPP/864.m3u8
+#EXTINF:-1,Bein Sport  9 FHD
+http://almultakatv.com:25461/live/qot51T0DRYZ/wKrJ1YXcpuPP/865.m3u8
+#EXTINF:-1,Bein Sport 5 FHD
+http://almultakatv.com:25461/live/qot51T0DRYZ/wKrJ1YXcpuPP/861.m3u8
+#EXTINF:-1,Bein Sport 3 FHD
+http://almultakatv.com:25461/live/qot51T0DRYZ/wKrJ1YXcpuPP/859.m3u8
+#EXTINF:-1,Bein Sport  10 FHD
+http://almultakatv.com:25461/live/qot51T0DRYZ/wKrJ1YXcpuPP/866.m3u8
+#EXTINF:-1,S-Bein SPORTS HD 1
+http://almultakatv.com:25461/live/qot51T0DRYZ/wKrJ1YXcpuPP/838.m3u8
+#EXTINF:-1,S-Bein SPORTS HD 3
+http://almultakatv.com:25461/live/qot51T0DRYZ/wKrJ1YXcpuPP/840.m3u8
+#EXTINF:-1,S-Bein SPORTS HD 4
+http://almultakatv.com:25461/live/qot51T0DRYZ/wKrJ1YXcpuPP/841.m3u8
+#EXTINF:-1,S-Bein SPORTS HD 6
+http://almultakatv.com:25461/live/qot51T0DRYZ/wKrJ1YXcpuPP/842.m3u8
+#EXTINF:-1,S-Bein SPORTS HD 7
+http://almultakatv.com:25461/live/qot51T0DRYZ/wKrJ1YXcpuPP/843.m3u8
+#EXTINF:-1,S-Bein SPORTS HD 9
+http://almultakatv.com:25461/live/qot51T0DRYZ/wKrJ1YXcpuPP/845.m3u8
+#EXTINF:-1,S-Bein SPORTS HD 2
+http://almultakatv.com:25461/live/qot51T0DRYZ/wKrJ1YXcpuPP/839.m3u8
+#EXTINF:-1,S-Bein SPORTS HD 8
+http://almultakatv.com:25461/live/qot51T0DRYZ/wKrJ1YXcpuPP/844.m3u8
+#EXTINF:-1,S-Bein SPORTS HD 10
+http://almultakatv.com:25461/live/qot51T0DRYZ/wKrJ1YXcpuPP/846.m3u8
+#EXTINF:-1,BeinSports1
+http://almultakatv.com:25461/live/qot51T0DRYZ/wKrJ1YXcpuPP/837.m3u8
+#EXTINF:-1,BeinSports2
+http://almultakatv.com:25461/live/qot51T0DRYZ/wKrJ1YXcpuPP/836.m3u8
+#EXTINF:-1,BeinSports3
+http://almultakatv.com:25461/live/qot51T0DRYZ/wKrJ1YXcpuPP/835.m3u8
+#EXTINF:-1,BeinSports4
+http://almultakatv.com:25461/live/qot51T0DRYZ/wKrJ1YXcpuPP/834.m3u8
+#EXTINF:-1,BeinSports5
+http://almultakatv.com:25461/live/qot51T0DRYZ/wKrJ1YXcpuPP/833.m3u8
+#EXTINF:-1,BeinSports6
+http://almultakatv.com:25461/live/qot51T0DRYZ/wKrJ1YXcpuPP/832.m3u8
+#EXTINF:-1,BeinSports7
+http://almultakatv.com:25461/live/qot51T0DRYZ/wKrJ1YXcpuPP/831.m3u8
+#EXTINF:-1,BeinSports8
+http://almultakatv.com:25461/live/qot51T0DRYZ/wKrJ1YXcpuPP/830.m3u8
+#EXTINF:-1,BeinSports9
+http://almultakatv.com:25461/live/qot51T0DRYZ/wKrJ1YXcpuPP/829.m3u8
+#EXTINF:-1,BeinSports10
+http://almultakatv.com:25461/live/qot51T0DRYZ/wKrJ1YXcpuPP/828.m3u8
+#EXTINF:-1,S-Bein Sports 1 SD
+http://almultakatv.com:25461/live/qot51T0DRYZ/wKrJ1YXcpuPP/818.m3u8
+#EXTINF:-1,S-Bein Sports 10 SD
+http://almultakatv.com:25461/live/qot51T0DRYZ/wKrJ1YXcpuPP/827.m3u8
+#EXTINF:-1,S-Bein Sports 2 SD
+http://almultakatv.com:25461/live/qot51T0DRYZ/wKrJ1YXcpuPP/819.m3u8
+#EXTINF:-1,S-Bein Sports 3 SD
+http://almultakatv.com:25461/live/qot51T0DRYZ/wKrJ1YXcpuPP/820.m3u8
+#EXTINF:-1,S-Bein Sports 4 SD
+http://almultakatv.com:25461/live/qot51T0DRYZ/wKrJ1YXcpuPP/821.m3u8
+#EXTINF:-1,S-Bein Sports 5 SD
+http://almultakatv.com:25461/live/qot51T0DRYZ/wKrJ1YXcpuPP/822.m3u8
+#EXTINF:-1,S-Bein Sports 6 SD
+http://almultakatv.com:25461/live/qot51T0DRYZ/wKrJ1YXcpuPP/823.m3u8
+#EXTINF:-1,S-Bein Sports 8 SD
+http://almultakatv.com:25461/live/qot51T0DRYZ/wKrJ1YXcpuPP/825.m3u8
+#EXTINF:-1,S-Bein Sports 9 SD
+http://almultakatv.com:25461/live/qot51T0DRYZ/wKrJ1YXcpuPP/826.m3u8
+#EXTINF:-1,|FR| CANAL SPORT FIHD
+http://almultakatv.com:25461/live/qot51T0DRYZ/wKrJ1YXcpuPP/696.m3u8
+#EXTINF:-1,(FR) RMC Sport Live 1 HD
+http://almultakatv.com:25461/live/qot51T0DRYZ/wKrJ1YXcpuPP/743.m3u8
+#EXTINF:-1,(FR) RMC Sport Live 1
+http://almultakatv.com:25461/live/qot51T0DRYZ/wKrJ1YXcpuPP/744.m3u8
+#EXTINF:-1,(FR) RMC Sport Access 1 HD
+http://almultakatv.com:25461/live/qot51T0DRYZ/wKrJ1YXcpuPP/745.m3u8
+#EXTINF:-1,(FR) RMC Sport Live 2 HD
+http://almultakatv.com:25461/live/qot51T0DRYZ/wKrJ1YXcpuPP/746.m3u8
+#EXTINF:-1,(FR) RMC Sport Live 2
+http://almultakatv.com:25461/live/qot51T0DRYZ/wKrJ1YXcpuPP/747.m3u8
+#EXTINF:-1,(FR) RMC Sport Access 2 HD
+http://almultakatv.com:25461/live/qot51T0DRYZ/wKrJ1YXcpuPP/748.m3u8
+#EXTINF:-1,(FR) RMC Sport Live 3 HD
+http://almultakatv.com:25461/live/qot51T0DRYZ/wKrJ1YXcpuPP/749.m3u8
+#EXTINF:-1,Bein Sport  1 4K
+http://almultakatv.com:25461/live/qot51T0DRYZ/wKrJ1YXcpuPP/867.m3u8
+#EXTINF:-1,Bein Sport  2 4K
+http://almultakatv.com:25461/live/qot51T0DRYZ/wKrJ1YXcpuPP/868.m3u8
+#EXTINF:-1,Bein Sport  3 4K
+http://almultakatv.com:25461/live/qot51T0DRYZ/wKrJ1YXcpuPP/869.m3u8
+#EXTINF:-1,Bein Sport  4 4K
+http://almultakatv.com:25461/live/qot51T0DRYZ/wKrJ1YXcpuPP/870.m3u8
+#EXTINF:-1,Bein Sport  6 4K
+http://almultakatv.com:25461/live/qot51T0DRYZ/wKrJ1YXcpuPP/872.m3u8
+#EXTINF:-1,Bein Sport  8 4K
+http://almultakatv.com:25461/live/qot51T0DRYZ/wKrJ1YXcpuPP/874.m3u8
+#EXTINF:-1,Bein Sport  10 4K
+http://almultakatv.com:25461/live/qot51T0DRYZ/wKrJ1YXcpuPP/876.m3u8
+#EXTINF:-1,Bein Sport  5 4K
+http://almultakatv.com:25461/live/qot51T0DRYZ/wKrJ1YXcpuPP/871.m3u8
+#EXTINF:-1,Bein Sport  7 4K
+http://almultakatv.com:25461/live/qot51T0DRYZ/wKrJ1YXcpuPP/873.m3u8
+#EXTINF:-1,Bein Sport  9 4K
+http://almultakatv.com:25461/live/qot51T0DRYZ/wKrJ1YXcpuPP/875.m3u8 
