@@ -1,78 +1,232 @@
 #EXTM3U
 
-#EXTINF:-1,..B1..BEIN SPORTS 1 HD
-http://ottking-platinum.com:7788/live/samsung/samsung/1904.m3u8
-#EXTINF:-1,..B1..BEIN SPORTS 2 HD
-http://ottking-platinum.com:7788/live/samsung/samsung/1905.m3u8
-#EXTINF:-1,..B1..BEIN SPORTS 3 HD
-http://ottking-platinum.com:7788/live/samsung/samsung/1906.m3u8
-#EXTINF:-1,..B1..BEIN SPORTS 4 HD
-http://ottking-platinum.com:7788/live/samsung/samsung/1907.m3u8
-#EXTINF:-1,..B1..BEIN SPORTS 5 HD
-http://ottking-platinum.com:7788/live/samsung/samsung/1908.m3u8
-#EXTINF:-1,..B1..BEIN SPORTS 6 HD
-http://ottking-platinum.com:7788/live/samsung/samsung/1909.m3u8
-#EXTINF:-1,..B1..BEIN SPORTS 7 HD
-http://ottking-platinum.com:7788/live/samsung/samsung/1910.m3u8
-#EXTINF:-1,..B1..BEIN SPORTS 8 HD
-http://ottking-platinum.com:7788/live/samsung/samsung/1911.m3u8
-#EXTINF:-1,..B1..BEIN SPORTS 9 HD
-http://ottking-platinum.com:7788/live/samsung/samsung/1912.m3u8
-#EXTINF:-1,..B1..BEIN SPORTS 10 HD
-http://ottking-platinum.com:7788/live/samsung/samsung/1913.m3u8
-#EXTINF:-1,..B1..FR: BEIN SPORTS 1 HD
-http://ottking-platinum.com:7788/live/samsung/samsung/27407.m3u8
-#EXTINF:-1,..B1..FR: BEIN SPORTS 2 HD
-http://ottking-platinum.com:7788/live/samsung/samsung/27408.m3u8
-#EXTINF:-1,..B1..FR: BEIN SPORTS 3 HD
-http://ottking-platinum.com:7788/live/samsung/samsung/27409.m3u8
-#EXTINF:-1,..B1..FR: RMC SPORT 1
-http://ottking-platinum.com:7788/live/samsung/samsung/14630.m3u8
-#EXTINF:-1,..B1..FR: RMC SPORT 2
-http://ottking-platinum.com:7788/live/samsung/samsung/14631.m3u8
-#EXTINF:-1,..B1..FR: RMC SPORT 3
-http://ottking-platinum.com:7788/live/samsung/samsung/14632.m3u8
-#EXTINF:-1,..B1..ES: BEIN SPORTS HD
-http://ottking-platinum.com:7788/live/samsung/samsung/10003.m3u8
-#EXTINF:-1,..B1..|ES:BEIN SPORTS FHD
-http://ottking-platinum.com:7788/live/samsung/samsung/24738.m3u8
-#EXTINF:-1,..B1..|ES:M. DEPORTES 1 FHD
-http://ottking-platinum.com:7788/live/samsung/samsung/24780.m3u8
-#EXTINF:-1,..B1..|ES:M. DEPORTES 2 FHD
-http://ottking-platinum.com:7788/live/samsung/samsung/24781.m3u8
-#EXTINF:-1,..B1..|ES: LIGA DE CAMPEONES FHD
-http://ottking-platinum.com:7788/live/samsung/samsung/24807.m3u8
-#EXTINF:-1,..B1..|ES: LIGA CAMPEONES FHD
-http://ottking-platinum.com:7788/live/samsung/samsung/24808.m3u8
-#EXTINF:-1,..B1..NL: FOX SPORTS 3 HD
-http://ottking-platinum.com:7788/live/samsung/samsung/23050.m3u8
-#EXTINF:-1,..B1..NL: FOX SPORTS 5 HD
-http://ottking-platinum.com:7788/live/samsung/samsung/23051.m3u8
-#EXTINF:-1,..B1..NL: ZIGGO SPORT SELECT HD
-http://ottking-platinum.com:7788/live/samsung/samsung/23054.m3u8
-#EXTINF:-1,..B1..NL: ZIGGO SPORT VOETBAL HD
-http://ottking-platinum.com:7788/live/samsung/samsung/23055.m3u8
-#EXTINF:-1,..B1..IT: SKY SPORT FOOTBALL HD
-http://ottking-platinum.com:7788/live/samsung/samsung/32787.m3u8
-#EXTINF:-1,..B1..IT: SKY SPORT ARENA HD
-http://ottking-platinum.com:7788/live/samsung/samsung/32789.m3u8
-#EXTINF:-1,..B1..IT: SKY SUPER TENNIS HD
-http://ottking-platinum.com:7788/live/samsung/samsung/32795.m3u8
-#EXTINF:-1,..B1..US: FOX SPORTS 1
-http://ottking-platinum.com:7788/live/samsung/samsung/33080.m3u8
-#EXTINF:-1,..B1..US: FOX SPORTS 2
-http://ottking-platinum.com:7788/live/samsung/samsung/33081.m3u8
-#EXTINF:-1,..B1..UK: BT SPORT 1 HD
-http://ottking-platinum.com:7788/live/samsung/samsung/32390.m3u8
-#EXTINF:-1,..B1..UK: BT SPORT 2 HD
-http://ottking-platinum.com:7788/live/samsung/samsung/32391.m3u8
-#EXTINF:-1,..B1..UK: BT SPORT 3 HD
-http://ottking-platinum.com:7788/live/samsung/samsung/32392.m3u8
-#EXTINF:-1,..B1..UK: SKY SPORTS 1 HD
-http://ottking-platinum.com:7788/live/samsung/samsung/32445.m3u8
-#EXTINF:-1,..B1..UK: SKY SPORTS 2 HD
-http://ottking-platinum.com:7788/live/samsung/samsung/32446.m3u8
-#EXTINF:-1,..B1..UK: SKY SPORTS 3 HD
-http://ottking-platinum.com:7788/live/samsung/samsung/32447.m3u8
-#EXTINF:-1,..B1..UK: SKY SPORTS 4 HD
-http://ottking-platinum.com:7788/live/samsung/samsung/32448.m3u8
+#EXTINF:-1,EX-YU: ARENA SPORT 1 (SR)
+http://iptvgold.org:25461/oumlil75/esNUlsddgi/47848
+#EXTINF:-1,EX-YU: Arena Sport 2 HR
+http://iptvgold.org:25461/oumlil75/esNUlsddgi/914
+#EXTINF:-1,EX-YU: ARENA SPORT 2 (SR)
+http://iptvgold.org:25461/oumlil75/esNUlsddgi/47847
+#EXTINF:-1,EX-YU: Arena Sport 3 HR
+http://iptvgold.org:25461/oumlil75/esNUlsddgi/912
+#EXTINF:-1,EX-YU: ARENA SPORT 3 (SR)
+http://iptvgold.org:25461/oumlil75/esNUlsddgi/47846
+#EXTINF:-1,EX-YU: Arena Sport 4 HR
+http://iptvgold.org:25461/oumlil75/esNUlsddgi/910
+#EXTINF:-1,EX-YU: ARENA SPORT 4 (SR)
+http://iptvgold.org:25461/oumlil75/esNUlsddgi/47845
+#EXTINF:-1,EX-YU: Arena Sport 5 HR
+http://iptvgold.org:25461/oumlil75/esNUlsddgi/908
+#EXTINF:-1,EX-YU: ARENA SPORT 5 (SR)
+http://iptvgold.org:25461/oumlil75/esNUlsddgi/47844
+#EXTINF:-1,EX-YU: Eurosport 1
+http://iptvgold.org:25461/oumlil75/esNUlsddgi/892
+#EXTINF:-1,EX-YU: Eurosport 2
+http://iptvgold.org:25461/oumlil75/esNUlsddgi/891
+#EXTINF:-1,EX YU: SPORT KLUB 1
+http://iptvgold.org:25461/oumlil75/esNUlsddgi/904
+#EXTINF:-1,EX YU: SPORT KLUB 2
+http://iptvgold.org:25461/oumlil75/esNUlsddgi/903
+#EXTINF:-1,EX YU: SPORT KLUB 3
+http://iptvgold.org:25461/oumlil75/esNUlsddgi/902
+#EXTINF:-1,EX-YU: SPORT KLUB 4
+http://iptvgold.org:25461/oumlil75/esNUlsddgi/47834
+#EXTINF:0,Band Sports HD
+http://srv.maxptv.net:8080/live/marco26/marco26/221.m3u8
+#EXTINF:0,Band Sports SD
+http://srv.maxptv.net:8080/live/marco26/marco26/220.m3u8
+#EXTINF:0,Fox Sports 2 HD
+http://srv.maxptv.net:8080/live/marco26/marco26/529.m3u8
+#EXTINF:0,Fox Sports 2 SD
+http://srv.maxptv.net:8080/live/marco26/marco26/148.m3u8
+#EXTINF:0,Fox Sports HD
+http://srv.maxptv.net:8080/live/marco26/marco26/147.m3u8
+#EXTINF:0,Fox Sports SD
+http://srv.maxptv.net:8080/live/marco26/marco26/146.m3u8
+#EXTINF:0,SporTV HD
+http://srv.maxptv.net:8080/live/marco26/marco26/49.m3u8
+#EXTINF:0,SporTV SD
+http://srv.maxptv.net:8080/live/marco26/marco26/48.m3u8
+#EXTINF:0,SporTV2 HD
+http://srv.maxptv.net:8080/live/marco26/marco26/47.m3u8
+#EXTINF:0,SporTV2 SD
+http://srv.maxptv.net:8080/live/marco26/marco26/46.m3u8
+#EXTINF:0,SporTV3 HD
+http://srv.maxptv.net:8080/live/marco26/marco26/45.m3u8
+#EXTINF:0,SporTV3 SD
+http://srv.maxptv.net:8080/live/marco26/marco26/44.m3u8
+
+#EXTINF:-1,DE: DAZN 1 Bar HD (H265)
+http://85.187.16.3:8889/play/a01s
+#EXTINF:-1,DE: DAZN 2 Bar HD (H265)
+http://85.187.16.3:8889/play/a01t
+#EXTINF:-1,DE: Sky Sport 1 HD (H265)
+http://85.187.16.3:8889/play/a01u
+#EXTINF:-1,DE: Sky Sport 2 HD (H265)
+http://85.187.16.3:8889/play/a01w
+#EXTINF:-1,DE: Sky Sport Bundesliga 1 HD (H265)
+http://85.187.16.3:8889/play/a01x
+#EXTINF:-1,NL: FOX Sports 4 HD H265
+http://85.187.16.3:8889/play/a010
+#EXTINF:-1,NL: Ziggo Sport Select HD H265
+http://85.187.16.3:8889/play/a011
+
+#EXTINF:-1,SKY SPORTS MAIN EVENT FHD
+http://wearemuttsnuts.for-more.biz:8080/live/Leeannboy/20masonstv20/1339.m3u8
+#EXTINF:-1,SKY SPORTS MAIN EVENT HD
+http://wearemuttsnuts.for-more.biz:8080/live/Leeannboy/20masonstv20/1224.m3u8
+#EXTINF:-1,SKY SPORTS PREMIER LEAGUE FHD
+http://wearemuttsnuts.for-more.biz:8080/live/Leeannboy/20masonstv20/1322.m3u8
+#EXTINF:-1, SKY SPORTS PREMIER LEAGUE HD
+http://wearemuttsnuts.for-more.biz:8080/live/Leeannboy/20masonstv20/1349.m3u8
+#EXTINF:-1,BT SPORTS 1 FHD
+http://wearemuttsnuts.for-more.biz:8080/live/Leeannboy/20masonstv20/1253.m3u8
+#EXTINF:-1, BT SPORTS 1 HD
+http://wearemuttsnuts.for-more.biz:8080/live/Leeannboy/20masonstv20/1173.m3u8
+#EXTINF:-1, BT SPORTS  2 FHD
+http://wearemuttsnuts.for-more.biz:8080/live/Leeannboy/20masonstv20/1252.m3u8
+#EXTINF:-1,BT SPORTS 3 FHD
+http://wearemuttsnuts.for-more.biz:8080/live/Leeannboy/20masonstv20/1254.m3u8
+#EXTINF:-1, BT SPORTS ESPN FHD
+http://wearemuttsnuts.for-more.biz:8080/live/Leeannboy/20masonstv20/1255.m3u8
+#EXTINF:-1,AR: BEIN SPORTS 1 HD
+http://wearemuttsnuts.for-more.biz:8080/live/Leeannboy/20masonstv20/27168.m3u8
+#EXTINF:-1,AR: BEIN SPORTS 2 HD
+http://wearemuttsnuts.for-more.biz:8080/live/Leeannboy/20masonstv20/27169.m3u8
+#EXTINF:-1,AR: BEIN SPORTS 3 HD
+http://wearemuttsnuts.for-more.biz:8080/live/Leeannboy/20masonstv20/27170.m3u8
+#EXTINF:-1,AR: BEIN SPORTS 4 HD
+http://wearemuttsnuts.for-more.biz:8080/live/Leeannboy/20masonstv20/27171.m3u8
+#EXTINF:-1,AR: BEIN SPORTS 5 HD
+http://wearemuttsnuts.for-more.biz:8080/live/Leeannboy/20masonstv20/27172.m3u8
+#EXTINF:-1,AR: BEIN SPORTS 6 HD
+http://wearemuttsnuts.for-more.biz:8080/live/Leeannboy/20masonstv20/27173.m3u8
+#EXTINF:-1,AR: BEIN SPORTS 7 HD
+http://wearemuttsnuts.for-more.biz:8080/live/Leeannboy/20masonstv20/27174.m3u8
+#EXTINF:-1,AR: BEIN SPORTS 8 HD
+http://wearemuttsnuts.for-more.biz:8080/live/Leeannboy/20masonstv20/27175.m3u8
+#EXTINF:-1,AR: BEIN SPORTS 9 HD
+http://wearemuttsnuts.for-more.biz:8080/live/Leeannboy/20masonstv20/27176.m3u8
+#EXTINF:-1,AR: BEIN SPORTS 10 HD
+http://wearemuttsnuts.for-more.biz:8080/live/Leeannboy/20masonstv20/27177.m3u8
+#EXTINF:-1,AR: BEIN SPORTS 11 FHD
+http://wearemuttsnuts.for-more.biz:8080/live/Leeannboy/20masonstv20/27178.m3u8
+#EXTINF:-1,AR: BEIN SPORTS 11 FHD (BACK UP)
+http://wearemuttsnuts.for-more.biz:8080/live/Leeannboy/20masonstv20/152079.m3u8
+#EXTINF:-1,AR: BEIN SPORTS 12 HD
+http://wearemuttsnuts.for-more.biz:8080/live/Leeannboy/20masonstv20/27179.m3u8
+#EXTINF:-1,USA: FOX SPORTS 1 HD
+http://wearemuttsnuts.for-more.biz:8080/live/Leeannboy/20masonstv20/170565.m3u8
+#EXTINF:-1,USA: FOX SPORTS 2 HD
+http://wearemuttsnuts.for-more.biz:8080/live/Leeannboy/20masonstv20/170566.m3u8
+#EXTINF:-1,NL: FOX SPORTS 3 FHD
+http://wearemuttsnuts.for-more.biz:8080/live/Leeannboy/20masonstv20/85876.m3u8
+#EXTINF:-1,NL: FOX SPORTS 3 HD
+http://wearemuttsnuts.for-more.biz:8080/live/Leeannboy/20masonstv20/85877.m3u8
+#EXTINF:-1,NL: FOX SPORTS 4 FHD
+http://wearemuttsnuts.for-more.biz:8080/live/Leeannboy/20masonstv20/85878.m3u8
+#EXTINF:-1,NL: FOX SPORTS 4 HD
+http://wearemuttsnuts.for-more.biz:8080/live/Leeannboy/20masonstv20/85879.m3u8
+#EXTINF:-1,NL: FOX SPORTS 5 FHD
+http://wearemuttsnuts.for-more.biz:8080/live/Leeannboy/20masonstv20/85880.m3u8
+#EXTINF:-1,NL: FOX SPORTS 5 HD
+http://wearemuttsnuts.for-more.biz:8080/live/Leeannboy/20masonstv20/85881.m3u8
+#EXTINF:-1,NL: FOX SPORTS 6 FHD
+http://wearemuttsnuts.for-more.biz:8080/live/Leeannboy/20masonstv20/85882.m3u8
+#EXTINF:-1,NL: FOX SPORTS 6 HD
+http://wearemuttsnuts.for-more.biz:8080/live/Leeannboy/20masonstv20/85883.m3u8
+#EXTINF:-1,NL: ZIGGO SPORT VOETBAL FHD
+http://wearemuttsnuts.for-more.biz:8080/live/Leeannboy/20masonstv20/85884.m3u8
+#EXTINF:-1,NL: ZIGGO SPORT VOETBAL HD
+http://wearemuttsnuts.for-more.biz:8080/live/Leeannboy/20masonstv20/85885.m3u8
+#EXTINF:-1,NL: ZIGGO SPORT SELECT FHD
+http://wearemuttsnuts.for-more.biz:8080/live/Leeannboy/20masonstv20/85886.m3u8
+#EXTINF:-1,NL: ZIGGO SPORT SELECT HD
+http://wearemuttsnuts.for-more.biz:8080/live/Leeannboy/20masonstv20/85887.m3u8
+#EXTINF:-1,FR: BEIN SPORTS 1 HD
+http://wearemuttsnuts.for-more.biz:8080/live/Leeannboy/20masonstv20/168297.m3u8
+#EXTINF:-1,FR: BEIN SPORTS 2 HD
+http://wearemuttsnuts.for-more.biz:8080/live/Leeannboy/20masonstv20/168298.m3u8
+#EXTINF:-1,DE: DAZN BAR 1 HD
+http://wearemuttsnuts.for-more.biz:8080/live/Leeannboy/20masonstv20/165166.m3u8
+#EXTINF:-1,DE: DAZN BAR 2 HD
+http://wearemuttsnuts.for-more.biz:8080/live/Leeannboy/20masonstv20/165167.m3u8
+#EXTINF:-1,DE: SKY SPORT 1 HD
+http://wearemuttsnuts.for-more.biz:8080/live/Leeannboy/20masonstv20/165236.m3u8
+#EXTINF:-1,DE: SKY SPORT 2 HD
+http://wearemuttsnuts.for-more.biz:8080/live/Leeannboy/20masonstv20/165237.m3u8
+#EXTINF:-1,DE: SKY SPORT BUNDESLIGA 1 HD
+http://wearemuttsnuts.for-more.biz:8080/live/Leeannboy/20masonstv20/165243.m3u8
+
+EXTINF:-1,..B1..RMC SPORT 1
+http://h2.dimapro.cz:8080/live/N2vdf6yju0/LflBfKJ5AN/541.m3u8
+EXTINF:-1,..B1..RMC SPORT 2
+http://h2.dimapro.cz:8080/live/N2vdf6yju0/LflBfKJ5AN/540.m3u8
+EXTINF:-1,..B1..RMC SPORT 3
+http://h2.dimapro.cz:8080/live/N2vdf6yju0/LflBfKJ5AN/539.m3u8
+EXTINF:-1,..B1..BEIN SPORTS 11HD
+http://h2.dimapro.cz:8080/live/N2vdf6yju0/LflBfKJ5AN/663.m3u8
+EXTINF:-1,..B1..BEIN SPORTS 12HD
+http://h2.dimapro.cz:8080/live/N2vdf6yju0/LflBfKJ5AN/662.m3u8
+EXTINF:-1,..B1..BEIN SPORTS 13HD
+http://h2.dimapro.cz:8080/live/N2vdf6yju0/LflBfKJ5AN/661.m3u8
+EXTINF:-1,..B1..M LIGA DE CAMPEONES HD
+http://h2.dimapro.cz:8080/live/N2vdf6yju0/LflBfKJ5AN/38440.m3u8
+EXTINF:-1,..B1..M. LIGA DE CAMPEONES 1 HD (SOLO EVENTOS)
+http://h2.dimapro.cz:8080/live/N2vdf6yju0/LflBfKJ5AN/38441.m3u8
+EXTINF:-1,..B1..M. LIGA DE CAMPEONES 2  HD (SOLO EVENTOS)
+http://h2.dimapro.cz:8080/live/N2vdf6yju0/LflBfKJ5AN/38442.m3u8
+EXTINF:-1,..B1..TELEDEPORTE
+http://h2.dimapro.cz:8080/live/N2vdf6yju0/LflBfKJ5AN/38450.m3u8
+EXTINF:-1,..B1..M. DEPORTE 1 HD
+http://h2.dimapro.cz:8080/live/N2vdf6yju0/LflBfKJ5AN/38451.m3u8
+EXTINF:-1,..B1..M. DEPORTE 2 HD
+http://h2.dimapro.cz:8080/live/N2vdf6yju0/LflBfKJ5AN/38452.m3u8
+EXTINF:-1,..B1..BEIN SPORTS HD
+http://h2.dimapro.cz:8080/live/N2vdf6yju0/LflBfKJ5AN/38463.m3u8
+EXTINF:-1,..B1..DAZN 1
+http://h2.dimapro.cz:8080/live/N2vdf6yju0/LflBfKJ5AN/38469.m3u8
+EXTINF:-1,..B1..DAZN 2
+http://h2.dimapro.cz:8080/live/N2vdf6yju0/LflBfKJ5AN/38470.m3u8
+EXTINF:-1,..B1..BT SPORTS 1 | HD
+http://h2.dimapro.cz:8080/live/N2vdf6yju0/LflBfKJ5AN/38642.m3u8
+EXTINF:-1,..B1..BT SPORTS 2 | HD
+http://h2.dimapro.cz:8080/live/N2vdf6yju0/LflBfKJ5AN/38643.m3u8
+EXTINF:-1,..B1..BT SPORTS 3 | HD
+http://h2.dimapro.cz:8080/live/N2vdf6yju0/LflBfKJ5AN/38644.m3u8
+EXTINF:-1,..B1..SKY SPORT NEWS
+EXTINF:-1,..B1..SKY SPORT MAIN EVENT
+http://h2.dimapro.cz:8080/live/N2vdf6yju0/LflBfKJ5AN/38650.m3u8
+EXTINF:-1,..B1..SKY SPORT PREMIER LEAGUE
+http://h2.dimapro.cz:8080/live/N2vdf6yju0/LflBfKJ5AN/38652.m3u8
+EXTINF:-1,..B1..FOX SPORTS
+http://h2.dimapro.cz:8080/live/N2vdf6yju0/LflBfKJ5AN/18349.m3u8
+EXTINF:-1,..B1..SKY SPORT ARENA HD
+http://h2.dimapro.cz:8080/live/N2vdf6yju0/LflBfKJ5AN/18415.m3u8
+EXTINF:-1,..B1..SKY SPORT UNO
+http://h2.dimapro.cz:8080/live/N2vdf6yju0/LflBfKJ5AN/18417.m3u8
+EXTINF:-1,..B1..SUPER TENNIS HD
+http://h2.dimapro.cz:8080/live/N2vdf6yju0/LflBfKJ5AN/18399.m3u8
+EXTINF:-1,..B1..FOX SPORT 3
+http://h2.dimapro.cz:8080/live/N2vdf6yju0/LflBfKJ5AN/18527.m3u8
+EXTINF:-1,..B1..FOX SPORT 4
+http://h2.dimapro.cz:8080/live/N2vdf6yju0/LflBfKJ5AN/18526.m3u8
+EXTINF:-1,..B1..FOX SPORT 5
+http://h2.dimapro.cz:8080/live/N2vdf6yju0/LflBfKJ5AN/18525.m3u8
+EXTINF:-1,..B1..FOX SPORT 6
+http://h2.dimapro.cz:8080/live/N2vdf6yju0/LflBfKJ5AN/18524.m3u8
+EXTINF:-1,..B1..ZIGGO SPORT SELECT HD
+http://h2.dimapro.cz:8080/live/N2vdf6yju0/LflBfKJ5AN/18467.m3u8
+EXTINF:-1,..B1..ZIGGO SPORT VOETBAL
+http://h2.dimapro.cz:8080/live/N2vdf6yju0/LflBfKJ5AN/18466.m3u8
+EXTINF:-1,..B1..DAZN 1 BAR HD
+http://h2.dimapro.cz:8080/live/N2vdf6yju0/LflBfKJ5AN/39051.m3u8
+EXTINF:-1,..B1..DAZN 2 BAR HD
+http://h2.dimapro.cz:8080/live/N2vdf6yju0/LflBfKJ5AN/39052.m3u8
+EXTINF:-1,..B1..SKY SPORT NEWS HD
+http://h2.dimapro.cz:8080/live/N2vdf6yju0/LflBfKJ5AN/38891.m3u8
+EXTINF:-1,..B1..SKY SPORT 1 HD
+http://h2.dimapro.cz:8080/live/N2vdf6yju0/LflBfKJ5AN/38892.m3u8
+EXTINF:-1,..B1..SKY SPORT 2 HD
+http://h2.dimapro.cz:8080/live/N2vdf6yju0/LflBfKJ5AN/38893.m3u8
+EXTINF:-1,..B1..TENNIS CHANNEL HD
+http://h2.dimapro.cz:8080/live/N2vdf6yju0/LflBfKJ5AN/39094.m3u8
