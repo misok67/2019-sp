@@ -1,113 +1,22 @@
 #EXTM3U
 
-#EXTINF:-1,ARENA SPORT 1
-http://tv.nova-iptv.com:80/live/EDE/EDE123/495.m3u8
-#EXTINF:-1,ARENA SPORT 2
-http://tv.nova-iptv.com:80/live/EDE/EDE123/494.m3u8
-#EXTINF:-1,ARENA SPORT 3
-http://tv.nova-iptv.com:80/live/EDE/EDE123/493.m3u8
-#EXTINF:-1,ARENA SPORT 4
-http://tv.nova-iptv.com:80/live/EDE/EDE123/492.m3u8
-#EXTINF:-1,ARENA SPORT 5
-http://tv.nova-iptv.com:80/live/EDE/EDE123/491.m3u8
-#EXTINF:-1,ARENA SPORT 1 HD HR
-http://tv.nova-iptv.com:80/live/EDE/EDE123/486.m3u8
-#EXTINF:-1,ARENA SPORT 2 HD HR
-http://tv.nova-iptv.com:80/live/EDE/EDE123/485.m3u8
-#EXTINF:-1,ARENA SPORT 3 HD HR
-http://tv.nova-iptv.com:80/live/EDE/EDE123/484.m3u8
-#EXTINF:-1,ARENA SPORT 4 HD HR
-http://tv.nova-iptv.com:80/live/EDE/EDE123/483.m3u8
-#EXTINF:-1,ARENA SPORT 5 HD HR
-http://tv.nova-iptv.com:80/live/EDE/EDE123/482.m3u8
-#EXTINF:-1,ARENA SPORT 6 HD HR
-http://tv.nova-iptv.com:80/live/EDE/EDE123/481.m3u8
-#EXTINF:-1,DAZN 1 HD
-http://tv.nova-iptv.com:80/live/EDE/EDE123/5541.m3u8
-#EXTINF:-1,DAZN 2 HD
-http://tv.nova-iptv.com:80/live/EDE/EDE123/5542.m3u8
-#EXTINF:-1,SKY SPORT 1 HD DE
-http://tv.nova-iptv.com:80/live/EDE/EDE123/290.m3u8
-#EXTINF:-1,SKY SPORT 2 HD DE
-http://tv.nova-iptv.com:80/live/EDE/EDE123/289.m3u8
-#EXTINF:-1,FOX SPORTS 1
-http://tv.nova-iptv.com:80/live/EDE/EDE123/471.m3u8
-#EXTINF:-1,FOX SPORTS 2
-http://tv.nova-iptv.com:80/live/EDE/EDE123/470.m3u8
-#EXTINF:-1,BT SPORT 1
-http://tv.nova-iptv.com:80/live/EDE/EDE123/474.m3u8
-#EXTINF:-1,BT SPORT 2
-http://tv.nova-iptv.com:80/live/EDE/EDE123/473.m3u8
-#EXTINF:-1,BT SPORT 3
-http://tv.nova-iptv.com:80/live/EDE/EDE123/472.m3u8
-
-#EXTINF:-1,..B1..SP: M. LIGA DE CAMPEONES HD
-http://dna-iptv.com:999/live/SoZSdjBSan/KMZMfAIKxD/5983.m3u8
-#EXTINF:-1,..B1..SP: M. LIGA DE CAMPEONES
-http://dna-iptv.com:999/live/SoZSdjBSan/KMZMfAIKxD/587.m3u8
-#EXTINF:-1,..B1..SP: M. DEPORTES 1 HD
-http://dna-iptv.com:999/live/SoZSdjBSan/KMZMfAIKxD/13600.m3u8
-#EXTINF:-1,..B1..SP: M.  DEPORTES 1
-http://dna-iptv.com:999/live/SoZSdjBSan/KMZMfAIKxD/419.m3u8
-#EXTINF:-1,..B1..SP: M. DEPORTES 2
-http://dna-iptv.com:999/live/SoZSdjBSan/KMZMfAIKxD/7197.m3u8
-#EXTINF:-1,..B1..USA: BEIN SPORTS HD
-http://dna-iptv.com:999/live/SoZSdjBSan/KMZMfAIKxD/31160.m3u8
-#EXTINF:-1,..B1..USA: BEIN SPORTS  FHD
-http://dna-iptv.com:999/live/SoZSdjBSan/KMZMfAIKxD/31141.m3u8
-#EXTINF:-1,..B1..USA: ESPN DEPORTES
-http://dna-iptv.com:999/live/SoZSdjBSan/KMZMfAIKxD/31238.m3u8
-#EXTINF:-1,..B1..USA: FOX SPORTS 1 HD
-http://dna-iptv.com:999/live/SoZSdjBSan/KMZMfAIKxD/31218.m3u8
-#EXTINF:-1,..B1..USA: FOX SPORTS 1 FHD
-http://dna-iptv.com:999/live/SoZSdjBSan/KMZMfAIKxD/31135.m3u8
-#EXTINF:-1,..B1..USA: FOX SPORTS 2 HD
-http://dna-iptv.com:999/live/SoZSdjBSan/KMZMfAIKxD/31217.m3u8
-#EXTINF:-1,..B1..USA: BT SPORTS 1 HD-GB
-http://dna-iptv.com:999/live/SoZSdjBSan/KMZMfAIKxD/31157.m3u8
-#EXTINF:-1,..B1..USA: BT SPORTS 2 HD-GB
-http://dna-iptv.com:999/live/SoZSdjBSan/KMZMfAIKxD/31156.m3u8
-#EXTINF:-1,..B1..USA: BT SPORTS 3 HD-GB
-http://dna-iptv.com:999/live/SoZSdjBSan/KMZMfAIKxD/31155.m3u8
-#EXTINF:-1,..B1..USA: SKY SPORTS MAIN EVENTS HD-GB
-http://dna-iptv.com:999/live/SoZSdjBSan/KMZMfAIKxD/31146.m3u8
-#EXTINF:-1,..B1..USA: SKY SPORTS PREMIER LEAGUE HD-GB
-http://dna-iptv.com:999/live/SoZSdjBSan/KMZMfAIKxD/31150.m3u8
-#EXTINF:-1,..B1..UK: SKY SPORTS F1 HD
-http://dna-iptv.com:999/live/SoZSdjBSan/KMZMfAIKxD/16897.m3u8
-#EXTINF:-1,..B1..UK: BT SPORT 1
-http://dna-iptv.com:999/live/SoZSdjBSan/KMZMfAIKxD/1028.m3u8
-#EXTINF:-1,..B1..UK: BT SPORT 1 HD
-http://dna-iptv.com:999/live/SoZSdjBSan/KMZMfAIKxD/9300.m3u8
-#EXTINF:-1,..B1..UK: BT SPORT 1 FHD
-http://dna-iptv.com:999/live/SoZSdjBSan/KMZMfAIKxD/16898.m3u8
-#EXTINF:-1,..B1..UK: BT SPORT 2 HD
-http://dna-iptv.com:999/live/SoZSdjBSan/KMZMfAIKxD/1029.m3u8
-#EXTINF:-1,..B1..DE: DAZN 1
-http://dna-iptv.com:999/live/SoZSdjBSan/KMZMfAIKxD/53387.m3u8
-#EXTINF:-1,..B1..DE: DAZN 2
-http://dna-iptv.com:999/live/SoZSdjBSan/KMZMfAIKxD/53386.m3u8
-#EXTINF:-1,..B1..DE: SKY SPORT 2 HD
-http://dna-iptv.com:999/live/SoZSdjBSan/KMZMfAIKxD/45684.m3u8
-#EXTINF:-1,..B1..NL: FOX SPORTS4
-http://dna-iptv.com:999/live/SoZSdjBSan/KMZMfAIKxD/26094.m3u8
-#EXTINF:-1,..B1..NL: FOX SPORTS5
-http://dna-iptv.com:999/live/SoZSdjBSan/KMZMfAIKxD/26093.m3u8
-#EXTINF:-1,..B1..NL: FOX SPORTS6
-http://dna-iptv.com:999/live/SoZSdjBSan/KMZMfAIKxD/26092.m3u8
-#EXTINF:-1,..B1..SPORT: BEIN SPORTS 1 HD
-http://dna-iptv.com:999/live/SoZSdjBSan/KMZMfAIKxD/1063.m3u8
-#EXTINF:-1,..B1..SPORT: BEIN SPORTS 3 HD
-http://dna-iptv.com:999/live/SoZSdjBSan/KMZMfAIKxD/1065.m3u8
-#EXTINF:-1,..B1..SPORT: BEIN SPORTS 4 HD
-http://dna-iptv.com:999/live/SoZSdjBSan/KMZMfAIKxD/1066.m3u8
-#EXTINF:-1,..B1..SPORT: BEIN SPORTS 6 HD
-http://dna-iptv.com:999/live/SoZSdjBSan/KMZMfAIKxD/1068.m3u8
-#EXTINF:-1,..B1..SPORT: BEIN SPORTS 8 HD
-http://dna-iptv.com:999/live/SoZSdjBSan/KMZMfAIKxD/1070.m3u8
-#EXTINF:-1,..B1..SPORT: BEIN SPORTS 12 HD (ENGLISH)
-http://dna-iptv.com:999/live/SoZSdjBSan/KMZMfAIKxD/4385.m3u8
-#EXTINF:-1,..B1..IT: SKY SPORT 1 HD
-http://dna-iptv.com:999/live/SoZSdjBSan/KMZMfAIKxD/75719.m3u8
-#EXTINF:-1,..B1..EX-YU: SPORT KLUB 1 HR
-http://dna-iptv.com:999/live/SoZSdjBSan/KMZMfAIKxD/7319.m3u8
+#EXTINF:-1,RMC Sport 1 HD
+http://jockeriptv.com:8080/live/navaro/navaro/622.m3u8
+#EXTINF:-1,BEIN SPORT 11 HD
+http://jockeriptv.com:8080/live/navaro/navaro/34.m3u8
+#EXTINF:-1,SKY SPORT 1 HD
+http://jockeriptv.com:8080/live/navaro/navaro/15682.m3u8
+#EXTINF:-1,BeIN_Sport_11_SD
+http://jockeriptv.com:8080/live/navaro/navaro/48.m3u8
+#EXTINF:-1,UK: BT SPORT 1
+http://ingrid.ltd:25461/live/Juan123456/Juan123456/3399.m3u8
+#EXTINF:-1,Arabic: Bein Sports 11 HD (English)
+http://ingrid.ltd:25461/live/Juan123456/Juan123456/23102.m3u8
+#EXTINF:-1,ES: Movistar Liga de Campeones 1 FHD
+http://ingrid.ltd:25461/live/Juan123456/Juan123456/39955.m3u8
+#EXTINF:-1,ES: Movistar Liga de Campeones 1 HD
+http://ingrid.ltd:25461/live/Juan123456/Juan123456/39954.m3u8
+#EXTINF:-1,ZIGGO SPORT SELECT HD
+http://visionmedaitv.nl:7444/live/TimesHiftFlussonic/hPgOmwOORa/229.ts
+#EXTINF:-1,ZIGGO SPORT VOETBAL HD
+http://visionmedaitv.nl:7444/live/TimesHiftFlussonic/hPgOmwOORa/230.ts
