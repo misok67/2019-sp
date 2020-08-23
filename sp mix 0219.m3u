@@ -1,22 +1,57 @@
 #EXTM3U
 
-#EXTINF:-1,RMC Sport 1 HD
-http://jockeriptv.com:8080/live/navaro/navaro/622.m3u8
-#EXTINF:-1,BEIN SPORT 11 HD
-http://jockeriptv.com:8080/live/navaro/navaro/34.m3u8
-#EXTINF:-1,SKY SPORT 1 HD
-http://jockeriptv.com:8080/live/navaro/navaro/15682.m3u8
-#EXTINF:-1,BeIN_Sport_11_SD
-http://jockeriptv.com:8080/live/navaro/navaro/48.m3u8
+#EXTINF:-1,DE: DAZN 1 FHD
+http://beyondstreamz.net:25461/live/Ouiga/779393/174761.m3u8
+#EXTINF:-1,DE: DAZN 2 FHD
+http://beyondstreamz.net:25461/live/Ouiga/779393/174762.m3u8
+#EXTINF:-1,VIP BT SPORT 1 UHD
+http://beyondstreamz.net:25461/live/Ouiga/779393/174763.m3u8
+#EXTINF:-1,ES: MOVISTAR LCAMPEONES HD
+http://beyondstreamz.net:25461/live/Ouiga/779393/142337.m3u8
+#EXTINF:-1,UK: BEIN SPORTS 11
+http://beyondstreamz.net:25461/live/Ouiga/779393/163377.m3u8
 #EXTINF:-1,UK: BT SPORT 1
-http://ingrid.ltd:25461/live/Juan123456/Juan123456/3399.m3u8
-#EXTINF:-1,Arabic: Bein Sports 11 HD (English)
-http://ingrid.ltd:25461/live/Juan123456/Juan123456/23102.m3u8
-#EXTINF:-1,ES: Movistar Liga de Campeones 1 FHD
-http://ingrid.ltd:25461/live/Juan123456/Juan123456/39955.m3u8
-#EXTINF:-1,ES: Movistar Liga de Campeones 1 HD
-http://ingrid.ltd:25461/live/Juan123456/Juan123456/39954.m3u8
-#EXTINF:-1,ZIGGO SPORT SELECT HD
-http://visionmedaitv.nl:7444/live/TimesHiftFlussonic/hPgOmwOORa/229.ts
-#EXTINF:-1,ZIGGO SPORT VOETBAL HD
-http://visionmedaitv.nl:7444/live/TimesHiftFlussonic/hPgOmwOORa/230.ts
+http://beyondstreamz.net:25461/live/Ouiga/779393/163378.m3u8
+
+#EXTINF:-1,USA: BEIN SPORTS
+http://beyondstreamz.net:25461/live/Ouiga/779393/122076.m3u8
+#EXTINF:-1,USA: TENNIS CHANNEL
+http://beyondstreamz.net:25461/live/Ouiga/779393/122154.m3u8
+#EXTINF:-1,ES: MOVISTAR DEPORTES 1 HD
+http://beyondstreamz.net:25461/live/Ouiga/779393/142320.m3u8
+#EXTINF:-1,ES: MOVISTAR DEPORTES 2 HD
+http://beyondstreamz.net:25461/live/Ouiga/779393/142321.m3u8
+#EXTINF:-1,ES: MOVISTAR LCAMPEONES HD
+http://beyondstreamz.net:25461/live/Ouiga/779393/142337.m3u8
+EXTINF:-1,ES: LIGA DE CAMPEONES FHD
+http://beyondstreamz.net:25461/live/Ouiga/779393/142349.m3u8
+#EXTINF:-1,UK: BEIN SPORTS 12
+http://beyondstreamz.net:25461/live/Ouiga/779393/163376.m3u8
+#EXTINF:-1,UK: BT SPORT 2
+http://beyondstreamz.net:25461/live/Ouiga/779393/163379.m3u8
+#EXTINF:-1,UK: BT SPORT 3
+http://beyondstreamz.net:25461/live/Ouiga/779393/163380.m3u8
+#EXTINF:-1,UK: SKY SPORTS ARENA
+http://beyondstreamz.net:25461/live/Ouiga/779393/163393.m3u8
+#EXTINF:-1,UK: SKY SPORTS F1
+http://beyondstreamz.net:25461/live/Ouiga/779393/163395.m3u8
+#EXTINF:-1,IT: DAZN 1
+http://beyondstreamz.net:25461/live/Ouiga/779393/169261.m3u8
+#EXTINF:-1,ARENA SPORT 1 HR
+http://beyondstreamz.net:25461/live/Ouiga/779393/174734.m3u8
+#EXTINF:-1,ARENA SPORT 2 HR
+http://beyondstreamz.net:25461/live/Ouiga/779393/174735.m3u8
+#EXTINF:-1,ARENA SPORT 3 HR
+http://beyondstreamz.net:25461/live/Ouiga/779393/174736.m3u8
+#EXTINF:-1,ARENA SPORT 4 HR
+http://beyondstreamz.net:25461/live/Ouiga/779393/174737.m3u8
+#EXTINF:-1,ARENA SPORT 5 HR
+http://beyondstreamz.net:25461/live/Ouiga/779393/174738.m3u8
+#EXTINF:-1,SPORT KLUB 1 HD
+http://beyondstreamz.net:25461/live/Ouiga/779393/174743.m3u8
+#EXTINF:-1,SPORT KLUB 2 HD
+http://beyondstreamz.net:25461/live/Ouiga/779393/174744.m3u8
+#EXTINF:-1,SPORT KLUB 3 HD
+http://beyondstreamz.net:25461/live/Ouiga/779393/174745.m3u8
+#EXTINF:-1,VIP BT SPORT 2 UHD
+http://beyondstreamz.net:25461/live/Ouiga/779393/174764.m3u8
