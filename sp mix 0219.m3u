@@ -1,68 +1,33 @@
 #EXTM3U
-#EXTINF:-1,BEIN SPORTS 7
-http://iptvclub.live:25461/iLEZVbsonPjpSyA/XVvsod16fCMSzrb/5235
-#EXTINF:-1,BEIN SPORTS 8
-http://iptvclub.live:25461/iLEZVbsonPjpSyA/XVvsod16fCMSzrb/5237
-#EXTINF:-1,BEIN SPORTS 9
-http://iptvclub.live:25461/iLEZVbsonPjpSyA/XVvsod16fCMSzrb/5239
-#EXTINF:-1,BEIN SPORTS 7 4K
-http://iptvclub.live:25461/iLEZVbsonPjpSyA/XVvsod16fCMSzrb/6820
-#EXTINF:-1,BEIN SPORTS 8 4K
-http://iptvclub.live:25461/iLEZVbsonPjpSyA/XVvsod16fCMSzrb/6821
-#EXTINF:-1,BEIN SPORTS 9 4K
-http://iptvclub.live:25461/iLEZVbsonPjpSyA/XVvsod16fCMSzrb/6822
-#EXTINF:-1,EUROSPORT 1 HD
-http://iptvclub.live:25461/iLEZVbsonPjpSyA/XVvsod16fCMSzrb/49232
-#EXTINF:-1,EUROSPORT 2 HD
-http://iptvclub.live:25461/iLEZVbsonPjpSyA/XVvsod16fCMSzrb/49233
-#EXTINF:-1,FR: EUROSPORT HEVC
-http://iptvclub.live:25461/iLEZVbsonPjpSyA/XVvsod16fCMSzrb/69038
-#EXTINF:-1,FR: EUROSPORT2 HEVC
-http://iptvclub.live:25461/iLEZVbsonPjpSyA/XVvsod16fCMSzrb/69039
-#EXTINF:-1,IT: SKY EUROSPORT2 FHD
-http://iptvclub.live:25461/iLEZVbsonPjpSyA/XVvsod16fCMSzrb/56049
-#EXTINF:-1,IT: EUROSPORT2 FHD
-http://iptvclub.live:25461/iLEZVbsonPjpSyA/XVvsod16fCMSzrb/56095
-#EXTINF:-1,SP: EUROSPORT 1 HD
-http://iptvclub.live:25461/iLEZVbsonPjpSyA/XVvsod16fCMSzrb/14988
-#EXTINF:-1,SP: EUROSPORT 2
-http://iptvclub.live:25461/iLEZVbsonPjpSyA/XVvsod16fCMSzrb/14986
-#EXTINF:-1,SP-FHD : EUROSPORT1 FHD
-http://iptvclub.live:25461/iLEZVbsonPjpSyA/XVvsod16fCMSzrb/42091
-#EXTINF:-1,DE: EUROSPORT 1 HD
-http://iptvclub.live:25461/iLEZVbsonPjpSyA/XVvsod16fCMSzrb/55720
-#EXTINF:-1,DE: EUROSPORT 2 HD
-http://iptvclub.live:25461/iLEZVbsonPjpSyA/XVvsod16fCMSzrb/55721
-#EXTINF:-1,UK: EUROSPORT 1
-http://iptvclub.live:25461/iLEZVbsonPjpSyA/XVvsod16fCMSzrb/84356
-#EXTINF:-1,UK: EUROSPORT 2
-http://iptvclub.live:25461/iLEZVbsonPjpSyA/XVvsod16fCMSzrb/84357
-#EXTINF:-1,NO: EUROSPORT PLUS 1 HD
-http://iptvclub.live:25461/iLEZVbsonPjpSyA/XVvsod16fCMSzrb/77957
-#EXTINF:-1,NO: EUROSPORT PLUS 2 HD
-http://iptvclub.live:25461/iLEZVbsonPjpSyA/XVvsod16fCMSzrb/77958
-#EXTINF:-1,NO: EUROSPORT PLUS 3 HD
-http://iptvclub.live:25461/iLEZVbsonPjpSyA/XVvsod16fCMSzrb/77959
-#EXTINF:-1,NO: EUROSPORT PLUS 4 HD
-http://iptvclub.live:25461/iLEZVbsonPjpSyA/XVvsod16fCMSzrb/77960
-#EXTINF:-1,CA: TSN 1
-http://iptvclub.live:25461/iLEZVbsonPjpSyA/XVvsod16fCMSzrb/84644
-#EXTINF:-1,CA: TSN 2
-http://iptvclub.live:25461/iLEZVbsonPjpSyA/XVvsod16fCMSzrb/84645
-#EXTINF:-1,CA: TSN 3
-http://iptvclub.live:25461/iLEZVbsonPjpSyA/XVvsod16fCMSzrb/84646
-#EXTINF:-1,CA: TSN 4
-http://iptvclub.live:25461/iLEZVbsonPjpSyA/XVvsod16fCMSzrb/84647
-#EXTINF:-1,CA: TSN 5
-http://iptvclub.live:25461/iLEZVbsonPjpSyA/XVvsod16fCMSzrb/84648
-#EXTINF:-1,ESPN                                      
-http://iptvclub.live:25461/iLEZVbsonPjpSyA/XVvsod16fCMSzrb/84213
-#EXTINF:-1,ESPN 2                                    
-http://iptvclub.live:25461/iLEZVbsonPjpSyA/XVvsod16fCMSzrb/84214
-#EXTINF:-1,ESPN                                      
-http://iptvclub.live:25461/iLEZVbsonPjpSyA/XVvsod16fCMSzrb/84213
-#EXTINF:-1,ESPN 2                                    
-http://iptvclub.live:25461/iLEZVbsonPjpSyA/XVvsod16fCMSzrb/84214
 
-#EXTINF:-1,TENNIS CHANNEL                            
-http://iptvclub.live:25461/iLEZVbsonPjpSyA/XVvsod16fCMSzrb/84282
+
+#EXTINF:-1,DE : EUROSPORT 1
+http://randomserver.site:2086/live/crystal/12345/92355.m3u8
+#EXTINF:-1,DE : EUROSPORT 2
+http://randomserver.site:2086/live/crystal/12345/92356.m3u8
+#EXTINF:-1,FR : EUROSPORT 1
+http://randomserver.site:2086/live/crystal/12345/92214.m3u8
+#EXTINF:-1,FR : EUROSPORT 2
+http://randomserver.site:2086/live/crystal/12345/92215.m3u8
+#EXTINF:-1,GB : EUROSPORT 1
+http://randomserver.site:2086/live/crystal/12345/72659.m3u8
+#EXTINF:-1,GB : EUROSPORT 2
+http://randomserver.site:2086/live/crystal/12345/72660.m3u8
+#EXTINF:-1,IT : EUROSPORT 1
+http://randomserver.site:2086/live/crystal/12345/94204.m3u8
+#EXTINF:-1,IT : EUROSPORT 2
+http://randomserver.site:2086/live/crystal/12345/94203.m3u8
+#EXTINF:-1,SPORTS : BEIN SPORTS 7 (ARABIC)
+http://randomserver.site:2086/live/crystal/12345/66778.m3u8
+#EXTINF:-1,SPORTS : BEIN SPORTS 8 (ARABIC)
+http://randomserver.site:2086/live/crystal/12345/66779.m3u8
+#EXTINF:-1,SPORTS : BEIN SPORTS 9 (ARABIC)
+http://randomserver.site:2086/live/crystal/12345/66780.m3u8
+#EXTINF:-1,US : TENNIS CHANNEL
+http://randomserver.site:2086/live/crystal/12345/64028.m3u8
+#EXTINF:-1,US : TENNIS CHANNEL FHD 1080
+http://randomserver.site:2086/live/crystal/12345/8867.m3u8
+#EXTINF:-1,US : ESPN
+http://randomserver.site:2086/live/crystal/12345/64127.m3u8
+#EXTINF:-1,US-720 : ESPN 2
+http://randomserver.site:2086/live/crystal/12345/95422.m3u8
