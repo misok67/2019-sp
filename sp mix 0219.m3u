@@ -1,109 +1,57 @@
 #EXTM3U
-#EXTM3U
-#EXTINF:-1,..B1..DE : DAZN 1
-http://randomserver.site:2086/live/riyad/riyad/92343.m3u8
-#EXTINF:-1,..B1..DE : DAZN 2
-http://randomserver.site:2086/live/riyad/riyad/92344.m3u8
-#EXTINF:-1,..B1..DE : SKY SPORT 1
-http://randomserver.site:2086/live/riyad/riyad/92331.m3u8
-#EXTINF:-1,..B1..DE : SKY SPORT 2
-http://randomserver.site:2086/live/riyad/riyad/92332.m3u8
-#EXTINF:-1,..B1..DUTCH: FOX SPORTS 4 EREDIVISIE
-http://randomserver.site:2086/live/riyad/riyad/92908.m3u8
-#EXTINF:-1,..B1..DUTCH: FOX SPORTS 5 EREDIVISIE
-http://randomserver.site:2086/live/riyad/riyad/92909.m3u8
-#EXTINF:-1,..B1..DUTCH: FOX SPORTS 6 EREDIVISIE
-http://randomserver.site:2086/live/riyad/riyad/92910.m3u8
-#EXTINF:-1,..B1..DUTCH: ZIGGO SPORT SELECT
-http://randomserver.site:2086/live/riyad/riyad/92899.m3u8
-#EXTINF:-1,..B1..DUTCH: ZIGGO SPORT VOETBAL
-http://randomserver.site:2086/live/riyad/riyad/92901.m3u8
-#EXTINF:-1,..B1..ES : ESPN DEPORTES
-http://randomserver.site:2086/live/riyad/riyad/88723.m3u8
-#EXTINF:-1,..B1..FR : RMC SPORT 1
-http://randomserver.site:2086/live/riyad/riyad/92216.m3u8
-#EXTINF:-1,..B1..FR : RMC SPORT 2
-http://randomserver.site:2086/live/riyad/riyad/92217.m3u8
-#EXTINF:-1,..B1..FR : RMC SPORT 3
-http://randomserver.site:2086/live/riyad/riyad/92218.m3u8
-#EXTINF:-1,..B1..GB : BT SPORTS 1
-http://randomserver.site:2086/live/riyad/riyad/67062.m3u8
-#EXTINF:-1,..B1..GB : BT SPORTS 2
-http://randomserver.site:2086/live/riyad/riyad/67063.m3u8
-#EXTINF:-1,..B1..GB : BT SPORTS 3
-http://randomserver.site:2086/live/riyad/riyad/67075.m3u8
-#EXTINF:-1,..B1..GB : BT SPORTS ESPN
-http://randomserver.site:2086/live/riyad/riyad/67076.m3u8
-#EXTINF:-1,..B1..GB : SKY SPORTS ARENA
-http://randomserver.site:2086/live/riyad/riyad/85931.m3u8
-#EXTINF:-1,..B1..GB : SKY SPORTS F1
-http://randomserver.site:2086/live/riyad/riyad/67056.m3u8
-#EXTINF:-1,..B1..GB : SKY SPORTS FOOTBALL
-http://randomserver.site:2086/live/riyad/riyad/67057.m3u8
-#EXTINF:-1,..B1..GB : SKY SPORTS MAIN EVENT
-http://randomserver.site:2086/live/riyad/riyad/67058.m3u8
-#EXTINF:-1,..B1..GB : SKY SPORTS MIX
-http://randomserver.site:2086/live/riyad/riyad/67061.m3u8
-#EXTINF:-1,..B1..IT : SKY SPORT NBA
-http://randomserver.site:2086/live/riyad/riyad/94129.m3u8
-#EXTINF:-1,..B1..IT : SKY SPORT UNO
-http://randomserver.site:2086/live/riyad/riyad/94128.m3u8
-#EXTINF:-1,..B1..IT : SUPERTENNIS
-http://randomserver.site:2086/live/riyad/riyad/94124.m3u8
-#EXTINF:-1,..B1..SPORTS : BEIN SPORTS 1 (ARABIC)
-http://randomserver.site:2086/live/riyad/riyad/66772.m3u8
-#EXTINF:-1,..B1..SPORTS : BEIN SPORTS 10 (ARABIC)
-http://randomserver.site:2086/live/riyad/riyad/66781.m3u8
-#EXTINF:-1,..B1..SPORTS : BEIN SPORTS 11 (ENG)
-http://randomserver.site:2086/live/riyad/riyad/66782.m3u8
-#EXTINF:-1,..B1..SPORTS : BEIN SPORTS 12 (ENG)
-http://randomserver.site:2086/live/riyad/riyad/66783.m3u8
-#EXTINF:-1,..B1..SPORTS : BEIN SPORTS 2 (ARABIC)
-http://randomserver.site:2086/live/riyad/riyad/66773.m3u8
-#EXTINF:-1,..B1..SPORTS : BEIN SPORTS 3 (ARABIC)
-http://randomserver.site:2086/live/riyad/riyad/66774.m3u8
-#EXTINF:-1,..B1..SPORTS : BEIN SPORTS 4 (ARABIC)
-http://randomserver.site:2086/live/riyad/riyad/66775.m3u8
-#EXTINF:-1,..B1..SPORTS : BEIN SPORTS 5 (ARABIC)
-http://randomserver.site:2086/live/riyad/riyad/66776.m3u8
-#EXTINF:-1,..B1..SPORTS : BEIN SPORTS 6 (ARABIC)
-http://randomserver.site:2086/live/riyad/riyad/66777.m3u8
-#EXTINF:-1,..B1..SPORTS : BEIN SPORTS 7 (ARABIC)
-http://randomserver.site:2086/live/riyad/riyad/66778.m3u8
-#EXTINF:-1,..B1..SPORTS : BEIN SPORTS 8 (ARABIC)
-http://randomserver.site:2086/live/riyad/riyad/66779.m3u8
-#EXTINF:-1,..B1..SPORTS : BEIN SPORTS 9 (ARABIC)
-http://randomserver.site:2086/live/riyad/riyad/66780.m3u8
-#EXTINF:-1,..B1..SPORTS : BEIN SPORTS LA LIGA
-http://randomserver.site:2086/live/riyad/riyad/66786.m3u8
-#EXTINF:-1,..B1..SPORTS : BEIN SPORTS USA
-http://randomserver.site:2086/live/riyad/riyad/66771.m3u8
-#EXTINF:-1,..B1..US : TENNIS CHANNEL
-http://randomserver.site:2086/live/riyad/riyad/400.m3u8
-#EXTINF:-1,..B1..US : TENNIS CHANNEL FHD 1080
-http://randomserver.site:2086/live/riyad/riyad/64028.m3u8
-
-#EXTINF:-1 ,FOX SPORTS 1 HD (US)
-http://tvla.xyz:80/live/trojnmhf/l5m0Lkp1L0/34649.m3u8
-#EXTINF:-1 ,FOX SPORTS 2 HD (US)
-http://tvla.xyz:80/live/trojnmhf/l5m0Lkp1L0/34650.m3u8
-#EXTINF:-1 ,BT SPORT ESPN FHD (UK)
-http://tvla.xyz:80/live/trojnmhf/l5m0Lkp1L0/34708.m3u8
-#EXTINF:-1 ,TENNIS CHANNEL HD (US)
-http://tvla.xyz:80/live/trojnmhf/l5m0Lkp1L0/34713.m3u8
-#EXTINF:-1 ,SKY SPORTS ARENA HQ (UK)
-http://tvla.xyz:80/live/trojnmhf/l5m0Lkp1L0/34731.m3u8
-#EXTINF:-1 ,SKY SPORTS F1 HQ (UK)
-http://tvla.xyz:80/live/trojnmhf/l5m0Lkp1L0/34733.m3u8
-#EXTINF:-1 ,SKY SPORTS FOOTBALL HQ (UK)
-http://tvla.xyz:80/live/trojnmhf/l5m0Lkp1L0/34734.m3u8
-#EXTINF:-1 ,SKY SPORTS MAIN EVENT HQ (UK)
-http://tvla.xyz:80/live/trojnmhf/l5m0Lkp1L0/34736.m3u8
-#EXTINF:-1 ,SKY SPORTS MIX HQ (UK)
-http://tvla.xyz:80/live/trojnmhf/l5m0Lkp1L0/34737.m3u8
-#EXTINF:-1 ,SKY SPORTS PREMIER LEAGUE HQ (UK)
-http://tvla.xyz:80/live/trojnmhf/l5m0Lkp1L0/34739.m3u8
-#EXTINF:-1 ,MOVISTAR DEPORTES (PE)
-http://tvla.xyz:80/live/trojnmhf/l5m0Lkp1L0/34743.m3u8
-#EXTINF:-1 ,ES: M. LIGA CAMPEONES HD
-http://tvla.xyz:80/live/trojnmhf/l5m0Lkp1L0/61971.m3u8
+#EXTINF:-1,DE | SKY SPORT 1 HD
+http://vizioniptv.com:25461/live/SadikHaliti/JMIrqXFEKv/334.m3u8
+#EXTINF:-1,DE | SKY SPORT 2 HD
+http://vizioniptv.com:25461/live/SadikHaliti/JMIrqXFEKv/333.m3u8
+#EXTINF:-1,UK: BT SPORT 1 HD
+http://vizioniptv.com:25461/live/SadikHaliti/JMIrqXFEKv/1040.m3u8
+#EXTINF:-1,UK: BT SPORT 2 HD
+http://vizioniptv.com:25461/live/SadikHaliti/JMIrqXFEKv/1041.m3u8
+#EXTINF:-1,UK: BT SPORTS 3 HD
+http://vizioniptv.com:25461/live/SadikHaliti/JMIrqXFEKv/1273.m3u8
+#EXTINF:-1,SKY SPORTS :  PREMIER LEAGUE LIVE
+http://vizioniptv.com:25461/live/SadikHaliti/JMIrqXFEKv/1369.m3u8
+#EXTINF:-1,UK: SKY SPORTS FOOTBALL HD
+http://vizioniptv.com:25461/live/SadikHaliti/JMIrqXFEKv/1275.m3u8
+#EXTINF:-1,ARENA SPORT 1 HD HR
+http://vizioniptv.com:25461/live/SadikHaliti/JMIrqXFEKv/371.m3u8
+#EXTINF:-1,ARENA SPORT 2 HD HR
+http://vizioniptv.com:25461/live/SadikHaliti/JMIrqXFEKv/370.m3u8
+#EXTINF:-1,ARENA SPORT 3 HD HR
+http://vizioniptv.com:25461/live/SadikHaliti/JMIrqXFEKv/369.m3u8
+#EXTINF:-1,ARENA SPORT 4 HD HR
+http://vizioniptv.com:25461/live/SadikHaliti/JMIrqXFEKv/368.m3u8
+#EXTINF:-1,ARENA SPORT 5 HD HR
+http://vizioniptv.com:25461/live/SadikHaliti/JMIrqXFEKv/367.m3u8
+#EXTINF:-1,ARENA SPORT 6 HD HR
+http://vizioniptv.com:25461/live/SadikHaliti/JMIrqXFEKv/366.m3u8
+#EXTINF:-1,ARENA SPORT 1 FHD SR
+http://vizioniptv.com:25461/live/SadikHaliti/JMIrqXFEKv/362.m3u8
+#EXTINF:-1,ARENA SPORT 2 FHD SR
+http://vizioniptv.com:25461/live/SadikHaliti/JMIrqXFEKv/361.m3u8
+#EXTINF:-1,ARENA SPORT 3 FHD SR
+http://vizioniptv.com:25461/live/SadikHaliti/JMIrqXFEKv/360.m3u8
+#EXTINF:-1,ARENA SPORT 4 FHD SR
+http://vizioniptv.com:25461/live/SadikHaliti/JMIrqXFEKv/359.m3u8
+#EXTINF:-1,ARENA SPORT 5 FHD SR
+http://vizioniptv.com:25461/live/SadikHaliti/JMIrqXFEKv/358.m3u8
+#EXTINF:-1,SPORT KLUB 1 HD HR
+http://vizioniptv.com:25461/live/SadikHaliti/JMIrqXFEKv/374.m3u8
+#EXTINF:-1,SPORT KLUB 2 HD HR
+http://vizioniptv.com:25461/live/SadikHaliti/JMIrqXFEKv/373.m3u8
+#EXTINF:-1,SPORT KLUB 3 HD HR
+http://vizioniptv.com:25461/live/SadikHaliti/JMIrqXFEKv/372.m3u8
+#EXTINF:-1,SPORT KLUB 1 HD SR
+http://vizioniptv.com:25461/live/SadikHaliti/JMIrqXFEKv/365.m3u8
+#EXTINF:-1,SPORT KLUB 2 HD SR
+http://vizioniptv.com:25461/live/SadikHaliti/JMIrqXFEKv/364.m3u8
+#EXTINF:-1,SPORT KLUB 3 HD SR
+http://vizioniptv.com:25461/live/SadikHaliti/JMIrqXFEKv/363.m3u8
+#EXTINF:-1,RMC SPORT 1 
+http://vizioniptv.com:25461/live/SadikHaliti/JMIrqXFEKv/1268.m3u8
+#EXTINF:-1,RMC SPORT 2
+http://vizioniptv.com:25461/live/SadikHaliti/JMIrqXFEKv/1269.m3u8
+#EXTINF:-1,RMC SPORT 3
+http://vizioniptv.com:25461/live/SadikHaliti/JMIrqXFEKv/1270.m3u8
+#EXTINF:-1,ZIGGO SPORT SELECT HD
+http://vizioniptv.com:25461/live/SadikHaliti/JMIrqXFEKv/1036.m3u8
