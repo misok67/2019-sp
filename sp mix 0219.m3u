@@ -1,57 +1,49 @@
 #EXTM3U
-#EXTINF:-1,DE | SKY SPORT 1 HD
-http://vizioniptv.com:25461/live/SadikHaliti/JMIrqXFEKv/334.m3u8
-#EXTINF:-1,DE | SKY SPORT 2 HD
-http://vizioniptv.com:25461/live/SadikHaliti/JMIrqXFEKv/333.m3u8
-#EXTINF:-1,UK: BT SPORT 1 HD
-http://vizioniptv.com:25461/live/SadikHaliti/JMIrqXFEKv/1040.m3u8
-#EXTINF:-1,UK: BT SPORT 2 HD
-http://vizioniptv.com:25461/live/SadikHaliti/JMIrqXFEKv/1041.m3u8
-#EXTINF:-1,UK: BT SPORTS 3 HD
-http://vizioniptv.com:25461/live/SadikHaliti/JMIrqXFEKv/1273.m3u8
-#EXTINF:-1,SKY SPORTS :  PREMIER LEAGUE LIVE
-http://vizioniptv.com:25461/live/SadikHaliti/JMIrqXFEKv/1369.m3u8
-#EXTINF:-1,UK: SKY SPORTS FOOTBALL HD
-http://vizioniptv.com:25461/live/SadikHaliti/JMIrqXFEKv/1275.m3u8
-#EXTINF:-1,ARENA SPORT 1 HD HR
-http://vizioniptv.com:25461/live/SadikHaliti/JMIrqXFEKv/371.m3u8
-#EXTINF:-1,ARENA SPORT 2 HD HR
-http://vizioniptv.com:25461/live/SadikHaliti/JMIrqXFEKv/370.m3u8
-#EXTINF:-1,ARENA SPORT 3 HD HR
-http://vizioniptv.com:25461/live/SadikHaliti/JMIrqXFEKv/369.m3u8
-#EXTINF:-1,ARENA SPORT 4 HD HR
-http://vizioniptv.com:25461/live/SadikHaliti/JMIrqXFEKv/368.m3u8
-#EXTINF:-1,ARENA SPORT 5 HD HR
-http://vizioniptv.com:25461/live/SadikHaliti/JMIrqXFEKv/367.m3u8
-#EXTINF:-1,ARENA SPORT 6 HD HR
-http://vizioniptv.com:25461/live/SadikHaliti/JMIrqXFEKv/366.m3u8
-#EXTINF:-1,ARENA SPORT 1 FHD SR
-http://vizioniptv.com:25461/live/SadikHaliti/JMIrqXFEKv/362.m3u8
-#EXTINF:-1,ARENA SPORT 2 FHD SR
-http://vizioniptv.com:25461/live/SadikHaliti/JMIrqXFEKv/361.m3u8
-#EXTINF:-1,ARENA SPORT 3 FHD SR
-http://vizioniptv.com:25461/live/SadikHaliti/JMIrqXFEKv/360.m3u8
-#EXTINF:-1,ARENA SPORT 4 FHD SR
-http://vizioniptv.com:25461/live/SadikHaliti/JMIrqXFEKv/359.m3u8
-#EXTINF:-1,ARENA SPORT 5 FHD SR
-http://vizioniptv.com:25461/live/SadikHaliti/JMIrqXFEKv/358.m3u8
-#EXTINF:-1,SPORT KLUB 1 HD HR
-http://vizioniptv.com:25461/live/SadikHaliti/JMIrqXFEKv/374.m3u8
-#EXTINF:-1,SPORT KLUB 2 HD HR
-http://vizioniptv.com:25461/live/SadikHaliti/JMIrqXFEKv/373.m3u8
-#EXTINF:-1,SPORT KLUB 3 HD HR
-http://vizioniptv.com:25461/live/SadikHaliti/JMIrqXFEKv/372.m3u8
-#EXTINF:-1,SPORT KLUB 1 HD SR
-http://vizioniptv.com:25461/live/SadikHaliti/JMIrqXFEKv/365.m3u8
-#EXTINF:-1,SPORT KLUB 2 HD SR
-http://vizioniptv.com:25461/live/SadikHaliti/JMIrqXFEKv/364.m3u8
-#EXTINF:-1,SPORT KLUB 3 HD SR
-http://vizioniptv.com:25461/live/SadikHaliti/JMIrqXFEKv/363.m3u8
-#EXTINF:-1,RMC SPORT 1 
-http://vizioniptv.com:25461/live/SadikHaliti/JMIrqXFEKv/1268.m3u8
-#EXTINF:-1,RMC SPORT 2
-http://vizioniptv.com:25461/live/SadikHaliti/JMIrqXFEKv/1269.m3u8
-#EXTINF:-1,RMC SPORT 3
-http://vizioniptv.com:25461/live/SadikHaliti/JMIrqXFEKv/1270.m3u8
-#EXTINF:-1,ZIGGO SPORT SELECT HD
-http://vizioniptv.com:25461/live/SadikHaliti/JMIrqXFEKv/1036.m3u8
+#EXTINF:-1,TENNIS CHANNEL
+http://api.zforce.tv:826/live/thedodgerfan@protonmail.com/75j3xx7EMg/31209.m3u8
+#EXTINF:-1,BT SPORTS 1
+http://api.zforce.tv:826/live/thedodgerfan@protonmail.com/75j3xx7EMg/110708.m3u8
+#EXTINF:-1,BT SPORTS 2
+http://api.zforce.tv:826/live/thedodgerfan@protonmail.com/75j3xx7EMg/89213.m3u8
+#EXTINF:-1,BT SPORTS 3
+http://api.zforce.tv:826/live/thedodgerfan@protonmail.com/75j3xx7EMg/89212.m3u8
+#EXTINF:-1,BT SPORTS EPSN
+http://api.zforce.tv:826/live/thedodgerfan@protonmail.com/75j3xx7EMg/89211.m3u8
+#EXTINF:-1,SKY SPORTS ARENA
+http://api.zforce.tv:826/live/thedodgerfan@protonmail.com/75j3xx7EMg/98787.m3u8
+#EXTINF:-1,SKY SPORTS F1
+http://api.zforce.tv:826/live/thedodgerfan@protonmail.com/75j3xx7EMg/98783.m3u8
+#EXTINF:-1,SKY SPORTS FOOTBALL
+http://api.zforce.tv:826/live/thedodgerfan@protonmail.com/75j3xx7EMg/98781.m3u8
+#EXTINF:-1,SKY SPORTS MAIN EVENT
+http://api.zforce.tv:826/live/thedodgerfan@protonmail.com/75j3xx7EMg/98777.m3u8
+#EXTINF:-1,SKY SPORTS MIX
+http://api.zforce.tv:826/live/thedodgerfan@protonmail.com/75j3xx7EMg/98857.m3u8
+#EXTINF:-1,SKY SPORTS PREMIER LEAGUE
+http://api.zforce.tv:826/live/thedodgerfan@protonmail.com/75j3xx7EMg/98775.m3u8
+#EXTINF:-1,BEIN SPORTS USA
+http://api.zforce.tv:826/live/thedodgerfan@protonmail.com/75j3xx7EMg/1501.m3u8
+#EXTINF:-1,BEIN SPORTS LA LIGA
+http://api.zforce.tv:826/live/thedodgerfan@protonmail.com/75j3xx7EMg/28014.m3u8
+#EXTINF:-1,FR: BEIN SPORTS 1 | HD
+http://api.zforce.tv:826/live/thedodgerfan@protonmail.com/75j3xx7EMg/100101.m3u8
+#EXTINF:-1,FR: BEIN SPORTS 2 | HD
+http://api.zforce.tv:826/live/thedodgerfan@protonmail.com/75j3xx7EMg/100102.m3u8
+#EXTINF:-1,FR: BEIN SPORTS 3 | HD
+http://api.zforce.tv:826/live/thedodgerfan@protonmail.com/75j3xx7EMg/100103.m3u8
+#EXTINF:-1,DE: SKY SPORT 1 HD
+http://api.zforce.tv:826/live/thedodgerfan@protonmail.com/75j3xx7EMg/109012.m3u8
+#EXTINF:-1,DE: SKY SPORT 2 HD
+http://api.zforce.tv:826/live/thedodgerfan@protonmail.com/75j3xx7EMg/109015.m3u8
+#EXTINF:-1,SUPERSPORT TENNIS
+http://api.zforce.tv:826/live/thedodgerfan@protonmail.com/75j3xx7EMg/111011.m3u8
+#EXTINF:-1,TENNIS CHANNEL PLUS CLASSICS
+http://api.zforce.tv:826/live/thedodgerfan@protonmail.com/75j3xx7EMg/111025.m3u8
+#EXTINF:-1,TENNIS CHANNEL PLUS 1
+http://api.zforce.tv:826/live/thedodgerfan@protonmail.com/75j3xx7EMg/111026.m3u8
+#EXTINF:-1,TENNIS CHANNEL PLUS 2
+http://api.zforce.tv:826/live/thedodgerfan@protonmail.com/75j3xx7EMg/111027.m3u8
+#EXTINF:-1,BR: DAZN 1
+http://api.zforce.tv:826/live/thedodgerfan@protonmail.com/75j3xx7EMg/111060.m3u8
+#EXTINF:-1,BR: DAZN 2
+http://api.zforce.tv:826/live/thedodgerfan@protonmail.com/75j3xx7EMg/111061.m3u8
