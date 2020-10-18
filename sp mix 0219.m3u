@@ -1,66 +1,116 @@
 #EXTM3U
-
-#EXTINF:-1,BEIN SPORT 1 4K
-http://novaiptv.vip:80/live/amaaraa2011/am123456am/1590.m3u8
-#EXTINF:-1,BEIN SPORT 2 4K
-http://novaiptv.vip:80/live/amaaraa2011/am123456am/1591.m3u8
-#EXTINF:-1,BEIN SPORT 3 4K
-http://novaiptv.vip:80/live/amaaraa2011/am123456am/1592.m3u8
-#EXTINF:-1,BEIN SPORT 4 4K
-http://novaiptv.vip:80/live/amaaraa2011/am123456am/1593.m3u8
-#EXTINF:-1,BEIN SPORT 5 4K
-http://novaiptv.vip:80/live/amaaraa2011/am123456am/1594.m3u8
-#EXTINF:-1,BEIN SPORT 6 4K
-http://novaiptv.vip:80/live/amaaraa2011/am123456am/1595.m3u8
-#EXTINF:-1,BEIN SPORT 7 4K
-http://novaiptv.vip:80/live/amaaraa2011/am123456am/1596.m3u8
-#EXTINF:-1,BEIN SPORT 8 4K
-http://novaiptv.vip:80/live/amaaraa2011/am123456am/1597.m3u8
-#EXTINF:-1,BEIN SPORT 9 4K
-http://novaiptv.vip:80/live/amaaraa2011/am123456am/1598.m3u8
-#EXTINF:-1,BEIN SPORT 10 4K
-http://novaiptv.vip:80/live/amaaraa2011/am123456am/1599.m3u8
-#EXTINF:-1,FR:BEINSPORT2
-http://novaiptv.vip:80/live/amaaraa2011/am123456am/7716.m3u8
-#EXTINF:-1,FR:BEINSPORT3
-http://novaiptv.vip:80/live/amaaraa2011/am123456am/7714.m3u8
-#EXTINF:-1,FR:BEINSPORT1.HD
-http://novaiptv.vip:80/live/amaaraa2011/am123456am/7717.m3u8
-#EXTINF:-1,FR:RMC.SPORT1.SD
-http://novaiptv.vip:80/live/amaaraa2011/am123456am/8766.m3u8
-#EXTINF:-1,FR:RMC.SPORT2
-http://novaiptv.vip:80/live/amaaraa2011/am123456am/8765.m3u8
-#EXTINF:-1,FR:RMC.SPORT2.HD
-http://novaiptv.vip:80/live/amaaraa2011/am123456am/8764.m3u8
-#EXTINF:-1,FR:RMC.SPORT2.SD
-http://novaiptv.vip:80/live/amaaraa2011/am123456am/8763.m3u8
-#EXTINF:-1,FR:RMC.SPORT3
-http://novaiptv.vip:80/live/amaaraa2011/am123456am/8762.m3u8
-#EXTINF:-1,SR: ARENASPORT 1 HD
-http://novaiptv.vip:80/live/amaaraa2011/am123456am/4359.m3u8
-#EXTINF:-1,SR: ARENASPORT 2 HD
-http://novaiptv.vip:80/live/amaaraa2011/am123456am/4360.m3u8
-#EXTINF:-1,SR: ARENASPORT 3 HD
-http://novaiptv.vip:80/live/amaaraa2011/am123456am/4361.m3u8
-#EXTINF:-1,SR: ARENASPORT 4 HD
-http://novaiptv.vip:80/live/amaaraa2011/am123456am/4362.m3u8
-#EXTINF:-1,SR: ARENASPORT 5 HD
-http://novaiptv.vip:80/live/amaaraa2011/am123456am/4363.m3u8
-#EXTINF:-1,SR: SUPERSPORT 1
-http://novaiptv.vip:80/live/amaaraa2011/am123456am/4364.m3u8
-#EXTINF:-1,SR: SUPERSPORT 2
-http://novaiptv.vip:80/live/amaaraa2011/am123456am/4365.m3u8
-#EXTINF:-1,SR: SUPERSPORT 3
-http://novaiptv.vip:80/live/amaaraa2011/am123456am/4366.m3u8
-#EXTINF:-1,NL:FOXSPORT4
-http://novaiptv.vip:80/live/amaaraa2011/am123456am/4479.m3u8
-#EXTINF:-1,NL:FOXSPORT5
-http://novaiptv.vip:80/live/amaaraa2011/am123456am/4478.m3u8
-#EXTINF:-1,NL:FOXSPORT6
-http://novaiptv.vip:80/live/amaaraa2011/am123456am/4477.m3u8
-#EXTINF:-1,NL:ZIGGO SPORT.VOETBA
-http://novaiptv.vip:80/live/amaaraa2011/am123456am/4476.m3u8
-#EXTINF:-1,NL:ZIGGO.SPORT
-http://novaiptv.vip:80/live/amaaraa2011/am123456am/4475.m3u8
-#EXTINF:-1,NL:ZIGGO.SPORT.SELECT
-http://novaiptv.vip:80/live/amaaraa2011/am123456am/4472.m3u8
+#EXTINF:-1,BEIN SPORTS 1 4K
+http://rahal-pro.net:8080/IbrahimMalouk/683203665/66112
+#EXTINF:-1,BEIN SPORTS 2 4K
+http://rahal-pro.net:8080/IbrahimMalouk/683203665/66111
+#EXTINF:-1,BEIN SPORTS 3 4K
+http://rahal-pro.net:8080/IbrahimMalouk/683203665/66104
+#EXTINF:-1,BEIN SPORTS 4 4K
+http://rahal-pro.net:8080/IbrahimMalouk/683203665/66105
+#EXTINF:-1,BEIN SPORTS 5 4K
+http://rahal-pro.net:8080/IbrahimMalouk/683203665/66106
+#EXTINF:-1,BEIN SPORTS 6 4K
+http://rahal-pro.net:8080/IbrahimMalouk/683203665/66107
+#EXTINF:-1,BEIN SPORTS 7 4K
+http://rahal-pro.net:8080/IbrahimMalouk/683203665/66108
+#EXTINF:-1,BEIN SPORTS 8 4K
+http://rahal-pro.net:8080/IbrahimMalouk/683203665/66109
+#EXTINF:-1,BEIN SPORTS 9 4K
+http://rahal-pro.net:8080/IbrahimMalouk/683203665/66110
+#EXTINF:-1,BEIN SPORTS 10 4K
+http://rahal-pro.net:8080/IbrahimMalouk/683203665/66102
+#EXTINF:-1,BEIN SPORTS 11 4K EN
+http://rahal-pro.net:8080/IbrahimMalouk/683203665/66103
+#EXTINF:-1,BEIN SPORTS 12 4K EN
+http://rahal-pro.net:8080/IbrahimMalouk/683203665/66119
+#EXTINF:-1,BEIN SPORTS 1 HD 1080I
+http://rahal-pro.net:8080/IbrahimMalouk/683203665/33705
+#EXTINF:-1,BEIN SPORTS 2 HD 1080I
+http://rahal-pro.net:8080/IbrahimMalouk/683203665/33704
+#EXTINF:-1,BEIN SPORTS 3 HD 1080I
+http://rahal-pro.net:8080/IbrahimMalouk/683203665/33703
+#EXTINF:-1,BEIN SPORTS 4 HD 1080I
+http://rahal-pro.net:8080/IbrahimMalouk/683203665/33702
+#EXTINF:-1,BEIN SPORTS 5 HD 1080I
+http://rahal-pro.net:8080/IbrahimMalouk/683203665/33701
+#EXTINF:-1,BEIN SPORTS 6 HD 1080I
+http://rahal-pro.net:8080/IbrahimMalouk/683203665/33700
+#EXTINF:-1,BEIN SPORTS 7 HD 1080I
+http://rahal-pro.net:8080/IbrahimMalouk/683203665/33699
+#EXTINF:-1,BEIN SPORTS 8 HD 1080I
+http://rahal-pro.net:8080/IbrahimMalouk/683203665/33698
+#EXTINF:-1,BEIN SPORTS 9 HD 1080I
+http://rahal-pro.net:8080/IbrahimMalouk/683203665/33697
+#EXTINF:-1,BEIN SPORTS 10 HD 1080I
+http://rahal-pro.net:8080/IbrahimMalouk/683203665/33696
+#EXTINF:-1,BEIN SPORTS 11 HD EN 1080I
+http://rahal-pro.net:8080/IbrahimMalouk/683203665/33695
+#EXTINF:-1,BEIN SPORTS 12 HD EN 1080I
+http://rahal-pro.net:8080/IbrahimMalouk/683203665/33694
+http://rahal-pro.net:8080/IbrahimMalouk/683203665/65951
+#EXTINF:-1,DE- SKY SPORT 1 4K
+http://rahal-pro.net:8080/IbrahimMalouk/683203665/66070
+#EXTINF:-1,DE- DAZN 1 4K
+http://rahal-pro.net:8080/IbrahimMalouk/683203665/66075
+#EXTINF:-1,DE- DAZN 2 4K
+http://rahal-pro.net:8080/IbrahimMalouk/683203665/66074
+#EXTINF:-1,DE- DAZN BAR 1 HD
+http://rahal-pro.net:8080/IbrahimMalouk/683203665/33382
+#EXTINF:-1,DE- DAZN BAR 2 HD
+http://rahal-pro.net:8080/IbrahimMalouk/683203665/33383
+#EXTINF:-1,DE- SKY SPORT 1 HD
+http://rahal-pro.net:8080/IbrahimMalouk/683203665/33368
+#EXTINF:-1,DE- SKY SPORT 2 HD
+http://rahal-pro.net:8080/IbrahimMalouk/683203665/33369
+#EXTINF:-1,HR- SPORT KLUB 1 HD
+http://rahal-pro.net:8080/IbrahimMalouk/683203665/33191
+#EXTINF:-1,HR- SPORT KLUB 3 HD
+http://rahal-pro.net:8080/IbrahimMalouk/683203665/33196
+#EXTINF:-1,HR- ARENA SPORT 1 HD
+http://rahal-pro.net:8080/IbrahimMalouk/683203665/33344
+#EXTINF:-1,HR- ARENA SPORT 2 HD
+http://rahal-pro.net:8080/IbrahimMalouk/683203665/33345
+#EXTINF:-1,HR- ARENA SPORT 3 HD
+http://rahal-pro.net:8080/IbrahimMalouk/683203665/33346
+#EXTINF:-1,HR- ARENA SPORT 4 HD
+http://rahal-pro.net:8080/IbrahimMalouk/683203665/33347
+#EXTINF:-1,HR- ARENA SPORT 6 HD
+http://rahal-pro.net:8080/IbrahimMalouk/683203665/33181
+#EXTINF:-1,HR- SPORT KLUB 2 HD
+http://rahal-pro.net:8080/IbrahimMalouk/683203665/55743
+#EXTINF:-1,SR- SPORT KLUB HD 1
+http://rahal-pro.net:8080/IbrahimMalouk/683203665/33408
+#EXTINF:-1,SR- SPORT KLUB HD 2
+http://rahal-pro.net:8080/IbrahimMalouk/683203665/33409
+#EXTINF:-1,SR- SPORT KLUB HD 3
+http://rahal-pro.net:8080/IbrahimMalouk/683203665/33410
+#EXTINF:-1,NL- FOX SPORTS 3 HD
+http://rahal-pro.net:8080/IbrahimMalouk/683203665/33466
+#EXTINF:-1,NL- FOX SPORTS 4 HD
+http://rahal-pro.net:8080/IbrahimMalouk/683203665/33467
+#EXTINF:-1,NL- FOX SPORTS 5 HD
+http://rahal-pro.net:8080/IbrahimMalouk/683203665/33468
+#EXTINF:-1,NL- FOX SPORTS 6 HD
+http://rahal-pro.net:8080/IbrahimMalouk/683203665/33469
+#EXTINF:-1,NL- ZIGGO SPORT VOETBAL HD
+http://rahal-pro.net:8080/IbrahimMalouk/683203665/33476
+#EXTINF:-1,NL- ZIGGO SPORT SELECT HD
+http://rahal-pro.net:8080/IbrahimMalouk/683203665/33475
+#EXTINF:-1,NL- ZIGGO SPORT VOETBAL HD BACKUP
+http://rahal-pro.net:8080/IbrahimMalouk/683203665/33556
+#EXTINF:-1,NL- ZIGGO SPORT SELECT HD BACKUP
+http://rahal-pro.net:8080/IbrahimMalouk/683203665/33555
+#EXTINF:-1,UK- BT SPORTS 1 HD
+http://rahal-pro.net:8080/IbrahimMalouk/683203665/68472
+#EXTINF:-1,UK- BT SPORTS 2 HD
+http://rahal-pro.net:8080/IbrahimMalouk/683203665/68473
+#EXTINF:-1,UK- BT SPORTS 3 HD
+http://rahal-pro.net:8080/IbrahimMalouk/683203665/68474
+#EXTINF:-1,UK- SKY SPORTS F1 HD
+http://rahal-pro.net:8080/IbrahimMalouk/683203665/68486
+#EXTINF:-1,UK- SKY SPORTS FOOTBALL HD
+http://rahal-pro.net:8080/IbrahimMalouk/683203665/68487
+#EXTINF:-1,UK- SKY SPORTS MAIN EVENT HD
+http://rahal-pro.net:8080/IbrahimMalouk/683203665/68489
+#EXTINF:-1,UK- SKY SPORTS PREMIER LEAGUE HD
+http://rahal-pro.net:8080/IbrahimMalouk/683203665/68490
