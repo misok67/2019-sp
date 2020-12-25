@@ -1,21 +1,140 @@
 #EXTM3U
+#EXTM3U
+#EXTINF:-1,|FR| BEIN SPORTS 1 HD
+http://stream.msh1.co:8080/MSadmin_064787/5LAk5dpI/2001
+#EXTINF:-1,|FR| BEIN SPORTS 2 HD
+http://stream.msh1.co:8080/MSadmin_064787/5LAk5dpI/2000
+#EXTINF:-1,|FR| BEIN SPORTS 3 HD
+http://stream.msh1.co:8080/MSadmin_064787/5LAk5dpI/1999
+#EXTINF:-1,|FR| RMC SPORT LIVE 1 HD
+http://stream.msh1.co:8080/MSadmin_064787/5LAk5dpI/2016
+#EXTINF:-1,|FR| RMC SPORT LIVE 2 HD
+http://stream.msh1.co:8080/MSadmin_064787/5LAk5dpI/2014
+#EXTINF:-1,|FR| RMC SPORT LIVE 3 HD
+http://stream.msh1.co:8080/MSadmin_064787/5LAk5dpI/2012
+#EXTINF:-1,|NL| ZIGGO SPORT SELECT HD
+http://stream.msh1.co:8080/MSadmin_064787/5LAk5dpI/52087
+#EXTINF:-1,|NL| ZIGGO SPORT VOETBAL HD
+http://stream.msh1.co:8080/MSadmin_064787/5LAk5dpI/52089
+#EXTINF:-1,|NL| FOX SPORT 3 HD
+http://stream.msh1.co:8080/MSadmin_064787/5LAk5dpI/52097
+#EXTINF:-1,|NL| FOX SPORTS 4 H265
+http://stream.msh1.co:8080/MSadmin_064787/5LAk5dpI/52102
+#EXTINF:-1,|NL| FOX SPORTS 5 H265
+http://stream.msh1.co:8080/MSadmin_064787/5LAk5dpI/52104
+#EXTINF:-1,|NL| FOX SPORTS 6 H265
+http://stream.msh1.co:8080/MSadmin_064787/5LAk5dpI/52107
+#EXTINF:-1,|ES|  BEIN SPORTS ES
+http://stream.msh1.co:8080/MSadmin_064787/5LAk5dpI/52224
+#EXTINF:-1,|ES| M  LIGA DE CAMPEONES FHD
+http://stream.msh1.co:8080/MSadmin_064787/5LAk5dpI/52230
+#EXTINF:-1,|ESP| M. DEPORTES 2 FHD
+http://stream.msh1.co:8080/MSadmin_064787/5LAk5dpI/52303
+#EXTINF:-1,|ESP| M. DEPORTES 1 FHD
+http://stream.msh1.co:8080/MSadmin_064787/5LAk5dpI/52304
+#EXTINF:-1,|UK| BT SPORT 1 FHD
+http://stream.msh1.co:8080/MSadmin_064787/5LAk5dpI/50866
+#EXTINF:-1,|UK| BT SPORT 2 FHD
+http://stream.msh1.co:8080/MSadmin_064787/5LAk5dpI/50868
+#EXTINF:-1,|UK| BT SPORT 3 FHD
+http://stream.msh1.co:8080/MSadmin_064787/5LAk5dpI/50870
+#EXTINF:-1,|UK| BT SPORTS FHD 3
+http://stream.msh1.co:8080/MSadmin_064787/5LAk5dpI/50871
+#EXTINF:-1,|DE|- SKY SPORT 1FHD
+http://stream.msh1.co:8080/MSadmin_064787/5LAk5dpI/51504
+#EXTINF:-1,|DE|- SKY SPORT 2 FHD
+http://stream.msh1.co:8080/MSadmin_064787/5LAk5dpI/51506
+#EXTINF:-1,|DE|- DAZN 1 BAR UHD
+http://stream.msh1.co:8080/MSadmin_064787/5LAk5dpI/51508
+#EXTINF:-1,|DE|- DAZN 2 BAR UHD
+http://stream.msh1.co:8080/MSadmin_064787/5LAk5dpI/51510
+#EXTINF:-1,|DE|- SKY SPORT  BUNDESLIGA HD1
+http://stream.msh1.co:8080/MSadmin_064787/5LAk5dpI/51519
+#EXTINF:-1,CRO (HD) -ARENA SPORT 1 FHD
+http://stream.msh1.co:8080/MSadmin_064787/5LAk5dpI/37027
+#EXTINF:-1,CRO (HD) -ARENA SPORT 2 FHD
+http://stream.msh1.co:8080/MSadmin_064787/5LAk5dpI/37029
+#EXTINF:-1,CRO (HD) -ARENA SPORT 3 FHD
+http://stream.msh1.co:8080/MSadmin_064787/5LAk5dpI/37031
+#EXTINF:-1,CRO (HD) -ARENA SPORT 4 FHD
+http://stream.msh1.co:8080/MSadmin_064787/5LAk5dpI/37033
+#EXTINF:-1,CRO (HD) -ARENA SPORT 5 FHD
+http://stream.msh1.co:8080/MSadmin_064787/5LAk5dpI/37035
+#EXTINF:-1,CRO (HD) -SPORT KLUB 1 HD
+http://stream.msh1.co:8080/MSadmin_064787/5LAk5dpI/37161
+#EXTINF:-1,CRO (HD) -SPORT KLUB 2 HD
+http://stream.msh1.co:8080/MSadmin_064787/5LAk5dpI/37163
+#EXTINF:-1,CRO (HD) -SPORT KLUB 3 HD
+http://stream.msh1.co:8080/MSadmin_064787/5LAk5dpI/37164
+#EXTINF:-1,|EX-YU.VIP|   ARENA SPORT 1 HD
+http://stream.msh1.co:8080/MSadmin_064787/5LAk5dpI/34484
+#EXTINF:-1,|EX-YU.VIP|   ARENA SPORT 2 HD
+http://stream.msh1.co:8080/MSadmin_064787/5LAk5dpI/34486
+#EXTINF:-1,|EX-YU.VIP|   ARENA SPORT 3 HD
+http://stream.msh1.co:8080/MSadmin_064787/5LAk5dpI/34488
+#EXTINF:-1,|EX-YU.VIP|   ARENA SPORT 4 HD
+http://stream.msh1.co:8080/MSadmin_064787/5LAk5dpI/34490
+#EXTINF:-1,|EX-YU.VIP|   ARENA SPORT 5 HD
+http://stream.msh1.co:8080/MSadmin_064787/5LAk5dpI/34492
+#EXTINF:-1,RS (HD) -SPORT KLUB 1 FHD
+http://stream.msh1.co:8080/MSadmin_064787/5LAk5dpI/36911
+#EXTINF:-1,RS (HD) -SPORT KLUB 2 FHD
+http://stream.msh1.co:8080/MSadmin_064787/5LAk5dpI/36913
+#EXTINF:-1,RS (HD) -SPORT KLUB 3 FHD
+http://stream.msh1.co:8080/MSadmin_064787/5LAk5dpI/36915
+#EXTINF:-1,RS (HD) -SPORT KLUB 3 HD
+http://stream.msh1.co:8080/MSadmin_064787/5LAk5dpI/36916
+#EXTINF:-1,BEIN SPORTS 4K
+http://stream.msh1.co:8080/MSadmin_064787/5LAk5dpI/3222
 #EXTINF:-1,BEIN SPORTS 1 HD
-http://aloka-iptv.xyz:25461/live/aloka/aloka102/3.m3u8
+http://stream.msh1.co:8080/MSadmin_064787/5LAk5dpI/3220
 #EXTINF:-1,BEIN SPORTS 2 HD
-http://aloka-iptv.xyz:25461/live/aloka/aloka102/4.m3u8
+http://stream.msh1.co:8080/MSadmin_064787/5LAk5dpI/3217
 #EXTINF:-1,BEIN SPORTS 3 HD
-http://aloka-iptv.xyz:25461/live/aloka/aloka102/5.m3u8
+http://stream.msh1.co:8080/MSadmin_064787/5LAk5dpI/3214
 #EXTINF:-1,BEIN SPORTS 4 HD
-http://aloka-iptv.xyz:25461/live/aloka/aloka102/6.m3u8
+http://stream.msh1.co:8080/MSadmin_064787/5LAk5dpI/3211
 #EXTINF:-1,BEIN SPORTS 5 HD
-http://aloka-iptv.xyz:25461/live/aloka/aloka102/7.m3u8
+http://stream.msh1.co:8080/MSadmin_064787/5LAk5dpI/3207
 #EXTINF:-1,BEIN SPORTS 6 HD
-http://aloka-iptv.xyz:25461/live/aloka/aloka102/8.m3u8
+http://stream.msh1.co:8080/MSadmin_064787/5LAk5dpI/3203
 #EXTINF:-1,BEIN SPORTS 7 HD
-http://aloka-iptv.xyz:25461/live/aloka/aloka102/9.m3u8
+http://stream.msh1.co:8080/MSadmin_064787/5LAk5dpI/3198
 #EXTINF:-1,BEIN SPORTS 8 HD
-http://aloka-iptv.xyz:25461/live/aloka/aloka102/10.m3u8
+http://stream.msh1.co:8080/MSadmin_064787/5LAk5dpI/50598
 #EXTINF:-1,BEIN SPORTS 9 HD
-http://aloka-iptv.xyz:25461/live/aloka/aloka102/11.m3u8
-#EXTINF:-1,BEIN SPORTS 10 HD
-http://aloka-iptv.xyz:25461/live/aloka/aloka102/12.m3u8
+http://stream.msh1.co:8080/MSadmin_064787/5LAk5dpI/50600
+#EXTINF:-1,BEIN SPORTS 11 HD EN
+http://stream.msh1.co:8080/MSadmin_064787/5LAk5dpI/50604
+#EXTINF:-1,BEIN SPORTS 12 HD EN
+http://stream.msh1.co:8080/MSadmin_064787/5LAk5dpI/50605
+#EXTINF:-1,BEIN SPORTS 13 HD EN
+http://stream.msh1.co:8080/MSadmin_064787/5LAk5dpI/50606
+#EXTINF:-1,BEIN SPORTS 14 HD FR
+http://stream.msh1.co:8080/MSadmin_064787/5LAk5dpI/50607
+#EXTINF:-1,BEIN SPORTS 15 HD FR
+http://stream.msh1.co:8080/MSadmin_064787/5LAk5dpI/50608
+#EXTINF:-1,BEIN SPORTS 16 HD FR
+http://stream.msh1.co:8080/MSadmin_064787/5LAk5dpI/50609
+#EXTINF:-1,BEIN SPORTS NBA HD
+http://stream.msh1.co:8080/MSadmin_064787/5LAk5dpI/3194
+#EXTINF:-1,BEIN SPORTS 1 HD HEVC
+http://stream.msh1.co:8080/MSadmin_064787/5LAk5dpI/52609
+#EXTINF:-1,BEIN SPORTS 2 HD HEVC
+http://stream.msh1.co:8080/MSadmin_064787/5LAk5dpI/52610
+#EXTINF:-1,BEIN SPORTS 3 HD HEVC
+http://stream.msh1.co:8080/MSadmin_064787/5LAk5dpI/52611
+#EXTINF:-1,BEIN SPORTS 4 HD HEVC
+http://stream.msh1.co:8080/MSadmin_064787/5LAk5dpI/52612
+#EXTINF:-1,BEIN SPORTS 5 HD HEVC
+http://stream.msh1.co:8080/MSadmin_064787/5LAk5dpI/52613
+#EXTINF:-1,BEIN SPORTS 6 HD HEVC
+http://stream.msh1.co:8080/MSadmin_064787/5LAk5dpI/52616
+#EXTINF:-1,BEIN SPORTS 7 HD HEVC
+http://stream.msh1.co:8080/MSadmin_064787/5LAk5dpI/52618
+#EXTINF:-1,BEIN SPORTS 8 HD HEVC
+http://stream.msh1.co:8080/MSadmin_064787/5LAk5dpI/52617
+#EXTINF:-1,BEIN SPORTS 9 HD HEVC
+http://stream.msh1.co:8080/MSadmin_064787/5LAk5dpI/52619
+#EXTINF:-1,BEIN SPORTS 10 HD OLYMPIC HEVC
+http://stream.msh1.co:8080/MSadmin_064787/5LAk5dpI/52620
