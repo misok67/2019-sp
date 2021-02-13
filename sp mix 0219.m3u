@@ -1,132 +1,119 @@
 #EXTM3U
 
-#EXTINF:-1,SP: ES: EUROSPORT 1 FHD
-http://tvgp.xyz:8080/live/iptvtoolintercam2932/6YrFEZrVgy/163.m3u8
-#EXTINF:-1,SP: ES: EUROSPORT 2 HD
-http://tvgp.xyz:8080/live/iptvtoolintercam2932/6YrFEZrVgy/27250.m3u8
-#EXTINF:-1,SP: UK: EUROSPORT 1 HD
-http://tvgp.xyz:8080/live/iptvtoolintercam2932/6YrFEZrVgy/32569.m3u8
-#EXTINF:-1,SP: UK: EUROSPORT 2 HD
-http://tvgp.xyz:8080/live/iptvtoolintercam2932/6YrFEZrVgy/32570.m3u8
-#EXTINF:-1,SP: SE: EUROSPORT 1 FHD SE
-http://tvgp.xyz:8080/live/iptvtoolintercam2932/6YrFEZrVgy/222.m3u8
-#EXTINF:-1,SP: SE: EUROSPORT 2 FHD SE
-http://tvgp.xyz:8080/live/iptvtoolintercam2932/6YrFEZrVgy/223.m3u8
-#EXTINF:-1,SP: FR: EUROSPORT 1 FHD (H265)
-http://tvgp.xyz:8080/live/iptvtoolintercam2932/6YrFEZrVgy/61134.m3u8
-#EXTINF:-1,SP: FR: EUROSPORT 2 FHD (H265)
-http://tvgp.xyz:8080/live/iptvtoolintercam2932/6YrFEZrVgy/61136.m3u8
-#EXTINF:-1,SP: DE: EUROSPORT 1 FHD
-http://tvgp.xyz:8080/live/iptvtoolintercam2932/6YrFEZrVgy/33430.m3u8
-#EXTINF:-1,SP: DE: EUROSPORT 2 FHD
-http://tvgp.xyz:8080/live/iptvtoolintercam2932/6YrFEZrVgy/33433.m3u8
-#EXTINF:-1,SP: DE: EUROSPORT 2 XTRA FHD
-http://tvgp.xyz:8080/live/iptvtoolintercam2932/6YrFEZrVgy/33436.m3u8
-#EXTINF:-1,SP: NL: EUROSPORT 1
-http://tvgp.xyz:8080/live/iptvtoolintercam2932/6YrFEZrVgy/37431.m3u8
-#EXTINF:-1,SP: NL: EUROSPORT 2
-http://tvgp.xyz:8080/live/iptvtoolintercam2932/6YrFEZrVgy/37432.m3u8
-#EXTINF:-1,IT: EUROSPORT 1
-http://tvgp.xyz:8080/live/iptvtoolintercam2932/6YrFEZrVgy/40041.m3u8
-#EXTINF:-1,IT: EUROSPORT 2
-http://tvgp.xyz:8080/live/iptvtoolintercam2932/6YrFEZrVgy/40042.m3u8
-#EXTINF:-1,SP: ARAB: BEIN SPORTS 8 HD
-http://tvgp.xyz:8080/live/iptvtoolintercam2932/6YrFEZrVgy/30112.m3u8
-#EXTINF:-1,SP: ARAB: BEIN SPORTS 9 HD
-http://tvgp.xyz:8080/live/iptvtoolintercam2932/6YrFEZrVgy/30113.m3u8
-#EXTINF:-1,SP: ARAB: BEIN SPORTS 10 HD
-http://tvgp.xyz:8080/live/iptvtoolintercam2932/6YrFEZrVgy/30114.m3u8
-#EXTINF:-1,SP: ARAB: BEIN SPORTS 12 HD
-http://tvgp.xyz:8080/live/iptvtoolintercam2932/6YrFEZrVgy/30116.m3u8
-#EXTINF:-1,SP: CA: TSN 1
-http://tvgp.xyz:8080/live/iptvtoolintercam2932/6YrFEZrVgy/8113.m3u8
-#EXTINF:-1,SP: CA: TSN 2
-http://tvgp.xyz:8080/live/iptvtoolintercam2932/6YrFEZrVgy/8112.m3u8
-#EXTINF:-1,SP: CA: TSN 3
-http://tvgp.xyz:8080/live/iptvtoolintercam2932/6YrFEZrVgy/8111.m3u8
-#EXTINF:-1,SP: CA: TSN 4
-http://tvgp.xyz:8080/live/iptvtoolintercam2932/6YrFEZrVgy/8110.m3u8
-#EXTINF:-1,SP: CA: TSN 5
-http://tvgp.xyz:8080/live/iptvtoolintercam2932/6YrFEZrVgy/8109.m3u8
-#EXTINF:-1,SP: USA: TENNIS CHANNEL
-http://tvgp.xyz:8080/live/iptvtoolintercam2932/6YrFEZrVgy/41379.m3u8
-#EXTINF:-1,SP: IT: SUPER TENNIS
-http://tvgp.xyz:8080/live/iptvtoolintercam2932/6YrFEZrVgy/40049.m3u8
-#EXTINF:-1,EUROSPORT 1 HD RS
-http://nordicone.is:2095/live/yeroo_2/wlEi_5YX81g/8986.m3u8
-#EXTINF:-1,EUROSPORT 2 HD RS
-http://nordicone.is:2095/live/yeroo_2/wlEi_5YX81g/8987.m3u8
-#EXTINF:-1,EUROSPORT 1 FHD NL
-http://nordicone.is:2095/live/yeroo_2/wlEi_5YX81g/31249.m3u8
-#EXTINF:-1,EUROSPORT 2 HD NL
-http://nordicone.is:2095/live/yeroo_2/wlEi_5YX81g/31250.m3u8
-#EXTINF:-1,EUROSPORT 1 ES
-http://nordicone.is:2095/live/yeroo_2/wlEi_5YX81g/48720.m3u8
-#EXTINF:-1,EUROSPORT 1 FHD ES
-http://nordicone.is:2095/live/yeroo_2/wlEi_5YX81g/48719.m3u8
-#EXTINF:-1,EUROSPORT 2 ES
-http://nordicone.is:2095/live/yeroo_2/wlEi_5YX81g/48721.m3u8
-#EXTINF:-1,EUROSPORT 1 FHD SE
-http://nordicone.is:2095/live/yeroo_2/wlEi_5YX81g/13265.m3u8
-#EXTINF:-1,EUROSPORT 2 FHD SE
-http://nordicone.is:2095/live/yeroo_2/wlEi_5YX81g/9600.m3u8
-#EXTINF:-1,EUROSPORT 1 FHD DE
-http://nordicone.is:2095/live/yeroo_2/wlEi_5YX81g/19521.m3u8
-#EXTINF:-1,EUROSPORT 2 FHD DE
-http://nordicone.is:2095/live/yeroo_2/wlEi_5YX81g/19522.m3u8
-#EXTINF:-1,MULTIDEPORTE ES
-http://nordicone.is:2095/live/yeroo_2/wlEi_5YX81g/48908.m3u8
-#EXTINF:-1, L3...DE: EUROSPORT 1 (DATA)
-http://drmbx.net:1962/live/aylin2019/2019aylin/44292.m3u8
-#EXTINF:-1, L3...DE: EUROSPORT 1 HD
-http://drmbx.net:1962/live/aylin2019/2019aylin/44315.m3u8
-#EXTINF:-1, L3...DE: EUROSPORT 2 HD
-http://drmbx.net:1962/live/aylin2019/2019aylin/44316.m3u8
-#EXTINF:-1, L3...FR: EUROSPORT 1
-http://drmbx.net:1962/live/aylin2019/2019aylin/38589.m3u8
-#EXTINF:-1, L3...FR: EUROSPORT 2
-http://drmbx.net:1962/live/aylin2019/2019aylin/38590.m3u8
-#EXTINF:-1, L3...NL: EUROSPORT 1 HD
-http://drmbx.net:1962/live/aylin2019/2019aylin/38148.m3u8
-#EXTINF:-1, L3...NL: EUROSPORT 2 HD
-http://drmbx.net:1962/live/aylin2019/2019aylin/38147.m3u8
-#EXTINF:-1, L3...IT] EUROSPORT 1
-http://drmbx.net:1962/live/aylin2019/2019aylin/40330.m3u8
-#EXTINF:-1, L3...IT] EUROSPORT 2
-http://drmbx.net:1962/live/aylin2019/2019aylin/40333.m3u8
-#EXTINF:-1, L3...ES: EUROSPORT 1 FHD
-http://drmbx.net:1962/live/aylin2019/2019aylin/39704.m3u8
-#EXTINF:-1, L3...ES: EUROSPORT 1 HD
-http://drmbx.net:1962/live/aylin2019/2019aylin/39628.m3u8
-#EXTINF:-1, L3...ES: EUROSPORT 2
-http://drmbx.net:1962/live/aylin2019/2019aylin/39627.m3u8
-#EXTINF:-1, L3...ES: EUROSPORT 2 FHD
-http://drmbx.net:1962/live/aylin2019/2019aylin/39703.m3u8
-#EXTINF:-1, L3...AR] BEIN SPORT 8
-http://drmbx.net:1962/live/aylin2019/2019aylin/41541.m3u8
-#EXTINF:-1, L3...US: TSN 1
-http://drmbx.net:1962/live/aylin2019/2019aylin/39069.m3u8
-#EXTINF:-1, L3...US: TSN 2
-http://drmbx.net:1962/live/aylin2019/2019aylin/39070.m3u8
-#EXTINF:-1, L3...US: TSN 3
-http://drmbx.net:1962/live/aylin2019/2019aylin/39071.m3u8
-#EXTINF:-1, L3...US: TSN 4
-http://drmbx.net:1962/live/aylin2019/2019aylin/39072.m3u8
-#EXTINF:-1, L3...US: TSN 5
-http://drmbx.net:1962/live/aylin2019/2019aylin/39073.m3u8
-#EXTINF:-1, L3...CA] TSN 1
-http://drmbx.net:1962/live/aylin2019/2019aylin/40196.m3u8
-#EXTINF:-1, L3...CA] TSN 2
-http://drmbx.net:1962/live/aylin2019/2019aylin/40197.m3u8
-#EXTINF:-1, L3...CA] TSN 3
-http://drmbx.net:1962/live/aylin2019/2019aylin/40198.m3u8
-#EXTINF:-1, L3...CA] TSN 4
-http://drmbx.net:1962/live/aylin2019/2019aylin/40199.m3u8
-#EXTINF:-1, L3...CA] TSN 5
-http://drmbx.net:1962/live/aylin2019/2019aylin/40200.m3u8
-#EXTINF:-1, L3...IT] SUPER TENNIS
-http://drmbx.net:1962/live/aylin2019/2019aylin/40332.m3u8
-#EXTINF:-1, L3...US: TENNIS CHANNEL
-http://drmbx.net:1962/live/aylin2019/2019aylin/39059.m3u8
-#EXTINF:-1, L3...US: TENNIS CHANNEL HD
-http://drmbx.net:1962/live/aylin2019/2019aylin/39060.m3u8
+#EXTINF:-1,GB : EUROSPORT 1
+http://mags.vip:2086/live/miriam/miriam123/72659.m3u8
+#EXTINF:-1,GB : EUROSPORT 2
+http://mags.vip:2086/live/miriam/miriam123/72660.m3u8
+#EXTINF:-1,GB : EUROSPORT ONE
+http://mags.vip:2086/live/miriam/miriam123/99200.m3u8
+#EXTINF:-1,GB : EUROSPORT TWO
+http://mags.vip:2086/live/miriam/miriam123/99201.m3u8
+
+#EXTINF:-1,DE: EUROSPORT 1 FHD
+http://starshare.live:8080/live/0987654321/1234567890/6788.m3u8
+#EXTINF:-1,DE: EUROSPORT 2 FHD
+http://starshare.live:8080/live/0987654321/1234567890/6791.m3u8
+#EXTINF:-1,NL : EUROSPORT 1 HD
+http://starshare.live:8080/live/0987654321/1234567890/509.m3u8
+#EXTINF:-1,NL : EUROSPORT 2 HD
+http://starshare.live:8080/live/0987654321/1234567890/510.m3u8
+#EXTINF:-1,ES: EUROSPORT 1HD
+http://starshare.live:8080/live/0987654321/1234567890/843.m3u8
+#EXTINF:-1,UK : EUROSPORT 1 HD
+http://starshare.live:8080/live/0987654321/1234567890/1065.m3u8
+#EXTINF:-1,UK: EUROSPORT 2
+http://starshare.live:8080/live/0987654321/1234567890/1078.m3u8
+#EXTINF:-1,|FR| EUROSPORT 1
+http://starshare.live:8080/live/0987654321/1234567890/3067.m3u8
+#EXTINF:-1,|FR| EUROSPORT 2
+http://starshare.live:8080/live/0987654321/1234567890/3068.m3u8
+#EXTINF:-1,ES | EUROSPORT1 FHD
+http://starshare.live:8080/live/0987654321/1234567890/3269.m3u8
+#EXTINF:-1,ES | EUROSPORT1 ES
+http://starshare.live:8080/live/0987654321/1234567890/3270.m3u8
+#EXTINF:-1,ES | EUROSPORT2
+http://starshare.live:8080/live/0987654321/1234567890/3271.m3u8
+#EXTINF:-1,AR : BEIN SPORT 8 HD
+http://starshare.live:8080/live/0987654321/1234567890/366.m3u8
+#EXTINF:-1,AR : BEIN SPORT 9 HD
+http://starshare.live:8080/live/0987654321/1234567890/367.m3u8
+#EXTINF:-1,AR : BEIN SPORT 10 HD
+http://starshare.live:8080/live/0987654321/1234567890/368.m3u8
+#EXTINF:-1,AR : BEIN SPORT 12 HD (ENG)
+http://starshare.live:8080/live/0987654321/1234567890/370.m3u8
+#EXTINF:-1,|AR| BEIN SPORT 9 HD
+http://starshare.live:8080/live/0987654321/1234567890/4475.m3u8
+#EXTINF:-1,|AR| BEIN SPORT 10 HD
+http://starshare.live:8080/live/0987654321/1234567890/4476.m3u8
+#EXTINF:-1,BEIN SPORTS 8 (4K)
+http://starshare.live:8080/live/0987654321/1234567890/23408.m3u8
+#EXTINF:-1,BEIN SPORTS 9 (4K)
+http://starshare.live:8080/live/0987654321/1234567890/23409.m3u8
+#EXTINF:-1,BEIN SPORTS 10 (4K)
+http://starshare.live:8080/live/0987654321/1234567890/23410.m3u8
+#EXTINF:-1,BEIN SPORTS 12 (4K)
+http://starshare.live:8080/live/0987654321/1234567890/23412.m3u8
+#EXTINF:-1,BEIN SPORTS 13 (4K)
+http://starshare.live:8080/live/0987654321/1234567890/23413.m3u8
+#EXTINF:-1,|CA| TSN 1 | HD
+http://starshare.live:8080/live/0987654321/1234567890/1565.m3u8
+#EXTINF:-1,|CA| TSN 2 | HD
+http://starshare.live:8080/live/0987654321/1234567890/1566.m3u8
+#EXTINF:-1,|CA| TSN 3 | HD
+http://starshare.live:8080/live/0987654321/1234567890/1567.m3u8
+#EXTINF:-1,|CA| TSN 4 | HD
+http://starshare.live:8080/live/0987654321/1234567890/1568.m3u8
+#EXTINF:-1,|CA| TSN 5 | HD
+http://starshare.live:8080/live/0987654321/1234567890/1569.m3u8
+#EXTINF:-1, L2...UK_EUROSPORT_1
+http://attacktv.ddns.net:2052/live/12345/54321/54274.m3u8
+#EXTINF:-1, L2...UK_EUROSPORT_2
+http://attacktv.ddns.net:2052/live/12345/54321/54275.m3u8
+#EXTINF:-1, L2...DE_ EUROSPORT 2 HD
+http://attacktv.ddns.net:2052/live/12345/54321/54373.m3u8
+#EXTINF:-1, L2...DE_ EUROSPORT 1 HD
+http://attacktv.ddns.net:2052/live/12345/54321/54374.m3u8
+#EXTINF:-1, L2...FR: EUROSPORT 1 HD
+http://attacktv.ddns.net:2052/live/12345/54321/49669.m3u8
+#EXTINF:-1, L2...FR: EUROSPORT 2 HD
+http://attacktv.ddns.net:2052/live/12345/54321/49670.m3u8
+#EXTINF:-1, L2...IT_EUROSPORT_1_HD
+http://attacktv.ddns.net:2052/live/12345/54321/54436.m3u8
+#EXTINF:-1, L2...IT_EUROSPORT_2_HD
+http://attacktv.ddns.net:2052/live/12345/54321/54437.m3u8
+#EXTINF:-1, L2...NL: EUROSPORT 1 FHD
+http://attacktv.ddns.net:2052/live/12345/54321/44156.m3u8
+#EXTINF:-1, L2...NL EUROSPORT 2 FHD
+http://attacktv.ddns.net:2052/live/12345/54321/44157.m3u8
+#EXTINF:-1, L2...BEIN SPORTS HD8
+http://attacktv.ddns.net:2052/live/12345/54321/10680.m3u8
+#EXTINF:-1, L2...BEIN SPORTS HD9
+http://attacktv.ddns.net:2052/live/12345/54321/10679.m3u8
+#EXTINF:-1, L2...BEIN SPORTS HD10
+http://attacktv.ddns.net:2052/live/12345/54321/10678.m3u8
+#EXTINF:-1, L2...BEIN SPORTS HD12
+http://attacktv.ddns.net:2052/live/12345/54321/38803.m3u8
+#EXTINF:-1, L2...BEIN SPORTS 4K 8
+http://attacktv.ddns.net:2052/live/12345/54321/38584.m3u8
+#EXTINF:-1, L2...BEIN SPORTS 4K 9
+http://attacktv.ddns.net:2052/live/12345/54321/38585.m3u8
+#EXTINF:-1, L2...BEIN SPORTS 4K 10
+http://attacktv.ddns.net:2052/live/12345/54321/38586.m3u8
+#EXTINF:-1, L2...BEIN SPORT 4K 12
+http://attacktv.ddns.net:2052/live/12345/54321/38588.m3u8
+#EXTINF:-1, L2...BEIN SPORT 4K 13
+http://attacktv.ddns.net:2052/live/12345/54321/66696.m3u8
+#EXTINF:-1, L2...USA: TSN HD 1
+http://attacktv.ddns.net:2052/live/12345/54321/54859.m3u8
+#EXTINF:-1, L2...USA: TSN HD 2
+http://attacktv.ddns.net:2052/live/12345/54321/54858.m3u8
+#EXTINF:-1, L2...USA: TSN HD 3
+http://attacktv.ddns.net:2052/live/12345/54321/54857.m3u8
+#EXTINF:-1, L2...USA: TSN HD 4
+http://attacktv.ddns.net:2052/live/12345/54321/54856.m3u8
+#EXTINF:-1, L2...USA: TSN HD 5
+http://attacktv.ddns.net:2052/live/12345/54321/54855.m3u8
+#EXTINF:-1, L2...ZA: SUPERSPORT TENNIS FHD
+http://attacktv.ddns.net:2052/live/12345/54321/69533.m3u8
+#EXTINF:-1, L2...USA: TENNIS HD
+http://attacktv.ddns.net:2052/live/12345/54321/54865.m3u8
