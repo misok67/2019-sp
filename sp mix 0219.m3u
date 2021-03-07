@@ -1,77 +1,110 @@
 #EXTM3U
 
-#EXTINF:-1,GB : EUROSPORT 1
-http://mags.vip:2086/live/miriam/miriam123/72659.m3u8
-#EXTINF:-1,GB : EUROSPORT 2
-http://mags.vip:2086/live/miriam/miriam123/72660.m3u8
-#EXTINF:-1,GB : EUROSPORT ONE
-http://mags.vip:2086/live/miriam/miriam123/99200.m3u8
-#EXTINF:-1,GB : EUROSPORT TWO
-http://mags.vip:2086/live/miriam/miriam123/99201.m3u8
-#EXTINF:-1,DUTCH: EUROSPORT 1
-http://mags.vip:2086/live/miriam/miriam123/92912.m3u8
-#EXTINF:-1,DUTCH: EUROSPORT 2
-http://mags.vip:2086/live/miriam/miriam123/92913.m3u8
-#EXTINF:-1,FR : EUROSPORT 1
-http://mags.vip:2086/live/miriam/miriam123/92214.m3u8
-#EXTINF:-1,FR : EUROSPORT 2
-http://mags.vip:2086/live/miriam/miriam123/92215.m3u8
-#EXTINF:-1,IT : EUROSPORT 1
-http://mags.vip:2086/live/miriam/miriam123/94204.m3u8
-#EXTINF:-1,IT : EUROSPORT 2
-http://mags.vip:2086/live/miriam/miriam123/94203.m3u8
-#EXTINF:-1,IT : SKY EUROSPORT 2
-http://mags.vip:2086/live/miriam/miriam123/94142.m3u8
-
-#EXTINF:-1, L2...UK_EUROSPORT_1
-http://attacktv.ddns.net:2052/live/12345/54321/54274.m3u8
-#EXTINF:-1, L2...UK_EUROSPORT_2
-http://attacktv.ddns.net:2052/live/12345/54321/54275.m3u8
-#EXTINF:-1, L2...DE_ EUROSPORT 2 HD
-http://attacktv.ddns.net:2052/live/12345/54321/54373.m3u8
-#EXTINF:-1, L2...DE_ EUROSPORT 1 HD
-http://attacktv.ddns.net:2052/live/12345/54321/54374.m3u8
-#EXTINF:-1, L2...FR: EUROSPORT 1 HD
-http://attacktv.ddns.net:2052/live/12345/54321/49669.m3u8
-#EXTINF:-1, L2...FR: EUROSPORT 2 HD
-http://attacktv.ddns.net:2052/live/12345/54321/49670.m3u8
-#EXTINF:-1, L2...IT_EUROSPORT_1_HD
-http://attacktv.ddns.net:2052/live/12345/54321/54436.m3u8
-#EXTINF:-1, L2...IT_EUROSPORT_2_HD
-http://attacktv.ddns.net:2052/live/12345/54321/54437.m3u8
-#EXTINF:-1, L2...NL: EUROSPORT 1 FHD
-http://attacktv.ddns.net:2052/live/12345/54321/44156.m3u8
-#EXTINF:-1, L2...NL EUROSPORT 2 FHD
-http://attacktv.ddns.net:2052/live/12345/54321/44157.m3u8
-#EXTINF:-1, L2...BEIN SPORTS HD8
-http://attacktv.ddns.net:2052/live/12345/54321/10680.m3u8
-#EXTINF:-1, L2...BEIN SPORTS HD9
-http://attacktv.ddns.net:2052/live/12345/54321/10679.m3u8
-#EXTINF:-1, L2...BEIN SPORTS HD10
-http://attacktv.ddns.net:2052/live/12345/54321/10678.m3u8
-#EXTINF:-1, L2...BEIN SPORTS HD12
-http://attacktv.ddns.net:2052/live/12345/54321/38803.m3u8
-#EXTINF:-1, L2...BEIN SPORTS 4K 8
-http://attacktv.ddns.net:2052/live/12345/54321/38584.m3u8
-#EXTINF:-1, L2...BEIN SPORTS 4K 9
-http://attacktv.ddns.net:2052/live/12345/54321/38585.m3u8
-#EXTINF:-1, L2...BEIN SPORTS 4K 10
-http://attacktv.ddns.net:2052/live/12345/54321/38586.m3u8
-#EXTINF:-1, L2...BEIN SPORT 4K 12
-http://attacktv.ddns.net:2052/live/12345/54321/38588.m3u8
-#EXTINF:-1, L2...BEIN SPORT 4K 13
-http://attacktv.ddns.net:2052/live/12345/54321/66696.m3u8
-#EXTINF:-1, L2...USA: TSN HD 1
-http://attacktv.ddns.net:2052/live/12345/54321/54859.m3u8
-#EXTINF:-1, L2...USA: TSN HD 2
-http://attacktv.ddns.net:2052/live/12345/54321/54858.m3u8
-#EXTINF:-1, L2...USA: TSN HD 3
-http://attacktv.ddns.net:2052/live/12345/54321/54857.m3u8
-#EXTINF:-1, L2...USA: TSN HD 4
-http://attacktv.ddns.net:2052/live/12345/54321/54856.m3u8
-#EXTINF:-1, L2...USA: TSN HD 5
-http://attacktv.ddns.net:2052/live/12345/54321/54855.m3u8
-#EXTINF:-1, L2...ZA: SUPERSPORT TENNIS FHD
-http://attacktv.ddns.net:2052/live/12345/54321/69533.m3u8
-#EXTINF:-1, L2...USA: TENNIS HD
-http://attacktv.ddns.net:2052/live/12345/54321/54865.m3u8
+#EXTINF:-1,EX_YU: SPORT KLUB 1 HR
+http://152.89.62.111:8080/live/fliss/fliss/151164.m3u8
+#EXTINF:-1,EX_YU: SPORT KLUB 2 HR
+http://152.89.62.111:8080/live/fliss/fliss/151165.m3u8
+#EXTINF:-1,EX_YU: SPORT KLUB 3 HR
+http://152.89.62.111:8080/live/fliss/fliss/151166.m3u8
+#EXTINF:-1,EX_YU: ARENA SPORT 1 HR
+http://152.89.62.111:8080/live/fliss/fliss/151156.m3u8
+#EXTINF:-1,|DE| DAZN 1 BAR HEVC
+http://152.89.62.111:8080/live/fliss/fliss/146581.m3u8
+#EXTINF:-1,|DE| DAZN 1 FHD
+http://152.89.62.111:8080/live/fliss/fliss/146373.m3u8
+#EXTINF:-1,|DE| DAZN 1 HD
+http://152.89.62.111:8080/live/fliss/fliss/146522.m3u8
+#EXTINF:-1,|DE| DAZN 2 BAR HEVC
+http://152.89.62.111:8080/live/fliss/fliss/146582.m3u8
+#EXTINF:-1,BT SPORT 1 UHD
+http://152.89.62.111:8080/live/fliss/fliss/156464.m3u8
+#EXTINF:-1,UK BT SPORT 1 FHD
+http://152.89.62.111:8080/live/fliss/fliss/137.m3u8
+#EXTINF:-1,BT SPORT 2 UHD
+http://152.89.62.111:8080/live/fliss/fliss/43898.m3u8
+#EXTINF:-1,UK BT SPORT 2 FHD
+http://152.89.62.111:8080/live/fliss/fliss/139.m3u8
+#EXTINF:-1,UK BT SPORT 3 UHD
+http://152.89.62.111:8080/live/fliss/fliss/33845.m3u8
+#EXTINF:-1,UK BT SPORT 3 FHD
+http://152.89.62.111:8080/live/fliss/fliss/22953.m3u8
+#EXTINF:-1,|DE| SKY SPORT 1 HD
+http://152.89.62.111:8080/live/fliss/fliss/146535.m3u8
+#EXTINF:-1,|DE| SKY SPORT 1 HEVC
+http://152.89.62.111:8080/live/fliss/fliss/146617.m3u8
+#EXTINF:-1,|DE| SKY SPORT 2 FHD
+http://152.89.62.111:8080/live/fliss/fliss/146381.m3u8
+#EXTINF:-1,|DE| SKY SPORT 2 HEVC
+http://152.89.62.111:8080/live/fliss/fliss/146618.m3u8
+#EXTINF:-1,UK SKY SPORTS MAIN EVENT UHD
+http://152.89.62.111:8080/live/fliss/fliss/173.m3u8
+#EXTINF:-1,UK SKY SPORTS MAIN EVENT FHD
+http://152.89.62.111:8080/live/fliss/fliss/33875.m3u8
+#EXTINF:-1,UK SKY SPORTS PREMIER LEAGUE UHD
+http://152.89.62.111:8080/live/fliss/fliss/33881.m3u8
+#EXTINF:-1,UK SKY SPORTS PREMIER LEAGUE FHD
+http://152.89.62.111:8080/live/fliss/fliss/23185.m3u8
+#EXTINF:-1,|NL| FOX SPORTS 3 H265
+http://152.89.62.111:8080/live/fliss/fliss/173567.m3u8
+#EXTINF:-1,|NL| FOX SPORTS 4 H265
+http://152.89.62.111:8080/live/fliss/fliss/173568.m3u8
+#EXTINF:-1,|NL| FOX SPORTS 5 H265
+http://152.89.62.111:8080/live/fliss/fliss/173569.m3u8
+#EXTINF:-1,|NL| FOX SPORTS 6 H265
+http://152.89.62.111:8080/live/fliss/fliss/173570.m3u8
+#EXTINF:-1,|NL| ZIGGO SPORT SELECT H265
+http://152.89.62.111:8080/live/fliss/fliss/173563.m3u8
+#EXTINF:-1,FR 4K+ | RMC SPORT 2 HD
+http://152.89.62.111:8080/live/fliss/fliss/147002.m3u8
+#EXTINF:-1,FR | RMC SPORT 1 HD
+http://152.89.62.111:8080/live/fliss/fliss/147007.m3u8
+#EXTINF:-1,|NL| ZIGGO SPORT VOETBAL H265
+http://152.89.62.111:8080/live/fliss/fliss/173564.m3u8
+#EXTINF:-1,USA BEIN SPORTS USA UHD
+http://152.89.62.111:8080/live/fliss/fliss/39063.m3u8
+#EXTINF:-1,USA BEIN SPORTS USA LHD
+http://152.89.62.111:8080/live/fliss/fliss/39060.m3u8
+#EXTINF:-1,FR | BEIN SPORT 1 HD
+http://152.89.62.111:8080/live/fliss/fliss/147003.m3u8
+#EXTINF:-1,FR | BEIN SPORT 2 HD
+http://152.89.62.111:8080/live/fliss/fliss/147004.m3u8
+#EXTINF:-1,AR- BEIN SPORTS FHD 11 EN
+http://152.89.62.111:8080/live/fliss/fliss/169851.m3u8
+#EXTINF:-1,AR- BEIN SPORTS FHD 12 EN
+http://152.89.62.111:8080/live/fliss/fliss/169852.m3u8
+#EXTINF:-1,AR- BEIN SPORTS FHD 2
+http://152.89.62.111:8080/live/fliss/fliss/169857.m3u8
+#EXTINF:-1,AR- BEIN SPORTS FHD 3
+http://152.89.62.111:8080/live/fliss/fliss/169858.m3u8
+#EXTINF:-1,AR- BEIN SPORTS FHD 4
+http://152.89.62.111:8080/live/fliss/fliss/169859.m3u8
+#EXTINF:-1,AR- BEIN SPORTS FHD 5
+http://152.89.62.111:8080/live/fliss/fliss/169860.m3u8
+#EXTINF:-1,AR- BEIN SPORTS FHD 6
+http://152.89.62.111:8080/live/fliss/fliss/169861.m3u8
+#EXTINF:-1,AR- BEIN SPORTS FHD 7
+http://152.89.62.111:8080/live/fliss/fliss/169862.m3u8
+#EXTINF:-1,AR- BEIN SPORTS FHD 8
+http://152.89.62.111:8080/live/fliss/fliss/169863.m3u8
+#EXTINF:-1,AR- BEIN SPORTS FHD 9
+http://152.89.62.111:8080/live/fliss/fliss/169864.m3u8
+#EXTINF:-1,AR- BEIN SPORTS HD 1
+http://152.89.62.111:8080/live/fliss/fliss/169865.m3u8
+#EXTINF:-1,AR- BEIN SPORTS SD 11 EN
+http://152.89.62.111:8080/live/fliss/fliss/169877.m3u8
+#EXTINF:-1,AR- BEIN SPORTS SD 12 EN
+http://152.89.62.111:8080/live/fliss/fliss/169878.m3u8
+#EXTINF:-1,BEIN SPORTS LA LIGA
+http://152.89.62.111:8080/live/fliss/fliss/54256.m3u8
+#EXTINF:-1,BEIN SPORTS USA
+http://152.89.62.111:8080/live/fliss/fliss/54257.m3u8
+#EXTINF:-1,USA TENNIS CHANNEL
+http://152.89.62.111:8080/live/fliss/fliss/39206.m3u8
+#EXTINF:-1,USA TENNIS CHANNEL UHD
+http://152.89.62.111:8080/live/fliss/fliss/39209.m3u8
+#EXTINF:-1,USA TENNIS CHANNEL LHD
+http://152.89.62.111:8080/live/fliss/fliss/39207.m3u8
+#EXTINF:-1,SUPERSPORT TENNIS
+http://152.89.62.111:8080/live/fliss/fliss/100042.m3u8
+#EXTINF:-1,SUPERSPORT TENNIS
+http://152.89.62.111:8080/live/fliss/fliss/85827.m3u8
