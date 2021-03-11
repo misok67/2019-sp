@@ -1,110 +1,494 @@
 #EXTM3U
 
-#EXTINF:-1,EX_YU: SPORT KLUB 1 HR
-http://152.89.62.111:8080/live/fliss/fliss/151164.m3u8
-#EXTINF:-1,EX_YU: SPORT KLUB 2 HR
-http://152.89.62.111:8080/live/fliss/fliss/151165.m3u8
-#EXTINF:-1,EX_YU: SPORT KLUB 3 HR
-http://152.89.62.111:8080/live/fliss/fliss/151166.m3u8
-#EXTINF:-1,EX_YU: ARENA SPORT 1 HR
-http://152.89.62.111:8080/live/fliss/fliss/151156.m3u8
-#EXTINF:-1,|DE| DAZN 1 BAR HEVC
-http://152.89.62.111:8080/live/fliss/fliss/146581.m3u8
-#EXTINF:-1,|DE| DAZN 1 FHD
-http://152.89.62.111:8080/live/fliss/fliss/146373.m3u8
-#EXTINF:-1,|DE| DAZN 1 HD
-http://152.89.62.111:8080/live/fliss/fliss/146522.m3u8
-#EXTINF:-1,|DE| DAZN 2 BAR HEVC
-http://152.89.62.111:8080/live/fliss/fliss/146582.m3u8
-#EXTINF:-1,BT SPORT 1 UHD
-http://152.89.62.111:8080/live/fliss/fliss/156464.m3u8
-#EXTINF:-1,UK BT SPORT 1 FHD
-http://152.89.62.111:8080/live/fliss/fliss/137.m3u8
-#EXTINF:-1,BT SPORT 2 UHD
-http://152.89.62.111:8080/live/fliss/fliss/43898.m3u8
-#EXTINF:-1,UK BT SPORT 2 FHD
-http://152.89.62.111:8080/live/fliss/fliss/139.m3u8
-#EXTINF:-1,UK BT SPORT 3 UHD
-http://152.89.62.111:8080/live/fliss/fliss/33845.m3u8
-#EXTINF:-1,UK BT SPORT 3 FHD
-http://152.89.62.111:8080/live/fliss/fliss/22953.m3u8
-#EXTINF:-1,|DE| SKY SPORT 1 HD
-http://152.89.62.111:8080/live/fliss/fliss/146535.m3u8
-#EXTINF:-1,|DE| SKY SPORT 1 HEVC
-http://152.89.62.111:8080/live/fliss/fliss/146617.m3u8
-#EXTINF:-1,|DE| SKY SPORT 2 FHD
-http://152.89.62.111:8080/live/fliss/fliss/146381.m3u8
-#EXTINF:-1,|DE| SKY SPORT 2 HEVC
-http://152.89.62.111:8080/live/fliss/fliss/146618.m3u8
-#EXTINF:-1,UK SKY SPORTS MAIN EVENT UHD
-http://152.89.62.111:8080/live/fliss/fliss/173.m3u8
-#EXTINF:-1,UK SKY SPORTS MAIN EVENT FHD
-http://152.89.62.111:8080/live/fliss/fliss/33875.m3u8
-#EXTINF:-1,UK SKY SPORTS PREMIER LEAGUE UHD
-http://152.89.62.111:8080/live/fliss/fliss/33881.m3u8
-#EXTINF:-1,UK SKY SPORTS PREMIER LEAGUE FHD
-http://152.89.62.111:8080/live/fliss/fliss/23185.m3u8
-#EXTINF:-1,|NL| FOX SPORTS 3 H265
-http://152.89.62.111:8080/live/fliss/fliss/173567.m3u8
-#EXTINF:-1,|NL| FOX SPORTS 4 H265
-http://152.89.62.111:8080/live/fliss/fliss/173568.m3u8
-#EXTINF:-1,|NL| FOX SPORTS 5 H265
-http://152.89.62.111:8080/live/fliss/fliss/173569.m3u8
-#EXTINF:-1,|NL| FOX SPORTS 6 H265
-http://152.89.62.111:8080/live/fliss/fliss/173570.m3u8
-#EXTINF:-1,|NL| ZIGGO SPORT SELECT H265
-http://152.89.62.111:8080/live/fliss/fliss/173563.m3u8
-#EXTINF:-1,FR 4K+ | RMC SPORT 2 HD
-http://152.89.62.111:8080/live/fliss/fliss/147002.m3u8
-#EXTINF:-1,FR | RMC SPORT 1 HD
-http://152.89.62.111:8080/live/fliss/fliss/147007.m3u8
-#EXTINF:-1,|NL| ZIGGO SPORT VOETBAL H265
-http://152.89.62.111:8080/live/fliss/fliss/173564.m3u8
-#EXTINF:-1,USA BEIN SPORTS USA UHD
-http://152.89.62.111:8080/live/fliss/fliss/39063.m3u8
-#EXTINF:-1,USA BEIN SPORTS USA LHD
-http://152.89.62.111:8080/live/fliss/fliss/39060.m3u8
-#EXTINF:-1,FR | BEIN SPORT 1 HD
-http://152.89.62.111:8080/live/fliss/fliss/147003.m3u8
-#EXTINF:-1,FR | BEIN SPORT 2 HD
-http://152.89.62.111:8080/live/fliss/fliss/147004.m3u8
-#EXTINF:-1,AR- BEIN SPORTS FHD 11 EN
-http://152.89.62.111:8080/live/fliss/fliss/169851.m3u8
-#EXTINF:-1,AR- BEIN SPORTS FHD 12 EN
-http://152.89.62.111:8080/live/fliss/fliss/169852.m3u8
-#EXTINF:-1,AR- BEIN SPORTS FHD 2
-http://152.89.62.111:8080/live/fliss/fliss/169857.m3u8
-#EXTINF:-1,AR- BEIN SPORTS FHD 3
-http://152.89.62.111:8080/live/fliss/fliss/169858.m3u8
-#EXTINF:-1,AR- BEIN SPORTS FHD 4
-http://152.89.62.111:8080/live/fliss/fliss/169859.m3u8
-#EXTINF:-1,AR- BEIN SPORTS FHD 5
-http://152.89.62.111:8080/live/fliss/fliss/169860.m3u8
-#EXTINF:-1,AR- BEIN SPORTS FHD 6
-http://152.89.62.111:8080/live/fliss/fliss/169861.m3u8
-#EXTINF:-1,AR- BEIN SPORTS FHD 7
-http://152.89.62.111:8080/live/fliss/fliss/169862.m3u8
-#EXTINF:-1,AR- BEIN SPORTS FHD 8
-http://152.89.62.111:8080/live/fliss/fliss/169863.m3u8
-#EXTINF:-1,AR- BEIN SPORTS FHD 9
-http://152.89.62.111:8080/live/fliss/fliss/169864.m3u8
-#EXTINF:-1,AR- BEIN SPORTS HD 1
-http://152.89.62.111:8080/live/fliss/fliss/169865.m3u8
-#EXTINF:-1,AR- BEIN SPORTS SD 11 EN
-http://152.89.62.111:8080/live/fliss/fliss/169877.m3u8
-#EXTINF:-1,AR- BEIN SPORTS SD 12 EN
-http://152.89.62.111:8080/live/fliss/fliss/169878.m3u8
-#EXTINF:-1,BEIN SPORTS LA LIGA
-http://152.89.62.111:8080/live/fliss/fliss/54256.m3u8
-#EXTINF:-1,BEIN SPORTS USA
-http://152.89.62.111:8080/live/fliss/fliss/54257.m3u8
-#EXTINF:-1,USA TENNIS CHANNEL
-http://152.89.62.111:8080/live/fliss/fliss/39206.m3u8
-#EXTINF:-1,USA TENNIS CHANNEL UHD
-http://152.89.62.111:8080/live/fliss/fliss/39209.m3u8
-#EXTINF:-1,USA TENNIS CHANNEL LHD
-http://152.89.62.111:8080/live/fliss/fliss/39207.m3u8
-#EXTINF:-1,SUPERSPORT TENNIS
-http://152.89.62.111:8080/live/fliss/fliss/100042.m3u8
-#EXTINF:-1,SUPERSPORT TENNIS
-http://152.89.62.111:8080/live/fliss/fliss/85827.m3u8
+#EXTINF:-1,EX YU: SPORT KLUB 1
+http://bigboss2017.club:8080/live/waleed/waleed123/156870.m3u8
+#EXTINF:-1,EX YU: SPORT KLUB 2
+http://bigboss2017.club:8080/live/waleed/waleed123/156869.m3u8
+#EXTINF:-1,EX YU: SPORT KLUB 3
+http://bigboss2017.club:8080/live/waleed/waleed123/156868.m3u8
+#EXTINF:-1,EX-YU: SPORT KLUB 4
+http://bigboss2017.club:8080/live/waleed/waleed123/156867.m3u8
+#EXTINF:-1,EX-YU: SPORT KLUB 5
+http://bigboss2017.club:8080/live/waleed/waleed123/156866.m3u8
+#EXTINF:-1,EX-YU: SPORT KLUB 6
+http://bigboss2017.club:8080/live/waleed/waleed123/156865.m3u8
+#EXTINF:-1,EX-YU: SPORT KLUB 7
+http://bigboss2017.club:8080/live/waleed/waleed123/156864.m3u8
+#EXTINF:-1,EX-YU: SPORT KLUB 8
+http://bigboss2017.club:8080/live/waleed/waleed123/156863.m3u8
+#EXTINF:-1,EX-YU: SPORT KLUB 10
+http://bigboss2017.club:8080/live/waleed/waleed123/156862.m3u8
+#EXTINF:-1,EX-YU: SPORT KLUB GOLF
+http://bigboss2017.club:8080/live/waleed/waleed123/156861.m3u8
+#EXTINF:-1,PL: SPORT KLUB
+http://bigboss2017.club:8080/live/waleed/waleed123/154474.m3u8
+#EXTINF:-1,SPORT KLUB 1
+http://bigboss2017.club:8080/live/waleed/waleed123/135345.m3u8
+#EXTINF:-1,SPORT KLUB 2
+http://bigboss2017.club:8080/live/waleed/waleed123/135344.m3u8
+#EXTINF:-1,SPORT KLUB 3
+http://bigboss2017.club:8080/live/waleed/waleed123/135343.m3u8
+#EXTINF:-1,SPORT KLUB 4
+http://bigboss2017.club:8080/live/waleed/waleed123/135342.m3u8
+#EXTINF:-1,SPORT KLUB 5
+http://bigboss2017.club:8080/live/waleed/waleed123/135341.m3u8
+#EXTINF:-1,SPORT KLUB 6
+http://bigboss2017.club:8080/live/waleed/waleed123/135340.m3u8
+#EXTINF:-1,EX-YU: ARENA SPORT 1 (SR)
+http://bigboss2017.club:8080/live/waleed/waleed123/127278.m3u8
+#EXTINF:-1,EX-YU: ARENA SPORT 2 (SR)
+http://bigboss2017.club:8080/live/waleed/waleed123/127277.m3u8
+#EXTINF:-1,EX-YU: ARENA SPORT 3 (SR)
+http://bigboss2017.club:8080/live/waleed/waleed123/127276.m3u8
+#EXTINF:-1,EX-YU: ARENA SPORT 4 (SR)
+http://bigboss2017.club:8080/live/waleed/waleed123/127275.m3u8
+#EXTINF:-1,EX-YU: ARENA SPORT 5 (SR)
+http://bigboss2017.club:8080/live/waleed/waleed123/127274.m3u8
+#EXTINF:-1,EX-YU: ARENA SPORT 1 HR
+http://bigboss2017.club:8080/live/waleed/waleed123/127273.m3u8
+#EXTINF:-1,EX-YU: ARENA SPORT 2 HR
+http://bigboss2017.club:8080/live/waleed/waleed123/127272.m3u8
+#EXTINF:-1,EX-YU: ARENA SPORT 3 HR
+http://bigboss2017.club:8080/live/waleed/waleed123/127271.m3u8
+#EXTINF:-1,EX-YU: ARENA SPORT 4 HR
+http://bigboss2017.club:8080/live/waleed/waleed123/127270.m3u8
+#EXTINF:-1,EX-YU: ARENA SPORT 5 HR
+http://bigboss2017.club:8080/live/waleed/waleed123/127269.m3u8
+#EXTINF:-1,BR: DAZN 1 HD
+http://bigboss2017.club:8080/live/waleed/waleed123/155731.m3u8
+#EXTINF:-1,BR: DAZN 2 HD
+http://bigboss2017.club:8080/live/waleed/waleed123/155730.m3u8
+#EXTINF:-1,BR: DAZN 3 HD
+http://bigboss2017.club:8080/live/waleed/waleed123/155729.m3u8
+#EXTINF:-1,BR: DAZN 4 HD
+http://bigboss2017.club:8080/live/waleed/waleed123/155728.m3u8
+#EXTINF:-1,EVENT DAZN CA 1 HD
+http://bigboss2017.club:8080/live/waleed/waleed123/165362.m3u8
+#EXTINF:-1,EVENT DAZN CA 2 HD
+http://bigboss2017.club:8080/live/waleed/waleed123/165363.m3u8
+#EXTINF:-1,EVENT DAZN CA 3 HD
+http://bigboss2017.club:8080/live/waleed/waleed123/165364.m3u8
+#EXTINF:-1,EVENT DAZN CA 4 HD
+http://bigboss2017.club:8080/live/waleed/waleed123/165365.m3u8
+#EXTINF:-1,EVENT DAZN CA 5 HD
+http://bigboss2017.club:8080/live/waleed/waleed123/165366.m3u8
+#EXTINF:-1,EVENT DAZN CA 6 HD
+http://bigboss2017.club:8080/live/waleed/waleed123/165367.m3u8
+#EXTINF:-1,EVENT DAZN CA 7 HD
+http://bigboss2017.club:8080/live/waleed/waleed123/165368.m3u8
+#EXTINF:-1,EVENT DAZN CA 8 HD
+http://bigboss2017.club:8080/live/waleed/waleed123/165369.m3u8
+#EXTINF:-1,EVENT DAZN CA 9 HD
+http://bigboss2017.club:8080/live/waleed/waleed123/165370.m3u8
+#EXTINF:-1,EVENT DAZN CA 10 HD
+http://bigboss2017.club:8080/live/waleed/waleed123/165371.m3u8
+#EXTINF:-1,EVENT DAZN CA 11 HD
+http://bigboss2017.club:8080/live/waleed/waleed123/165372.m3u8
+#EXTINF:-1,EVENT DAZN CA 12 HD
+http://bigboss2017.club:8080/live/waleed/waleed123/165373.m3u8
+#EXTINF:-1,EVENT DAZN CA 1 HD
+http://bigboss2017.club:8080/live/waleed/waleed123/165374.m3u8
+#EXTINF:-1,EVENT DAZN CA 2 HD
+http://bigboss2017.club:8080/live/waleed/waleed123/165375.m3u8
+#EXTINF:-1,EVENT DAZN CA 3 HD
+http://bigboss2017.club:8080/live/waleed/waleed123/165376.m3u8
+#EXTINF:-1,EVENT DAZN CA 4 HD
+http://bigboss2017.club:8080/live/waleed/waleed123/165377.m3u8
+#EXTINF:-1,EVENT DAZN CA 5 HD
+http://bigboss2017.club:8080/live/waleed/waleed123/165378.m3u8
+#EXTINF:-1,EVENT DAZN CA 6 HD
+http://bigboss2017.club:8080/live/waleed/waleed123/165379.m3u8
+#EXTINF:-1,EVENT DAZN CA 7 HD
+http://bigboss2017.club:8080/live/waleed/waleed123/165380.m3u8
+#EXTINF:-1,EVENT DAZN CA 8 HD
+http://bigboss2017.club:8080/live/waleed/waleed123/165381.m3u8
+#EXTINF:-1,EVENT DAZN CA 9 HD
+http://bigboss2017.club:8080/live/waleed/waleed123/165382.m3u8
+#EXTINF:-1,EVENT DAZN CA 10 HD
+http://bigboss2017.club:8080/live/waleed/waleed123/165383.m3u8
+#EXTINF:-1,EVENT DAZN CA 11 HD
+http://bigboss2017.club:8080/live/waleed/waleed123/165384.m3u8
+#EXTINF:-1,EVENT DAZN CA 12 HD
+http://bigboss2017.club:8080/live/waleed/waleed123/165385.m3u8
+#EXTINF:-1,BT SPORT 1 HD
+http://bigboss2017.club:8080/live/waleed/waleed123/163386.m3u8
+#EXTINF:-1,BT SPORT 1
+http://bigboss2017.club:8080/live/waleed/waleed123/163387.m3u8
+#EXTINF:-1,BT SPORT 2 HD
+http://bigboss2017.club:8080/live/waleed/waleed123/163388.m3u8
+#EXTINF:-1,BT SPORT 2
+http://bigboss2017.club:8080/live/waleed/waleed123/163389.m3u8
+#EXTINF:-1,BT SPORT 3 HD
+http://bigboss2017.club:8080/live/waleed/waleed123/163390.m3u8
+#EXTINF:-1,BT SPORT 3
+http://bigboss2017.club:8080/live/waleed/waleed123/163391.m3u8
+#EXTINF:-1,BT SPORT ESPN HD
+http://bigboss2017.club:8080/live/waleed/waleed123/163392.m3u8
+#EXTINF:-1,BT SPORT ESPN
+http://bigboss2017.club:8080/live/waleed/waleed123/163393.m3u8
+#EXTINF:-1,BT SPORT EXTRA 1 HD UK
+http://bigboss2017.club:8080/live/waleed/waleed123/163394.m3u8
+#EXTINF:-1,BT SPORT EXTRA 2 HD UK
+http://bigboss2017.club:8080/live/waleed/waleed123/163395.m3u8
+#EXTINF:-1,BT SPORT EXTRA 3 HD UK
+http://bigboss2017.club:8080/live/waleed/waleed123/163396.m3u8
+#EXTINF:-1,BT SPORT EXTRA 4 HD UK
+http://bigboss2017.club:8080/live/waleed/waleed123/163397.m3u8
+#EXTINF:-1,BT SPORT EXTRA 5 HD UK
+http://bigboss2017.club:8080/live/waleed/waleed123/163398.m3u8
+#EXTINF:-1,BT SPORT EXTRA 6
+http://bigboss2017.club:8080/live/waleed/waleed123/163399.m3u8
+#EXTINF:-1,UKSD BT SPORT 1 SD
+http://bigboss2017.club:8080/live/waleed/waleed123/164181.m3u8
+#EXTINF:-1,BT SPORT 1 HD
+http://bigboss2017.club:8080/live/waleed/waleed123/164182.m3u8
+#EXTINF:-1,BT SPORT 1 FHD
+http://bigboss2017.club:8080/live/waleed/waleed123/164183.m3u8
+#EXTINF:-1,UKSD BT SPORT 2 SD
+http://bigboss2017.club:8080/live/waleed/waleed123/164184.m3u8
+#EXTINF:-1,BT SPORT 2 HD
+http://bigboss2017.club:8080/live/waleed/waleed123/164185.m3u8
+#EXTINF:-1,BT SPORT 2 FHD
+http://bigboss2017.club:8080/live/waleed/waleed123/164186.m3u8
+#EXTINF:-1,UKSD BT SPORT 3 SD
+http://bigboss2017.club:8080/live/waleed/waleed123/164187.m3u8
+#EXTINF:-1,BT SPORT 3 HD
+http://bigboss2017.club:8080/live/waleed/waleed123/164188.m3u8
+#EXTINF:-1,BT SPORT 3 FHD
+http://bigboss2017.club:8080/live/waleed/waleed123/164189.m3u8
+#EXTINF:-1,UKSD BT SPORT ESPN SD
+http://bigboss2017.club:8080/live/waleed/waleed123/164190.m3u8
+#EXTINF:-1,BT SPORT ESPN HD
+http://bigboss2017.club:8080/live/waleed/waleed123/164191.m3u8
+#EXTINF:-1,BT SPORT ESPN FHD
+http://bigboss2017.club:8080/live/waleed/waleed123/164192.m3u8
+#EXTINF:-1,BT SPORTS EXTRA 1 HD
+http://bigboss2017.club:8080/live/waleed/waleed123/164193.m3u8
+#EXTINF:-1,BT SPORTS EXTRA 2 HD
+http://bigboss2017.club:8080/live/waleed/waleed123/164194.m3u8
+#EXTINF:-1,BT SPORTS EXTRA 3 HD
+http://bigboss2017.club:8080/live/waleed/waleed123/164195.m3u8
+#EXTINF:-1,BT SPORTS EXTRA 4 HD
+http://bigboss2017.club:8080/live/waleed/waleed123/164196.m3u8
+#EXTINF:-1,BT SPORTS EXTRA 5 HD
+http://bigboss2017.club:8080/live/waleed/waleed123/164197.m3u8
+#EXTINF:-1,BT SPORTS EXTRA 6 HD
+http://bigboss2017.club:8080/live/waleed/waleed123/164198.m3u8
+#EXTINF:-1,DE: SKY SPORT AUSTRIA
+http://bigboss2017.club:8080/live/waleed/waleed123/155315.m3u8
+#EXTINF:-1,DE: SKY SPORT NEWS HD
+http://bigboss2017.club:8080/live/waleed/waleed123/155314.m3u8
+#EXTINF:-1,DE: SKY SPORT 1 HD
+http://bigboss2017.club:8080/live/waleed/waleed123/155313.m3u8
+#EXTINF:-1,DE: SKY SPORT 2 HD
+http://bigboss2017.club:8080/live/waleed/waleed123/155312.m3u8
+#EXTINF:-1,DE: SKY SPORT 3 HD ( DURING GAMES ONLY )
+http://bigboss2017.club:8080/live/waleed/waleed123/155311.m3u8
+#EXTINF:-1,DE: SKY SPORT 4 HD ( DURING GAMES ONLY )
+http://bigboss2017.club:8080/live/waleed/waleed123/155310.m3u8
+#EXTINF:-1,DE: SKY SPORT 5 HD  ( DURING GAMES ONLY )
+http://bigboss2017.club:8080/live/waleed/waleed123/155309.m3u8
+#EXTINF:-1,DE: SKY SPORT 6 HD ( DURING GAMES ONLY )
+http://bigboss2017.club:8080/live/waleed/waleed123/155308.m3u8
+#EXTINF:-1,DE: SKY SPORT 7 HD ( DURING GAMES ONLY )
+http://bigboss2017.club:8080/live/waleed/waleed123/155307.m3u8
+#EXTINF:-1,DE: SKY SPORT 8 HD ( DURING GAMES ONLY )
+http://bigboss2017.club:8080/live/waleed/waleed123/155306.m3u8
+#EXTINF:-1,DE: SKY SPORT 9 HD ( DURING GAMES ONLY )
+http://bigboss2017.club:8080/live/waleed/waleed123/155305.m3u8
+#EXTINF:-1,GERMANY- SKY SPORT BUNDESLIGA 1 HD DE
+http://bigboss2017.club:8080/live/waleed/waleed123/121032.m3u8
+#EXTINF:-1,GERMANY- SKY SPORT BUNDESLIGA 2 HD DE
+http://bigboss2017.club:8080/live/waleed/waleed123/121033.m3u8
+#EXTINF:-1,GERMANY- SKY SPORT BUNDESLIGA 3 HD DE
+http://bigboss2017.club:8080/live/waleed/waleed123/121034.m3u8
+#EXTINF:-1,GERMANY- SKY SPORT BUNDESLIGA 4 DE
+http://bigboss2017.club:8080/live/waleed/waleed123/121035.m3u8
+#EXTINF:-1,GERMANY- SKY SPORT BUNDESLIGA 5 DE
+http://bigboss2017.club:8080/live/waleed/waleed123/121036.m3u8
+#EXTINF:-1,GERMANY- SKY SPORT BUNDESLIGA 6 DE
+http://bigboss2017.club:8080/live/waleed/waleed123/121037.m3u8
+#EXTINF:-1,GERMANY- SKY SPORT BUNDESLIGA 7 DE
+http://bigboss2017.club:8080/live/waleed/waleed123/121038.m3u8
+#EXTINF:-1,GERMANY- SKY SPORT BUNDESLIGA 8 DE
+http://bigboss2017.club:8080/live/waleed/waleed123/121039.m3u8
+#EXTINF:-1,GERMANY- SKY SPORT BUNDESLIGA 9 DE
+http://bigboss2017.club:8080/live/waleed/waleed123/121040.m3u8
+#EXTINF:-1,GERMANY- SKY SPORT BUNDESLIGA 10 DE
+http://bigboss2017.club:8080/live/waleed/waleed123/121041.m3u8
+#EXTINF:-1,SKY SPORTS NEWS HD
+http://bigboss2017.club:8080/live/waleed/waleed123/163364.m3u8
+#EXTINF:-1,SKY SPORTS NEWS
+http://bigboss2017.club:8080/live/waleed/waleed123/163365.m3u8
+#EXTINF:-1,SKY SPORTS MAIN EVENT HD
+http://bigboss2017.club:8080/live/waleed/waleed123/163366.m3u8
+#EXTINF:-1,SKY SPORTS MAIN EVENT
+http://bigboss2017.club:8080/live/waleed/waleed123/163367.m3u8
+#EXTINF:-1,SKY SPORTS FOOTBALL HD
+http://bigboss2017.club:8080/live/waleed/waleed123/163368.m3u8
+#EXTINF:-1,SKY SPORTS FOOTBALL
+http://bigboss2017.club:8080/live/waleed/waleed123/163369.m3u8
+#EXTINF:-1,SKY SPORTS PREMIER LEAGUE HD
+http://bigboss2017.club:8080/live/waleed/waleed123/163370.m3u8
+#EXTINF:-1,SKY SPORTS PREMIER LEAGUE
+http://bigboss2017.club:8080/live/waleed/waleed123/163371.m3u8
+#EXTINF:-1,SKY SPORTS RACING HD
+http://bigboss2017.club:8080/live/waleed/waleed123/163372.m3u8
+#EXTINF:-1,SKY SPORTS RACING
+http://bigboss2017.club:8080/live/waleed/waleed123/163373.m3u8
+#EXTINF:-1,SKY SPORTS GOLF HD
+http://bigboss2017.club:8080/live/waleed/waleed123/163374.m3u8
+#EXTINF:-1,SKY SPORTS GOLF
+http://bigboss2017.club:8080/live/waleed/waleed123/163375.m3u8
+#EXTINF:-1,SKY SPORTS ARENA HD
+http://bigboss2017.club:8080/live/waleed/waleed123/163376.m3u8
+#EXTINF:-1,SKY SPORTS ARENA
+http://bigboss2017.club:8080/live/waleed/waleed123/163377.m3u8
+#EXTINF:-1,SKY SPORTS F1 HD
+http://bigboss2017.club:8080/live/waleed/waleed123/163378.m3u8
+#EXTINF:-1,SKY SPORTS F1
+http://bigboss2017.club:8080/live/waleed/waleed123/163379.m3u8
+#EXTINF:-1,SKY SPORTS MIX HD
+http://bigboss2017.club:8080/live/waleed/waleed123/163380.m3u8
+#EXTINF:-1,SKY SPORTS MIX
+http://bigboss2017.club:8080/live/waleed/waleed123/163381.m3u8
+#EXTINF:-1,SKY SPORTS NFL HD
+http://bigboss2017.club:8080/live/waleed/waleed123/163382.m3u8
+#EXTINF:-1,SKY SPORTS NFL
+http://bigboss2017.club:8080/live/waleed/waleed123/163383.m3u8
+#EXTINF:-1,SKY SPORTS CRICKET HD
+http://bigboss2017.club:8080/live/waleed/waleed123/163384.m3u8
+#EXTINF:-1,SKY SPORTS CRICKET
+http://bigboss2017.club:8080/live/waleed/waleed123/163385.m3u8
+#EXTINF:-1,SKY SPORTS RACING SD
+http://bigboss2017.club:8080/live/waleed/waleed123/164149.m3u8
+#EXTINF:-1,SKY SPORTS RACING HD
+http://bigboss2017.club:8080/live/waleed/waleed123/164150.m3u8
+#EXTINF:-1,SKY SPORTS RACING FHD
+http://bigboss2017.club:8080/live/waleed/waleed123/164151.m3u8
+#EXTINF:-1,SKY SPORTS NEWS SD
+http://bigboss2017.club:8080/live/waleed/waleed123/164152.m3u8
+#EXTINF:-1,SKY SPORTS NEWS HD
+http://bigboss2017.club:8080/live/waleed/waleed123/164153.m3u8
+#EXTINF:-1,SKY SPORTS NEWS FHD
+http://bigboss2017.club:8080/live/waleed/waleed123/164154.m3u8
+#EXTINF:-1,SKY SPORTS PREMIER LEAGUE SD
+http://bigboss2017.club:8080/live/waleed/waleed123/164155.m3u8
+#EXTINF:-1,SKY SPORTS PREMIER LEAGUE HD
+http://bigboss2017.club:8080/live/waleed/waleed123/164156.m3u8
+#EXTINF:-1,SKY SPORTS PREMIER LEAGUE FHD
+http://bigboss2017.club:8080/live/waleed/waleed123/164157.m3u8
+#EXTINF:-1,SKY SPORTS MIX SD
+http://bigboss2017.club:8080/live/waleed/waleed123/164158.m3u8
+#EXTINF:-1,SKY SPORTS MIX HD
+http://bigboss2017.club:8080/live/waleed/waleed123/164159.m3u8
+#EXTINF:-1,SKY SPORTS MIX FHD
+http://bigboss2017.club:8080/live/waleed/waleed123/164160.m3u8
+#EXTINF:-1,SKY SPORTS MAIN EVENTS SD
+http://bigboss2017.club:8080/live/waleed/waleed123/164161.m3u8
+#EXTINF:-1,SKY SPORTS MAIN EVENTS HD
+http://bigboss2017.club:8080/live/waleed/waleed123/164162.m3u8
+#EXTINF:-1,SKY SPORTS MAIN EVENT FHD
+http://bigboss2017.club:8080/live/waleed/waleed123/164163.m3u8
+#EXTINF:-1,SKY SPORTS FOOTBALL SD
+http://bigboss2017.club:8080/live/waleed/waleed123/164166.m3u8
+#EXTINF:-1,SKY SPORTS FOOTBALL HD
+http://bigboss2017.club:8080/live/waleed/waleed123/164167.m3u8
+#EXTINF:-1,SKY SPORTS FOOTBALL FHD
+http://bigboss2017.club:8080/live/waleed/waleed123/164168.m3u8
+#EXTINF:-1,SKY SPORTS F1 SD
+http://bigboss2017.club:8080/live/waleed/waleed123/164169.m3u8
+#EXTINF:-1,SKY SPORTS F1 HD
+http://bigboss2017.club:8080/live/waleed/waleed123/164170.m3u8
+#EXTINF:-1,SKY SPORTS F1 FHD
+http://bigboss2017.club:8080/live/waleed/waleed123/164171.m3u8
+#EXTINF:-1,SKY SPORTS CRICKET SD
+http://bigboss2017.club:8080/live/waleed/waleed123/164172.m3u8
+#EXTINF:-1,SKY SPORTS CRICKET HD
+http://bigboss2017.club:8080/live/waleed/waleed123/164173.m3u8
+#EXTINF:-1,SKY SPORTS CRICKET FHD
+http://bigboss2017.club:8080/live/waleed/waleed123/164174.m3u8
+#EXTINF:-1,SKY SPORTS ARENA SD
+http://bigboss2017.club:8080/live/waleed/waleed123/164175.m3u8
+#EXTINF:-1,SKY SPORTS ARENA HD
+http://bigboss2017.club:8080/live/waleed/waleed123/164176.m3u8
+#EXTINF:-1,SKY SPORTS ARENA FHD
+http://bigboss2017.club:8080/live/waleed/waleed123/164177.m3u8
+#EXTINF:-1,SKY SPORTS NFL SD
+http://bigboss2017.club:8080/live/waleed/waleed123/164178.m3u8
+#EXTINF:-1,SKY SPORTS NFL HD
+http://bigboss2017.club:8080/live/waleed/waleed123/164179.m3u8
+#EXTINF:-1,SKY SPORTS NFL FHD
+http://bigboss2017.club:8080/live/waleed/waleed123/164180.m3u8
+#EXTINF:-1,SKY SPORTS GOLF SD
+http://bigboss2017.club:8080/live/waleed/waleed123/164463.m3u8
+#EXTINF:-1,SKY SPORTS GOLF HD
+http://bigboss2017.club:8080/live/waleed/waleed123/164464.m3u8
+#EXTINF:-1,SKY SPORTS GOLF FHD
+http://bigboss2017.club:8080/live/waleed/waleed123/164465.m3u8
+#EXTINF:-1,LA: FOX SPORT
+http://bigboss2017.club:8080/live/waleed/waleed123/155628.m3u8
+#EXTINF:-1,LA: FOX SPORT 2
+http://bigboss2017.club:8080/live/waleed/waleed123/155627.m3u8
+#EXTINF:-1,USA: FOX SPORTS 1
+http://bigboss2017.club:8080/live/waleed/waleed123/137706.m3u8
+#EXTINF:-1,NEW USA: FOX SPORTSTIME OHIO
+http://bigboss2017.club:8080/live/waleed/waleed123/137386.m3u8
+#EXTINF:-1,NEW USA: FOX SPORTS WISCONSIN
+http://bigboss2017.club:8080/live/waleed/waleed123/137385.m3u8
+#EXTINF:-1,NEW USA: FOX SPORTS WEST
+http://bigboss2017.club:8080/live/waleed/waleed123/137384.m3u8
+#EXTINF:-1,NEW USA: FOX SPORTS TENNESSEE
+http://bigboss2017.club:8080/live/waleed/waleed123/137383.m3u8
+#EXTINF:-1,NEW USA: FOX SPORTS SOUTHWEST
+http://bigboss2017.club:8080/live/waleed/waleed123/137382.m3u8
+#EXTINF:-1,NEW USA: FOX SPORTS SOUTHEAST
+http://bigboss2017.club:8080/live/waleed/waleed123/137381.m3u8
+#EXTINF:-1,NEW USA: FOX SPORTS SOUTH
+http://bigboss2017.club:8080/live/waleed/waleed123/137380.m3u8
+#EXTINF:-1,NEW USA: FOX SPORTS SAN DIEGO
+http://bigboss2017.club:8080/live/waleed/waleed123/137379.m3u8
+#EXTINF:-1,NEW USA: FOX SPORTS OKLAHOMA
+http://bigboss2017.club:8080/live/waleed/waleed123/137378.m3u8
+#EXTINF:-1,NEW USA: FOX SPORTS OHIO
+http://bigboss2017.club:8080/live/waleed/waleed123/137377.m3u8
+#EXTINF:-1,NEW USA: FOX SPORTS NORTH
+http://bigboss2017.club:8080/live/waleed/waleed123/137376.m3u8
+#EXTINF:-1,NEW USA: FOX SPORTS NEW ORLEANS
+http://bigboss2017.club:8080/live/waleed/waleed123/137375.m3u8
+#EXTINF:-1,NEW USA: FOX SPORTS MIDWEST
+http://bigboss2017.club:8080/live/waleed/waleed123/137374.m3u8
+#EXTINF:-1,NEW USA: FOX SPORTS FLORIDA
+http://bigboss2017.club:8080/live/waleed/waleed123/137373.m3u8
+#EXTINF:-1,NEW USA: FOX SPORTS DETROIT
+http://bigboss2017.club:8080/live/waleed/waleed123/137372.m3u8
+#EXTINF:-1,NEW USA: FOX SPORTS CAROLINAS
+http://bigboss2017.club:8080/live/waleed/waleed123/137371.m3u8
+#EXTINF:-1,NEW USA: FOX SPORTS ARIZONA
+http://bigboss2017.club:8080/live/waleed/waleed123/137370.m3u8
+#EXTINF:-1,NEW USA: FOX SPORTS 2 FHD 1080
+http://bigboss2017.club:8080/live/waleed/waleed123/137369.m3u8
+#EXTINF:-1,NEW USA: FOX SPORTS 2
+http://bigboss2017.club:8080/live/waleed/waleed123/137368.m3u8
+#EXTINF:-1,NEW USA: FOX SPORTS 1 FHD 1080
+http://bigboss2017.club:8080/live/waleed/waleed123/137367.m3u8
+#EXTINF:-1,NEW USA: FOX SPORTS 1
+http://bigboss2017.club:8080/live/waleed/waleed123/137366.m3u8
+#EXTINF:-1,AU: FOX SPORTS 501 HD
+http://bigboss2017.club:8080/live/waleed/waleed123/134456.m3u8
+#EXTINF:-1,AU: FOX SPORTS 502 HD
+http://bigboss2017.club:8080/live/waleed/waleed123/134455.m3u8
+#EXTINF:-1,AU: FOX SPORTS 503 HD
+http://bigboss2017.club:8080/live/waleed/waleed123/134454.m3u8
+#EXTINF:-1,AU: FOX SPORTS 504 HD
+http://bigboss2017.club:8080/live/waleed/waleed123/134453.m3u8
+#EXTINF:-1,AU: FOX SPORTS 505 HD
+http://bigboss2017.club:8080/live/waleed/waleed123/134452.m3u8
+#EXTINF:-1,AU: FOX SPORTS 506 HD
+http://bigboss2017.club:8080/live/waleed/waleed123/134451.m3u8
+#EXTINF:-1,AU: FOX SPORTS NEWS
+http://bigboss2017.club:8080/live/waleed/waleed123/134450.m3u8
+#EXTINF:-1,USA: FOX SPORTS 1 FHD
+http://bigboss2017.club:8080/live/waleed/waleed123/118798.m3u8
+#EXTINF:-1,USA: FOX SPORTS 2
+http://bigboss2017.club:8080/live/waleed/waleed123/118802.m3u8
+#EXTINF:-1,FOX SPORTS NEWS (AUSTRALIA)
+http://bigboss2017.club:8080/live/waleed/waleed123/118808.m3u8
+#EXTINF:-1,CA:FOX SPORTS RACING
+http://bigboss2017.club:8080/live/waleed/waleed123/118809.m3u8
+#EXTINF:-1,NETHERLAND- FOX SPORTS 1 HD EREDIVISIE
+http://bigboss2017.club:8080/live/waleed/waleed123/118810.m3u8
+#EXTINF:-1,NETHERLAND- FOX SPORTS 2 HD
+http://bigboss2017.club:8080/live/waleed/waleed123/118811.m3u8
+#EXTINF:-1,NETHERLAND- FOX SPORTS 3 HD EREDIVISIE
+http://bigboss2017.club:8080/live/waleed/waleed123/118812.m3u8
+#EXTINF:-1,NETHERLAND- FOX SPORTS 4 HD
+http://bigboss2017.club:8080/live/waleed/waleed123/118813.m3u8
+#EXTINF:-1,NETHERLAND- FOX SPORTS 5 HD
+http://bigboss2017.club:8080/live/waleed/waleed123/118814.m3u8
+#EXTINF:-1,NETHERLAND- FOX SPORTS 6 HD
+http://bigboss2017.club:8080/live/waleed/waleed123/118815.m3u8
+#EXTINF:-1,NEW USA: FOX SPORTS SUN
+http://bigboss2017.club:8080/live/waleed/waleed123/118824.m3u8
+#EXTINF:-1,NEW USA: FOX SPORTS PRIME TICKET
+http://bigboss2017.club:8080/live/waleed/waleed123/118825.m3u8
+#EXTINF:-1,NEW USA: FOX SPORTS DEPORTES
+http://bigboss2017.club:8080/live/waleed/waleed123/118826.m3u8
+#EXTINF:-1,NL: ZIGGO SPORT SELECT
+http://bigboss2017.club:8080/live/waleed/waleed123/127286.m3u8
+#EXTINF:-1,NL: ZIGGO SPORT SELECT HD
+http://bigboss2017.club:8080/live/waleed/waleed123/127283.m3u8
+#EXTINF:-1,NL: ZIGGO SPORT VOETBAL
+http://bigboss2017.club:8080/live/waleed/waleed123/127284.m3u8
+#EXTINF:-1,ES: BEIN SPORTS ESPAA HD
+http://bigboss2017.club:8080/live/waleed/waleed123/154379.m3u8
+#EXTINF:-1,ES: BEIN SPORTS ESPAA FULLHD
+http://bigboss2017.club:8080/live/waleed/waleed123/154378.m3u8
+#EXTINF:-1,TR: BEIN SPORT 1 HD
+http://bigboss2017.club:8080/live/waleed/waleed123/154335.m3u8
+#EXTINF:-1,AR ||  BEIN SPORTS 1 HD
+http://bigboss2017.club:8080/live/waleed/waleed123/164332.m3u8
+#EXTINF:-1,AR ||  BEIN SPORTS 2 HD
+http://bigboss2017.club:8080/live/waleed/waleed123/164333.m3u8
+#EXTINF:-1,AR ||  BEIN SPORTS 3 HD
+http://bigboss2017.club:8080/live/waleed/waleed123/164334.m3u8
+#EXTINF:-1,AR ||  BEIN SPORTS 4 HD
+http://bigboss2017.club:8080/live/waleed/waleed123/164335.m3u8
+#EXTINF:-1,AR ||  BEIN SPORTS 5 HD
+http://bigboss2017.club:8080/live/waleed/waleed123/164336.m3u8
+#EXTINF:-1,AR ||  BEIN SPORTS 6 HD
+http://bigboss2017.club:8080/live/waleed/waleed123/164337.m3u8
+#EXTINF:-1,AR ||  BEIN SPORTS 7 HD
+http://bigboss2017.club:8080/live/waleed/waleed123/164338.m3u8
+#EXTINF:-1,AR ||  BEIN SPORTS 8 HD
+http://bigboss2017.club:8080/live/waleed/waleed123/164339.m3u8
+#EXTINF:-1,AR ||  BEIN SPORTS 9 HD
+http://bigboss2017.club:8080/live/waleed/waleed123/164340.m3u8
+#EXTINF:-1,AR ||  BEIN SPORTS 10 HD
+http://bigboss2017.club:8080/live/waleed/waleed123/164341.m3u8
+#EXTINF:-1,AR || BEIN SPORTS 1 ENG HD
+http://bigboss2017.club:8080/live/waleed/waleed123/164342.m3u8
+#EXTINF:-1,AR ||  BEIN SPORTS 2 ENG HD
+http://bigboss2017.club:8080/live/waleed/waleed123/164343.m3u8
+#EXTINF:-1,BEIN SPORTS 3 ENG HD
+http://bigboss2017.club:8080/live/waleed/waleed123/164344.m3u8
+#EXTINF:-1,BEIN SPORTS 14 HD (MATCH DAYS ONLY)
+http://bigboss2017.club:8080/live/waleed/waleed123/164345.m3u8
+#EXTINF:-1,BEIN SPORTS 15 HD (MATCH DAYS ONLY)
+http://bigboss2017.club:8080/live/waleed/waleed123/164346.m3u8
+#EXTINF:-1,BEIN SPORTS 11 SD
+http://bigboss2017.club:8080/live/waleed/waleed123/164347.m3u8
+#EXTINF:-1,TR:BEIN SPORTS 1
+http://bigboss2017.club:8080/live/waleed/waleed123/164349.m3u8
+#EXTINF:-1,TR:BEIN SPORTS 2
+http://bigboss2017.club:8080/live/waleed/waleed123/164350.m3u8
+#EXTINF:-1,TR:BEIN SPORTS 3
+http://bigboss2017.club:8080/live/waleed/waleed123/164351.m3u8
+#EXTINF:-1,TR:BEIN SPORTS 4
+http://bigboss2017.club:8080/live/waleed/waleed123/164352.m3u8
+#EXTINF:-1,US: BEIN SPORTS USA
+http://bigboss2017.club:8080/live/waleed/waleed123/164353.m3u8
+#EXTINF:-1,|FR| BEIN SPORT 1
+http://bigboss2017.club:8080/live/waleed/waleed123/164356.m3u8
+#EXTINF:-1,|FR| BEIN SPORT 2
+http://bigboss2017.club:8080/live/waleed/waleed123/164357.m3u8
+#EXTINF:-1,|FR| BEIN SPORT 3
+http://bigboss2017.club:8080/live/waleed/waleed123/164358.m3u8
+#EXTINF:-1,USA: TENNIS HD
+http://bigboss2017.club:8080/live/waleed/waleed123/137823.m3u8
+#EXTINF:-1,NEW USA: TENNIS CHANNEL FHD 1080
+http://bigboss2017.club:8080/live/waleed/waleed123/137599.m3u8
+#EXTINF:-1,SPORTS: SUPERSPORT TENNIS
+http://bigboss2017.club:8080/live/waleed/waleed123/164313.m3u8
+#EXTINF:-1,AF: SUPERSPORT TENNIS HD
+http://bigboss2017.club:8080/live/waleed/waleed123/164321.m3u8
+#EXTINF:-1,MX: TELEVISA DEPORTES EN VIVO
+http://bigboss2017.club:8080/live/waleed/waleed123/155679.m3u8
+#EXTINF:-1,ES: MOVISTAR DEPORTES 1
+http://bigboss2017.club:8080/live/waleed/waleed123/154413.m3u8
+#EXTINF:-1,ES: MOVISTAR DEPORTES 2
+http://bigboss2017.club:8080/live/waleed/waleed123/154412.m3u8
+#EXTINF:-1,USA: FOX DEPORTES
+http://bigboss2017.club:8080/live/waleed/waleed123/137703.m3u8
+#EXTINF:-1,NEW USA: FOX SPORTS DEPORTES
+http://bigboss2017.club:8080/live/waleed/waleed123/118826.m3u8
